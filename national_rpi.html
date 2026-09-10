@@ -142,7 +142,7 @@ const COLUMNS = [
   {key: "confRecord",  label: "Conf",            type: "rec",  sortDir: -1},
   {key: "homeRecord",  label: "Home",            type: "rec",  sortDir: -1},
   {key: "awayRecord",  label: "Away",            type: "rec",  sortDir: -1},
-  {key: "last5Record", label: "Last 5",          type: "rec",  sortDir: -1},
+  {key: "last5Record", label: "Form",            type: "rec",  sortDir: -1},
   {key: "band1_25",    label: "RPI 1-25",        type: "rec",  sortDir: -1},
   {key: "band26_50",   label: "RPI 26-50",       type: "rec",  sortDir: -1},
   {key: "band51_100",  label: "RPI 51-100",      type: "rec",  sortDir: -1},
@@ -341,7 +341,7 @@ function renderTeam(name) {
         <div class="stat-tile"><div class="v">${t.awayRecord}</div><div class="l">Away</div></div>
         <div class="stat-tile"><div class="v">${t.confRecord}</div><div class="l">Conference</div></div>
         <div class="stat-tile"><div class="v">${t.nonConfRecord}</div><div class="l">Non-Conference</div></div>
-        <div class="stat-tile"><div class="v">${renderForm(t.last5)}</div><div class="l">Last 5</div></div>
+        <div class="stat-tile"><div class="v">${renderForm(t.last5)}</div><div class="l">Form</div></div>
         <div class="stat-tile"><div class="v">${t.vsTop100}</div><div class="l">vs Top 100</div></div>
       </div>
     </div>
