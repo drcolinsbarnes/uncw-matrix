@@ -37,9 +37,10 @@
   .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
   table.nat { border-collapse: collapse; font-size: 11px; white-space: nowrap; width: 100%; }
   table.nat th, table.nat td { padding: 4px 6px; border-bottom: 1px solid var(--border); text-align: right; }
-  table.nat th:nth-child(1), table.nat td:nth-child(1) { text-align: right; }
-  table.nat th:nth-child(2), table.nat td:nth-child(2) { text-align: left; }
-  table.nat th:nth-child(3), table.nat td:nth-child(3) { text-align: left; }
+  table.nat th { text-align: center; }
+  table.nat td:nth-child(2) { text-align: left; }
+  table.nat td:nth-child(3) { text-align: left; }
+  table.nat td:nth-child(10), table.nat td:nth-child(11) { text-align: center; }
   table.nat thead th {
     position: sticky; top: 0; background: var(--navy); color: #fff; font-weight: 600;
     cursor: pointer; user-select: none; z-index: 2; white-space: nowrap;
@@ -136,7 +137,7 @@ const COLUMNS = [
   {key: "oppWinPct",   label: "Opp Win%",        type: "pct",  sortDir: -1},
   {key: "oppOppWinPct",label: "Opp Opp Win%",    type: "pct",  sortDir: -1},
   {key: "rpiTotal",    label: "RPI",             type: "pct",  sortDir: -1},
-  {key: "rpiAdjusted", label: "Adjusted RPI",    type: "pct",  sortDir: -1},
+  {key: "rpiAdjusted", label: "Adj RPI",    type: "pct",  sortDir: -1},
   {key: "confRank",    label: "Con Rk",          type: "num",  sortDir: 1},
   {key: "nonConfRecord", label: "NonCon",        type: "rec",  sortDir: -1},
   {key: "confRecord",  label: "Conf",            type: "rec",  sortDir: -1},
@@ -285,7 +286,7 @@ function renderTable() {
       <td>${fmtPct(t.winPct)}</td><td>${fmtPct(t.oppWinPct)}</td><td>${fmtPct(t.oppOppWinPct)}</td>
       <td>${fmtPct(t.rpiTotal)}</td>
       <td title="${fmtAdjustmentTitle(t.rpiAdjustment)}">${fmtPct(t.rpiAdjusted)}</td>
-      <td>${t.confRank ? `${t.confRank}/${t.confTotal}` : "—"}</td>
+      <td>${t.confRank ?? "—"}</td>
       <td>${t.nonConfRecord}</td><td>${t.confRecord}</td><td>${t.homeRecord}</td><td>${t.awayRecord}</td><td>${renderForm(t.last5)}</td>
       <td>${t.band1_25}</td><td>${t.band26_50}</td><td>${t.band51_100}</td><td>${t.band101plus}</td>
       <td>${t.vsTop100}</td><td>${t.vsBelow150}</td>
