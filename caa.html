@@ -13,14 +13,79 @@
   <nav class="app-sidebar" id="app-sidebar"></nav>
   <main class="app-main">
     <h1 class="page-title">CAA</h1>
-    <p class="sub">South, North, and Overall conference standings.</p>
-    <div class="coming-soon">
-      <div class="emoji">🏆</div>
-      <h2>Coming soon</h2>
-      <p>This page is next up in the site rebuild. In the meantime, the CAA standings tables are still on the <a href="index.html">classic dashboard</a>.</p>
-    </div>
+    <p class="sub" id="caa-sub">Loading conference standings&hellip;</p>
+
+    <div class="table-label">South</div>
+    <div class="scroll-wrap"><table class="std" id="south-table"></table></div>
+
+    <div class="table-label" style="margin-top:16px;">North</div>
+    <div class="scroll-wrap"><table class="std" id="north-table"></table></div>
+
+    <div class="table-label" style="margin-top:16px;">Overall</div>
+    <div class="scroll-wrap"><table class="std" id="overall-table"></table></div>
   </main>
 </div>
 <script src="sidebar.js"></script>
+<script>
+// CAA_STANDINGS_START
+const CAA_STANDINGS = {"south": [{"name": "UNC Wilmington", "division": "South", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "natName": "UNC Wilmington", "liveRpi": 0.5893, "liveRpiRank": 59, "liveRpiGp": 8, "liveRpiTotal": 342, "overall": "5-0-3", "overallPct": 0.8125, "overallW": 5, "liveSos": 159, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 1}, {"name": "Elon", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png", "natName": "Elon", "liveRpi": 0.4523, "liveRpiRank": 213, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "4-1-2", "overallPct": 0.7142857142857143, "overallW": 4, "liveSos": 204, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 2}, {"name": "Campbell", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png", "natName": "Campbell", "liveRpi": 0.486, "liveRpiRank": 167, "liveRpiGp": 9, "liveRpiTotal": 342, "overall": "3-4-2", "overallPct": 0.4444444444444444, "overallW": 3, "liveSos": 183, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 3}, {"name": "Charleston", "division": "South", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/College_of_Charleston_Cougars_logo.svg/120px-College_of_Charleston_Cougars_logo.svg.png", "natName": "College of Charleston", "liveRpi": 0.4816, "liveRpiRank": 172, "liveRpiGp": 9, "liveRpiTotal": 342, "overall": "3-4-2", "overallPct": 0.4444444444444444, "overallW": 3, "liveSos": 175, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 4}, {"name": "Hampton", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png", "natName": "Hampton University", "liveRpi": 0.3385, "liveRpiRank": 322, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "1-4-1", "overallPct": 0.25, "overallW": 1, "liveSos": 210, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 5}, {"name": "William & Mary", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png", "natName": "William & Mary", "liveRpi": 0.3998, "liveRpiRank": 276, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "0-4-2", "overallPct": 0.16666666666666666, "overallW": 0, "liveSos": 167, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 6}], "north": [{"name": "Stony Brook", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png", "natName": "Stony Brook", "liveRpi": 0.5189, "liveRpiRank": 131, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "3-0-3", "overallPct": 0.75, "overallW": 3, "liveSos": 191, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 1}, {"name": "Monmouth", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png", "natName": "Monmouth", "liveRpi": 0.5406, "liveRpiRank": 101, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "4-1-2", "overallPct": 0.7142857142857143, "overallW": 4, "liveSos": 171, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 2}, {"name": "Drexel", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png", "natName": "Drexel", "liveRpi": 0.5025, "liveRpiRank": 152, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "4-2-1", "overallPct": 0.6428571428571429, "overallW": 4, "liveSos": 189, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 3}, {"name": "Towson", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/119.png", "natName": "Towson", "liveRpi": 0.5074, "liveRpiRank": 144, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "3-2-2", "overallPct": 0.5714285714285714, "overallW": 3, "liveSos": 174, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 4}, {"name": "Northeastern", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/111.png", "natName": "Northeastern", "liveRpi": 0.4522, "liveRpiRank": 214, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "2-3-2", "overallPct": 0.42857142857142855, "overallW": 2, "liveSos": 150, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 5}, {"name": "Hofstra", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png", "natName": "Hofstra", "liveRpi": 0.4513, "liveRpiRank": 215, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "1-4-1", "overallPct": 0.25, "overallW": 1, "liveSos": 165, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 6}], "overall": [{"name": "UNC Wilmington", "division": "South", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "natName": "UNC Wilmington", "liveRpi": 0.5893, "liveRpiRank": 59, "liveRpiGp": 8, "liveRpiTotal": 342, "overall": "5-0-3", "overallPct": 0.8125, "overallW": 5, "liveSos": 159, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 1}, {"name": "Stony Brook", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png", "natName": "Stony Brook", "liveRpi": 0.5189, "liveRpiRank": 131, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "3-0-3", "overallPct": 0.75, "overallW": 3, "liveSos": 191, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 2}, {"name": "Elon", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png", "natName": "Elon", "liveRpi": 0.4523, "liveRpiRank": 213, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "4-1-2", "overallPct": 0.7142857142857143, "overallW": 4, "liveSos": 204, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 3}, {"name": "Monmouth", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png", "natName": "Monmouth", "liveRpi": 0.5406, "liveRpiRank": 101, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "4-1-2", "overallPct": 0.7142857142857143, "overallW": 4, "liveSos": 171, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 4}, {"name": "Drexel", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png", "natName": "Drexel", "liveRpi": 0.5025, "liveRpiRank": 152, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "4-2-1", "overallPct": 0.6428571428571429, "overallW": 4, "liveSos": 189, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 5}, {"name": "Towson", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/119.png", "natName": "Towson", "liveRpi": 0.5074, "liveRpiRank": 144, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "3-2-2", "overallPct": 0.5714285714285714, "overallW": 3, "liveSos": 174, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 6}, {"name": "Campbell", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png", "natName": "Campbell", "liveRpi": 0.486, "liveRpiRank": 167, "liveRpiGp": 9, "liveRpiTotal": 342, "overall": "3-4-2", "overallPct": 0.4444444444444444, "overallW": 3, "liveSos": 183, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 7}, {"name": "Charleston", "division": "South", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/College_of_Charleston_Cougars_logo.svg/120px-College_of_Charleston_Cougars_logo.svg.png", "natName": "College of Charleston", "liveRpi": 0.4816, "liveRpiRank": 172, "liveRpiGp": 9, "liveRpiTotal": 342, "overall": "3-4-2", "overallPct": 0.4444444444444444, "overallW": 3, "liveSos": 175, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 8}, {"name": "Northeastern", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/111.png", "natName": "Northeastern", "liveRpi": 0.4522, "liveRpiRank": 214, "liveRpiGp": 7, "liveRpiTotal": 342, "overall": "2-3-2", "overallPct": 0.42857142857142855, "overallW": 2, "liveSos": 150, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 9}, {"name": "Hampton", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png", "natName": "Hampton University", "liveRpi": 0.3385, "liveRpiRank": 322, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "1-4-1", "overallPct": 0.25, "overallW": 1, "liveSos": 210, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 10}, {"name": "Hofstra", "division": "North", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png", "natName": "Hofstra", "liveRpi": 0.4513, "liveRpiRank": 215, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "1-4-1", "overallPct": 0.25, "overallW": 1, "liveSos": 165, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 11}, {"name": "William & Mary", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png", "natName": "William & Mary", "liveRpi": 0.3998, "liveRpiRank": 276, "liveRpiGp": 6, "liveRpiTotal": 342, "overall": "0-4-2", "overallPct": 0.16666666666666666, "overallW": 0, "liveSos": 167, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 12}]};
+// CAA_STANDINGS_END
+
+// Same isolation practice as home.html: this page's own render logic is
+// wrapped in try/catch (on top of sidebar.js already being its own
+// <script> tag), so a data problem here degrades to a friendly message
+// instead of taking anything else down.
+try {
+  const S = CAA_STANDINGS;
+  const hasData = S && (S.south?.length || S.north?.length || S.overall?.length);
+  document.getElementById("caa-sub").textContent = hasData
+    ? "South, North, and Overall conference standings."
+    : "No standings data yet.";
+
+  function renderTable(elId, teams, opts) {
+    opts = opts || {};
+    const el = document.getElementById(elId);
+    if (!el) return;
+    if (!teams || !teams.length) {
+      el.outerHTML = '<p class="note">No teams to show.</p>';
+      return;
+    }
+    const sosHdr = opts.showSOS
+      ? '<th class="num" title="Average current RPI rank of every opponent on the full schedule. Lower = tougher.">SOS</th>'
+      : "";
+    const liveHdr = '<th class="num" title="National rank by current-season RPI. 1 = best. Early-season ranks are based on very few games.">RPI</th>';
+    el.innerHTML = `<thead><tr>
+        <th class="num">Rk</th><th></th><th>Team</th><th class="num">P</th><th class="num">W</th>
+        <th class="num">L</th><th class="num">D</th><th class="num">GF</th><th class="num">GA</th>
+        <th class="num">GD</th><th class="num">Pts</th>${liveHdr}${sosHdr}<th>Overall</th>
+      </tr></thead><tbody></tbody>`;
+    const tbody = el.querySelector("tbody");
+    teams.forEach(t => {
+      const tr = document.createElement("tr");
+      if (t.name === "UNC Wilmington") tr.className = "uncw-row";
+      const sosCell = opts.showSOS ? `<td class="num">${t.liveSos != null ? t.liveSos : "—"}</td>` : "";
+      const liveCell = t.liveRpiRank != null
+        ? `<td class="num" title="RPI ${t.liveRpi != null ? t.liveRpi.toFixed(4) : "?"} — ${t.liveRpiGp} game${t.liveRpiGp === 1 ? "" : "s"} played so far this season -- provisional.">${t.liveRpiRank}</td>`
+        : `<td class="num">—</td>`;
+      const stHref = `national_rpi.html#/team/${encodeURIComponent(t.natName || t.name)}`;
+      const nameCell = `<a class="team-link" href="${stHref}" title="${t.name} — full national schedule &amp; RPI detail">${t.name}</a>`;
+      tr.innerHTML = `<td class="num">${t.rank}</td>
+        <td>${t.logo ? `<img class="logo" src="${t.logo}" onerror="this.style.visibility='hidden'">` : ""}</td>
+        <td>${nameCell}</td><td class="num">${t.played}</td><td class="num">${t.w}</td><td class="num">${t.l}</td>
+        <td class="num">${t.d}</td><td class="num">${t.gf}</td><td class="num">${t.ga}</td>
+        <td class="num">${t.gd > 0 ? "+" : ""}${t.gd}</td>
+        <td class="num">${t.pts}</td>${liveCell}${sosCell}<td>${t.overall}</td>`;
+      tbody.appendChild(tr);
+    });
+  }
+
+  renderTable("south-table", S.south);
+  renderTable("north-table", S.north);
+  renderTable("overall-table", S.overall, {showSOS: true});
+} catch (e) {
+  console.error("CAA page failed to render:", e);
+  document.getElementById("caa-sub").textContent = "Couldn't load standings (see browser console).";
+}
+</script>
 </body>
 </html>
