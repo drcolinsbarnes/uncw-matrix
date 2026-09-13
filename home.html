@@ -6,7 +6,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="sidebar.css">
+<link rel="stylesheet" href="sidebar.css?v=2">
 <style>
   .snapshot-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; max-width: 760px; margin-bottom: 8px; }
   .snapshot-row .metric .label { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
@@ -59,10 +59,10 @@
     <div class="leaders-row" id="leaders-row"></div>
   </main>
 </div>
-<script src="sidebar.js"></script>
+<script src="sidebar.js?v=2"></script>
 <script>
 // HOME_SUMMARY_START
-const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-3", "rpi": {"value": 0.5893, "rank": 59, "gp": 8, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "nextFixture": {"date": "2026-09-10", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "rpi": 51, "opponentRecord": "4-3-0"}, "lastResult": {"date": "2026-09-06", "opponent": "High Point", "result": "Win", "fullTimeScore": "4-2", "venue": "Home", "hasStats": true}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06"};
+const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-3", "rpi": {"value": 0.5815, "rank": 64, "gp": 8, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "nextFixture": {"date": "2026-09-10", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "rpi": 51, "opponentRecord": "4-3-0"}, "lastResult": {"date": "2026-09-06", "opponent": "High Point", "result": "Win", "fullTimeScore": "4-2", "venue": "Home", "hasStats": true}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06"};
 // HOME_SUMMARY_END
 
 // This whole render is wrapped in try/catch, same isolation practice
