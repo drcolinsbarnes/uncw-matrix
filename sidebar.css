@@ -10,7 +10,8 @@
   --bg: #f5f7f8; --card: #ffffff; --border: #d8e0e4; --text: #12242f; --muted: #5c7280;
   --win: #e2f0ee; --win-text: #00524c; --loss: #fbeaea; --loss-text: #7a2222;
   --pending: #eef3f4; --off: #eef3f4; --off-text: #93a6ae;
-  --sidebar-w: 210px;
+  --sidebar-w: 190px;
+  --sidebar-w-collapsed: 68px;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
@@ -25,15 +26,32 @@ body {
   width: var(--sidebar-w); flex: 0 0 var(--sidebar-w);
   background: var(--navy); color: #eaf1f4;
   display: flex; flex-direction: column;
-  position: sticky; top: 0; height: 100vh; overflow-y: auto;
+  position: sticky; top: 0; height: 100vh; overflow-y: auto; overflow-x: hidden;
 }
-.app-sidebar .brand {
-  display: flex; align-items: center; gap: 8px;
-  padding: 18px 16px 14px; border-bottom: 1px solid rgba(255,255,255,0.12);
+/* Icon-only mode -- toggled by the sidebar-toggle button in sidebar.js,
+   persisted per-browser via localStorage so it survives page-to-page
+   navigation across this multi-file site. */
+.app-sidebar.icons-only { width: var(--sidebar-w-collapsed); flex: 0 0 var(--sidebar-w-collapsed); }
+
+.app-sidebar .sidebar-header {
+  display: flex; align-items: center; justify-content: space-between; gap: 6px;
+  padding: 16px 14px 14px; border-bottom: 1px solid rgba(255,255,255,0.12);
 }
-.app-sidebar .brand img { width: 30px; height: 30px; object-fit: contain; }
-.app-sidebar .brand .name { font-size: 13px; font-weight: 700; line-height: 1.25; }
+.app-sidebar.icons-only .sidebar-header { flex-direction: column; justify-content: center; padding: 14px 6px; gap: 10px; }
+
+.app-sidebar .brand { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.app-sidebar .brand img { width: 44px; height: 44px; object-fit: contain; flex-shrink: 0; }
+.app-sidebar .brand .name { font-size: 13px; font-weight: 700; line-height: 1.25; min-width: 0; }
 .app-sidebar .brand .name small { display: block; font-weight: 400; font-size: 10px; color: #a9c0cb; }
+.app-sidebar.icons-only .brand .name { display: none; }
+
+.app-sidebar .sidebar-toggle {
+  flex: 0 0 auto; width: 24px; height: 24px; border-radius: 6px; padding: 0;
+  border: 1px solid rgba(255,255,255,0.25); background: rgba(255,255,255,0.08);
+  color: #cfe0e7; cursor: pointer; font-size: 11px; line-height: 1;
+  display: flex; align-items: center; justify-content: center;
+}
+.app-sidebar .sidebar-toggle:hover { background: rgba(255,255,255,0.2); color: #ffffff; }
 
 .app-sidebar nav.nav-items { display: flex; flex-direction: column; padding: 10px 0; flex: 1; }
 .app-sidebar .nav-item {
@@ -42,21 +60,29 @@ body {
   color: #cfe0e7; text-decoration: none; border-left: 3px solid transparent;
   white-space: nowrap;
 }
-.app-sidebar .nav-item .emoji { font-size: 16px; width: 20px; text-align: center; }
+.app-sidebar .nav-item .emoji { font-size: 16px; width: 20px; text-align: center; flex-shrink: 0; }
 .app-sidebar .nav-item:hover { background: rgba(255,255,255,0.06); color: #ffffff; }
 .app-sidebar .nav-item.active {
   background: rgba(0, 118, 128, 0.35); color: #ffffff;
   border-left-color: var(--yellow); font-weight: 700;
 }
+.app-sidebar.icons-only .nav-item { justify-content: center; padding: 12px 6px; }
+.app-sidebar.icons-only .nav-item .label { display: none; }
+
 .app-sidebar .nav-footer {
   padding: 10px 16px 16px; border-top: 1px solid rgba(255,255,255,0.12);
 }
 .app-sidebar .nav-footer .legacy-link {
-  display: block; font-size: 11px; color: #8fa6b1; text-decoration: none;
+  display: flex; align-items: center; gap: 6px;
+  font-size: 11px; color: #8fa6b1; text-decoration: none;
   margin-bottom: 4px;
 }
 .app-sidebar .nav-footer .legacy-link:hover { color: #cfe0e7; text-decoration: underline; }
 .app-sidebar .nav-footer .build-note { font-size: 10px; color: #6f8994; }
+.app-sidebar.icons-only .nav-footer { padding: 10px 6px 14px; text-align: center; }
+.app-sidebar.icons-only .nav-footer .legacy-link { justify-content: center; }
+.app-sidebar.icons-only .nav-footer .legacy-link .label { display: none; }
+.app-sidebar.icons-only .nav-footer .build-note { display: none; }
 
 .app-main { flex: 1; min-width: 0; padding: 24px 28px 40px; }
 
@@ -95,15 +121,27 @@ table.std td a.team-link:hover { text-decoration: underline; }
 
 @media (max-width: 760px) {
   .app-layout { flex-direction: column; }
-  .app-sidebar {
+  /* Icon-only mode only matters on the desktop vertical sidebar -- at this
+     width the sidebar is already a compact horizontal bar, so it always
+     renders full (icons + labels) and the toggle button is hidden,
+     regardless of the saved preference. */
+  .app-sidebar, .app-sidebar.icons-only {
     width: 100%; flex: 0 0 auto; position: sticky; top: 0; height: auto;
     flex-direction: row; align-items: center; overflow-x: auto; overflow-y: hidden;
     z-index: 10;
   }
-  .app-sidebar .brand { border-bottom: none; border-right: 1px solid rgba(255,255,255,0.12); flex: 0 0 auto; }
+  .app-sidebar .sidebar-header, .app-sidebar.icons-only .sidebar-header {
+    border-bottom: none; border-right: 1px solid rgba(255,255,255,0.12);
+    flex: 0 0 auto; flex-direction: row; justify-content: flex-start; padding: 10px 12px;
+  }
+  .app-sidebar.icons-only .brand .name { display: block; }
+  .app-sidebar .sidebar-toggle { display: none; }
   .app-sidebar nav.nav-items { flex-direction: row; padding: 0; }
-  .app-sidebar .nav-item { border-left: none; border-bottom: 3px solid transparent; padding: 12px 12px; }
+  .app-sidebar .nav-item, .app-sidebar.icons-only .nav-item {
+    border-left: none; border-bottom: 3px solid transparent; padding: 12px 12px; justify-content: flex-start;
+  }
   .app-sidebar .nav-item.active { border-left-color: transparent; border-bottom-color: var(--yellow); }
+  .app-sidebar.icons-only .nav-item .label { display: inline; }
   .app-sidebar .nav-footer { display: none; }
   .app-main { padding: 18px 16px 32px; }
 }
