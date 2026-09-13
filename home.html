@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Home — UNCW Women's Soccer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="sidebar.css">
+<style>
+  .snapshot-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; max-width: 760px; margin-bottom: 8px; }
+  .snapshot-row .metric .label { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  .snapshot-row .metric .value { font-size: 20px; font-weight: 700; color: var(--navy); }
+  .snapshot-row .metric .value.small { font-size: 15px; }
+
+  .home-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 8px; }
+  .home-row .card { flex: 1; min-width: 260px; }
+  .home-row .card h3 { margin: 0 0 8px; font-size: 13px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.4px; }
+  .fixture-line { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
+  .fixture-line .opp { font-size: 16px; font-weight: 700; color: var(--navy); }
+  .fixture-line .date { font-size: 12px; color: var(--muted); }
+  .fixture-meta { font-size: 12px; color: var(--muted); line-height: 1.6; }
+  .result-badge { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 10px; border-radius: 12px; margin-right: 8px; }
+  .result-badge.Win { background: var(--win); color: var(--win-text); }
+  .result-badge.Loss { background: var(--loss); color: var(--loss-text); }
+  .result-badge.Draw { background: var(--off); color: var(--off-text); }
+  .result-score { font-size: 20px; font-weight: 700; color: var(--navy); }
+
+  .leaders-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; max-width: 760px; }
+  .leaders-row .card .lbl { font-size: 11px; color: var(--muted); margin-bottom: 4px; }
+  .leaders-row .card .nm { font-size: 15px; font-weight: 700; color: var(--navy); }
+  .leaders-row .card .val { font-size: 12px; color: var(--muted); }
+  .leaders-note { font-size: 11px; color: var(--muted); margin-top: 6px; }
+</style>
+</head>
+<body data-page="home">
+<div class="app-layout">
+  <nav class="app-sidebar" id="app-sidebar"></nav>
+  <main class="app-main">
+    <h1 class="page-title">Home</h1>
+    <p class="sub" id="home-sub">Loading season snapshot&hellip;</p>
+
+    <div class="snapshot-row" id="snapshot-row"></div>
+
+    <h2 class="section-title">This Week</h2>
+    <div class="home-row">
+      <div class="card accent-top">
+        <h3>Next Fixture</h3>
+        <div id="next-fixture-body">&mdash;</div>
+      </div>
+      <div class="card accent-top">
+        <h3>Last Result</h3>
+        <div id="last-result-body">&mdash;</div>
+      </div>
+    </div>
+
+    <h2 class="section-title">Team Leaders</h2>
+    <p class="note">A preview of the full Squad leaderboards, coming soon.</p>
+    <div class="leaders-row" id="leaders-row"></div>
+  </main>
+</div>
+<script src="sidebar.js"></script>
+<script>
+// HOME_SUMMARY_START
+const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-3", "rpi": {"value": 0.5893, "rank": 59, "gp": 8, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "nextFixture": {"date": "2026-09-10", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "rpi": 51, "opponentRecord": "4-3-0"}, "lastResult": {"date": "2026-09-06", "opponent": "High Point", "result": "Win", "fullTimeScore": "4-2", "venue": "Home", "hasStats": true}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06"};
+// HOME_SUMMARY_END
+
+// This whole render is wrapped in try/catch, same isolation practice
+// adopted after the 2026-09-12 Match Center outage -- a data problem here
+// should degrade to a friendly message, never break the sidebar or the
+// rest of the page (which, since sidebar.js is its own separate <script>
+// tag, it structurally cannot do anyway -- but the try/catch also keeps
+// this page's OWN sections from taking each other down).
+try {
+  const h = HOME_SUMMARY;
+  if (!h || !h.team) {
+    document.getElementById("home-sub").textContent = "No season data yet.";
+  } else {
+    document.getElementById("home-sub").textContent =
+      `${h.team} — 2026 season` + (h.asOf ? ` · through ${h.asOf}` : "");
+
+    const snap = document.getElementById("snapshot-row");
+    const rpiText = h.rpi && h.rpi.rank != null
+      ? `#${h.rpi.rank} <span class="value small">of ${h.rpi.total}</span>`
+      : "—";
+    const caaText = h.caaStanding
+      ? `#${h.caaStanding.rank} <span class="value small">of ${h.caaStanding.of} (${h.caaStanding.division})</span>`
+      : "—";
+    snap.innerHTML = `
+      <div class="card accent-top metric"><div class="label">Overall Record</div><div class="value">${h.record || "—"}</div></div>
+      <div class="card accent-top metric"><div class="label">National RPI Rank</div><div class="value">${rpiText}</div></div>
+      <div class="card accent-top metric"><div class="label">CAA Standing</div><div class="value">${caaText}</div></div>
+    `;
+
+    const nf = h.nextFixture;
+    document.getElementById("next-fixture-body").innerHTML = nf ? `
+      <div class="fixture-line"><span class="opp">vs ${nf.opponent}</span><span class="date">${nf.date}</span></div>
+      <div class="fixture-meta">
+        ${nf.venue}${nf.city ? " · " + nf.city : ""}<br>
+        Opponent RPI: ${nf.rpi != null ? "#" + nf.rpi : "—"} &middot; Opponent record: ${nf.opponentRecord || "—"}
+      </div>
+    ` : `<p class="note">No upcoming fixture on file.</p>`;
+
+    const lr = h.lastResult;
+    document.getElementById("last-result-body").innerHTML = lr ? `
+      <div class="fixture-line">
+        <span><span class="result-badge ${lr.result}">${lr.result}</span><span class="result-score">${lr.fullTimeScore}</span></span>
+        <span class="date">${lr.date}</span>
+      </div>
+      <div class="fixture-meta">vs ${lr.opponent} &middot; ${lr.venue}
+        ${lr.hasStats ? "" : '<br><span style="color:var(--muted);">Match Center detail not yet tagged</span>'}
+      </div>
+    ` : `<p class="note">No result on file yet.</p>`;
+
+    const leaders = document.getElementById("leaders-row");
+    if (h.leaders && h.leaders.length) {
+      leaders.innerHTML = h.leaders.map(l => `
+        <div class="card">
+          <div class="lbl">${l.label}</div>
+          <div class="nm">${l.name}</div>
+          <div class="val">${l.value}</div>
+        </div>
+      `).join("");
+    } else {
+      leaders.innerHTML = `<p class="note">No leaderboard data yet.</p>`;
+    }
+  }
+} catch (e) {
+  console.error("Home page failed to render:", e);
+  document.getElementById("home-sub").textContent = "Couldn't load season data (see browser console).";
+}
+</script>
+</body>
+</html>
