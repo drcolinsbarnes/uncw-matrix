@@ -6,21 +6,424 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="sidebar.css">
+<link rel="stylesheet" href="sidebar.css?v=2">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<style>
+  /* Trends dashboard */
+  .trend-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 8px; }
+  .trend-card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px 6px; flex: 1; min-width: 260px; }
+  .trend-card h3 { margin: 0 0 8px; font-size: 13px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.4px; }
+  .trend-card canvas { max-height: 160px; }
+  .form-row { display: flex; gap: 6px; align-items: center; padding: 8px 0 4px; }
+  .form-badge { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; }
+  .form-badge.Win { background: var(--win); color: var(--win-text); }
+  .form-badge.Loss { background: var(--loss); color: var(--loss-text); }
+  .form-badge.Draw { background: var(--off); color: var(--off-text); }
+
+  /* Schedule table */
+  table.std tr.sched-row-clickable { cursor: pointer; }
+  table.std tr.sched-row-clickable:hover td { background: rgba(0, 118, 128, 0.10) !important; }
+  table.std tr.sched-row-selected td { background: rgba(243, 227, 137, 0.35) !important; }
+  .result-badge { display: inline-block; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 10px; }
+  .result-badge.Win { background: var(--win); color: var(--win-text); }
+  .result-badge.Loss { background: var(--loss); color: var(--loss-text); }
+  .result-badge.Draw { background: var(--off); color: var(--off-text); }
+
+  /* Match Center (ported from the classic dashboard, uncw_schedule_matrix_v5.html) */
+  .mc-header { display: flex; align-items: center; gap: 18px; background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; flex-wrap: wrap; }
+  .mc-header .mc-result { font-size: 13px; font-weight: 700; padding: 3px 10px; border-radius: 12px; }
+  .mc-header .mc-result.Win { background: var(--win); color: var(--win-text); }
+  .mc-header .mc-result.Loss { background: var(--loss); color: var(--loss-text); }
+  .mc-header .mc-result.Draw { background: var(--off); color: var(--off-text); }
+  .mc-header .mc-score { font-size: 22px; font-weight: 700; color: var(--navy); }
+  .mc-header .mc-meta { font-size: 12px; color: var(--muted); }
+  .mc-header select { font-family: inherit; font-size: 13px; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--card); color: var(--text); margin-left: auto; }
+  table.mc-compare { border-collapse: collapse; font-size: 12px; background: var(--card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; width: 100%; }
+  table.mc-compare th { background: var(--navy); color: #fff; font-weight: 600; padding: 6px 8px; }
+  table.mc-compare th.mc-us, table.mc-compare th.mc-opp { width: 70px; text-align: center; }
+  table.mc-compare td { padding: 5px 8px; border-bottom: 1px solid var(--border); font-size: 12px; }
+  table.mc-compare tr:last-child td { border-bottom: none; }
+  table.mc-compare td.mc-us, table.mc-compare td.mc-opp { text-align: center; font-weight: 600; width: 70px; }
+  table.mc-compare td.mc-us.mc-lead, table.mc-compare td.mc-opp.mc-lead { color: var(--teal); }
+  table.mc-compare td.mc-label { color: var(--muted); }
+  table.mc-compare tr:nth-child(even) td { background: rgba(0, 118, 128, 0.05); }
+  .mc-chart-wrap { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px 6px; }
+  .mc-chart-wrap canvas { max-height: 220px; }
+  .mc-chart-legend { display: flex; gap: 16px; font-size: 12px; color: var(--muted); margin-top: 6px; }
+  .mc-chart-legend b { color: var(--text); }
+</style>
 </head>
 <body data-page="fixtures">
 <div class="app-layout">
   <nav class="app-sidebar" id="app-sidebar"></nav>
   <main class="app-main">
     <h1 class="page-title">Fixtures</h1>
-    <p class="sub">The full schedule, with venue/score/opponent context, season trends, and a drill-down into each match's Match Center detail.</p>
-    <div class="coming-soon">
-      <div class="emoji">📅</div>
-      <h2>Coming soon</h2>
-      <p>In the meantime, the schedule matrix and Match Center are still on the <a href="index.html">classic dashboard</a>.</p>
+    <p class="sub" id="fixtures-sub">Loading schedule&hellip;</p>
+
+    <h2 class="section-title">Trends</h2>
+    <div class="trend-row">
+      <div class="trend-card">
+        <h3>Form (last 5)</h3>
+        <div class="form-row" id="trend-form"></div>
+      </div>
+      <div class="trend-card">
+        <h3>Goals scored/conceded</h3>
+        <canvas id="trend-goals-chart"></canvas>
+      </div>
+      <div class="trend-card">
+        <h3>RPI rank</h3>
+        <canvas id="trend-rpi-chart"></canvas>
+      </div>
+      <div class="trend-card">
+        <h3>Match Flow</h3>
+        <canvas id="trend-flow-chart"></canvas>
+      </div>
+    </div>
+
+    <h2 class="section-title">Schedule</h2>
+    <p class="note">Click a played, tagged match to jump to its Match Center detail below.</p>
+    <div class="scroll-wrap"><table class="std" id="schedule-table"></table></div>
+
+    <h2 class="section-title">Match Center</h2>
+    <p class="note" id="mc-note"></p>
+    <div class="mc-header" id="mc-header"></div>
+    <div class="tables-row">
+      <div style="flex:1;min-width:260px;">
+        <div class="table-label">Match Statistics</div>
+        <table class="mc-compare" id="mc-stats-table"></table>
+      </div>
+      <div style="flex:1;min-width:260px;">
+        <div class="table-label">Match Objectives</div>
+        <table class="mc-compare" id="mc-objectives-table"></table>
+      </div>
+    </div>
+    <div class="tables-row">
+      <div class="mc-chart-wrap" style="flex:1;min-width:280px;">
+        <div style="font-weight:600;font-size:13px;">Match Flow</div>
+        <canvas id="mc-flow-chart"></canvas>
+        <div class="mc-chart-legend" id="mc-flow-legend"></div>
+      </div>
+      <div class="mc-chart-wrap" style="flex:1;min-width:280px;">
+        <div style="font-weight:600;font-size:13px;">xG Flow</div>
+        <canvas id="mc-xg-chart"></canvas>
+        <div class="mc-chart-legend" id="mc-xg-legend"></div>
+      </div>
     </div>
   </main>
 </div>
-<script src="sidebar.js"></script>
+<script src="sidebar.js?v=2"></script>
+<script>
+// FIXTURES_SUMMARY_START
+const FIXTURES_SUMMARY = {"team": "UNC Wilmington", "schedule": [{"date": "2026-08-05", "type": "Exhibition", "opponent": "The Citadel", "venue": "Away", "city": "Charleston, SC", "ownScore": 3.0, "oppScore": 1.0, "fullTimeScore": "3-1", "result": "Win", "opponentRpiRank": 325, "opponentRecord": null, "played": true, "hasStats": true}, {"date": "2026-08-08", "type": "Exhibition", "opponent": "LSU", "venue": "Home", "city": "Wilmington, NC", "ownScore": 3.0, "oppScore": 2.0, "fullTimeScore": "3-2", "result": "Win", "opponentRpiRank": 16, "opponentRecord": null, "played": true, "hasStats": true}, {"date": "2026-08-13", "type": "Non-Conference", "opponent": "App. State", "venue": "Away", "city": "Boone, NC", "ownScore": 3.0, "oppScore": 0.0, "fullTimeScore": "3-0", "result": "Win", "opponentRpiRank": 130, "opponentRecord": "5-1-2", "played": true, "hasStats": true}, {"date": "2026-08-16", "type": "Non-Conference", "opponent": "Western Carolina", "venue": "Away", "city": "Cullowhee, NC", "ownScore": 2.0, "oppScore": 1.0, "fullTimeScore": "2-1", "result": "Win", "opponentRpiRank": 112, "opponentRecord": null, "played": true, "hasStats": true}, {"date": "2026-08-20", "type": "Non-Conference", "opponent": "Old Dominion", "venue": "Home", "city": "Wilmington, NC", "ownScore": 2.0, "oppScore": 1.0, "fullTimeScore": "2-1", "result": "Win", "opponentRpiRank": 52, "opponentRecord": "2-4-0", "played": true, "hasStats": true}, {"date": "2026-08-23", "type": "Non-Conference", "opponent": "GA Southern", "venue": "Away", "city": "Statesboro, GA", "ownScore": 1.0, "oppScore": 1.0, "fullTimeScore": "1-1", "result": "Draw", "opponentRpiRank": 213, "opponentRecord": "5-1-2", "played": true, "hasStats": true}, {"date": "2026-08-27", "type": "Non-Conference", "opponent": "VCU", "venue": "Home", "city": "Wilmington, NC", "ownScore": 0.0, "oppScore": 0.0, "fullTimeScore": "1-1", "result": "Draw", "opponentRpiRank": 164, "opponentRecord": "0-5-3", "played": true, "hasStats": false}, {"date": "2026-09-03", "type": "Non-Conference", "opponent": "ECU", "venue": "Home", "city": "Wilmington, NC", "ownScore": 0.0, "oppScore": 0.0, "fullTimeScore": "0-0", "result": "Draw", "opponentRpiRank": 145, "opponentRecord": "1-2-5", "played": true, "hasStats": true}, {"date": "2026-09-06", "type": "Non-Conference", "opponent": "High Point", "venue": "Home", "city": "Wilmington, NC", "ownScore": 4.0, "oppScore": 2.0, "fullTimeScore": "4-2", "result": "Win", "opponentRpiRank": 269, "opponentRecord": "1-6-1", "played": true, "hasStats": true}, {"date": "2026-09-10", "type": "Non-Conference", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 51, "opponentRecord": "4-3-0", "played": false, "hasStats": false}, {"date": "2026-09-13", "type": "Non-Conference", "opponent": "Coastal Carolina", "venue": "Home", "city": "Wilmington, NC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 165, "opponentRecord": "5-2-0", "played": false, "hasStats": false}, {"date": "2026-09-20", "type": "Coastal Athletic Association", "opponent": "Hampton", "venue": "Away", "city": "Hampton, VA", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 340, "opponentRecord": "1-4-1", "played": false, "hasStats": false}, {"date": "2026-09-24", "type": "Coastal Athletic Association", "opponent": "Monmouth", "venue": "Home", "city": "Wilmington, NC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 138, "opponentRecord": "4-1-2", "played": false, "hasStats": false}, {"date": "2026-09-27", "type": "Coastal Athletic Association", "opponent": "Northeastern", "venue": "Home", "city": "Wilmington, NC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 217, "opponentRecord": "2-3-2", "played": false, "hasStats": false}, {"date": "2026-10-03", "type": "Coastal Athletic Association", "opponent": "Elon", "venue": "Home", "city": "Wilmington, NC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 129, "opponentRecord": "4-1-2", "played": false, "hasStats": false}, {"date": "2026-10-08", "type": "Coastal Athletic Association", "opponent": "Towson", "venue": "Away", "city": "Baltimore, MD", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 238, "opponentRecord": "3-2-2", "played": false, "hasStats": false}, {"date": "2026-10-11", "type": "Coastal Athletic Association", "opponent": "Drexel", "venue": "Away", "city": "Philadelphia, PA", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 289, "opponentRecord": "4-2-1", "played": false, "hasStats": false}, {"date": "2026-10-18", "type": "Coastal Athletic Association", "opponent": "Charleston", "venue": "Away", "city": "Charleston, SC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 149, "opponentRecord": "3-4-2", "played": false, "hasStats": false}, {"date": "2026-10-25", "type": "Coastal Athletic Association", "opponent": "William & Mary", "venue": "Away", "city": "Williamsburg, VA", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 166, "opponentRecord": "0-4-2", "played": false, "hasStats": false}, {"date": "2026-11-01", "type": "Coastal Athletic Association", "opponent": "Campbell", "venue": "Home", "city": "Wilmington, NC", "ownScore": NaN, "oppScore": NaN, "fullTimeScore": NaN, "result": null, "opponentRpiRank": 252, "opponentRecord": "3-4-2", "played": false, "hasStats": false}], "trends": {"form": ["Win", "Draw", "Draw", "Draw", "Win"], "goals": [{"date": "2026-08-05", "gf": 3.0, "ga": 1.0}, {"date": "2026-08-08", "gf": 3.0, "ga": 2.0}, {"date": "2026-08-13", "gf": 3.0, "ga": 0.0}, {"date": "2026-08-16", "gf": 2.0, "ga": 1.0}, {"date": "2026-08-20", "gf": 2.0, "ga": 1.0}, {"date": "2026-08-23", "gf": 1.0, "ga": 1.0}, {"date": "2026-08-27", "gf": 0.0, "ga": 0.0}, {"date": "2026-09-03", "gf": 0.0, "ga": 0.0}, {"date": "2026-09-06", "gf": 4.0, "ga": 2.0}], "rpi": [{"date": "2026-08-05", "rank": null}, {"date": "2026-08-08", "rank": null}, {"date": "2026-08-13", "rank": 63}, {"date": "2026-08-16", "rank": 21}, {"date": "2026-08-20", "rank": 20}, {"date": "2026-08-23", "rank": 19}, {"date": "2026-08-27", "rank": 56}, {"date": "2026-09-03", "rank": 97}, {"date": "2026-09-06", "rank": 88}], "flow": [{"date": "2026-08-05", "value": 94.35}, {"date": "2026-08-08", "value": 73.15}, {"date": "2026-08-13", "value": 56.75}, {"date": "2026-08-16", "value": 103.55}, {"date": "2026-08-20", "value": 73.85}, {"date": "2026-08-23", "value": 84.65}, {"date": "2026-09-03", "value": 111.45}, {"date": "2026-09-06", "value": 101.75}]}};
+// FIXTURES_SUMMARY_END
+
+// MATCH_CENTER_START
+const MATCH_CENTER = {"season": "Fall 2026", "matches": [{"date": "2026-08-05", "type": "Exhibition", "opponent": "The Citadel", "venue": "Away", "city": "Charleston, SC", "halftimeScore": "2-0", "fullTimeScore": "3-1", "teamGoal": 3.0, "opponentGoal": 1.0, "result": "Win", "rpi": 325, "played": true, "stats": {"us": {"goals": 3, "xG": 3.594, "shotsTotal": 17, "shotsOn": 8, "shotsOff": 7, "shotsBlocked": 2, "saves": 1, "corners": 6, "throwInPct": 52.4, "yellow": 0, "red": 0, "dzEntries": 35, "ropDzEntries": 25, "foulsConceded": 9}, "opp": {"goals": 1, "xG": 0.393, "shotsTotal": 1, "shotsOn": 2, "shotsOff": 3, "shotsBlocked": 0, "saves": 5, "corners": 0, "throwInPct": 36.4, "yellow": 1, "red": 0, "dzEntries": 6, "ropDzEntries": 4, "foulsConceded": 8}}, "objectives": {"us": {"faceUp": 74, "win2": 43.0, "dzDribble": 7, "dzPass": 7, "dzCross": 9, "dzSetPiece": 10, "dzShot": 0, "creativeActions": 0, "switches": 22, "firstContact": 15, "secondBalls": 11, "clearances": 3, "blockShots": 0, "blockCrosses": 0, "doubleDowns": 11, "professionalFouls": 1, "attHalfFoulsEarned": 6, "attHalfRegain": 23, "defHalfLostBall": 17}, "opp": {"faceUp": 41, "win2": 22.0, "dzDribble": 1, "dzPass": 2, "dzCross": 1, "dzSetPiece": 2, "dzShot": 0, "creativeActions": 0, "switches": 8, "firstContact": 11, "secondBalls": 7, "clearances": 13, "blockShots": 2, "blockCrosses": 5, "doubleDowns": 4, "professionalFouls": 1, "attHalfFoulsEarned": 1, "attHalfRegain": 17, "defHalfLostBall": 23}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 24.35, 43.55, 53.75, 70.0, 86.0, 94.35], "opp": [0.0, 2.75, 6.45, 8.9, 12.1, 14.2, 22.65]}, "xgFlow": {"us": {"minutes": [0, 6.0, 6.0, 8.0, 13.0, 15.0, 23.0, 29.0, 31.0, 33.0, 35.0, 43.0, 49.0, 52.0, 58.0, 63.0, 69.0, 81.0], "values": [0.0, 0.017, 0.472, 0.682, 0.682, 0.778, 1.186, 1.9, 2.402, 2.596, 2.628, 2.673, 2.673, 2.757, 3.063, 3.271, 3.455, 3.594]}, "opp": {"minutes": [0, 4.0, 19.0, 46.0, 80.0, 88.0], "values": [0.0, 0.046, 0.115, 0.169, 0.373, 0.393]}}}, {"date": "2026-08-08", "type": "Exhibition", "opponent": "LSU", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": "3-0", "fullTimeScore": "3-2", "teamGoal": 3.0, "opponentGoal": 2.0, "result": "Win", "rpi": 16, "played": true, "stats": {"us": {"goals": 3, "xG": 2.617, "shotsTotal": 12, "shotsOn": 5, "shotsOff": 3, "shotsBlocked": 4, "saves": 1, "corners": 6, "throwInPct": 36.4, "yellow": 0, "red": 0, "dzEntries": 28, "ropDzEntries": 20, "foulsConceded": 14}, "opp": {"goals": 2, "xG": 0.679, "shotsTotal": 8, "shotsOn": 3, "shotsOff": 2, "shotsBlocked": 3, "saves": 2, "corners": 1, "throwInPct": 24.2, "yellow": 1, "red": 0, "dzEntries": 14, "ropDzEntries": 10, "foulsConceded": 20}}, "objectives": {"us": {"faceUp": 41, "win2": 21.0, "dzDribble": 0, "dzPass": 5, "dzCross": 8, "dzSetPiece": 8, "dzShot": 0, "creativeActions": 3, "switches": 13, "firstContact": 17, "secondBalls": 14, "clearances": 11, "blockShots": 3, "blockCrosses": 0, "doubleDowns": 6, "professionalFouls": 0, "attHalfFoulsEarned": 1, "attHalfRegain": 24, "defHalfLostBall": 20}, "opp": {"faceUp": 41, "win2": 20.0, "dzDribble": 1, "dzPass": 5, "dzCross": 3, "dzSetPiece": 4, "dzShot": 0, "creativeActions": 1, "switches": 4, "firstContact": 20, "secondBalls": 8, "clearances": 15, "blockShots": 4, "blockCrosses": 2, "doubleDowns": 3, "professionalFouls": 0, "attHalfFoulsEarned": 3, "attHalfRegain": 20, "defHalfLostBall": 24}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 13.2, 38.85, 60.5, 66.1, 70.25, 73.15], "opp": [0.0, 3.05, 7.35, 9.6, 13.05, 22.85, 34.7]}, "xgFlow": {"us": {"minutes": [0, 6.0, 6.0, 10.0, 15.0, 18.0, 19.0, 23.0, 25.0, 36.0, 36.0, 41.0, 45.0], "values": [0.0, 0.0, 0.116, 0.241, 0.241, 0.593, 0.737, 1.37, 1.745, 1.821, 2.617, 2.617, 2.617]}, "opp": {"minutes": [0, 16.0, 27.0, 46.0, 67.0, 72.0, 81.0, 83.0], "values": [0.0, 0.0, 0.0, 0.244, 0.416, 0.585, 0.585, 0.679]}}}, {"date": "2026-08-13", "type": "Non-Conference", "opponent": "App. State", "venue": "Away", "city": "Boone, NC", "halftimeScore": "1-0", "fullTimeScore": "3-0", "teamGoal": 3.0, "opponentGoal": 0.0, "result": "Win", "rpi": 130, "played": true, "stats": {"us": {"goals": 3, "xG": 3.027, "shotsTotal": 12, "shotsOn": 6, "shotsOff": 5, "shotsBlocked": 1, "saves": 3, "corners": 3, "throwInPct": 29.0, "yellow": 0, "red": 0, "dzEntries": 19, "ropDzEntries": 15, "foulsConceded": 12}, "opp": {"goals": 0, "xG": 1.701, "shotsTotal": 8, "shotsOn": 3, "shotsOff": 4, "shotsBlocked": 1, "saves": 3, "corners": 4, "throwInPct": 23.1, "yellow": 2, "red": 0, "dzEntries": 23, "ropDzEntries": 15, "foulsConceded": 11}}, "objectives": {"us": {"faceUp": 56, "win2": 30.0, "dzDribble": 6, "dzPass": 4, "dzCross": 3, "dzSetPiece": 4, "dzShot": 0, "creativeActions": 3, "switches": 14, "firstContact": 16, "secondBalls": 15, "clearances": 19, "blockShots": 1, "blockCrosses": 4, "doubleDowns": 3, "professionalFouls": 0, "attHalfFoulsEarned": 3, "attHalfRegain": 8, "defHalfLostBall": 25}, "opp": {"faceUp": 31, "win2": 19.0, "dzDribble": 3, "dzPass": 6, "dzCross": 4, "dzSetPiece": 8, "dzShot": 0, "creativeActions": 0, "switches": 7, "firstContact": 22, "secondBalls": 13, "clearances": 11, "blockShots": 2, "blockCrosses": 2, "doubleDowns": 2, "professionalFouls": 0, "attHalfFoulsEarned": 6, "attHalfRegain": 25, "defHalfLostBall": 8}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 5.15, 16.65, 19.65, 27.45, 43.25, 56.75], "opp": [0.0, 7.15, 7.95, 17.35, 33.25, 40.9, 47.05]}, "xgFlow": {"us": {"minutes": [0, 16.0, 21.0, 22.0, 37.0, 56.0, 67.0, 80.0, 80.0, 84.0, 87.0, 88.0, 89.0], "values": [0.0, 0.344, 0.509, 0.675, 0.675, 1.425, 1.497, 1.936, 2.842, 2.904, 2.944, 3.0, 3.027]}, "opp": {"minutes": [0, 7.0, 32.0, 38.0, 46.0, 46.0, 46.0, 56.0, 58.0, 60.0], "values": [0.0, 0.068, 0.091, 0.091, 0.356, 0.356, 1.106, 1.385, 1.573, 1.701]}}}, {"date": "2026-08-16", "type": "Non-Conference", "opponent": "Western Carolina", "venue": "Away", "city": "Cullowhee, NC", "halftimeScore": "2-1", "fullTimeScore": "2-1", "teamGoal": 2.0, "opponentGoal": 1.0, "result": "Win", "rpi": 112, "played": true, "stats": {"us": {"goals": 2, "xG": 2.986, "shotsTotal": 3, "shotsOn": 7, "shotsOff": 7, "shotsBlocked": 5, "saves": 4, "corners": 8, "throwInPct": 66.7, "yellow": 1, "red": 0, "dzEntries": 47, "ropDzEntries": 35, "foulsConceded": 7}, "opp": {"goals": 1, "xG": 1.194, "shotsTotal": 3, "shotsOn": 5, "shotsOff": 2, "shotsBlocked": 0, "saves": 5, "corners": 5, "throwInPct": 29.6, "yellow": 1, "red": 0, "dzEntries": 10, "ropDzEntries": 6, "foulsConceded": 10}}, "objectives": {"us": {"faceUp": 82, "win2": 30.0, "dzDribble": 12, "dzPass": 2, "dzCross": 13, "dzSetPiece": 12, "dzShot": 2, "creativeActions": 1, "switches": 16, "firstContact": 22, "secondBalls": 15, "clearances": 7, "blockShots": 2, "blockCrosses": 2, "doubleDowns": 4, "professionalFouls": 1, "attHalfFoulsEarned": 4, "attHalfRegain": 26, "defHalfLostBall": 20}, "opp": {"faceUp": 39, "win2": 19.0, "dzDribble": 1, "dzPass": 2, "dzCross": 3, "dzSetPiece": 4, "dzShot": 0, "creativeActions": 0, "switches": 7, "firstContact": 16, "secondBalls": 11, "clearances": 23, "blockShots": 5, "blockCrosses": 3, "doubleDowns": 0, "professionalFouls": 0, "attHalfFoulsEarned": 0, "attHalfRegain": 20, "defHalfLostBall": 26}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 16.8, 35.6, 52.6, 68.15, 80.4, 103.55], "opp": [0.0, 13.3, 18.6, 24.45, 26.7, 29.15, 34.45]}, "xgFlow": {"us": {"minutes": [0, 1.0, 6.0, 8.0, 17.0, 19.0, 25.0, 34.0, 58.0, 60.0, 62.0, 62.0, 70.0, 77.0, 84.0, 88.0, 89.0], "values": [0.0, 0.296, 0.473, 0.653, 0.806, 0.977, 1.154, 1.37, 1.617, 1.791, 1.868, 2.048, 2.291, 2.468, 2.62, 2.792, 2.986]}, "opp": {"minutes": [0, 8.0, 9.0, 13.0, 21.0, 44.0, 59.0], "values": [0.0, 0.273, 0.603, 0.758, 0.851, 1.011, 1.194]}}}, {"date": "2026-08-20", "type": "Non-Conference", "opponent": "Old Dominion", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": "1-1", "fullTimeScore": "2-1", "teamGoal": 2.0, "opponentGoal": 1.0, "result": "Win", "rpi": 52, "played": true, "stats": {"us": {"goals": 2, "xG": 1.061, "shotsTotal": 6, "shotsOn": 4, "shotsOff": 2, "shotsBlocked": 0, "saves": 5, "corners": 2, "throwInPct": 39.5, "yellow": 0, "red": 0, "dzEntries": 34, "ropDzEntries": 21, "foulsConceded": 7}, "opp": {"goals": 1, "xG": 2.603, "shotsTotal": 13, "shotsOn": 6, "shotsOff": 6, "shotsBlocked": 1, "saves": 2, "corners": 2, "throwInPct": 45.7, "yellow": 1, "red": 0, "dzEntries": 25, "ropDzEntries": 13, "foulsConceded": 12}}, "objectives": {"us": {"faceUp": 42, "win2": 34.0, "dzDribble": 6, "dzPass": 2, "dzCross": 10, "dzSetPiece": 13, "dzShot": 0, "creativeActions": 3, "switches": 4, "firstContact": 22, "secondBalls": 23, "clearances": 17, "blockShots": 1, "blockCrosses": 2, "doubleDowns": 6, "professionalFouls": 0, "attHalfFoulsEarned": 3, "attHalfRegain": 21, "defHalfLostBall": 10}, "opp": {"faceUp": 34, "win2": 19.0, "dzDribble": 2, "dzPass": 8, "dzCross": 3, "dzSetPiece": 12, "dzShot": 0, "creativeActions": 0, "switches": 7, "firstContact": 27, "secondBalls": 13, "clearances": 26, "blockShots": 0, "blockCrosses": 2, "doubleDowns": 2, "professionalFouls": 1, "attHalfFoulsEarned": 0, "attHalfRegain": 10, "defHalfLostBall": 21}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 15.45, 22.5, 31.7, 50.75, 58.25, 73.85], "opp": [0.0, 7.05, 14.95, 25.9, 37.0, 46.45, 52.8]}, "xgFlow": {"us": {"minutes": [0, 35.0, 39.0, 53.0, 58.0, 70.0, 77.0], "values": [0.0, 0.069, 0.299, 0.373, 0.419, 0.468, 1.061]}, "opp": {"minutes": [0, 9.0, 14.0, 19.0, 23.0, 23.0, 28.0, 38.0, 39.0, 60.0, 60.0, 66.0, 84.0, 88.0], "values": [0.0, 0.266, 0.421, 0.604, 0.967, 1.152, 1.197, 1.269, 1.326, 1.639, 2.207, 2.357, 2.559, 2.603]}}}, {"date": "2026-08-23", "type": "Non-Conference", "opponent": "GA Southern", "venue": "Away", "city": "Statesboro, GA", "halftimeScore": "0-1", "fullTimeScore": "1-1", "teamGoal": 1.0, "opponentGoal": 1.0, "result": "Draw", "rpi": 213, "played": true, "stats": {"us": {"goals": 1, "xG": 1.139, "shotsTotal": 8, "shotsOn": 2, "shotsOff": 5, "shotsBlocked": 1, "saves": 2, "corners": 5, "throwInPct": 55.6, "yellow": 1, "red": 0, "dzEntries": 34, "ropDzEntries": 25, "foulsConceded": 10}, "opp": {"goals": 1, "xG": 1.099, "shotsTotal": 10, "shotsOn": 3, "shotsOff": 4, "shotsBlocked": 3, "saves": 1, "corners": 2, "throwInPct": 46.7, "yellow": 0, "red": 0, "dzEntries": 27, "ropDzEntries": 20, "foulsConceded": 16}}, "objectives": {"us": {"faceUp": 100, "win2": 55.0, "dzDribble": 7, "dzPass": 7, "dzCross": 10, "dzSetPiece": 9, "dzShot": 0, "creativeActions": 0, "switches": 9, "firstContact": 25, "secondBalls": 21, "clearances": 17, "blockShots": 3, "blockCrosses": 2, "doubleDowns": 9, "professionalFouls": 0, "attHalfFoulsEarned": 4, "attHalfRegain": 29, "defHalfLostBall": 29}, "opp": {"faceUp": 33, "win2": 15.0, "dzDribble": 6, "dzPass": 6, "dzCross": 7, "dzSetPiece": 7, "dzShot": 0, "creativeActions": 0, "switches": 8, "firstContact": 17, "secondBalls": 10, "clearances": 17, "blockShots": 1, "blockCrosses": 2, "doubleDowns": 1, "professionalFouls": 1, "attHalfFoulsEarned": 1, "attHalfRegain": 29, "defHalfLostBall": 29}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 11.05, 23.1, 39.55, 57.7, 73.65, 84.65], "opp": [0.0, 11.0, 17.0, 22.85, 28.5, 39.25, 47.1]}, "xgFlow": {"us": {"minutes": [0, 14.0, 40.0, 45.0, 51.0, 52.0, 65.0, 70.0, 89.0], "values": [0.0, 0.144, 0.26, 0.313, 0.426, 0.84, 0.905, 0.905, 1.139]}, "opp": {"minutes": [0, 16.0, 23.0, 32.0, 37.0, 55.0, 72.0, 75.0, 75.0, 75.0, 77.0], "values": [0.0, 0.045, 0.148, 0.16, 0.91, 0.939, 0.975, 0.975, 0.975, 0.975, 1.099]}}}, {"date": "2026-08-27", "type": "Non-Conference", "opponent": "VCU", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": "1-1", "fullTimeScore": "1-1", "teamGoal": 0.0, "opponentGoal": 0.0, "result": "Draw", "rpi": 164, "played": true}, {"date": "2026-09-03", "type": "Non-Conference", "opponent": "ECU", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": "0-0", "fullTimeScore": "0-0", "teamGoal": 0.0, "opponentGoal": 0.0, "result": "Draw", "rpi": 145, "played": true, "stats": {"us": {"goals": 0, "xG": 0.0, "shotsTotal": 19, "shotsOn": 6, "shotsOff": 6, "shotsBlocked": 7, "saves": 2, "corners": 10, "throwInPct": 28.6, "yellow": 0, "red": 0, "dzEntries": 51, "ropDzEntries": 38, "foulsConceded": 12}, "opp": {"goals": 0, "xG": 0.0, "shotsTotal": 6, "shotsOn": 2, "shotsOff": 2, "shotsBlocked": 2, "saves": 6, "corners": 4, "throwInPct": 24.1, "yellow": 1, "red": 0, "dzEntries": 12, "ropDzEntries": 5, "foulsConceded": 12}}, "objectives": {"us": {"faceUp": 69, "win2": 39.0, "dzDribble": 3, "dzPass": 9, "dzCross": 19, "dzSetPiece": 13, "dzShot": 3, "creativeActions": 1, "switches": 13, "firstContact": 33, "secondBalls": 19, "clearances": 9, "blockShots": 2, "blockCrosses": 1, "doubleDowns": 9, "professionalFouls": 0, "attHalfFoulsEarned": 1, "attHalfRegain": 33, "defHalfLostBall": 15}, "opp": {"faceUp": 33, "win2": 23.0, "dzDribble": 1, "dzPass": 2, "dzCross": 2, "dzSetPiece": 7, "dzShot": 0, "creativeActions": 0, "switches": 3, "firstContact": 13, "secondBalls": 10, "clearances": 25, "blockShots": 6, "blockCrosses": 1, "doubleDowns": 2, "professionalFouls": 1, "attHalfFoulsEarned": 3, "attHalfRegain": 15, "defHalfLostBall": 33}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 16.3, 30.9, 43.3, 62.5, 86.25, 111.45], "opp": [0.0, 2.75, 4.85, 13.9, 17.55, 23.4, 28.6]}, "xgFlow": {"us": {"minutes": [0], "values": [0.0]}, "opp": {"minutes": [0], "values": [0.0]}}}, {"date": "2026-09-06", "type": "Non-Conference", "opponent": "High Point", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": "2-1", "fullTimeScore": "4-2", "teamGoal": 4.0, "opponentGoal": 2.0, "result": "Win", "rpi": 269, "played": true, "stats": {"us": {"goals": 4, "xG": 7.891, "shotsTotal": 12, "shotsOn": 6, "shotsOff": 4, "shotsBlocked": 2, "saves": 0, "corners": 5, "throwInPct": 41.2, "yellow": 2, "red": 0, "dzEntries": 36, "ropDzEntries": 28, "foulsConceded": 9}, "opp": {"goals": 2, "xG": 3.107, "shotsTotal": 7, "shotsOn": 2, "shotsOff": 4, "shotsBlocked": 1, "saves": 2, "corners": 3, "throwInPct": 15.8, "yellow": 0, "red": 0, "dzEntries": 13, "ropDzEntries": 10, "foulsConceded": 8}}, "objectives": {"us": {"faceUp": 94, "win2": 51.0, "dzDribble": 4, "dzPass": 8, "dzCross": 10, "dzSetPiece": 8, "dzShot": 1, "creativeActions": 2, "switches": 26, "firstContact": 22, "secondBalls": 13, "clearances": 7, "blockShots": 1, "blockCrosses": 3, "doubleDowns": 3, "professionalFouls": 0, "attHalfFoulsEarned": 2, "attHalfRegain": 43, "defHalfLostBall": 14}, "opp": {"faceUp": 33, "win2": 14.0, "dzDribble": 3, "dzPass": 3, "dzCross": 2, "dzSetPiece": 3, "dzShot": 1, "creativeActions": 0, "switches": 2, "firstContact": 18, "secondBalls": 14, "clearances": 18, "blockShots": 2, "blockCrosses": 1, "doubleDowns": 3, "professionalFouls": 0, "attHalfFoulsEarned": 1, "attHalfRegain": 14, "defHalfLostBall": 43}}, "matchFlow": {"minutes": [0, 15, 30, 45, 60, 75, 90], "us": [0.0, 20.2, 40.0, 45.8, 69.1, 85.1, 101.75], "opp": [0.0, 7.45, 10.6, 15.3, 20.25, 24.25, 35.75]}, "xgFlow": {"us": {"minutes": [0, 2.0, 4.0, 5.0, 10.0, 11.0, 11.0, 16.0, 21.0, 21.0, 26.0, 32.0, 39.0, 46.0, 48.0, 52.0, 52.0, 54.0, 57.0, 62.0, 65.0, 68.0, 69.0, 75.0, 76.0, 77.0, 80.0, 82.0, 86.0, 88.0, 90.0, 90.0], "values": [0.0, 0.168, 0.412, 0.585, 0.757, 1.434, 1.604, 2.084, 2.319, 2.518, 2.577, 2.745, 2.944, 3.259, 3.746, 3.911, 4.398, 4.57, 4.623, 4.784, 5.027, 5.652, 6.231, 6.376, 6.541, 6.729, 7.033, 7.138, 7.329, 7.524, 7.678, 7.891]}, "opp": {"minutes": [0, 6.0, 27.0, 36.0, 37.0, 38.0, 62.0, 64.0, 76.0, 80.0, 80.0, 82.0, 86.0, 88.0], "values": [0.0, 0.272, 0.498, 0.777, 0.885, 1.021, 1.112, 1.448, 1.617, 1.786, 2.515, 2.761, 2.933, 3.107]}}}, {"date": "2026-09-10", "type": "Non-Conference", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 51, "played": false}, {"date": "2026-09-13", "type": "Non-Conference", "opponent": "Coastal Carolina", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 165, "played": false}, {"date": "2026-09-20", "type": "Coastal Athletic Association", "opponent": "Hampton", "venue": "Away", "city": "Hampton, VA", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 340, "played": false}, {"date": "2026-09-24", "type": "Coastal Athletic Association", "opponent": "Monmouth", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 138, "played": false}, {"date": "2026-09-27", "type": "Coastal Athletic Association", "opponent": "Northeastern", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 217, "played": false}, {"date": "2026-10-03", "type": "Coastal Athletic Association", "opponent": "Elon", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 129, "played": false}, {"date": "2026-10-08", "type": "Coastal Athletic Association", "opponent": "Towson", "venue": "Away", "city": "Baltimore, MD", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 238, "played": false}, {"date": "2026-10-11", "type": "Coastal Athletic Association", "opponent": "Drexel", "venue": "Away", "city": "Philadelphia, PA", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 289, "played": false}, {"date": "2026-10-18", "type": "Coastal Athletic Association", "opponent": "Charleston", "venue": "Away", "city": "Charleston, SC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 149, "played": false}, {"date": "2026-10-25", "type": "Coastal Athletic Association", "opponent": "William & Mary", "venue": "Away", "city": "Williamsburg, VA", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 166, "played": false}, {"date": "2026-11-01", "type": "Coastal Athletic Association", "opponent": "Campbell", "venue": "Home", "city": "Wilmington, NC", "halftimeScore": NaN, "fullTimeScore": NaN, "teamGoal": NaN, "opponentGoal": NaN, "result": null, "rpi": 252, "played": false}]};
+// MATCH_CENTER_END
+
+// Same isolation practice as every other page since the v3.10 outage:
+// the trends dashboard, the schedule table, and Match Center are each
+// wrapped in their own try/catch below, so a problem in one can't take
+// down the others -- on top of sidebar.js already being a separate
+// <script> tag that nothing here can affect.
+
+function fmtDate(iso) {
+  const d = new Date(iso + "T12:00:00");
+  return d.toLocaleDateString("en-US", {month: "short", day: "numeric"});
+}
+
+// ---- Trends dashboard ----
+try {
+  const T = FIXTURES_SUMMARY.trends || {};
+  document.getElementById("fixtures-sub").textContent = FIXTURES_SUMMARY.team
+    ? `${FIXTURES_SUMMARY.team} — full ${MATCH_CENTER.season || "season"} schedule.`
+    : "No schedule data yet.";
+
+  const formRow = document.getElementById("trend-form");
+  if (T.form && T.form.length) {
+    formRow.innerHTML = T.form.map(r => `<div class="form-badge ${r}" title="${r}">${r[0]}</div>`).join("");
+  } else {
+    formRow.innerHTML = `<p class="note" style="margin:0;">No results yet.</p>`;
+  }
+
+  function lineChart(canvasId, labels, datasets, opts) {
+    opts = opts || {};
+    const canvas = document.getElementById(canvasId);
+    const fallbackId = canvasId + "-fallback";
+    let fallback = document.getElementById(fallbackId);
+    if (typeof Chart === "undefined") {
+      if (canvas) canvas.hidden = true;
+      if (!fallback && canvas) {
+        fallback = document.createElement("div");
+        fallback.id = fallbackId;
+        fallback.style.cssText = "text-align:center;color:var(--muted);font-size:12px;padding:20px 4px;";
+        fallback.textContent = "Chart library didn't load -- try refreshing the page.";
+        canvas.insertAdjacentElement("afterend", fallback);
+      }
+      return null;
+    }
+    if (!labels.length) {
+      if (canvas) canvas.hidden = true;
+      if (!fallback && canvas) {
+        fallback = document.createElement("div");
+        fallback.id = fallbackId;
+        fallback.style.cssText = "text-align:center;color:var(--muted);font-size:12px;padding:20px 4px;";
+        fallback.textContent = "No data yet.";
+        canvas.insertAdjacentElement("afterend", fallback);
+      }
+      return null;
+    }
+    if (canvas) canvas.hidden = false;
+    if (fallback) fallback.hidden = true;
+    const ctx = canvas.getContext("2d");
+    return new Chart(ctx, {
+      type: "line",
+      data: {labels: labels, datasets: datasets},
+      options: Object.assign({
+        responsive: true, maintainAspectRatio: true, aspectRatio: 1.8,
+        plugins: {legend: {display: datasets.length > 1, labels: {font: {size: 10}}}},
+        scales: {
+          x: {ticks: {font: {size: 9}}},
+          y: {ticks: {font: {size: 9}}, beginAtZero: !opts.reverseY},
+        },
+      }, opts.chartOptions || {}),
+    });
+  }
+
+  lineChart("trend-goals-chart", (T.goals || []).map(g => fmtDate(g.date)), [
+    {label: "GF", data: (T.goals || []).map(g => g.gf), borderColor: "#007680", backgroundColor: "#007680", tension: 0.15},
+    {label: "GA", data: (T.goals || []).map(g => g.ga), borderColor: "#c0392b", backgroundColor: "#c0392b", tension: 0.15},
+  ]);
+
+  lineChart("trend-rpi-chart", (T.rpi || []).map(r => fmtDate(r.date)), [
+    {label: "RPI rank", data: (T.rpi || []).map(r => r.rank), borderColor: "#003366", backgroundColor: "#003366", tension: 0.15, spanGaps: true},
+  ], {reverseY: true, chartOptions: {scales: {y: {reverse: true, ticks: {font: {size: 9}}}}}});
+
+  lineChart("trend-flow-chart", (T.flow || []).map(f => fmtDate(f.date)), [
+    {label: "Match Flow", data: (T.flow || []).map(f => f.value), borderColor: "#007680", backgroundColor: "#007680", tension: 0.15},
+  ]);
+} catch (e) {
+  console.error("Fixtures trends failed to render:", e);
+  document.getElementById("fixtures-sub").textContent = "Couldn't load trends (see browser console).";
+}
+
+// ---- Schedule table ----
+try {
+  const rows = FIXTURES_SUMMARY.schedule || [];
+  const el = document.getElementById("schedule-table");
+  if (!rows.length) {
+    el.outerHTML = '<p class="note">No schedule data yet.</p>';
+  } else {
+    el.innerHTML = `<thead><tr>
+        <th>Date</th><th>Type</th><th>Opponent</th><th>Venue</th><th>Score</th>
+        <th>Result</th><th class="num">Opp RPI</th><th>Opp Record</th>
+      </tr></thead><tbody></tbody>`;
+    const tbody = el.querySelector("tbody");
+    rows.forEach(g => {
+      const tr = document.createElement("tr");
+      tr.dataset.date = g.date;
+      if (g.hasStats) {
+        tr.className = "sched-row-clickable";
+        tr.title = "Click to view Match Center detail";
+        tr.addEventListener("click", () => selectMatch(g.date));
+      }
+      const resultCell = g.played
+        ? `<span class="result-badge ${g.result}">${g.result}</span>`
+        : `<span class="note">upcoming</span>`;
+      tr.innerHTML = `<td>${fmtDate(g.date)}</td><td>${g.type || ""}</td><td>${g.opponent || ""}</td>
+        <td>${g.venue || ""}${g.city ? " &middot; " + g.city : ""}</td>
+        <td>${g.fullTimeScore || "—"}</td><td>${resultCell}</td>
+        <td class="num">${g.opponentRpiRank != null ? "#" + g.opponentRpiRank : "—"}</td>
+        <td>${g.opponentRecord || "—"}</td>`;
+      tbody.appendChild(tr);
+    });
+  }
+} catch (e) {
+  console.error("Fixtures schedule table failed to render:", e);
+}
+
+// ---- Match Center (ported as-is from uncw_schedule_matrix_v5.html, same
+// verified logic -- see data-quality-fixes.md's 2026-09-12 (v3.9) entry for
+// the full column-mapping verification this was checked against) ----
+let selectMatch = () => {};
+try {
+(function () {
+  const played = MATCH_CENTER.matches.filter(m => m.played);
+  const note = document.getElementById("mc-note");
+  if (!played.length) {
+    if (note) note.textContent = "No match data yet.";
+    return;
+  }
+  if (note) note.textContent = `${MATCH_CENTER.season} — ${played.length} match${played.length === 1 ? "" : "es"} played so far.`;
+
+  const select = document.createElement("select");
+  played.slice().reverse().forEach(m => {
+    const opt = document.createElement("option");
+    opt.value = m.date;
+    const d = new Date(m.date + "T12:00:00");
+    opt.textContent = `${d.toLocaleDateString("en-US", {month: "short", day: "numeric"})} vs ${m.opponent} (${m.fullTimeScore}, ${m.result})` +
+      (m.stats ? "" : " — data pending");
+    select.appendChild(opt);
+  });
+  select.addEventListener("change", () => renderMatch(select.value));
+
+  const STAT_ROWS = [
+    ["goals", "Goals"], ["xG", "xG"], ["shotsTotal", "Total Shots"], ["saves", "Saves"],
+    ["shotsOn", "Shots On"], ["shotsOff", "Shots Off"], ["shotsBlocked", "Shots Blocked"],
+    ["dzEntries", "DZ Entries"], ["ropDzEntries", "RoP DZ Entries"], ["corners", "Corners"],
+    ["foulsConceded", "Fouls"], ["throwInPct", "Throw-Ins %"], ["yellow", "Yellow"], ["red", "Red"],
+  ];
+  const OBJ_ROWS = [
+    ["faceUp", "Face Ups"], ["win2", "Win+2"], ["dzDribble", "DZ Dribbles"], ["dzPass", "DZ Passes"],
+    ["dzCross", "DZ Crosses"], ["dzSetPiece", "DZ Set Pieces"], ["dzShot", "DZ Shots"],
+    ["creativeActions", "Creative Actions"], ["switches", "Switches"],
+    ["attHalfFoulsEarned", "Att Half Fouls Earned"], ["attHalfRegain", "Att Half Regain"],
+    ["defHalfLostBall", "Def Half Lost Ball"], ["firstContact", "First Contact"],
+    ["secondBalls", "Second Balls"], ["clearances", "Clearances"], ["blockShots", "Block Shots"],
+    ["blockCrosses", "Block Crosses"], ["doubleDowns", "Double Downs"],
+    ["professionalFouls", "Professional Fouls"],
+  ];
+
+  function fmtVal(v) {
+    if (v == null) return "—";
+    if (typeof v === "number" && !Number.isInteger(v)) return v.toFixed(v < 10 ? 3 : 1);
+    return v;
+  }
+
+  function renderCompareTable(elId, rows, us, opp) {
+    const el = document.getElementById(elId);
+    el.innerHTML = `<thead><tr><th class="mc-us">UNCW</th><th>&nbsp;</th><th class="mc-opp">Opp</th></tr></thead><tbody></tbody>`;
+    const tbody = el.querySelector("tbody");
+    rows.forEach(([key, label]) => {
+      const uv = us[key], ov = opp[key];
+      const higherUs = typeof uv === "number" && typeof ov === "number" && uv > ov;
+      const higherOpp = typeof uv === "number" && typeof ov === "number" && ov > uv;
+      const suffix = key === "throwInPct" ? "%" : "";
+      const tr = document.createElement("tr");
+      tr.innerHTML = `<td class="mc-us${higherUs ? " mc-lead" : ""}">${fmtVal(uv)}${uv != null ? suffix : ""}</td>` +
+        `<td class="mc-label">${label}</td>` +
+        `<td class="mc-opp${higherOpp ? " mc-lead" : ""}">${fmtVal(ov)}${ov != null ? suffix : ""}</td>`;
+      tbody.appendChild(tr);
+    });
+  }
+
+  let flowChart = null, xgChart = null;
+  function stepChart(canvasId, prev, minutes, usValues, opValues, yLabel) {
+    if (prev) prev.destroy();
+    const canvas = document.getElementById(canvasId);
+    const fallbackId = canvasId + "-fallback";
+    let fallback = document.getElementById(fallbackId);
+    if (typeof Chart === "undefined") {
+      if (canvas) canvas.hidden = true;
+      if (!fallback && canvas) {
+        fallback = document.createElement("div");
+        fallback.id = fallbackId;
+        fallback.style.cssText = "text-align:center;color:var(--muted);font-size:12px;padding:20px 4px;";
+        fallback.textContent = "Chart library didn't load -- try refreshing the page.";
+        canvas.insertAdjacentElement("afterend", fallback);
+      }
+      return null;
+    }
+    if (canvas) canvas.hidden = false;
+    if (fallback) fallback.hidden = true;
+    const ctx = canvas.getContext("2d");
+    return new Chart(ctx, {
+      type: "line",
+      data: {
+        labels: minutes,
+        datasets: [
+          {label: "UNCW", data: usValues, borderColor: "#007680", backgroundColor: "#007680", stepped: true, pointRadius: 0, borderWidth: 2},
+          {label: "Opponent", data: opValues, borderColor: "#003366", backgroundColor: "#003366", stepped: true, pointRadius: 0, borderWidth: 2},
+        ],
+      },
+      options: {
+        responsive: true, maintainAspectRatio: true, aspectRatio: 2.2,
+        plugins: {legend: {display: false}},
+        scales: {
+          x: {title: {display: true, text: "Minute in Match", font: {size: 10}}, ticks: {font: {size: 10}}},
+          y: {title: {display: true, text: yLabel, font: {size: 10}}, ticks: {font: {size: 10}}, beginAtZero: true},
+        },
+      },
+    });
+  }
+
+  function renderMatch(dateStr) {
+    const m = MATCH_CENTER.matches.find(x => x.date === dateStr);
+    if (!m) return;
+
+    document.querySelectorAll("#schedule-table tr.sched-row-selected").forEach(tr => tr.classList.remove("sched-row-selected"));
+    const schedRow = document.querySelector(`#schedule-table tr[data-date="${dateStr}"]`);
+    if (schedRow) schedRow.classList.add("sched-row-selected");
+
+    const header = document.getElementById("mc-header");
+    header.innerHTML = "";
+    header.appendChild(select);
+    const score = document.createElement("div");
+    score.className = "mc-score";
+    score.textContent = m.fullTimeScore;
+    const result = document.createElement("span");
+    result.className = `mc-result ${m.result}`;
+    result.textContent = m.result;
+    const meta = document.createElement("div");
+    meta.className = "mc-meta";
+    const d = new Date(m.date + "T12:00:00");
+    meta.innerHTML = `vs <b>${m.opponent}</b> &middot; ${m.venue} &middot; ${d.toLocaleDateString("en-US", {month: "long", day: "numeric", year: "numeric"})}` +
+      (m.rpi ? ` &middot; Opp RPI #${m.rpi}` : "") + (m.halftimeScore ? ` &middot; HT ${m.halftimeScore}` : "");
+    header.appendChild(result);
+    header.appendChild(score);
+    header.appendChild(meta);
+
+    if (!m.stats) {
+      const pendingMsg = `<tbody><tr><td colspan="3" style="text-align:center;color:var(--muted);padding:10px 4px;">Match data not yet tagged</td></tr></tbody>`;
+      document.getElementById("mc-stats-table").innerHTML = pendingMsg;
+      document.getElementById("mc-objectives-table").innerHTML = pendingMsg;
+      if (flowChart) { flowChart.destroy(); flowChart = null; }
+      if (xgChart) { xgChart.destroy(); xgChart = null; }
+      document.getElementById("mc-flow-legend").innerHTML = "";
+      document.getElementById("mc-xg-legend").innerHTML = "";
+      return;
+    }
+
+    renderCompareTable("mc-stats-table", STAT_ROWS, m.stats.us, m.stats.opp);
+    renderCompareTable("mc-objectives-table", OBJ_ROWS, m.objectives.us, m.objectives.opp);
+
+    flowChart = stepChart("mc-flow-chart", flowChart, m.matchFlow.minutes, m.matchFlow.us, m.matchFlow.opp, "Match Flow Value");
+    document.getElementById("mc-flow-legend").innerHTML =
+      `<span>&#9632; UNCW <b>${m.matchFlow.us[m.matchFlow.us.length - 1].toFixed(2)}</b></span>` +
+      `<span style="color:var(--navy);">&#9632; Opponent <b>${m.matchFlow.opp[m.matchFlow.opp.length - 1].toFixed(2)}</b></span>`;
+
+    const allMinutes = Array.from(new Set([...m.xgFlow.us.minutes, ...m.xgFlow.opp.minutes])).sort((a, b) => a - b);
+    function alignTo(minutes, values, target) {
+      const out = [];
+      let vi = 0;
+      target.forEach(t => {
+        while (vi < minutes.length - 1 && minutes[vi + 1] <= t) vi++;
+        out.push(minutes[vi] <= t ? values[vi] : 0);
+      });
+      return out;
+    }
+    const usAligned = alignTo(m.xgFlow.us.minutes, m.xgFlow.us.values, allMinutes);
+    const opAligned = alignTo(m.xgFlow.opp.minutes, m.xgFlow.opp.values, allMinutes);
+    xgChart = stepChart("mc-xg-chart", xgChart, allMinutes.map(v => Math.round(v)), usAligned, opAligned, "xG");
+    document.getElementById("mc-xg-legend").innerHTML =
+      `<span>&#9632; UNCW <b>${m.stats.us.xG.toFixed(3)}</b> xG</span>` +
+      `<span style="color:var(--navy);">&#9632; Opponent <b>${m.stats.opp.xG.toFixed(3)}</b> xG</span>`;
+  }
+
+  selectMatch = function (dateStr) {
+    select.value = dateStr;
+    renderMatch(dateStr);
+    document.getElementById("mc-header").scrollIntoView({behavior: "smooth", block: "start"});
+  };
+
+  select.value = played[played.length - 1].date;
+  renderMatch(select.value);
+})();
+} catch (e) {
+  console.error("Match Center failed to initialize -- rest of the page continues normally:", e);
+  const note = document.getElementById("mc-note");
+  if (note) note.textContent = "Match Center couldn't load (see browser console for details). The rest of the page is unaffected.";
+}
+</script>
 </body>
 </html>
