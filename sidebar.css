@@ -75,6 +75,24 @@ p.note { color: var(--muted); font-size: 12px; margin: 4px 0 16px; font-style: i
 .coming-soon .emoji { font-size: 34px; margin-bottom: 8px; }
 .coming-soon h2 { border: none; padding: 0; margin: 0 0 6px; }
 
+/* Data tables -- shared by any page showing standings/leaderboards/schedules
+   (CAA, Squad, Stats, Fixtures). Ported as-is from uncw_schedule_matrix_v5.html's
+   table.std so every page's tables look identical to the classic dashboard's. */
+table.std { border-collapse: collapse; font-size: 12px; background: var(--card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+table.std th { text-align: left; background: var(--navy); color: #ffffff; font-weight: 600; padding: 6px 8px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+table.std td { padding: 6px 8px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+table.std tr:last-child td { border-bottom: none; }
+table.std td.num, table.std th.num { text-align: center; }
+table.std img.logo { width: 18px; height: 18px; object-fit: contain; vertical-align: middle; }
+table.std tr:nth-child(even) td { background: rgba(0, 118, 128, 0.05); }
+table.std tr.uncw-row td { background: rgba(0, 118, 128, 0.14) !important; }
+table.std td a.team-link { color: inherit; text-decoration: none; }
+table.std td a.team-link:hover { text-decoration: underline; }
+.tables-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 8px; }
+.tables-row > div { min-width: 0; }
+.scroll-wrap { overflow-x: auto; padding-bottom: 8px; }
+.table-label { font-weight: 600; font-size: 13px; margin-bottom: 4px; color: var(--navy); }
+
 @media (max-width: 760px) {
   .app-layout { flex-direction: column; }
   .app-sidebar {
