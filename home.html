@@ -82,6 +82,14 @@
       </div>
     </div>
 
+    <!-- South Division Standings -- added 2026-09-15, Colin: "let's also add
+         the south division standings to home page." Table markup/JS ported
+         from caa.html's renderTable() (including the same Non-Conf column
+         added there this round), no SOS column here to match caa.html's own
+         South table (SOS only shows on caa.html's Overall table). -->
+    <h2 class="section-title">South Division Standings</h2>
+    <div class="scroll-wrap"><table class="std" id="south-standings-table"></table></div>
+
     <h2 class="section-title">Team Leaders</h2>
     <p class="note">A preview of the full Squad leaderboards, coming soon.</p>
     <div class="leaders-row" id="leaders-row"></div>
@@ -90,7 +98,7 @@
 <script src="sidebar.js?v=3"></script>
 <script>
 // HOME_SUMMARY_START
-const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-4", "rpi": {"value": 0.5776, "rank": 67, "gp": 9, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "nextFixture": {"date": "2026-09-20", "opponent": "Hampton", "venue": "Away", "city": "Hampton, VA", "rpi": 340, "opponentRecord": "1-5-1"}, "lastResult": {"date": "2026-09-13", "opponent": "Coastal Carolina", "result": "Draw", "fullTimeScore": "0-0", "venue": "Home", "hasStats": false}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06", "seasonStats": {"rank": 67, "rpiTotal": 0.5754, "rpiAdjusted": 0.5776, "record": "5-0-4", "gf": 15, "ga": 6, "gd": 9, "homeRecord": "2-0-3", "awayRecord": "3-0-1", "confRecord": "0-0-0", "nonConfRecord": "5-0-4", "last5": ["D", "D", "W", "W", "D"], "vsTop100": "3-0-1"}};
+const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-4", "rpi": {"value": 0.5776, "rank": 67, "gp": 9, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "caaSouthStandings": [{"name": "UNC Wilmington", "division": "South", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "natName": "UNC Wilmington", "liveRpi": 0.5776, "liveRpiRank": 67, "liveRpiGp": 9, "liveRpiTotal": 342, "nonConfRecord": "5-0-4", "overall": "5-0-4", "overallPct": 0.7777777777777778, "overallW": 5, "liveSos": 160, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 1}, {"name": "Elon", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png", "natName": "Elon", "liveRpi": 0.4406, "liveRpiRank": 233, "liveRpiGp": 8, "liveRpiTotal": 342, "nonConfRecord": "5-1-2", "overall": "5-1-2", "overallPct": 0.75, "overallW": 5, "liveSos": 204, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 2}, {"name": "Campbell", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png", "natName": "Campbell", "liveRpi": 0.4731, "liveRpiRank": 187, "liveRpiGp": 9, "liveRpiTotal": 342, "nonConfRecord": "3-4-2", "overall": "3-4-2", "overallPct": 0.4444444444444444, "overallW": 3, "liveSos": 184, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 3}, {"name": "Charleston", "division": "South", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/College_of_Charleston_Cougars_logo.svg/120px-College_of_Charleston_Cougars_logo.svg.png", "natName": "College of Charleston", "liveRpi": 0.4894, "liveRpiRank": 162, "liveRpiGp": 9, "liveRpiTotal": 342, "nonConfRecord": "3-4-2", "overall": "3-4-2", "overallPct": 0.4444444444444444, "overallW": 3, "liveSos": 172, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 4}, {"name": "William & Mary", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png", "natName": "William & Mary", "liveRpi": 0.4122, "liveRpiRank": 265, "liveRpiGp": 7, "liveRpiTotal": 342, "nonConfRecord": "1-4-2", "overall": "1-4-2", "overallPct": 0.2857142857142857, "overallW": 1, "liveSos": 173, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 5}, {"name": "Hampton", "division": "South", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png", "natName": "Hampton University", "liveRpi": 0.3461, "liveRpiRank": 324, "liveRpiGp": 7, "liveRpiTotal": 342, "nonConfRecord": "1-5-1", "overall": "1-5-1", "overallPct": 0.21428571428571427, "overallW": 1, "liveSos": 213, "played": 0, "w": 0, "l": 0, "d": 0, "gf": 0, "ga": 0, "gd": 0, "pts": 0, "rank": 6}], "nextFixture": {"date": "2026-09-20", "opponent": "Hampton", "venue": "Away", "city": "Hampton, VA", "rpi": 340, "opponentRecord": "1-5-1"}, "lastResult": {"date": "2026-09-13", "opponent": "Coastal Carolina", "result": "Draw", "fullTimeScore": "0-0", "venue": "Home", "hasStats": false}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06", "seasonStats": {"rank": 67, "rpiTotal": 0.5754, "rpiAdjusted": 0.5776, "record": "5-0-4", "gf": 15, "ga": 6, "gd": 9, "homeRecord": "2-0-3", "awayRecord": "3-0-1", "confRecord": "0-0-0", "nonConfRecord": "5-0-4", "last5": ["D", "D", "W", "W", "D"], "vsTop100": "3-0-1"}};
 // HOME_SUMMARY_END
 
 // Season Record dashboard helpers -- ported verbatim from
@@ -118,6 +126,43 @@ function renderFormCircles(results) {
     const title = r === "W" ? "Win" : r === "L" ? "Loss" : "Draw";
     return `<span class="form-circle ${cls}" title="${title}">${r}</span>`;
   }).join("") + `</span>`;
+}
+
+// South Division Standings table -- ported verbatim from caa.html's
+// renderTable() (same column set/order, including the Non-Conf column added
+// there the same day) so the two pages stay in lockstep. No showSOS option
+// used here, matching caa.html's own South table.
+function renderStandingsTable(elId, teams) {
+  const el = document.getElementById(elId);
+  if (!el) return;
+  if (!teams || !teams.length) {
+    el.outerHTML = '<p class="note">No teams to show.</p>';
+    return;
+  }
+  const liveHdr = '<th class="num" title="National rank by current-season RPI. 1 = best. Early-season ranks are based on very few games.">RPI</th>';
+  const nonConfHdr = '<th title="Non-conference record (excludes CAA games).">Non-Conf</th>';
+  el.innerHTML = `<thead><tr>
+      <th class="num">Rk</th><th></th><th>Team</th><th class="num">P</th><th class="num">W</th>
+      <th class="num">L</th><th class="num">D</th><th class="num">GF</th><th class="num">GA</th>
+      <th class="num">GD</th><th class="num">Pts</th>${liveHdr}${nonConfHdr}<th>Overall</th>
+    </tr></thead><tbody></tbody>`;
+  const tbody = el.querySelector("tbody");
+  teams.forEach(t => {
+    const tr = document.createElement("tr");
+    if (t.name === "UNC Wilmington") tr.className = "uncw-row";
+    const liveCell = t.liveRpiRank != null
+      ? `<td class="num" title="RPI ${t.liveRpi != null ? t.liveRpi.toFixed(4) : "?"} — ${t.liveRpiGp} game${t.liveRpiGp === 1 ? "" : "s"} played so far this season -- provisional.">${t.liveRpiRank}</td>`
+      : `<td class="num">—</td>`;
+    const stHref = `national_rpi.html#/team/${encodeURIComponent(t.natName || t.name)}`;
+    const nameCell = `<a class="team-link" href="${stHref}" title="${t.name} — full national schedule &amp; RPI detail">${t.name}</a>`;
+    tr.innerHTML = `<td class="num">${t.rank}</td>
+      <td>${t.logo ? `<img class="logo" src="${t.logo}" onerror="this.style.visibility='hidden'">` : ""}</td>
+      <td>${nameCell}</td><td class="num">${t.played}</td><td class="num">${t.w}</td><td class="num">${t.l}</td>
+      <td class="num">${t.d}</td><td class="num">${t.gf}</td><td class="num">${t.ga}</td>
+      <td class="num">${t.gd > 0 ? "+" : ""}${t.gd}</td>
+      <td class="num">${t.pts}</td>${liveCell}<td>${t.nonConfRecord || "—"}</td><td>${t.overall}</td>`;
+    tbody.appendChild(tr);
+  });
 }
 
 // This whole render is wrapped in try/catch, same isolation practice
@@ -194,6 +239,8 @@ try {
         ${lr.hasStats ? "" : '<br><span style="color:var(--muted);">Match Center detail not yet tagged</span>'}
       </div>
     ` : `<p class="note">No result on file yet.</p>`;
+
+    renderStandingsTable("south-standings-table", h.caaSouthStandings);
 
     const leaders = document.getElementById("leaders-row");
     if (h.leaders && h.leaders.length) {
