@@ -2146,6 +2146,42 @@ def _head_to_head(team_schedules, a, b):
     return score
 
 
+def _team_form(team_schedules, name, n=5):
+    """
+    Last `n` played games' results as an ordered ["W"/"L"/"D", ...] list,
+    oldest to newest -- same shape/convention as
+    `build_national_rpi_data()`'s own `last5` (see line ~1425) and
+    `home.html`'s `renderFormCircles()`, which both consume this exact
+    left-to-right ordering. Added 2026-09-15 for the CAA standings tables'
+    new Form column (Colin: "add the form at the end of the columns for
+    all those tables/standings").
+
+    Sorts by (week, half) rather than trusting `games` list order: Drexel's
+    hand-entered schedule (DREXEL_SCHEDULE) gets appended to the END of an
+    opponent's games list regardless of its real date (see
+    build_team_schedules()'s Drexel-injection block), so a played Drexel
+    game could otherwise land out of chronological order and corrupt which
+    5 games count as "last". Half "a" (Mon-Thu) always sorts before half
+    "b" (Fri-Sun) within the same week, per default_half()'s own
+    convention, so (week, half) is a safe, always-available substitute for
+    a real date field (this dataset doesn't carry per-game dates).
+    """
+    HALF_ORDER = {"a": 0, "b": 1}
+    games = team_schedules.get(name, {}).get("games", [])
+    played = [g for g in games if g.get("played") and _split_score(g.get("result"))]
+    played.sort(key=lambda g: (g.get("week") or 0, HALF_ORDER.get(g.get("half"), 0)))
+    last_n = played[-n:]
+    form = []
+    for g in last_n:
+        if g.get("win") is True:
+            form.append("W")
+        elif g.get("win") is False:
+            form.append("L")
+        else:
+            form.append("D")
+    return form
+
+
 def compute_caa_standings(team_schedules):
     """
     Returns {"south": [...], "north": [...], "overall": [...]}, each a list
@@ -2177,6 +2213,13 @@ def compute_caa_standings(team_schedules):
             "nonConfRecord": f"{non_conf['w']}-{non_conf['l']}-{non_conf['d']}",
             "overall": t.get("ownRecord") or f"{all_['w']}-{all_['l']}-{all_['d']}",
             "overallPct": overall_pct, "overallW": all_["w"], "liveSos": live_sos,
+            # Form (last 5 overall results, oldest->newest) -- added
+            # 2026-09-15 alongside nonConfRecord, same round, per Colin's
+            # follow-up ask to add it "at the end of the columns" on every
+            # standings table. Overall (not conference-only) results, same
+            # as the Season Record dashboard's own Form tile, since no CAA
+            # games have been played yet this season.
+            "form": _team_form(team_schedules, name),
             **conf,
         })
 
