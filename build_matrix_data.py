@@ -98,7 +98,30 @@ DREXEL_SCHEDULE = [
 # picked up the same fixture (dated 8/21) with the identical 1-1 score, so
 # the override was redundant and, per the note above, a good habit to clear
 # out once the scraper independently confirms it.
-CONFIRMED_RESULTS = []
+#
+# 2026-09-14: Colin confirmed both results directly ("Results against
+# Charlotte 2-0 Win and 0-0 Draw with Coastal Carolina") before the scraper
+# picked them up. Checked both against the raw scrape before adding either
+# (per the standing "remove once the scraper catches up" rule above): the
+# Charlotte game turned out to already be in the scraper with an identical
+# 2-0 score, so that entry would have been pure dead weight -- left out
+# entirely rather than added and immediately removed. Coastal Carolina was
+# still unplayed (NaN score) in the raw scrape, so that one entry is real
+# and needed. This corrects UNCW's own record/RPI/live-RPI network
+# everywhere those are computed from `scrape` or team_schedules (main
+# matrix, Home, CAA standings, National RPI, and the new Season Record
+# dashboards on Home/Fixtures -- all of which read through
+# compute_live_rpi()/build_national_rpi_data() on the augmented scrape). It
+# does NOT touch Fixtures' own per-match Schedule row or Form/Goals/Flow
+# trend charts for this game -- those come from a different file
+# (PlayerMatchReport.xlsx via build_match_center()), which CONFIRMED_RESULTS
+# never writes to, so it'll keep showing as upcoming there until Colin
+# enters the full Coaches Match Booklet stats for it. Remove this line once
+# the scraper/PlayerMatchReport.xlsx catch up with a matching score, per
+# the standing convention above.
+CONFIRMED_RESULTS = [
+    ("UNC Wilmington", "Coastal Carolina", True, None, "0-0"),
+]
 
 # ---------------------------------------------------------------------------
 # Team roster: (display name, scraper name or None, is a CAA member)
@@ -1819,6 +1842,69 @@ def _dz_entries(row):
     return total, total - (row.get("DZ Set Piece") or 0)
 
 
+# ---- Shot map (added 2026-09-14, Colin's ask) ----
+#
+# fDataXYPlot.xlsx's "Result" column has messy/inconsistent tagging (mixed
+# case, a couple of stray "Successful"/"Unsuccessful"/"Saved" one-offs found
+# during data investigation) -- normalize to a small fixed vocabulary the
+# shot map's dot styling switches on, rather than keying front-end CSS off
+# raw values that could vary. Unrecognized/missing values map to "other"
+# so a new tagging value never silently breaks rendering.
+def _norm_shot_result(raw):
+    if not isinstance(raw, str):
+        return None
+    r = raw.strip().lower()
+    if r == "goal":
+        return "goal"
+    if r in ("save", "saved"):
+        return "save"
+    if r == "block":
+        return "block"
+    if r == "post":
+        return "post"
+    if r in ("off", "off target"):
+        return "off"
+    return "other"
+
+
+def _shot_points(shot_rows, use_frame):
+    """One dict per shot with a location Colin asked for two different ways:
+
+    - `use_frame=True` (UNCW's own shots): (ShotX, ShotY) -- where the shot
+      ended up relative to the goal frame (a small, centered-on-goal
+      coordinate space; confirmed via direct data inspection that "Goal"/
+      "Save" results cluster in roughly [-12, 12] x [0, 8], with "Off"
+      results extending further out to represent wide/over misses). Only
+      populated for matches tagged since ~Nov 2025 -- rows without it are
+      skipped rather than plotted at (0, 0), so an early-season/historical
+      match with no frame tagging yet just yields an empty list (rendered
+      as a "not tracked for this match" note, not a fake origin cluster).
+    - `use_frame=False` (Opponent's shots, per Colin: "I don't think I do
+      the shot on goal xy for opponent so it will just be on the pitch
+      where they shoot the ball"): (X, Y), the general on-pitch shot
+      *origin* location (0-100 scale, both teams' own attacking direction)
+      that's populated for essentially every shot back to the earliest
+      2024 match -- confirmed via direct inspection, unlike ShotX/ShotY
+      this isn't a recently-added tagging field.
+    """
+    pts = []
+    for _, r in shot_rows.iterrows():
+        if use_frame:
+            x, y = r.get("ShotX"), r.get("ShotY")
+        else:
+            x, y = r.get("X"), r.get("Y")
+        if pd.isna(x) or pd.isna(y):
+            continue
+        pts.append({
+            "x": round(float(x), 1),
+            "y": round(float(y), 1),
+            "result": _norm_shot_result(r.get("Result")),
+            "xg": round(float(r["xG"]), 3) if pd.notna(r.get("xG")) else None,
+            "player": r.get("Player") if isinstance(r.get("Player"), str) else None,
+        })
+    return pts
+
+
 def build_match_center(match_xlsx_path, xy_xlsx_path, lookup_xlsx_path, season="Fall 2026"):
     """
     Team & Match pages data: one entry per match in `season` (played and
@@ -1876,6 +1962,16 @@ def build_match_center(match_xlsx_path, xy_xlsx_path, lookup_xlsx_path, season="
             if us_row is not None and opp_row is not None:
                 shots = xy[(xy["MatchDate"] == d) & (xy["Event"] == "Shot")]
                 xg_by_team = shots.groupby("Team")["xG"].sum().to_dict()
+
+                # Shot map (Colin's ask, 2026-09-14): UNCW's own shots
+                # plotted by where they ended up on the goal frame,
+                # Opponent's shots plotted by where they were taken from
+                # on the pitch -- see _shot_points()'s docstring for why
+                # the two sides use different coordinate fields.
+                entry_shot_map = {
+                    "usFrame": _shot_points(shots[shots["Team"] == "UNCW"], use_frame=True),
+                    "oppPitch": _shot_points(shots[shots["Team"] == "Opponent"], use_frame=False),
+                }
 
                 def stats_side(row, other_row, xg):
                     dz, rop = _dz_entries(row)
@@ -1974,6 +2070,7 @@ def build_match_center(match_xlsx_path, xy_xlsx_path, lookup_xlsx_path, season="
                 entry["matchFlow"] = {"minutes": us_minutes, "us": us_flow, "opp": opp_flow}
                 entry["xgFlow"] = {"us": {"minutes": us_xg_minutes, "values": us_xg_flow},
                                     "opp": {"minutes": opp_xg_minutes, "values": opp_xg_flow}}
+                entry["shotMap"] = entry_shot_map
 
                 row_table.update({
                     "dzEntries": stats_us["dzEntries"], "win2": obj_us["win2"],
@@ -2123,7 +2220,7 @@ HOME_LEADER_PREVIEW = [
 
 
 def build_home_summary(team_schedules, caa_standings, player_leaderboards,
-                        match_center, team_name="UNC Wilmington"):
+                        match_center, team_name="UNC Wilmington", national_stats=None):
     t = team_schedules.get(team_name, {})
     caa_row = next((r for r in caa_standings["south"] if r["name"] == team_name), None)
 
@@ -2171,6 +2268,37 @@ def build_home_summary(team_schedules, caa_standings, player_leaderboards,
         "lastResult": last_result,
         "leaders": leaders,
         "asOf": player_leaderboards.get("asOf"),
+        # Season Record dashboard, added 2026-09-14 (Colin: "let's add the
+        # season record dashboard to the home page") -- the exact same
+        # profile Fixtures' own Season Record section shows, via the same
+        # shared helper, so Home/Fixtures/National RPI always agree. None
+        # if no national_stats was passed in (e.g. build_national_rpi_data()
+        # not available yet -- see do_rebuild.py/weekly_update.py).
+        "seasonStats": _season_stats_from_national(national_stats),
+    }
+
+
+def _season_stats_from_national(nat):
+    """Shared 12-tile Season Record profile (Nat'l Rank, RPI Total,
+    Adjusted RPI, Record, Goals F-A, Goal Diff, Home, Away, Conference,
+    Non-Conference, Form, vs Top 100) built from one team's entry in
+    `build_national_rpi_data()["teams"]`. Both Fixtures' Season Record
+    section and Home's Season Record dashboard (added 2026-09-14, same
+    day -- Colin: "let's add the season record dashboard to the home
+    page") read the exact same `national_stats` entry through this one
+    function, so Home/Fixtures/National RPI never drift out of agreement.
+    Returns None if `nat` is None (no national profile available, e.g. a
+    historical Fixtures season -- see build_fixtures_summary's docstring)."""
+    if not nat:
+        return None
+    return {
+        "rank": nat.get("rank"), "rpiTotal": nat.get("rpiTotal"),
+        "rpiAdjusted": nat.get("rpiAdjusted"),
+        "record": f"{nat['w']}-{nat['l']}-{nat['d']}",
+        "gf": nat.get("gf"), "ga": nat.get("ga"), "gd": nat.get("gd"),
+        "homeRecord": nat.get("homeRecord"), "awayRecord": nat.get("awayRecord"),
+        "confRecord": nat.get("confRecord"), "nonConfRecord": nat.get("nonConfRecord"),
+        "last5": nat.get("last5"), "vsTop100": nat.get("vsTop100"),
     }
 
 
@@ -2184,16 +2312,54 @@ def build_home_summary(team_schedules, caa_standings, player_leaderboards,
 # adds only what Fixtures needs on top: opponent record (via a
 # team_schedules lookup, when the opponent is one of the 21 tracked teams)
 # and the four trend series Colin asked for.
-def build_fixtures_summary(scrape_path, rpi_path, team_schedules, match_center,
-                            team_name="UNC Wilmington", season=None, current_season="Fall 2026"):
+def build_fixtures_summary(scrape_path, rpi_path, master_path, team_schedules, match_center,
+                            team_name="UNC Wilmington", season=None, current_season="Fall 2026",
+                            national_stats=None):
     """
-    Returns {"team", "schedule": [...], "trends": {"form", "goals", "rpi", "flow"}}.
+    Returns {"team", "schedule": [...], "trends": {"form", "goals", "rpi", "flow"},
+    "seasonStats": {...} or None}.
 
     - schedule: one row per MATCH_CENTER match (already date-ordered),
       annotated with the opponent's current overall record when they're one
       of the 21 teams tracked in team_schedules (None for one-off
-      exhibition/non-tracked opponents like The Citadel or LSU).
-    - trends.form: last 5 played matches' results (oldest to newest).
+      exhibition/non-tracked opponents like The Citadel or LSU), plus
+      cumRecord (see seasonStats below).
+    - seasonStats (added 2026-09-14, Colin's ask: "the basic stats of the
+      season below the trends. Use the template from the individual team
+      page from the National RPI pages"): the exact same per-team profile
+      `build_national_rpi_data()` computes for that team's own National RPI
+      detail page (Nat'l Rank, RPI Total, Adjusted RPI, Record, Goals F-A,
+      Goal Diff, Home, Away, Conference, Non-Conference, Form, vs Top 100)
+      -- pass that team's entry from `build_national_rpi_data(...)["teams"]`
+      in as `national_stats` so this doesn't have to recompute the
+      (nationwide, ~1s) calculation once per season in the fixtures loop.
+      Reusing the exact same source as the National RPI page keeps the two
+      pages' numbers for the same team always in agreement. Only meaningful
+      for the current season (same reasoning as opponentRecord/trends.rpi
+      above -- `national_stats` reflects the live scrape's current
+      snapshot, not a historical point in time), so this is None whenever
+      `is_current` is False or no `national_stats` was passed in. Each
+      schedule row's "cumRecord" (the running overall record through that
+      match, matching the National page's "Season Record" column) is
+      looked up from `national_stats["schedule"]` by date -- the two
+      schedules come from different source files (this one from
+      PlayerMatchReport.xlsx, national_stats's from the general scraper
+      file) so matches are joined by date rather than by name; a date with
+      no match on the national side (e.g. an early exhibition the general
+      scraper doesn't track) just gets no cumRecord rather than a wrong one.
+    - trends.form: last 5 played matches (oldest to newest), each
+      {date, result, opponent, logo, loc} -- logo is resolved the same way
+      as everywhere else on the site (team_schedules' own per-team logo for
+      one of the 21 tracked teams, falling back to the
+      Master_Teams_Table_Final/RPI.xlsx-driven lookup_logo() for
+      one-off/historical opponents), and is None if no logo can be found
+      for that opponent at all. loc is "H"/"A" (or None), straight from
+      PlayerMatchReport.xlsx's Venue column.
+    - trends.upcoming: just the next not-yet-played scheduled match (added
+      2026-09-14, Colin's ask: "add a line after the most recent match and
+      the two logos of the next 2 matches"; narrowed the same day to just
+      the one next match), {date, opponent, logo, loc} -- no result yet, so
+      no W/D/L badge.
     - trends.goals: {date, gf, ga} per played match, season to date.
     - trends.flow: {date, value} -- UNCW's final Match Flow value per
       played+tagged match. Not "Impact" (Colin's original ask) -- the full
@@ -2227,8 +2393,36 @@ def build_fixtures_summary(scrape_path, rpi_path, team_schedules, match_center,
     scrape = pd.read_excel(scrape_path, sheet_name=0)
     scrape["match_date"] = pd.to_datetime(scrape["match_date"]).dt.date
     rpi_df = pd.read_excel(rpi_path, sheet_name=0)
+    master_df = pd.read_excel(master_path, sheet_name=0)
+    _, lookup_logo = build_rpi_logo_lookups(rpi_df, master_df)
+
+    def resolve_opp_logo(raw_name, disp_name):
+        # Fast path: one of the 21 tracked teams already has its logo
+        # resolved (Drexel's no-scrapename special case included) sitting in
+        # team_schedules -- reuse it rather than re-deriving. Not gated to
+        # is_current: a team's logo isn't a time-sensitive stat the way
+        # ownRecord/live-RPI-rank are, so this is safe for historical
+        # seasons too.
+        ts = team_schedules.get(disp_name)
+        if ts and ts.get("logo"):
+            return ts["logo"]
+        # Fall back to the general lookup for one-off/historical opponents
+        # (Clemson, LSU, The Citadel, etc.) that aren't among the 21 tracked
+        # teams -- try the raw PlayerMatchReport spelling first, then the
+        # resolved display name, same two spellings lookup_logo() already
+        # knows how to handle via LOGO_OVERRIDES/RPI_NAME_ALIASES.
+        return lookup_logo(raw_name) or lookup_logo(disp_name)
 
     matches = match_center.get("matches", [])
+
+    # Season Record ("Season Stats" originally, renamed 2026-09-14 -- same
+    # data, just a clearer label) + cumulative record -- only meaningful
+    # for the current season, same reasoning as opponentRecord/trends.rpi
+    # (national_stats reflects the live scrape's current snapshot). See the
+    # docstring above.
+    nat = national_stats if is_current else None
+    cum_by_date = {e["date"]: e["cumRecord"] for e in nat["schedule"]} if nat else {}
+    season_stats = _season_stats_from_national(nat)
 
     schedule = []
     for m in matches:
@@ -2247,17 +2441,50 @@ def build_fixtures_summary(scrape_path, rpi_path, team_schedules, match_center,
         schedule.append({
             "date": m.get("date"), "type": m.get("type"), "opponent": m.get("opponent"),
             "opponentColor": m.get("opponentColor") or team_color_for(m.get("opponent")),
+            # Added 2026-09-14, Colin's ask: "add opponent logo without
+            # saying that's the column, so it shows to the side of the
+            # name" -- resolve_opp_logo() is the exact same helper the
+            # Form-strip logos already use (team_schedules fast path, then
+            # the general lookup_logo() fallback for one-off opponents).
+            "opponentLogo": resolve_opp_logo(m.get("opponent"), opp_disp),
             "venue": m.get("venue"), "city": m.get("city"),
             "ownScore": m.get("teamGoal"), "oppScore": m.get("opponentGoal"),
             "fullTimeScore": m.get("fullTimeScore"), "result": m.get("result"),
             "opponentRpiRank": m.get("rpi"),
             "opponentRecord": opp_ts.get("ownRecord") if opp_ts else None,
+            "cumRecord": cum_by_date.get(m.get("date")),
             "played": m.get("played"), "hasStats": bool(m.get("stats")),
         })
 
     played = sorted([m for m in matches if m.get("played")], key=lambda m: m["date"])
+    upcoming_matches = sorted([m for m in matches if not m.get("played")], key=lambda m: m["date"])
 
-    form = [m["result"] for m in played[-5:]]
+    def loc_for(m):
+        # PlayerMatchReport.xlsx's "Venue" column is literally "Home"/"Away"
+        # (not a stadium name -- see the Schedule table's own "venue" field,
+        # same source), so this is a plain lookup, not a new derivation.
+        v = m.get("venue")
+        return "H" if v == "Home" else ("A" if v == "Away" else None)
+
+    form = []
+    for m in played[-5:]:
+        opp_disp = SCRAPENAME_TO_DISP.get(m.get("opponent"), m.get("opponent"))
+        form.append({
+            "date": m.get("date"), "result": m.get("result"), "opponent": opp_disp,
+            "logo": resolve_opp_logo(m.get("opponent"), opp_disp), "loc": loc_for(m),
+        })
+
+    # Just the single next scheduled match (Colin's ask, 2026-09-14: "take
+    # the second future opponent away and only have the next opponent and
+    # their logo" -- was the next 2).
+    upcoming = []
+    for m in upcoming_matches[:1]:
+        opp_disp = SCRAPENAME_TO_DISP.get(m.get("opponent"), m.get("opponent"))
+        upcoming.append({
+            "date": m.get("date"), "opponent": opp_disp,
+            "logo": resolve_opp_logo(m.get("opponent"), opp_disp), "loc": loc_for(m),
+        })
+
     goals_trend = [{"date": m["date"], "gf": m.get("teamGoal"), "ga": m.get("opponentGoal")}
                    for m in played]
     flow_trend = [{"date": m["date"], "value": round(m["matchFlow"]["us"][-1], 2)}
@@ -2288,7 +2515,9 @@ def build_fixtures_summary(scrape_path, rpi_path, team_schedules, match_center,
         "season": season or current_season,
         "isCurrentSeason": is_current,
         "schedule": schedule,
-        "trends": {"form": form, "goals": goals_trend, "rpi": rpi_trend, "flow": flow_trend},
+        "trends": {"form": form, "goals": goals_trend, "rpi": rpi_trend, "flow": flow_trend,
+                   "upcoming": upcoming},
+        "seasonStats": season_stats,
     }
 
 
