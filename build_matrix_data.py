@@ -2159,6 +2159,12 @@ def compute_caa_standings(team_schedules):
         t = team_schedules.get(name, {})
         conf = _tally_games(team_schedules, name, lambda g: g.get("conf"))
         all_ = _tally_games(team_schedules, name, lambda g: True)
+        # Non-Conference record (added 2026-09-15, Colin's ask: "I'd like to
+        # see the non-conference record between RPI and Overall Record" --
+        # both here and on Home's mirrored South table) -- the complement of
+        # the existing conference-only tally above, same _tally_games()
+        # helper, just inverted keep predicate.
+        non_conf = _tally_games(team_schedules, name, lambda g: not g.get("conf"))
         opp_ranks = [g.get("otherLiveRpiRank") for g in t.get("games", [])
                      if isinstance(g.get("otherLiveRpiRank"), (int, float))]
         live_sos = round(sum(opp_ranks) / len(opp_ranks)) if opp_ranks else None
@@ -2168,6 +2174,7 @@ def compute_caa_standings(team_schedules):
             "natName": t.get("natName"),
             "liveRpi": t.get("liveRpi"), "liveRpiRank": t.get("liveRpiRank"),
             "liveRpiGp": t.get("liveRpiGp"), "liveRpiTotal": t.get("liveRpiTotal"),
+            "nonConfRecord": f"{non_conf['w']}-{non_conf['l']}-{non_conf['d']}",
             "overall": t.get("ownRecord") or f"{all_['w']}-{all_['l']}-{all_['d']}",
             "overallPct": overall_pct, "overallW": all_["w"], "liveSos": live_sos,
             **conf,
@@ -2263,6 +2270,14 @@ def build_home_summary(team_schedules, caa_standings, player_leaderboards,
                           "of": len(caa_standings["south"]), "pts": caa_row["pts"],
                           "record": f"{caa_row['w']}-{caa_row['l']}-{caa_row['d']}"}
                          if caa_row else None),
+        # Full South division standings table (added 2026-09-15, Colin's
+        # ask: "add the south division standings to home page") -- the
+        # exact same `compute_caa_standings()["south"]` rows the CAA page's
+        # own South table renders, so the two pages can never disagree.
+        # home.html ports the same renderTable()-style markup CAA page uses
+        # (including the new nonConfRecord column) rather than a second
+        # implementation.
+        "caaSouthStandings": caa_standings.get("south") or [],
         "nextFixture": next_fixture,
         "lastResult": last_result,
         "leaders": leaders,
