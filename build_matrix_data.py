@@ -1969,6 +1969,14 @@ def build_match_center(match_xlsx_path, xy_xlsx_path, lookup_xlsx_path, season="
                 # the two sides use different coordinate fields.
                 entry_shot_map = {
                     "usFrame": _shot_points(shots[shots["Team"] == "UNCW"], use_frame=True),
+                    # UNCW Shot Map (added 2026-09-15, Colin's follow-up ask
+                    # for a 3rd panel alongside the goal-frame chart): UNCW's
+                    # own shots on the pitch, using the exact same plain
+                    # shot-origin X/Y already used for the opponent's panel --
+                    # this data has always existed for UNCW's own shots too
+                    # (see _shot_points()'s use_frame=False path), it just
+                    # wasn't rendered anywhere until now.
+                    "usPitch": _shot_points(shots[shots["Team"] == "UNCW"], use_frame=False),
                     "oppPitch": _shot_points(shots[shots["Team"] == "Opponent"], use_frame=False),
                 }
 
