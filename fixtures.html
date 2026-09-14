@@ -119,26 +119,54 @@
      empty/misleading chart), and Opponent's shots plotted on a simplified
      attacking-third pitch diagram (plain shot-origin X/Y, which -- unlike
      ShotX/ShotY -- is populated back to the earliest 2024 match) since
-     Colin doesn't track opponents' on-frame placement. Both panels share
-     one result/xG legend. Placed directly below the Match Statistics/
-     Match Objectives row, above the Flow charts. */
+     Colin doesn't track opponents' on-frame placement. Placed directly
+     below the Match Statistics/Match Objectives row, above the Flow
+     charts.
+
+     Redesigned 2026-09-15 per Colin's follow-up feedback: dots were much
+     too big relative to the pitch/frame diagrams (shrunk drastically,
+     see shotRadius()/frameRadius() in the JS below); there was no legend
+     explaining the colors (now one legend per panel, since the two
+     panels use different color schemes -- see below); a goal is now drawn
+     as a small schematic soccer-ball glyph instead of a plain dot
+     (renderBallIcon()); every non-goal dot's edge color is deliberately
+     different from its fill color (Colin: "I like the edge and fill
+     colors being different"); and the two panels now use two distinct
+     color schemes -- UNCW's own shots keep the site's teal/navy/yellow
+     palette (.shotmap-dot-*), while Opponent's shots use a black-to-white-
+     with-grey-in-the-middle scheme across the same three categories
+     (.shotmap-dot-opp-*), per Colin's explicit ask. The opponent panel
+     also now points its attacking direction DOWN (goal at the bottom of
+     its own panel) instead of matching UNCW's "up" orientation, so the
+     two stacked panels read like one continuous pitch with both teams
+     shooting away from a shared halfway line in the middle. */
   .shotmap-wrap { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px 10px; margin-bottom: 14px; }
-  .shotmap-stack { display: flex; flex-direction: column; gap: 18px; margin-top: 8px; }
+  .shotmap-stack { display: flex; flex-direction: column; gap: 20px; margin-top: 8px; }
   .shotmap-panel h4 { margin: 0 0 4px; font-size: 12px; font-weight: 600; color: var(--navy); }
   .shotmap-panel svg { width: 100%; max-width: 460px; height: auto; display: block; margin: 0 auto; background: var(--bg); border-radius: 6px; }
   .shotmap-goal-frame { fill: none; stroke: var(--navy); stroke-width: 0.7; }
   .shotmap-ground { stroke: var(--border); stroke-width: 0.5; }
   .shotmap-pitch-outline { fill: #eef6f0; stroke: var(--navy); stroke-width: 0.7; }
   .shotmap-pitch-line { fill: none; stroke: var(--navy); stroke-width: 0.5; opacity: 0.6; }
-  .shotmap-dot-goal { fill: var(--win-text); stroke: #fff; stroke-width: 0.4; }
-  .shotmap-dot-save { fill: var(--teal); stroke: #fff; stroke-width: 0.3; }
-  .shotmap-dot-block { fill: var(--muted); stroke: #fff; stroke-width: 0.3; }
-  .shotmap-dot-post { fill: var(--yellow); stroke: var(--navy); stroke-width: 0.3; }
-  .shotmap-dot-off { fill: rgba(92, 114, 128, 0.15); stroke: var(--muted); stroke-width: 0.5; }
-  .shotmap-dot-other { fill: rgba(92, 114, 128, 0.35); stroke: none; }
-  .shotmap-legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: 11px; color: var(--muted); margin-top: 8px; }
+  /* UNCW's own shots: teal/navy/yellow, edge always different from fill. */
+  .shotmap-dot-save { fill: var(--teal); stroke: var(--navy); }
+  .shotmap-dot-off { fill: var(--navy); stroke: var(--teal); }
+  .shotmap-dot-block { fill: var(--yellow); stroke: var(--navy); }
+  /* Opponent's shots: black / grey (middle) / white, edge always
+     different from fill -- same three categories, a separate palette. */
+  .shotmap-dot-opp-save { fill: #1a1a1a; stroke: #f5f5f5; }
+  .shotmap-dot-opp-off { fill: #9aa0a6; stroke: #1a1a1a; }
+  .shotmap-dot-opp-block { fill: #f5f5f5; stroke: #1a1a1a; }
+  /* Goal -- a small schematic soccer-ball glyph (white disc, black
+     outline, pentagon + seam lines), same on both panels. */
+  .shotmap-ball-base { fill: #fff; stroke: #111; }
+  .shotmap-ball-seam { stroke: #111; }
+  .shotmap-ball-pentagon { fill: #111; }
+  .shotmap-legend { display: flex; gap: 12px; flex-wrap: wrap; font-size: 11px; color: var(--muted); margin-top: 6px; }
   .shotmap-legend span { display: inline-flex; align-items: center; gap: 4px; }
-  .shotmap-legend .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .shotmap-legend .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; border: 1.4px solid; box-sizing: border-box; }
+  .shotmap-legend .ball { width: 10px; height: 10px; border-radius: 50%; display: inline-block; background: #fff; border: 1.2px solid #111; position: relative; box-sizing: border-box; }
+  .shotmap-legend .ball::after { content: ""; position: absolute; top: 50%; left: 50%; width: 3.5px; height: 3.5px; background: #111; border-radius: 1px; transform: translate(-50%, -50%); }
 </style>
 </head>
 <body data-page="fixtures">
@@ -202,19 +230,25 @@
         <div class="shotmap-panel">
           <h4>UNCW shot placement (on frame)</h4>
           <div id="shotmap-us"></div>
+          <div class="shotmap-legend">
+            <span><i class="ball"></i>Goal</span>
+            <span><i class="dot" style="background:var(--teal);border-color:var(--navy);"></i>Saved</span>
+            <span><i class="dot" style="background:var(--navy);border-color:var(--teal);"></i>Off target</span>
+            <span><i class="dot" style="background:var(--yellow);border-color:var(--navy);"></i>Blocked</span>
+            <span style="margin-left:auto;">Dot size ~ xG</span>
+          </div>
         </div>
         <div class="shotmap-panel">
           <h4>Opponent shot locations (on pitch)</h4>
           <div id="shotmap-opp"></div>
+          <div class="shotmap-legend">
+            <span><i class="ball"></i>Goal</span>
+            <span><i class="dot" style="background:#1a1a1a;border-color:#f5f5f5;"></i>Saved</span>
+            <span><i class="dot" style="background:#9aa0a6;border-color:#1a1a1a;"></i>Off target</span>
+            <span><i class="dot" style="background:#f5f5f5;border-color:#1a1a1a;"></i>Blocked</span>
+            <span style="margin-left:auto;">Dot size ~ xG</span>
+          </div>
         </div>
-      </div>
-      <div class="shotmap-legend">
-        <span><i class="dot" style="background:var(--win-text);"></i>Goal</span>
-        <span><i class="dot" style="background:var(--teal);"></i>Saved</span>
-        <span><i class="dot" style="background:var(--muted);"></i>Blocked</span>
-        <span><i class="dot" style="background:var(--yellow);border:1px solid var(--navy);"></i>Hit post</span>
-        <span><i class="dot" style="background:rgba(92,114,128,0.15);border:1px solid var(--muted);"></i>Off target</span>
-        <span style="margin-left:auto;">Dot size ~ xG</span>
       </div>
     </div>
     <div class="tables-row">
@@ -591,44 +625,102 @@ function stepChart(canvasId, prev, minutes, usValues, opValues, yLabel) {
   });
 }
 
-// ---- Shot Map (2026-09-14, Colin's ask -- see the CSS comment above for
-// the full context) ----
-const SHOT_RESULT_CLASS = {goal: "shotmap-dot-goal", save: "shotmap-dot-save",
-  block: "shotmap-dot-block", post: "shotmap-dot-post", off: "shotmap-dot-off"};
-function shotDotClass(result) { return SHOT_RESULT_CLASS[result] || "shotmap-dot-other"; }
-// Dot radius scales with xG (bigger = more dangerous chance), clamped to a
-// sane on-screen range regardless of how big/small an individual xG value
-// is. Two separate scales because the two panels use very differently
-// sized coordinate spaces -- the goal-frame viewBox is only ~44 units
-// wide, the pitch viewBox is 200; using the pitch-sized radius on the
-// frame panel made every dot overlap into an illegible blob (caught in a
-// screenshot review before shipping, fixed by scaling radius to each
-// panel's own viewBox rather than sharing one constant).
+// ---- Shot Map (2026-09-14, Colin's ask; redesigned 2026-09-15 per his
+// follow-up feedback -- see the CSS comment above for the full context) ----
+
+// Non-goal dot classes: UNCW keeps the site's teal/navy/yellow palette,
+// Opponent uses a separate black/grey/white palette across the same three
+// categories (Colin: "Use a different scheme for opponents shots ... a
+// black to white with grey in the middle scheme"). "Post" and any
+// unrecognized tag fold into "off target" styling -- Colin's ask named
+// exactly four outcomes (goal/saved/off target/blocked), so a shot that
+// hit the post (missed, same as "off") or carries a stray/unknown tag
+// (see _norm_shot_result's docstring in build_matrix_data.py) reads as
+// off-target rather than adding a fifth, unrequested category.
+const SHOT_RESULT_CLASS_US = {save: "shotmap-dot-save", off: "shotmap-dot-off",
+  block: "shotmap-dot-block", post: "shotmap-dot-off", other: "shotmap-dot-off"};
+const SHOT_RESULT_CLASS_OPP = {save: "shotmap-dot-opp-save", off: "shotmap-dot-opp-off",
+  block: "shotmap-dot-opp-block", post: "shotmap-dot-opp-off", other: "shotmap-dot-opp-off"};
+function shotDotClass(result, isOpp) {
+  const table = isOpp ? SHOT_RESULT_CLASS_OPP : SHOT_RESULT_CLASS_US;
+  return table[result] || (isOpp ? "shotmap-dot-opp-off" : "shotmap-dot-off");
+}
+
+// Dot radius scales gently with xG, clamped to a small range -- shrunk
+// drastically (2026-09-15, Colin: "Circles are too big ... reduce the
+// size drastically in relation to the pitch map") from the first
+// version's 3-9 / 1-3 ranges. Two separate scales because the two panels
+// use very differently sized coordinate spaces -- the goal-frame viewBox
+// is only ~44 units wide, the pitch viewBox is 200.
 function shotRadius(xg) {
   const v = typeof xg === "number" ? xg : 0;
-  return Math.max(3, Math.min(9, 3 + Math.sqrt(v) * 8));
+  return Math.max(1.6, Math.min(4, 1.6 + Math.sqrt(v) * 3.2));
 }
 function frameRadius(xg) {
   const v = typeof xg === "number" ? xg : 0;
-  return Math.max(1, Math.min(3, 1 + Math.sqrt(v) * 2.2));
+  return Math.max(0.55, Math.min(1.4, 0.55 + Math.sqrt(v) * 1.1));
 }
+// Goals get a fixed-size ball glyph rather than an xG-scaled dot -- the
+// ball pattern needs a minimum size to read as a ball at all, and (unlike
+// the other outcomes) a goal is a goal regardless of the pre-shot xG.
+const BALL_R_FRAME = 1.7, BALL_R_PITCH = 4.6;
+
 function shotTitle(p) {
   const parts = [p.player || "Shot", p.result || "shot"];
   if (typeof p.xg === "number") parts.push(`xG ${p.xg.toFixed(2)}`);
   return parts.join(" — ");
 }
 
-// Goal-frame diagram (UNCW's own shots): a small goal-mouth view using
-// ShotX/ShotY (roughly centered on goal, "Goal"/"Save" results cluster in
-// about [-11, 11] x [0, 8] -- confirmed via direct data inspection before
-// building this -- with "Off" results extending further out for wide/over
-// misses, which is exactly what a real shot-placement chart should show).
+// Small schematic soccer-ball glyph (white disc, black outline, a
+// pentagon in the middle with five seam lines radiating out to the edge)
+// -- Colin's ask: "Put a circle of a soccer ball for goals." A real
+// photo-style ball icon wouldn't read at a few pixels across, but this
+// high-contrast pentagon+seams pattern does.
+function renderBallIcon(cx, cy, r) {
+  const rp = r * 0.42;
+  const pts = [];
+  for (let k = 0; k < 5; k++) {
+    const theta = (-90 + k * 72) * Math.PI / 180;
+    pts.push([cx + rp * Math.cos(theta), cy + rp * Math.sin(theta)]);
+  }
+  const pentagon = pts.map(([px, py]) => `${px.toFixed(2)},${py.toFixed(2)}`).join(" ");
+  const sw = (r * 0.16).toFixed(2);
+  const seams = pts.map(([px, py]) => {
+    const dx = px - cx, dy = py - cy;
+    const len = Math.hypot(dx, dy) || 1;
+    const ex = cx + (dx / len) * r * 0.95, ey = cy + (dy / len) * r * 0.95;
+    return `<line class="shotmap-ball-seam" x1="${px.toFixed(2)}" y1="${py.toFixed(2)}" x2="${ex.toFixed(2)}" y2="${ey.toFixed(2)}" stroke-width="${sw}"/>`;
+  }).join("");
+  return `<circle class="shotmap-ball-base" cx="${cx.toFixed(2)}" cy="${cy.toFixed(2)}" r="${r.toFixed(2)}" stroke-width="${sw}"/>` +
+    `<polygon class="shotmap-ball-pentagon" points="${pentagon}"/>` + seams;
+}
+
+// One shot's marker: a ball glyph for a goal (same glyph either side --
+// a goal is a goal regardless of which team scored it), otherwise a
+// plain dot in that side's own color scheme with a stroke width that
+// scales down along with the radius so small dots still get a visible,
+// but not overpowering, edge (Colin: "I like the edge and fill colors
+// being different").
+function renderShotDot(p, cx, cy, radiusFn, ballR, isOpp) {
+  const title = `<title>${shotTitle(p)}</title>`;
+  if (p.result === "goal") return `<g>${renderBallIcon(cx, cy, ballR)}${title}</g>`;
+  const r = radiusFn(p.xg);
+  const sw = Math.max(0.25, r * 0.32).toFixed(2);
+  return `<circle class="${shotDotClass(p.result, isOpp)}" cx="${cx.toFixed(2)}" cy="${cy.toFixed(2)}" r="${r.toFixed(2)}" stroke-width="${sw}">${title}</circle>`;
+}
+
+// Goal-frame diagram (UNCW's own shots only): a small goal-mouth view
+// using ShotX/ShotY (roughly centered on goal, "Goal"/"Save" results
+// cluster in about [-11, 11] x [0, 8] -- confirmed via direct data
+// inspection before building this -- with "Off" results extending
+// further out for wide/over misses, which is exactly what a real
+// shot-placement chart should show).
 function renderGoalFrameSvg(points) {
   const HALF_W = 22, TOP = 18, BOTTOM = 3, GOAL_HALF = 11, GOAL_H = 8;
   const dots = points.map(p => {
     const cx = Math.max(-HALF_W, Math.min(HALF_W, p.x));
     const cy = -Math.max(-BOTTOM, Math.min(TOP, p.y));
-    return `<circle class="${shotDotClass(p.result)}" cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${frameRadius(p.xg).toFixed(1)}"><title>${shotTitle(p)}</title></circle>`;
+    return renderShotDot(p, cx, cy, frameRadius, BALL_R_FRAME, false);
   }).join("");
   return `<svg viewBox="${-HALF_W} ${-TOP} ${HALF_W * 2} ${TOP + BOTTOM}" preserveAspectRatio="xMidYMid meet">` +
     `<line class="shotmap-ground" x1="${-HALF_W}" y1="0" x2="${HALF_W}" y2="0"/>` +
@@ -636,27 +728,31 @@ function renderGoalFrameSvg(points) {
     dots + `</svg>`;
 }
 
-// Attacking-third pitch diagram (Opponent's shots): plain shot-origin X/Y
-// (0-100 scale in each team's own attacking direction), cropped to the
-// attacking third (X 66-100, which covers essentially every real shot --
-// confirmed via direct data inspection -- with the rare longer-range
-// effort clamped to the near edge rather than dropped). Attacking
-// direction points up, matching the goal-frame panel above it.
+// Attacking-third pitch diagram (Opponent's shots only): plain shot-origin
+// X/Y (0-100 scale in each team's own attacking direction), cropped to
+// the attacking third (X 66-100, which covers essentially every real shot
+// -- confirmed via direct data inspection -- with the rare longer-range
+// effort clamped to the near edge rather than dropped). Points DOWN
+// (their goal sits at the bottom of this panel) rather than matching the
+// goal-frame panel's "up" orientation above it -- Colin's ask, 2026-09-15:
+// "have their pitch going down to the bottom of the screen" -- so the two
+// stacked panels read like one continuous pitch, both teams shooting away
+// from a shared halfway line in the middle.
 function renderPitchSvg(points) {
   const W = 200, H = 104, X_MIN = 66, X_MAX = 100;
   const toSvgX = y => (y / 100) * W;
-  const toSvgY = x => H - ((Math.max(X_MIN, Math.min(X_MAX, x)) - X_MIN) / (X_MAX - X_MIN)) * H;
+  const frac = x => (Math.max(X_MIN, Math.min(X_MAX, x)) - X_MIN) / (X_MAX - X_MIN);
+  const toSvgY = x => frac(x) * H; // x=100 (at goal) -> H (bottom); x=66 -> 0 (top)
+  const goalY = H; // goal line sits on the bottom edge
   const goalW = (8 / 75) * W, boxW = (44 / 75) * W, boxD = (18 / 39.1) * H,
     sixW = (20 / 75) * W, sixD = (6 / 39.1) * H, cx0 = W / 2;
-  const dots = points.map(p => {
-    const cx = toSvgX(p.y), cy = toSvgY(p.x);
-    return `<circle class="${shotDotClass(p.result)}" cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${shotRadius(p.xg).toFixed(1)}"><title>${shotTitle(p)}</title></circle>`;
-  }).join("");
+  const boxY = goalY - boxD, sixY = goalY - sixD;
+  const dots = points.map(p => renderShotDot(p, toSvgX(p.y), toSvgY(p.x), shotRadius, BALL_R_PITCH, true)).join("");
   return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">` +
     `<rect class="shotmap-pitch-outline" x="0" y="0" width="${W}" height="${H}"/>` +
-    `<rect class="shotmap-pitch-line" x="${(cx0 - boxW / 2).toFixed(1)}" y="0" width="${boxW.toFixed(1)}" height="${boxD.toFixed(1)}"/>` +
-    `<rect class="shotmap-pitch-line" x="${(cx0 - sixW / 2).toFixed(1)}" y="0" width="${sixW.toFixed(1)}" height="${sixD.toFixed(1)}"/>` +
-    `<line class="shotmap-pitch-line" x1="${(cx0 - goalW / 2).toFixed(1)}" y1="0" x2="${(cx0 + goalW / 2).toFixed(1)}" y2="0" stroke-width="1.4"/>` +
+    `<rect class="shotmap-pitch-line" x="${(cx0 - boxW / 2).toFixed(1)}" y="${boxY.toFixed(1)}" width="${boxW.toFixed(1)}" height="${boxD.toFixed(1)}"/>` +
+    `<rect class="shotmap-pitch-line" x="${(cx0 - sixW / 2).toFixed(1)}" y="${sixY.toFixed(1)}" width="${sixW.toFixed(1)}" height="${sixD.toFixed(1)}"/>` +
+    `<line class="shotmap-pitch-line" x1="${(cx0 - goalW / 2).toFixed(1)}" y1="${goalY.toFixed(1)}" x2="${(cx0 + goalW / 2).toFixed(1)}" y2="${goalY.toFixed(1)}" stroke-width="1.4"/>` +
     dots + `</svg>`;
 }
 
