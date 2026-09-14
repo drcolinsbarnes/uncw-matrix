@@ -31,6 +31,30 @@
   .leaders-row .card .nm { font-size: 15px; font-weight: 700; color: var(--navy); }
   .leaders-row .card .val { font-size: 12px; color: var(--muted); }
   .leaders-note { font-size: 11px; color: var(--muted); margin-top: 6px; }
+
+  /* Season Record dashboard -- added 2026-09-14, Colin: "let's add the
+     season record dashboard to the home page" (Fixtures got its own the
+     same week; see site-restructure-plan.md). Same stat-grid/stat-tile
+     look ported verbatim from national_rpi_template.html's team-detail
+     header / fixtures.html's Season Record section, fixed 6 columns (not
+     auto-fit) so the 12 tiles land as a clean 6-over-6 grid with Home
+     starting row 2 -- same fix applied to those two other pages the same
+     day. Narrower than 760px (this project's established mobile
+     breakpoint, see sidebar.css) drops to 3 columns. */
+  .stat-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 8px; margin: 4px 0 6px; max-width: 760px; }
+  .stat-tile { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 8px 10px; text-align: center; }
+  .stat-tile .v { font-size: 16px; font-weight: 700; color: var(--navy); }
+  .stat-tile .l { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.3px; margin-top: 2px; }
+  @media (max-width: 760px) {
+    .stat-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  .form { display: inline-flex; gap: 3px; justify-content: center; }
+  .form-circle { display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; border-radius: 50%; font-size: 10px; font-weight: 700; color: #fff; flex: none; }
+  .form-w { background: #2e7d32; }
+  .form-l { background: #c62828; }
+  .form-d { background: #78909c; }
+  .pos { color: var(--win-text); }
+  .neg { color: var(--loss-text); }
 </style>
 </head>
 <body data-page="home">
@@ -41,6 +65,10 @@
     <p class="sub" id="home-sub">Loading season snapshot&hellip;</p>
 
     <div class="snapshot-row" id="snapshot-row"></div>
+
+    <h2 class="section-title">Season Record</h2>
+    <p class="note" id="season-stats-note" style="display:none;"></p>
+    <div class="stat-grid" id="season-stats"></div>
 
     <h2 class="section-title">This Week</h2>
     <div class="home-row">
@@ -62,8 +90,35 @@
 <script src="sidebar.js?v=3"></script>
 <script>
 // HOME_SUMMARY_START
-const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-3", "rpi": {"value": 0.5815, "rank": 64, "gp": 8, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "nextFixture": {"date": "2026-09-10", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "rpi": 51, "opponentRecord": "4-3-0"}, "lastResult": {"date": "2026-09-06", "opponent": "High Point", "result": "Win", "fullTimeScore": "4-2", "venue": "Home", "hasStats": true}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06"};
+const HOME_SUMMARY = {"team": "UNC Wilmington", "logo": "https://uncw.edu/media/images/logos/brand/secondary-athletics-logo-notpad-our.png", "record": "5-0-4", "rpi": {"value": 0.5784, "rank": 67, "gp": 9, "total": 342}, "caaStanding": {"division": "South", "rank": 1, "of": 6, "pts": 0, "record": "0-0-0"}, "nextFixture": {"date": "2026-09-10", "opponent": "Charlotte", "venue": "Away", "city": "Charlotte, NC", "rpi": 51, "opponentRecord": "4-3-0"}, "lastResult": {"date": "2026-09-06", "opponent": "High Point", "result": "Win", "fullTimeScore": "4-2", "venue": "Home", "hasStats": true}, "leaders": [{"label": "Goal Contributions", "name": "C. Leonard", "value": 5}, {"label": "Defensive Contribution / 90", "name": "R. Fry", "value": 6.15}, {"label": "Distance / 90", "name": "V. Hankova", "value": 14845}], "asOf": "2026-09-06", "seasonStats": {"rank": 67, "rpiTotal": 0.5762, "rpiAdjusted": 0.5784, "record": "5-0-4", "gf": 15, "ga": 6, "gd": 9, "homeRecord": "2-0-3", "awayRecord": "3-0-1", "confRecord": "0-0-0", "nonConfRecord": "5-0-4", "last5": ["D", "D", "W", "W", "D"], "vsTop100": "3-0-1"}};
 // HOME_SUMMARY_END
+
+// Season Record dashboard helpers -- ported verbatim from
+// national_rpi_template.html / fixtures.html's Season Record section so
+// the same numbers format identically across all three pages.
+function fmtPct(v) {
+  if (v === null || v === undefined) return "—";
+  let s = v.toFixed(3);
+  if (s.startsWith("0.")) s = s.slice(1);
+  else if (s.startsWith("-0.")) s = "-" + s.slice(2);
+  return s;
+}
+
+function fmtGD(v) {
+  if (v === null || v === undefined) return "—";
+  if (v > 0) return `<span class="pos">+${v}</span>`;
+  if (v < 0) return `<span class="neg">${v}</span>`;
+  return "0";
+}
+
+function renderFormCircles(results) {
+  if (!results || !results.length) return "—";
+  return `<span class="form">` + results.map(r => {
+    const cls = r === "W" ? "form-w" : r === "L" ? "form-l" : "form-d";
+    const title = r === "W" ? "Win" : r === "L" ? "Loss" : "Draw";
+    return `<span class="form-circle ${cls}" title="${title}">${r}</span>`;
+  }).join("") + `</span>`;
+}
 
 // This whole render is wrapped in try/catch, same isolation practice
 // adopted after the 2026-09-12 Match Center outage -- a data problem here
@@ -91,6 +146,34 @@ try {
       <div class="card accent-top metric"><div class="label">National RPI Rank</div><div class="value">${rpiText}</div></div>
       <div class="card accent-top metric"><div class="label">CAA Standing</div><div class="value">${caaText}</div></div>
     `;
+
+    const S = h.seasonStats;
+    const statsGrid = document.getElementById("season-stats");
+    const statsNote = document.getElementById("season-stats-note");
+    if (!S) {
+      statsGrid.innerHTML = "";
+      statsNote.style.display = "";
+      statsNote.textContent = "No season record data yet.";
+    } else {
+      statsNote.style.display = "none";
+      statsNote.textContent = "";
+      // Same tile order/6-over-6 grid as Fixtures' and the National RPI
+      // page's Season Record sections (Home is 7th on purpose).
+      statsGrid.innerHTML = [
+        ["Nat'l Rank", S.rank != null ? "#" + S.rank : "—"],
+        ["RPI Total", fmtPct(S.rpiTotal)],
+        ["Adjusted RPI", fmtPct(S.rpiAdjusted)],
+        ["Record", S.record],
+        ["Goals F-A", `${S.gf}-${S.ga}`],
+        ["Goal Diff", fmtGD(S.gd)],
+        ["Home", S.homeRecord],
+        ["Away", S.awayRecord],
+        ["Conference", S.confRecord],
+        ["Non-Conference", S.nonConfRecord],
+        ["Form", renderFormCircles(S.last5)],
+        ["vs Top 100", S.vsTop100],
+      ].map(([label, val]) => `<div class="stat-tile"><div class="v">${val}</div><div class="l">${label}</div></div>`).join("");
+    }
 
     const nf = h.nextFixture;
     document.getElementById("next-fixture-body").innerHTML = nf ? `
