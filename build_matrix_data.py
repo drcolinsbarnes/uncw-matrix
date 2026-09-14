@@ -106,21 +106,20 @@ DREXEL_SCHEDULE = [
 # Charlotte game turned out to already be in the scraper with an identical
 # 2-0 score, so that entry would have been pure dead weight -- left out
 # entirely rather than added and immediately removed. Coastal Carolina was
-# still unplayed (NaN score) in the raw scrape, so that one entry is real
-# and needed. This corrects UNCW's own record/RPI/live-RPI network
-# everywhere those are computed from `scrape` or team_schedules (main
-# matrix, Home, CAA standings, National RPI, and the new Season Record
-# dashboards on Home/Fixtures -- all of which read through
-# compute_live_rpi()/build_national_rpi_data() on the augmented scrape). It
-# does NOT touch Fixtures' own per-match Schedule row or Form/Goals/Flow
-# trend charts for this game -- those come from a different file
-# (PlayerMatchReport.xlsx via build_match_center()), which CONFIRMED_RESULTS
-# never writes to, so it'll keep showing as upcoming there until Colin
-# enters the full Coaches Match Booklet stats for it. Remove this line once
-# the scraper/PlayerMatchReport.xlsx catch up with a matching score, per
-# the standing convention above.
+# still unplayed (NaN score) in the raw scrape at the time, so that one
+# entry was added for real.
+#
+# 2026-09-14, same day, later rebuild: the scraper caught up on Coastal
+# Carolina too (raw scrape now shows the identical 0-0 -- hand-verified the
+# resulting 5-0-4 record comes out the same with or without this entry
+# before removing it), so per the module's own hygiene rule this entry is
+# now pure dead weight and has been removed entirely. Leaving this comment
+# block as a worked example of the pattern for the next time a result needs
+# a manual override: check the raw scrape first, add only what's genuinely
+# missing, and remove it the moment the scraper (or, for
+# PlayerMatchReport.xlsx-derived views, the Coaches Match Booklet data
+# entry) independently confirms the same number.
 CONFIRMED_RESULTS = [
-    ("UNC Wilmington", "Coastal Carolina", True, None, "0-0"),
 ]
 
 # ---------------------------------------------------------------------------
