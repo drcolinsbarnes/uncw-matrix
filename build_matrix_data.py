@@ -1782,6 +1782,279 @@ def build_player_leaderboards(player_xlsx_path):
     }
 
 
+# Chronological season order for the Career tab's season-by-season rows --
+# same 6 seasons build_fixtures_summary()'s FIXTURES_SEASONS covers.
+SQUAD_SEASON_ORDER = ["Spring 2024", "Fall 2024", "Spring 2025",
+                      "Fall 2025", "Spring 2026", "Fall 2026"]
+
+# ---------------------------------------------------------------------------
+# Season rosters: who was actually ON THE TEAM each season, independent of
+# whether they show up in fDataMatch.xlsx that season.
+#
+# Root problem (Colin, 2026-09-15): a roster derived purely from "which
+# players have match rows this season" silently drops anyone who was
+# rostered but didn't play a single match -- confirmed via direct
+# fDataMatch.xlsx inspection that this is exactly what happens to Jada
+# Tuffin (redshirt/injured, a complete gap across all of Fall 2025 --
+# she has rows in Spring 2025 and again from Spring 2026 on, nothing in
+# between) and Tilly Thomas (zero rows anywhere before Fall 2026, despite
+# being on the team since at least Fall 2025). A match-derived Squad page
+# would make both of them invisible for the season they were actually on
+# the roster.
+#
+# Colin's fix (his own instruction, verbatim): "check out the roster on
+# this page, https://uncwsports.com/sports/womens-soccer/roster and use
+# the drop down to select the season for 25 and 24." So this table is
+# scraped directly from uncwsports.com's own roster page rather than
+# derived from match data or hand-guessed:
+#   Fall 2024: https://uncwsports.com/sports/womens-soccer/roster/2024
+#   Fall 2025: https://uncwsports.com/sports/womens-soccer/roster/2025
+#   Fall 2026: https://uncwsports.com/sports/womens-soccer/roster (current)
+# Scraped 2026-09-15 via browser automation (uncwsports.com blocked
+# WebFetch with a PROVENANCE_REQUIRED error every time) and matched to
+# this project's canonical "Player" IDs (PlayerMatchReport.xlsx's Players
+# sheet) by (first name, last name), falling back to a last-name-only
+# match when exactly one player in the Players sheet shares that last
+# name -- needed for a few nickname/short-name mismatches between the
+# website and the Players sheet (e.g. "Anna Perry Sinclair" -> "A.
+# Sinclair", "Meg Umemoto" -> "M. Umemoto"). One entry (Fall 2024's Nora
+# Moellerup) needed a manual add: the Players sheet spells her name with
+# the Danish "o with stroke" (Møllerup), the website spells it with the
+# transliterated "oe" digraph (Moellerup) -- two genuinely different
+# strings after normalization, not a bug in the matching code.
+#
+# This scrape also corrected a real mistake in this project's own prior
+# documentation (site-restructure-plan.md's Round 5 write-up): A. Sinclair
+# and K. Hilton were assumed to be true freshmen/newcomers as of Fall 2026
+# (an identity row in the Players sheet with zero match rows, read as
+# "hasn't debuted yet"). The scraped roster pages prove that's wrong for
+# both -- they each appear ONLY on the Fall 2024 roster (as a Sophomore and
+# a Freshman respectively) and are absent from both the Fall 2025 and Fall
+# 2026 roster pages. They were rostered-but-never-appeared-in-fDataMatch
+# for one season, then left the program -- not upcoming newcomers. Of the
+# three players build_squad_data() previously grouped together this way,
+# only J. Blokker is a genuine true freshman (appears solely on the Fall
+# 2026 roster page). Flagged to Colin in this round's write-up.
+#
+# Spring rosters were not separately requested/scraped (Colin's instruction
+# named "25 and 24", i.e. the Fall seasons, plus Fall 2026 which is already
+# the Players sheet's live current roster). Spring N's roster is
+# approximated here as the adjacent prior Fall's website roster UNIONED
+# with anyone who actually has a match row that Spring (to catch a
+# genuine mid-year arrival/departure the Fall snapshot wouldn't show) --
+# flagged as an approximation, not a scrape, should Colin want the real
+# Spring dropdown pulled the same way later.
+ROSTER_BY_SEASON = {
+    "Fall 2024": [
+        "A. Burrus", "A. Forster", "A. Norr", "A. Parker", "A. Pierson",
+        "A. Planeaux", "A. Sinclair", "A. Tsumas", "A. Vaneus", "A. Vaughan",
+        "Al. Chuderewicz", "Av. Chuderewicz", "B. Booth", "B. Spadin",
+        "C. Keane", "E. Bowbliss", "K. Burroughs", "K. Cox", "K. Hilton",
+        "K. Pope", "L. Vegoda", "M. Hobbs", "M. Nunez", "N. Poole", "R. Fry",
+        "S. Beesley", "S. Zinn", "T. O'Brien", "V. Hankova",
+        "N. Møllerup",  # manual add -- website spells "Moellerup", see note above
+    ],
+    "Fall 2025": [
+        "A. Burrus", "A. Parker", "A. Pierson", "A. Planeaux", "A. Tsumas",
+        "A. Vaughan", "Al. Chuderewicz", "Av. Chuderewicz", "B. Booth",
+        "C. Wright", "E. Degnan", "E. Larimer", "G. Maynard", "H. Longwell",
+        "H. Murphy", "J. Tuffin", "K. Adams", "K. Pope", "L. Lenhard",
+        "L. Newnam", "M. Hobbs", "M. Lutz", "M. Umemoto", "N. Poole",
+        "R. Bodas", "R. Fry", "T. O'Brien", "T. Thomas", "V. Hankova",
+        "Z. Anderson",
+    ],
+    "Fall 2026": [
+        "A. Pierson", "A. Planeaux", "A. Stephens", "A. Vaughan",
+        "Al. Chuderewicz", "Av. Chuderewicz", "B. Booth", "C. Leonard",
+        "C. McIntyre", "C. Wright", "E. Degnan", "E. Larimer", "E. Marlovits",
+        "G. Maynard", "H. Longwell", "H. Murphy", "I. Welsh", "J. Blokker",
+        "J. Tuffin", "K. Polizzi", "K. Pope", "K. Watkins", "L. Newnam",
+        "L. White", "M. Lutz", "M. Umemoto", "R. Fry", "R. Hamilton",
+        "R. Morrow", "T. Thomas", "V. Hankova", "Z. Anderson",
+    ],
+}
+
+
+def roster_for_season(season, match_players):
+    """Resolve a season's roster: the scraped ROSTER_BY_SEASON entry when
+    one exists (Fall 2024/2025/2026 -- see the table's own comment above),
+    else for a Spring season the adjacent prior Fall's roster unioned with
+    `match_players` (whoever actually has a match row that Spring, an
+    iterable of Player IDs) so a genuine mid-year arrival/departure still
+    shows up even though no Spring scrape was done. Falls back to just
+    `match_players` for a season with no adjacent Fall at all.
+    """
+    if season in ROSTER_BY_SEASON:
+        return set(ROSTER_BY_SEASON[season])
+    if season.startswith("Spring "):
+        prior_fall = f"Fall {int(season.split()[1]) - 1}"
+        base = set(ROSTER_BY_SEASON.get(prior_fall, []))
+        return base | set(match_players)
+    return set(match_players)
+
+
+# fDataMatch.xlsx mixes in 12 non-player rows PER MATCH that are easy to
+# miss: "15UNCW"/"15Opponent"/"30UNCW"/... /"90Opponent" -- per-window
+# Match Flow snapshots (see build_match_center()'s docstring), not
+# players. An earlier pass at this data (player-report-cards-plan.md,
+# 2026-09-12) counted "66 unique players" without excluding these, which
+# overstated how many players are missing a Players-sheet entry (~10
+# reported vs. the real number, 1 -- see build_squad_table()'s docstring).
+_MATCH_FLOW_PSEUDO_ROW = re.compile(r"^\d+(UNCW|Opponent)$")
+
+
+# ---- Squad rebuild, Round 7 (started 2026-09-15, Colin's ask: replace the
+# leaderboard dashboard with a Stats-page-style wide table, players as
+# rows, same category toggle, plus position/season filters and a
+# totals/per-90 tick box) ----
+#
+# PLAYER_STAT_CATALOG is the player-level analog of STAT_CATALOG above --
+# same attacking/defending/transition/physical scheme (replacing Squad's
+# old attacking/defending/physical/goalkeeping scheme in SQUAD_CATEGORIES,
+# which this round removes -- Colin's ask was explicitly for "the same
+# toggle at the top" as Stats, not a player-specific category set) so a
+# stat reads the same on Squad as it does on Stats.
+#
+# Every entry here is a straight sum of one or more raw fDataMatch.xlsx
+# columns over whatever slice of rows it's given (one match, one season,
+# a whole career) -- the handful of stats that need something more than a
+# sum (RoP DZ Entries, DZ Defending success %, Impact Score) are handled
+# by dedicated code below/in build_squad_table() instead of living in this
+# table, same split _player_slice_metrics() already used.
+#
+# Column choices below were checked against fDataMatch.xlsx directly
+# (2026-09-15) to avoid the file's several near-duplicate/legacy columns,
+# confirmed dead (all-zero, zero non-null rows) vs. the real column
+# actually populated:
+#   "Shot Total" (not "Shot"), "Key pass" (not "Key Passes"),
+#   "Att Challenge Successful" (not the "Att Challeng Successful" typo),
+#   "Lost balls own half" (not the trailing-space "Lost balls in own
+#   half " variant). "Shot On Target" is ALSO a dead column (0 non-null
+#   rows) -- shots on target is derived the same way the team-level
+#   STAT_CATALOG derives it, Goal + Shot Saved (confirmed "Shot Saved" is
+#   tagged on the SHOOTER's row for a shot the opposing keeper saved, not
+#   on the keeper's own row -- 46 different UNCW players have a nonzero
+#   Shot Saved count, not just the keepers).
+# "Dives"/"Jumps" are GK-only (non-null for only 97 of ~2000 player-match
+# rows in a spot check) -- included anyway since an outfield player's
+# total is always a clean 0 rather than blank, and they're only
+# meaningful once the position filter is set to GK.
+PLAYER_STAT_CATALOG = [
+    # -- Attacking --
+    {"key": "goals", "label": "Goals", "category": "attacking", "cols": ["Goal"]},
+    {"key": "assists", "label": "Assists", "category": "attacking", "cols": ["Assist"]},
+    {"key": "gc", "label": "Goal Contributions", "category": "attacking", "cols": ["Goal", "Assist"]},
+    {"key": "xG", "label": "xG", "category": "attacking", "cols": ["xG"]},
+    {"key": "xA", "label": "xA", "category": "attacking", "cols": ["xA"]},
+    {"key": "shotsTotal", "label": "Total Shots", "category": "attacking", "cols": ["Shot Total"]},
+    {"key": "shotsOn", "label": "Shots On", "category": "attacking", "cols": ["Goal", "Shot Saved"]},
+    {"key": "shotsOff", "label": "Shots Off", "category": "attacking", "cols": ["Shot Off Target"]},
+    {"key": "shotsBlocked", "label": "Shots Blocked", "category": "attacking", "cols": ["Shot Blocked"]},
+    {"key": "shotAssist", "label": "Shot Assists", "category": "attacking", "cols": ["Shot Assist"]},
+    {"key": "shotContribution", "label": "Shot Contribution", "category": "attacking", "cols": ["Shot Contribution"]},
+    {"key": "keyPass", "label": "Key Passes", "category": "attacking", "cols": ["Key pass"]},
+    {"key": "cornerEarned", "label": "Corners Earned", "category": "attacking", "cols": ["Corner Earned"]},
+    {"key": "dzEntries", "label": "DZ Entries", "category": "attacking",
+     "cols": ["DZ Dribble", "DZ Pass", "DZ Cross", "DZ Set Piece", "DZ Shot", "DZ Regain"]},  # == DZ_ENTRY_COLS (defined later, near MATCH_FLOW_WEIGHTS)
+    {"key": "dzDribble", "label": "DZ Dribbles", "category": "attacking", "cols": ["DZ Dribble"]},
+    {"key": "dzPass", "label": "DZ Passes", "category": "attacking", "cols": ["DZ Pass"]},
+    {"key": "dzCross", "label": "DZ Crosses", "category": "attacking", "cols": ["DZ Cross"]},
+    {"key": "dzSetPiece", "label": "DZ Set Pieces", "category": "attacking", "cols": ["DZ Set Piece"]},
+    {"key": "dzShot", "label": "DZ Shots", "category": "attacking", "cols": ["DZ Shot"]},
+    {"key": "entryPassTo9", "label": "Entry Pass to 9", "category": "attacking", "cols": ["Entry Pass to 9"]},
+    {"key": "crossSuccessful", "label": "Crosses Successful", "category": "attacking", "cols": ["Cross Successful"]},
+    {"key": "crossUnsuccessful", "label": "Crosses Unsuccessful", "category": "attacking", "cols": ["Cross Unsuccessful"]},
+    {"key": "faceUp", "label": "Face Ups", "category": "attacking", "cols": ["Face up"]},
+    {"key": "win2", "label": "Win+2", "category": "attacking", "cols": ["Win2"]},
+    {"key": "creativeAction", "label": "Creative Actions", "category": "attacking", "cols": ["Creative Action"]},
+    {"key": "firstContact", "label": "First Contact (SP)", "category": "attacking", "cols": ["First Contact on SP"]},
+    {"key": "switch", "label": "Switches", "category": "attacking", "cols": ["Switch"]},
+    {"key": "foulEarned", "label": "Fouls Earned", "category": "attacking", "cols": ["Foul Earned"]},
+    {"key": "penaltyEarned", "label": "Penalties Earned", "category": "attacking", "cols": ["Penalty Earned"]},
+    {"key": "offside", "label": "Offsides", "category": "attacking", "cols": ["Offside"]},
+    # -- Defending --
+    {"key": "interceptions", "label": "Interceptions", "category": "defending", "cols": ["Interceptions"]},
+    {"key": "tackle", "label": "Tackles", "category": "defending", "cols": ["Tackle"]},
+    {"key": "defChallengeSuccessful", "label": "Def Challenges Won", "category": "defending", "cols": ["Def Challenge Successful"]},
+    {"key": "defChallengeUnsuccessful", "label": "Def Challenges Lost", "category": "defending", "cols": ["Def Challenge Unsuccessful"]},
+    {"key": "defContrib", "label": "Defensive Contribution", "category": "defending",
+     "cols": ["Interceptions", "Def Challenge Successful"]},
+    {"key": "clSecured", "label": "Clearances Secured", "category": "defending", "cols": ["CL Secured"]},
+    {"key": "clSuccessful", "label": "Clearances Successful", "category": "defending", "cols": ["CL Successful"]},
+    {"key": "clUnsuccessful", "label": "Clearances Unsuccessful", "category": "defending", "cols": ["CL Unsuccessful"]},
+    {"key": "bsSuccessful", "label": "Block Shots Successful", "category": "defending", "cols": ["BS Successful"]},
+    {"key": "bsUnsuccessful", "label": "Block Shots Unsuccessful", "category": "defending", "cols": ["BS Unsuccessful"]},
+    {"key": "bcSuccessful", "label": "Block Crosses Successful", "category": "defending", "cols": ["BC Successful"]},
+    {"key": "bcUnsuccessful", "label": "Block Crosses Unsuccessful", "category": "defending", "cols": ["BC Unsuccessful"]},
+    {"key": "dzDefending", "label": "DZ Defending", "category": "defending",
+     "cols": ["CL Secured", "CL Successful", "BS Successful", "BC Successful"]},
+    {"key": "doubleDown", "label": "Double Downs", "category": "defending", "cols": ["Double Down"]},
+    {"key": "headerSuccessful", "label": "Headers Won", "category": "defending", "cols": ["Header Successful"]},
+    {"key": "headerUnsuccessful", "label": "Headers Lost", "category": "defending", "cols": ["Header Unsuccessful"]},
+    {"key": "foulConceded", "label": "Fouls Conceded", "category": "defending", "cols": ["Foul Conceded"]},
+    {"key": "defFoulConceded", "label": "Def Half Fouls Conceded", "category": "defending", "cols": ["Def Foul Conceded"]},
+    {"key": "professionalFoul", "label": "Professional Fouls", "category": "defending", "cols": ["Professional Foul"]},
+    {"key": "penaltyConceded", "label": "Penalties Conceded", "category": "defending", "cols": ["Penalty Conceded"]},
+    {"key": "yellow", "label": "Yellow Cards", "category": "defending", "cols": ["Yellow"]},
+    {"key": "red", "label": "Red Cards", "category": "defending", "cols": ["Red"]},
+    {"key": "cleansheets", "label": "Clean Sheets", "category": "defending", "cols": ["Cleansheet"]},
+    # -- Transition --
+    {"key": "regainAttHalf", "label": "Att Half Regains", "category": "transition", "cols": ["Regain Att Half"]},
+    {"key": "lostBallsOwnHalf", "label": "Lost Balls (Own Half)", "category": "transition", "cols": ["Lost balls own half"]},
+    {"key": "secondBall", "label": "Second Balls", "category": "transition", "cols": ["Second Ball"]},
+    {"key": "attFoulEarned", "label": "Att Half Fouls Earned", "category": "transition", "cols": ["Att Foul Earned"]},
+    {"key": "badGiveaway", "label": "Bad Giveaways", "category": "transition", "cols": ["Bad Giveaway"]},
+    {"key": "securanceSuccessful", "label": "Securance Successful", "category": "transition", "cols": ["Securance Successful"]},
+    {"key": "securanceUnsuccessful", "label": "Securance Unsuccessful", "category": "transition", "cols": ["Securance Unsuccessful"]},
+    {"key": "attChallengeSuccessful", "label": "Att Challenges Won", "category": "transition", "cols": ["Att Challenge Successful"]},
+    {"key": "attChallengeUnsuccessful", "label": "Att Challenges Lost", "category": "transition", "cols": ["Att Challenge Unsuccessful"]},
+    # -- Physical (averages/ratios, not sums -- see _player_slice_metrics();
+    #    computed separately, listed here only so the front end has one
+    #    catalog to read labels/categories from) --
+    {"key": "physTopSpeed", "label": "Avg Top Speed", "category": "physical", "cols": None},
+    {"key": "physHiRatio", "label": "Hi-Intensity Ratio", "category": "physical", "cols": None},
+    {"key": "physDistP90", "label": "Distance", "category": "physical", "cols": None},
+    {"key": "physLoad", "label": "Load", "category": "physical", "cols": ["Load"]},
+    {"key": "physJumps", "label": "Jumps", "category": "physical", "cols": ["Jumps"]},
+    {"key": "physDives", "label": "Dives", "category": "physical", "cols": ["Dives"]},
+]
+
+# Stats whose catalog entry is a straight column sum (everything with a
+# "cols" list) get a per-90 version for free: total / (minutes/90). These
+# three don't -- they're already rates/averages, not counts, so dividing
+# them again by minutes would be meaningless (same reasoning as Stats
+# page's physical category disabling its opponent-comparison toggle).
+PLAYER_STAT_NO_PER90 = {"physTopSpeed", "physHiRatio", "physDistP90"}
+
+
+def _player_stat_totals(df):
+    """Every PLAYER_STAT_CATALOG total for one slice of fDataMatch.xlsx
+    rows (one match, one season, a career) belonging to a single player,
+    keyed by catalog key. Physical rate stats (see PLAYER_STAT_NO_PER90)
+    are computed the same way _player_slice_metrics() already does
+    (qualifying only rows with GPS tagging present); everything else is a
+    plain column sum, matching PLAYER_STAT_CATALOG's design comment above.
+    """
+    out = {}
+    for stat in PLAYER_STAT_CATALOG:
+        if stat["cols"] is None:
+            continue
+        out[stat["key"]] = float(df[stat["cols"]].sum().sum())
+
+    phys_df = df.dropna(subset=["MaxSpeed", "HiDistance"])
+    if len(phys_df):
+        total_dist = phys_df["Distance"].sum()
+        phys_minutes = phys_df["Minutes"].sum()
+        out["physTopSpeed"] = round(float(phys_df["MaxSpeed"].mean()), 2)
+        out["physHiRatio"] = (round(float(phys_df["HiDistance"].sum() / total_dist * 100), 1)
+                               if total_dist else None)
+        out["physDistP90"] = round(float(total_dist / (phys_minutes / 90))) if phys_minutes else None
+    else:
+        out["physTopSpeed"] = out["physHiRatio"] = out["physDistP90"] = None
+
+    return out
+
+
 # ---- Match Center (team & match pages) ----
 #
 # Source files, confirmed 2026-09-12:
@@ -1847,6 +2120,252 @@ MATCH_FLOW_WEIGHTS = {
     # below at the same 1.0 weight -- see DZ_ENTRY_COLS.
 }
 DZ_ENTRY_COLS = ["DZ Dribble", "DZ Pass", "DZ Cross", "DZ Set Piece", "DZ Shot", "DZ Regain"]
+
+
+# ---- Interim per-player Impact Score (Squad rebuild, Round 7) ----
+#
+# Colin's ask (player-report-cards-plan.md) is a real Impact Score fitted
+# by regression against ground-truth AI/DI/TrI values from actual Coaches
+# Booklets -- not enough booklets exist yet to fit that model. Asked Colin
+# 2026-09-15 (AskUserQuestion) whether to wait or ship an interim number
+# now; he chose the interim proxy: apply this exact same MATCH_FLOW_WEIGHTS
+# formula (already shipped, verified against a real Coaches Booklet -- see
+# the big comment block above) to each PLAYER's own individual action
+# counts for a slice of matches, instead of the team's windowed pseudo-rows.
+#
+# This is a genuinely different computation from the team-level Match Flow
+# series above, not a reuse of it, for one structural reason: the team
+# version sums six PER-15-MINUTE-WINDOW pseudo-rows per match (Min=15/30/
+# .../90, see flow_series() in build_match_center()) to build a running
+# total across the match. A real player row has no such per-window
+# breakdown -- each player-match row in fDataMatch.xlsx is already a
+# single full-match total. So _player_impact_score() just applies the same
+# per-event weights directly to a player's full-match (or full-season, or
+# full-career) column totals, with no windowing -- structurally simpler,
+# same underlying weights.
+#
+# MUST be labeled "Impact Score (interim)" wherever it's shown, per Colin's
+# own framing of this as a placeholder -- swap out for the real
+# regression-fit model once player-report-cards-plan.md's data-collection
+# blocker clears.
+def _player_impact_score(df):
+    """Interim Impact Score for one player over a slice of fDataMatch.xlsx
+    rows (one match, one season, a career): MATCH_FLOW_WEIGHTS applied to
+    that slice's own column totals, plus DZ Entries at the same 1.0 weight
+    MATCH_FLOW_WEIGHTS' comment reserves for it. Not qualified by minutes
+    (a personal stat line, not a competitive leaderboard -- same
+    no-floor reasoning as _player_slice_metrics()). Returns 0.0 for an
+    empty/all-zero slice (e.g. a DNP row) rather than None, so it sorts
+    and sums cleanly alongside real scores.
+    """
+    if not len(df):
+        return 0.0
+    score = float(df[DZ_ENTRY_COLS].sum().sum())
+    for col, weight in MATCH_FLOW_WEIGHTS.items():
+        score += float(df[col].sum()) * weight
+    return round(score, 2)
+
+
+# Position filter set for the Squad table/player pages, Colin's own list
+# (GK, CB, OB, DM, AM, CF, WF) plus "Unknown" for anyone without a
+# Players-sheet identity row -- same list squad.html's existing client-side
+# POSITION_ORDER already sorts by, duplicated here (not imported, there's
+# nothing to import from) so build_squad_table() can hand the front end
+# an authoritative position list instead of it guessing from whatever
+# positions happen to appear in a given season's data.
+POSITION_ORDER = ["GK", "CB", "OB", "DM", "AM", "WF", "CF", "Unknown"]
+
+
+def _squad_stat_block(df):
+    """(totals, per90, minutes) for one fDataMatch.xlsx slice, using
+    PLAYER_STAT_CATALOG/_player_stat_totals() for the totals and dividing
+    every per-90-eligible stat by minutes/90 -- the generic version of the
+    same "totals now, per-90 on a tick box" math _player_slice_metrics()
+    hand-wrote per-stat for the old Squad scheme. The 3 already-a-rate
+    physical stats (PLAYER_STAT_NO_PER90) are passed through unchanged in
+    `per90` so the front end can read from one dict or the other purely
+    based on the tick box state, with no per-key special-casing.
+    """
+    totals = _player_stat_totals(df)
+    minutes = float(df["Minutes"].sum()) if len(df) else 0.0
+    per90 = {}
+    for stat in PLAYER_STAT_CATALOG:
+        key = stat["key"]
+        total = totals.get(key)
+        if key in PLAYER_STAT_NO_PER90:
+            per90[key] = total
+        elif minutes and total is not None:
+            per90[key] = round(total / (minutes / 90), 2)
+        else:
+            per90[key] = None
+    return totals, per90, minutes
+
+
+def build_squad_table(match_xlsx_path, lookup_xlsx_path):
+    """
+    Squad page data, Round 7 rebuild (replaces build_squad_data() -- see
+    the module comment block above PLAYER_STAT_CATALOG, and Colin's
+    2026-09-15 "fully replace it" decision). Returns:
+
+      seasons    -- SQUAD_SEASON_ORDER (6 seasons), for the season filter.
+      positions  -- POSITION_ORDER, for the position filter.
+      catalog    -- PLAYER_STAT_CATALOG's key/label/category (no "cols"),
+                    for the category toggle + advanced column picker, same
+                    shape build_stats_table() already hands the front end.
+      noPer90Stats -- keys where the per-90 tick box is a no-op (see
+                    PLAYER_STAT_NO_PER90) -- lets the front end grey the
+                    box out or just skip re-dividing, same idea as Stats
+                    page disabling its opponent toggle for Physical.
+      players    -- {name: {identity fields, seasons: [...], career: [...]}}
+
+    `players[name]["seasons"]` has one entry per season the player was
+    EITHER on the roster (per ROSTER_BY_SEASON/roster_for_season -- this is
+    the fix for Jada Tuffin/Tilly Thomas: a season with zero match rows
+    still gets an entry, all zeros, rather than being silently skipped) OR
+    has at least one match row (covers the reverse edge case of a player
+    who somehow has match data but wasn't on the scraped roster). Each
+    season entry carries that season's totals/per90/impact score (for the
+    main wide roster table) plus `matchLog`: one row per team match played
+    that season (from PlayerMatchReport.xlsx's Team sheet), `"dnp": True`
+    with no stat line for a match the team played that this player didn't
+    (Colin's ask: "put DNP in the final column"), a final `isTotalsRow`
+    entry with that season's totals (Colin's ask: "the last row should be
+    the totals for that season").
+
+    `players[name]["career"]` is one row per season (no matchLog -- just
+    that season's totals, same shape minus the per-match breakdown) plus a
+    final `isTotalsRow` entry with the player's whole-career totals
+    (Colin's ask: "the last row be the total of their career").
+
+    Impact Score (see _player_impact_score()) is included at every level
+    (match/season/career) -- MUST be labeled "interim" in the UI, see that
+    function's docstring for why.
+    """
+    players_df = pd.read_excel(lookup_xlsx_path, sheet_name="Players")
+    team_df = pd.read_excel(lookup_xlsx_path, sheet_name="Team")
+    team_df["MatchDate"] = pd.to_datetime(team_df["MatchDate"])
+    date_to_season = dict(zip(team_df["MatchDate"], team_df["MatchSeason"]))
+    # Played matches only, real opponents only -- an unplayed/future
+    # scheduled match has no stats and isn't a DNP (the team hasn't played
+    # it either), and intrasquad scrimmages aren't real fixtures (same
+    # EXCLUDED_OPPONENTS rule build_match_center() applies).
+    played_team_df = team_df[
+        team_df["Result"].notna() & ~team_df["Opponent"].isin(EXCLUDED_OPPONENTS)
+    ].sort_values("MatchDate")
+
+    fdm = pd.read_excel(match_xlsx_path)
+    fdm["MatchDate"] = pd.to_datetime(fdm["MatchDate"])
+    fdm = fdm[~fdm["Player"].isin(_PLAYER_DATA_TEAM_ROWS)]
+    fdm = fdm[~fdm["Player"].astype(str).str.match(_MATCH_FLOW_PSEUDO_ROW)]
+    # fDataMatch.xlsx has at least one stray non-numeric cell (a single " "
+    # in xG, found 2026-09-15 while smoke-testing this function) that would
+    # otherwise crash every downstream .sum() the moment it hit that
+    # column -- coerce every event/physical column to numeric (NaN for
+    # anything that isn't) up front rather than special-casing xG alone,
+    # since there's no reason to trust any of the other ~65 raw columns
+    # are clean either.
+    _non_numeric = {"Player", "MatchDate", "season"}
+    for col in fdm.columns:
+        if col not in _non_numeric:
+            fdm[col] = pd.to_numeric(fdm[col], errors="coerce")
+    fdm["season"] = fdm["MatchDate"].map(date_to_season)
+
+    identity_by_name = {r["Player"]: r for _, r in players_df.iterrows()}
+
+    match_players_by_season = {
+        season: set(g["Player"].dropna().unique()) for season, g in fdm.groupby("season")
+    }
+    roster_by_season_resolved = {
+        season: roster_for_season(season, match_players_by_season.get(season, set()))
+        for season in SQUAD_SEASON_ORDER
+    }
+    season_matches = {
+        season: played_team_df[played_team_df["MatchSeason"] == season]
+        for season in SQUAD_SEASON_ORDER
+    }
+
+    real_players = sorted(
+        set().union(*roster_by_season_resolved.values())
+        | set(fdm["Player"].dropna().unique())
+        | set(players_df["Player"].dropna().unique())
+    )
+
+    players_out = {}
+    for name in real_players:
+        pdf_all = fdm[fdm["Player"] == name]
+        ident = identity_by_name.get(name)
+        position = (ident["Position"] if ident is not None and pd.notna(ident.get("Position"))
+                    else "Unknown")
+        headshot = ident["Headshot"] if ident is not None and pd.notna(ident.get("Headshot")) else None
+        jersey = int(ident["Jersey"]) if ident is not None and pd.notna(ident.get("Jersey")) else None
+        year = ident["Year"] if ident is not None and pd.notna(ident.get("Year")) else None
+
+        seasons_out = []
+        for season in SQUAD_SEASON_ORDER:
+            on_roster = name in roster_by_season_resolved[season]
+            sdf = pdf_all[pdf_all["season"] == season]
+            if not on_roster and not len(sdf):
+                continue
+
+            totals, per90, minutes = _squad_stat_block(sdf)
+
+            match_log = []
+            for _, meta in season_matches[season].iterrows():
+                d = meta["MatchDate"]
+                mdf = sdf[sdf["MatchDate"] == d]
+                m_totals, m_per90, m_minutes = _squad_stat_block(mdf)
+                dnp = m_minutes == 0
+                match_log.append({
+                    "date": d.strftime("%Y-%m-%d"),
+                    "opponent": meta.get("Opponent"),
+                    "venue": meta.get("Venue"),
+                    "result": meta.get("Result"),
+                    "dnp": bool(dnp),
+                    "minutes": int(m_minutes),
+                    "impactScore": None if dnp else _player_impact_score(mdf),
+                    "totals": None if dnp else m_totals,
+                    "per90": None if dnp else m_per90,
+                })
+            match_log.append({
+                "date": None, "opponent": None, "venue": None, "result": None,
+                "dnp": False, "isTotalsRow": True,
+                "minutes": int(minutes), "matches": int(sdf["MatchDate"].nunique()),
+                "impactScore": _player_impact_score(sdf),
+                "totals": totals, "per90": per90,
+            })
+
+            seasons_out.append({
+                "season": season, "onRoster": on_roster,
+                "minutes": int(minutes), "matches": int(sdf["MatchDate"].nunique()),
+                "impactScore": _player_impact_score(sdf),
+                "totals": totals, "per90": per90, "matchLog": match_log,
+            })
+
+        career_totals, career_per90, career_minutes = _squad_stat_block(pdf_all)
+        career_rows = [
+            {k: v for k, v in s.items() if k != "matchLog"} for s in seasons_out
+        ]
+        career_rows.append({
+            "season": "Career", "onRoster": None, "isTotalsRow": True,
+            "minutes": int(career_minutes), "matches": int(pdf_all["MatchDate"].nunique()),
+            "impactScore": _player_impact_score(pdf_all),
+            "totals": career_totals, "per90": career_per90,
+        })
+
+        players_out[name] = {
+            "name": name, "position": position, "hasIdentity": ident is not None,
+            "headshot": headshot, "jersey": jersey, "year": year,
+            "seasons": seasons_out, "career": career_rows,
+        }
+
+    return {
+        "seasons": SQUAD_SEASON_ORDER,
+        "positions": POSITION_ORDER,
+        "catalog": [{"key": s["key"], "label": s["label"], "category": s["category"]}
+                    for s in PLAYER_STAT_CATALOG],
+        "noPer90Stats": sorted(PLAYER_STAT_NO_PER90),
+        "players": players_out,
+    }
 
 
 def _team_stats_row(team_df, side):
@@ -2107,6 +2626,147 @@ def build_match_center(match_xlsx_path, xy_xlsx_path, lookup_xlsx_path, season="
         season_table.append(row_table)
 
     return {"season": season, "matches": matches}
+
+
+# ---- Stats page (Round 6 of the site restructure, started 2026-09-15,
+# Colin's ask: "a table wide stats page with maybe some toggles for
+# attacking, defending, transition, and physical which changes the
+# columns, as well as a tick box to add the opponent comparison") ----
+#
+# Deliberately reuses Match Center's own already-computed, already-verified
+# `stats`/`objectives` dicts for the 33 existing team stats (see
+# stats_side()/objectives_side() above) rather than re-deriving that
+# computation a second time -- same "one source of truth" principle as
+# build_squad_data() reusing PLAYER_LEADERBOARDS instead of recomputing
+# per-90 stats. Only the 3 "physical" entries are genuinely new math (see
+# _team_physical_by_match() below): no team-level physical aggregate
+# existed anywhere in this project before this round, and confirmed via
+# direct data check that no opponent GPS/physical data exists anywhere in
+# the source files either -- so, per Colin's own "won't be anything for
+# opponents on physical" caveat, physical stats are UNCW-only (opp is
+# always None) and the Stats page disables its opponent-comparison toggle
+# whenever the Physical category is showing.
+#
+# Categorization below (attacking/defending/transition) is Colin's
+# first-draft review item, same as Squad's category mapping was -- flagged
+# in site-restructure-plan.md as open for his adjustment. Labels are
+# copied verbatim from fixtures.html's STAT_ROWS/OBJ_ROWS (the existing
+# Match Center comparison table) so the same stat reads the same everywhere
+# on the site.
+STAT_CATALOG = [
+    # -- Attacking (19) --
+    ("goals", "Goals", "attacking", "stats"),
+    ("xG", "xG", "attacking", "stats"),
+    ("shotsTotal", "Total Shots", "attacking", "stats"),
+    ("shotsOn", "Shots On", "attacking", "stats"),
+    ("shotsOff", "Shots Off", "attacking", "stats"),
+    ("shotsBlocked", "Shots Blocked", "attacking", "stats"),
+    ("corners", "Corners", "attacking", "stats"),
+    ("throwInPct", "Throw-Ins %", "attacking", "stats"),
+    ("dzEntries", "DZ Entries", "attacking", "stats"),
+    ("dzDribble", "DZ Dribbles", "attacking", "objectives"),
+    ("dzPass", "DZ Passes", "attacking", "objectives"),
+    ("dzCross", "DZ Crosses", "attacking", "objectives"),
+    ("dzSetPiece", "DZ Set Pieces", "attacking", "objectives"),
+    ("dzShot", "DZ Shots", "attacking", "objectives"),
+    ("faceUp", "Face Ups", "attacking", "objectives"),
+    ("win2", "Win+2", "attacking", "objectives"),
+    ("creativeActions", "Creative Actions", "attacking", "objectives"),
+    ("firstContact", "First Contact", "attacking", "objectives"),
+    ("switches", "Switches", "attacking", "objectives"),
+    # -- Defending (9) --
+    ("saves", "Saves", "defending", "stats"),
+    ("clearances", "Clearances", "defending", "objectives"),
+    ("blockShots", "Block Shots", "defending", "objectives"),
+    ("blockCrosses", "Block Crosses", "defending", "objectives"),
+    ("doubleDowns", "Double Downs", "defending", "objectives"),
+    ("professionalFouls", "Professional Fouls", "defending", "objectives"),
+    ("foulsConceded", "Fouls", "defending", "stats"),
+    ("yellow", "Yellow", "defending", "stats"),
+    ("red", "Red", "defending", "stats"),
+    # -- Transition (5) --
+    ("ropDzEntries", "RoP DZ Entries", "transition", "stats"),
+    ("secondBalls", "Second Balls", "transition", "objectives"),
+    ("attHalfRegain", "Att Half Regain", "transition", "objectives"),
+    ("defHalfLostBall", "Def Half Lost Ball", "transition", "objectives"),
+    ("attHalfFoulsEarned", "Att Half Fouls Earned", "transition", "objectives"),
+    # -- Physical (3, new 2026-09-15 -- UNCW-only, no opponent GPS data) --
+    ("physTeamDist", "Team Distance", "physical", "physical"),
+    ("physTeamTopSpeed", "Team Avg Top Speed", "physical", "physical"),
+    ("physTeamHiRatio", "Team Hi-Intensity Ratio", "physical", "physical"),
+]
+
+
+def _team_physical_by_match(match_xlsx_path):
+    """Team-level physical aggregates per match date, UNCW players only.
+
+    Mirrors build_player_leaderboards()'s / _player_slice_metrics()'s
+    per-player physical math (same MaxSpeed/HiDistance/Distance columns,
+    same "drop rows with no GPS tagging" qualifying rule) but aggregated
+    to one row per match instead of one row per player-season -- this is
+    new math, not a reuse, since nothing in this project aggregated
+    physical data to the team level before this round.
+    """
+    raw = pd.read_excel(match_xlsx_path)
+    raw = raw[~raw["Player"].isin(_PLAYER_DATA_TEAM_ROWS)]
+    raw = raw[~raw["Player"].astype(str).str.match(_MATCH_FLOW_PSEUDO_ROW)]
+    raw["MatchDate"] = pd.to_datetime(raw["MatchDate"])
+    phys = raw.dropna(subset=["MaxSpeed", "HiDistance"])
+
+    out = {}
+    for d, g in phys.groupby("MatchDate"):
+        total_dist = g["Distance"].sum()
+        out[d.strftime("%Y-%m-%d")] = {
+            "physTeamDist": round(float(total_dist)) if pd.notna(total_dist) else None,
+            "physTeamTopSpeed": round(float(g["MaxSpeed"].mean()), 2) if len(g) else None,
+            "physTeamHiRatio": (round(float(g["HiDistance"].sum() / total_dist * 100), 1)
+                                 if total_dist else None),
+        }
+    return out
+
+
+def build_stats_table(match_center, match_xlsx_path):
+    """Team-vs-opponent season game log for the wide Stats page: one row
+    per PLAYED match in `match_center`, every existing Match Center team
+    stat (all 33 -- see STAT_CATALOG) plus the 3 new team-level physical
+    aggregates, flattened into `{key: {"us":..., "opp":...}}` per match
+    (physical `opp` is always None -- see STAT_CATALOG's module comment).
+
+    Takes `match_center` (an already-built build_match_center() return
+    value, so the 33-stat computation itself is never re-derived) plus
+    `match_xlsx_path` (fDataMatch.xlsx, re-read here only for the new
+    physical aggregation -- same file build_match_center() itself reads,
+    consistent with build_squad_data()'s pattern of independently re-
+    reading source files it needs beyond what its inputs already contain).
+    """
+    phys_by_date = _team_physical_by_match(match_xlsx_path)
+
+    rows = []
+    for m in match_center["matches"]:
+        if not m.get("played") or "stats" not in m:
+            continue
+        values = {}
+        for key, label, category, source in STAT_CATALOG:
+            if source == "stats":
+                values[key] = {"us": m["stats"]["us"].get(key), "opp": m["stats"]["opp"].get(key)}
+            elif source == "objectives":
+                values[key] = {"us": m["objectives"]["us"].get(key),
+                                "opp": m["objectives"]["opp"].get(key)}
+            else:  # physical -- UNCW only, see module comment above
+                phys = phys_by_date.get(m["date"], {})
+                values[key] = {"us": phys.get(key), "opp": None}
+        rows.append({
+            "date": m["date"], "opponent": m["opponent"],
+            "opponentColor": m.get("opponentColor"), "type": m.get("type"),
+            "result": m.get("result"), "fullTimeScore": m.get("fullTimeScore"),
+            "values": values,
+        })
+
+    return {
+        "season": match_center["season"],
+        "catalog": [{"key": k, "label": l, "category": c} for k, l, c, _ in STAT_CATALOG],
+        "matches": rows,
+    }
 
 
 # ---- CAA standings (South/North/Overall) ----
