@@ -1456,6 +1456,13 @@ def build_national_rpi_data(scrape_path, rpi_path, master_path):
             "logo": logo_of_disp(disp),
             "confLogo": conf_logo_by_short.get(conf) if conf else None,
             "p": p, "w": w, "l": l, "d": d, "gf": gf, "ga": ga, "gd": gf - ga,
+            # Per-game goal rates, for the Season Record grid's Goals
+            # Scored/Game and Goals Conceded/Game tiles (2026-09-15, Colin:
+            # replaced RPI Total/Adjust Total). The per-match trend line
+            # those tiles show is built client-side from this same team's
+            # own `schedule` list below (gf/ga per D1 game, chronological).
+            "gfpg": round(gf / p, 2) if p else None,
+            "gapg": round(ga / p, 2) if p else None,
             "winPct": lr_self["elem1"] if lr_self else None,
             "oppWinPct": lr_self["elem2"] if lr_self else None,
             "oppOppWinPct": lr_self["elem3"] if lr_self else None,
@@ -2365,24 +2372,45 @@ def _season_stats_from_national(nat):
 
     Reorganized 2026-09-15 (Colin): row 1 is Record, Non-Conf, CAA, Home,
     Away, Goals F/A/D (a combined tile, formatted client-side from
-    gf/ga/gd); row 2 is RPI Rank, RPI Total, Adjust Total, vs Top 50, vs
-    51-150, Form. `vsTop50`/`vs51_150` are new finer-grained opponent-rank
-    buckets (see build_national_rpi_data()) replacing the old single "vs
-    Top 100" tile.
+    gf/ga/gd); row 2 is RPI Rank, Goals Scored/Game, Goals Conceded/Game,
+    vs Top 50, vs 51-150, Form. `vsTop50`/`vs51_150` are finer-grained
+    opponent-rank buckets (see build_national_rpi_data()) that replaced
+    the old single "vs Top 100" tile earlier the same day.
+
+    Same-day follow-up (Colin): removed RPI Total/Adjust Total (row 2's
+    2nd/3rd tiles) in favor of Goals Scored/Game and Goals Conceded/Game,
+    each rendered client-side as a value (`gfpg`/`gapg`) plus a small
+    per-match trend-line sparkline built from `schedule` (each D1 game's
+    gf/ga, chronological, already computed by build_national_rpi_data()
+    for every team -- reused here rather than adding a second per-match
+    goals source). `rpiTotal`/`rpiAdjusted` are no longer part of this
+    tile profile, but remain on the underlying national-team object for
+    the national comparison table's own separate columns.
+
+    Second same-day follow-up (Colin): "remove the form in the 12 fields
+    for season record and replace with 151+ record" -- the Form tile
+    (last5) is gone from this 12-tile grid; the 6th row-2 tile is now
+    `vs151Plus`, reusing the existing `vsBelow150` band (opponent rank >
+    150) build_national_rpi_data() already computes -- same band, just
+    exposed under this tile-facing name for clarity alongside vsTop50/
+    vs51_150. `last5` itself is untouched on the underlying national-team
+    object (still feeds the CAA standings tables' own separate Form
+    columns on home.html/caa.html, which weren't part of this ask).
 
     Returns None if `nat` is None (no national profile available, e.g. a
     historical Fixtures season -- see build_fixtures_summary's docstring)."""
     if not nat:
         return None
     return {
-        "rank": nat.get("rank"), "rpiTotal": nat.get("rpiTotal"),
-        "rpiAdjusted": nat.get("rpiAdjusted"),
+        "rank": nat.get("rank"),
         "record": f"{nat['w']}-{nat['l']}-{nat['d']}",
         "gf": nat.get("gf"), "ga": nat.get("ga"), "gd": nat.get("gd"),
+        "gfpg": nat.get("gfpg"), "gapg": nat.get("gapg"),
+        "schedule": nat.get("schedule"),
         "homeRecord": nat.get("homeRecord"), "awayRecord": nat.get("awayRecord"),
         "confRecord": nat.get("confRecord"), "nonConfRecord": nat.get("nonConfRecord"),
-        "last5": nat.get("last5"),
         "vsTop50": nat.get("vsTop50"), "vs51_150": nat.get("vs51_150"),
+        "vs151Plus": nat.get("vsBelow150"),
     }
 
 
@@ -2586,6 +2614,12 @@ def build_fixtures_summary(scrape_path, rpi_path, master_path, team_schedules, m
         upcoming.append({
             "date": m.get("date"), "opponent": opp_disp,
             "logo": resolve_opp_logo(m.get("opponent"), opp_disp), "loc": loc_for(m),
+            # 2026-09-15 (Colin): the upcoming item has no result yet, so
+            # that "badge slot" below the opponent logo was sitting empty
+            # -- fill it with the same CAA-logo/Non-Con/Exh Type badge the
+            # Schedule table's Type column already renders (via `type` +
+            # the page's own `confLogo`), via `renderTypeBadge()`.
+            "type": m.get("type"),
         })
 
     goals_trend = [{"date": m["date"], "gf": m.get("teamGoal"), "ga": m.get("opponentGoal")}
