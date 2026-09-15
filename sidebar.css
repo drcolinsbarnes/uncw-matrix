@@ -60,7 +60,8 @@ body {
   color: #cfe0e7; text-decoration: none; border-left: 3px solid transparent;
   white-space: nowrap;
 }
-.app-sidebar .nav-item .emoji { font-size: 16px; width: 20px; text-align: center; flex-shrink: 0; }
+.app-sidebar .nav-item .emoji { font-size: 16px; width: 20px; text-align: center; flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; }
+.app-sidebar .nav-item .emoji .icon-svg { width: 19px; height: 19px; flex-shrink: 0; }
 .app-sidebar .nav-item:hover { background: rgba(255,255,255,0.06); color: #ffffff; }
 .app-sidebar .nav-item.active {
   background: rgba(0, 118, 128, 0.35); color: #ffffff;
