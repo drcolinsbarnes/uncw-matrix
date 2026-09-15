@@ -1427,6 +1427,12 @@ def build_national_rpi_data(scrape_path, rpi_path, master_path):
 
         bands = {"1-25": [], "26-50": [], "51-100": [], "101+": []}
         vs_top100, vs_below150 = [], []
+        # vs_top50/vs_51_150: added 2026-09-15 for the Season Record
+        # dashboard's reorganized second row (Colin: "vs Top 50, vs
+        # 51-150" replacing the old single "vs Top 100" tile) -- a finer
+        # cut of the same opponent-rank bucketing already done for
+        # vs_top100/vs_below150 above, not a new data source.
+        vs_top50, vs_51_150 = [], []
         for g in d1_games:
             lr = live_of(g["opp"])
             rank = lr["rank"] if lr else None
@@ -1438,6 +1444,10 @@ def build_national_rpi_data(scrape_path, rpi_path, master_path):
                 vs_top100.append(g)
             if rank > 150:
                 vs_below150.append(g)
+            if rank <= 50:
+                vs_top50.append(g)
+            if 51 <= rank <= 150:
+                vs_51_150.append(g)
 
         lr_self = live_of(disp)
         teams_out[disp] = {
@@ -1476,6 +1486,8 @@ def build_national_rpi_data(scrape_path, rpi_path, master_path):
             "band101plus": rec(bands["101+"]),
             "vsTop100": rec(vs_top100),
             "vsBelow150": rec(vs_below150),
+            "vsTop50": rec(vs_top50),
+            "vs51_150": rec(vs_51_150),
             "schedule": [
                 {
                     "date": g["date"].strftime("%Y-%m-%d"), "loc": g["loc"],
@@ -2344,14 +2356,20 @@ def build_home_summary(team_schedules, caa_standings, player_leaderboards,
 
 
 def _season_stats_from_national(nat):
-    """Shared 12-tile Season Record profile (Nat'l Rank, RPI Total,
-    Adjusted RPI, Record, Goals F-A, Goal Diff, Home, Away, Conference,
-    Non-Conference, Form, vs Top 100) built from one team's entry in
+    """Shared 12-tile Season Record profile built from one team's entry in
     `build_national_rpi_data()["teams"]`. Both Fixtures' Season Record
     section and Home's Season Record dashboard (added 2026-09-14, same
     day -- Colin: "let's add the season record dashboard to the home
     page") read the exact same `national_stats` entry through this one
     function, so Home/Fixtures/National RPI never drift out of agreement.
+
+    Reorganized 2026-09-15 (Colin): row 1 is Record, Non-Conf, CAA, Home,
+    Away, Goals F/A/D (a combined tile, formatted client-side from
+    gf/ga/gd); row 2 is RPI Rank, RPI Total, Adjust Total, vs Top 50, vs
+    51-150, Form. `vsTop50`/`vs51_150` are new finer-grained opponent-rank
+    buckets (see build_national_rpi_data()) replacing the old single "vs
+    Top 100" tile.
+
     Returns None if `nat` is None (no national profile available, e.g. a
     historical Fixtures season -- see build_fixtures_summary's docstring)."""
     if not nat:
@@ -2363,7 +2381,8 @@ def _season_stats_from_national(nat):
         "gf": nat.get("gf"), "ga": nat.get("ga"), "gd": nat.get("gd"),
         "homeRecord": nat.get("homeRecord"), "awayRecord": nat.get("awayRecord"),
         "confRecord": nat.get("confRecord"), "nonConfRecord": nat.get("nonConfRecord"),
-        "last5": nat.get("last5"), "vsTop100": nat.get("vsTop100"),
+        "last5": nat.get("last5"),
+        "vsTop50": nat.get("vsTop50"), "vs51_150": nat.get("vs51_150"),
     }
 
 
@@ -2555,10 +2574,19 @@ def build_fixtures_summary(scrape_path, rpi_path, master_path, team_schedules, m
     flow_trend = [{"date": m["date"], "value": round(m["matchFlow"]["us"][-1], 2)}
                   for m in played if m.get("matchFlow") and m["matchFlow"].get("us")]
 
+    # RPI rank isn't a real, meaningful number until the counted season
+    # actually starts -- preseason exhibitions (The Citadel, LSU: "Type" ==
+    # "Exhibition" in PlayerMatchReport.xlsx) aren't part of the NCAA's
+    # RPI-counted schedule at all (compute_live_rpi()/build_national_rpi_data()
+    # never include them), so plotting a rank as of those dates would just
+    # be showing the exact same season-opening number twice. Colin,
+    # 2026-09-15: "rpi rank doesn't need to begin until the beginning of
+    # the season (no exhibitions)."
+    rpi_played = [m for m in played if m.get("type") != "Exhibition"]
     rpi_trend = []
     if is_current:
         rpi_key = normalize(RPI_NAME_ALIASES.get(team_name, team_name))
-        for m in played:
+        for m in rpi_played:
             cutoff = pd.to_datetime(m["date"]).date()
             scrape_upto = scrape[scrape["match_date"] <= cutoff]
             try:
@@ -2573,7 +2601,7 @@ def build_fixtures_summary(scrape_path, rpi_path, master_path, team_schedules, m
         # time, so UNCW's own live-RPI-rank trend can't be honestly
         # recomputed -- leave it empty rather than plot the current season's
         # numbers against a different season's dates.
-        rpi_trend = [{"date": m["date"], "rank": None} for m in played]
+        rpi_trend = [{"date": m["date"], "rank": None} for m in rpi_played]
 
     return {
         "team": team_name,
