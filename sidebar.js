@@ -71,7 +71,7 @@
     const brand = document.createElement("div");
     brand.className = "brand";
     brand.innerHTML =
-      '<img src="uncw-logo-white.png" alt="UNCW Seahawks" ' +
+      '<img src="uncw-logo-white.svg" alt="UNCW Seahawks" ' +
       'onerror="this.style.visibility=\'hidden\'">' +
       '<div class="name">UNCW Women’s Soccer<small>Schedule / RPI Matrix</small></div>';
     header.appendChild(brand);
