@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>National RPI Rankings</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="sidebar.css?v=3">
+<style>
+  /* :root/body colors below match sidebar.css's shared palette exactly --
+     kept here too (rather than deleted) so this page still looks right if
+     ever opened without sidebar.css loading for some reason. Site-restructure
+     Round 4 (2026-09-13, see site-restructure-plan.md): wired the shared
+     sidebar into this page -- body's own padding is dropped in favor of
+     sidebar.css's .app-main padding, everything else below is unchanged. */
+  :root {
+    --navy: #003366; --teal: #007680; --yellow: #f3e389;
+    --bg: #f5f7f8; --card: #ffffff; --border: #d8e0e4; --text: #12242f; --muted: #5c7280;
+    --win: #e2f0ee; --win-text: #00524c; --loss: #fbeaea; --loss-text: #7a2222;
+    --pending: #eef3f4;
+  }
+  * { box-sizing: border-box; }
+  body { font-family: "Tomorrow", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); margin: 0; }
+  a { color: var(--teal); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .topnav { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+  .topnav .links { font-size: 13px; font-weight: 600; }
+  .topnav .links a { margin-left: 14px; }
+  h1 { font-size: 21px; font-weight: 700; margin: 0 0 4px; color: var(--navy); letter-spacing: 0.2px; }
+  .sub { font-size: 12px; color: var(--muted); margin-bottom: 16px; }
+  .view { display: none; }
+  .view.active { display: block; }
+
+  /* ---- National table view ---- */
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+  .controls input[type=text], .controls select {
+    font-family: inherit; font-size: 13px; padding: 7px 10px; border: 1px solid var(--border);
+    border-radius: 6px; background: var(--card); color: var(--text);
+  }
+  .controls input[type=text] { width: 220px; }
+  .controls .count { font-size: 12px; color: var(--muted); margin-left: auto; }
+  .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+  table.nat { border-collapse: collapse; font-size: 11px; white-space: nowrap; width: 100%; }
+  table.nat th, table.nat td { padding: 4px 6px; border-bottom: 1px solid var(--border); text-align: right; }
+  table.nat th { text-align: center; }
+  table.nat td:nth-child(2) { text-align: left; }
+  table.nat td:nth-child(3) { text-align: left; }
+  table.nat td:nth-child(10), table.nat td:nth-child(11) { text-align: center; }
+  table.nat thead th {
+    position: sticky; top: 0; background: var(--navy); color: #fff; font-weight: 600;
+    cursor: pointer; user-select: none; z-index: 2; white-space: nowrap;
+  }
+  table.nat thead th:hover { background: #004a80; }
+  table.nat thead th.sorted::after { content: " " attr(data-arrow); font-size: 10px; }
+  table.nat tbody tr:nth-child(even) td { background: rgba(0, 118, 128, 0.05); }
+  table.nat tbody tr:hover td { background: rgba(243, 227, 137, 0.35); }
+  table.nat td.team-cell { display: flex; align-items: center; gap: 6px; font-weight: 600; }
+  table.nat td.team-cell img { height: 16px; width: 16px; object-fit: contain; flex: none; }
+  table.nat td.rk-cell { font-weight: 700; color: var(--navy); }
+  .pos { color: var(--win-text); }
+  .neg { color: var(--loss-text); }
+
+  /* ---- Team detail view ---- */
+  .team-header { display: flex; gap: 16px; align-items: center; background: var(--card); border: 1px solid var(--border);
+    border-top: 3px solid var(--teal); border-radius: 8px; padding: 16px 18px; margin-bottom: 16px; flex-wrap: wrap; }
+  .team-header img.logo { height: 56px; width: 56px; object-fit: contain; flex: none; }
+  .team-header .id h2 { margin: 0; font-size: 19px; color: var(--navy); display: flex; align-items: center; gap: 8px; }
+  .team-header .id h2 img.conf-logo { height: 22px; width: 22px; object-fit: contain; flex: none; }
+  .team-header .id .conf { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 5px; margin-top: 2px; }
+  .team-header .id .conf img { height: 14px; }
+  /* Fixed 6 columns (not auto-fit) so the 12 tiles always land as a clean
+     6-over-6 grid rather than however many happen to fit at the
+     container's width -- Colin's ask, 2026-09-14: "let's have 6 over 6
+     where you move Home (record) down to the second line." The tile order
+     below already puts Home 7th (Rank/RPI Total/Adjusted RPI/Record/
+     Goals F-A/Goal Diff, then Home/Away/Conference/Non-Conference/Form/vs
+     Top 100), so a strict 6-wide grid is the only change needed to land
+     it at the start of row 2. Narrower than 760px (this project's
+     established mobile breakpoint, see sidebar.css) drops to 3 columns so
+     6 columns' worth of 100px-min tiles don't force horizontal overflow. */
+  .stat-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 8px; flex: 1; justify-content: flex-end; }
+  .stat-tile { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 6px 10px; text-align: center; }
+  @media (max-width: 760px) {
+    .stat-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  .stat-tile .v { font-size: 15px; font-weight: 700; color: var(--navy); }
+  .stat-tile .l { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.3px; }
+  .stat-tile-trend .v { margin-bottom: 1px; }
+  .trend-spark { display: block; width: 100%; height: 20px; margin: 2px 0 1px; }
+  .trend-spark-empty { font-size: 9px; color: var(--muted); margin: 4px 0; }
+  .form { display: inline-flex; gap: 3px; justify-content: center; }
+  .form-circle {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 18px; height: 18px; border-radius: 50%; font-size: 10px;
+    font-weight: 700; color: #fff; flex: none;
+  }
+  .form-w { background: #2e7d32; }
+  .form-l { background: #c62828; }
+  .form-d { background: #78909c; }
+  table.nat td:has(.form) { text-align: center; }
+
+  table.sched { border-collapse: collapse; font-size: 12.5px; width: 100%; background: var(--card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  table.sched th { text-align: left; background: var(--navy); color: #fff; font-weight: 600; padding: 6px 9px; white-space: nowrap; }
+  table.sched td { padding: 6px 9px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  table.sched tr:nth-child(even) td { background: rgba(0, 118, 128, 0.05); }
+  table.sched td.opp-cell { display: flex; align-items: center; gap: 6px; font-weight: 500; }
+  table.sched td.opp-cell img { height: 15px; width: 15px; object-fit: contain; flex: none; }
+  table.sched td.result-w { color: var(--win-text); font-weight: 700; }
+  table.sched td.result-l { color: var(--loss-text); font-weight: 700; }
+  table.sched td.result-d { color: var(--muted); font-weight: 700; }
+  table.sched td.result-pending { color: var(--muted); }
+  .not-found { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 24px; text-align: center; color: var(--muted); }
+  .table-scroll { overflow-x: auto; }
+</style>
+</head>
+<body data-page="rpi">
+<div class="app-layout">
+  <nav class="app-sidebar" id="app-sidebar"></nav>
+  <main class="app-main">
+
+<div class="topnav">
+  <h1 style="margin:0">National Women's Soccer RPI</h1>
+  <div class="links">
+    <a href="#/national">National Rankings</a>
+    <a id="back-to-matrix" href="uncw_schedule_matrix_v5.html">&larr; Back to Matrix</a>
+  </div>
+</div>
+<div class="sub" id="asof-line"></div>
+
+<div id="view-national" class="view">
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search team...">
+    <select id="conf-filter"><option value="">All conferences</option></select>
+    <span class="count" id="row-count"></span>
+  </div>
+  <div class="table-wrap">
+    <table class="nat" id="nat-table">
+      <thead><tr id="nat-head"></tr></thead>
+      <tbody id="nat-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<div id="view-team" class="view">
+  <div id="team-content"></div>
+</div>
+
+  </main>
+</div>
+<script src="sidebar.js?v=3"></script>
+<script>
+const NATIONAL = __NATIONAL_DATA_JSON__;
+
+const COLUMNS = [
+  {key: "rank",        label: "Rk",              type: "num",  sortDir: 1},
+  {key: "name",        label: "Team",            type: "str",  sortDir: 1},
+  {key: "conference",  label: "Conference",      type: "str",  sortDir: 1},
+  {key: "p",           label: "P",               type: "num",  sortDir: -1},
+  {key: "record",      label: "Record",          type: "rec",  sortDir: -1},
+  {key: "gf",          label: "GF",              type: "num",  sortDir: -1},
+  {key: "ga",          label: "GA",              type: "num",  sortDir: 1},
+  {key: "gd",          label: "GD",              type: "num",  sortDir: -1},
+  {key: "winPct",      label: "Win%",            type: "pct",  sortDir: -1},
+  {key: "oppWinPct",   label: "Opp Win%",        type: "pct",  sortDir: -1},
+  {key: "oppOppWinPct",label: "Opp Opp Win%",    type: "pct",  sortDir: -1},
+  {key: "rpiTotal",    label: "RPI",             type: "pct",  sortDir: -1},
+  {key: "rpiAdjusted", label: "Adj RPI",    type: "pct",  sortDir: -1},
+  {key: "confRank",    label: "Con Rk",          type: "num",  sortDir: 1},
+  {key: "nonConfRecord", label: "NonCon",        type: "rec",  sortDir: -1},
+  {key: "confRecord",  label: "Conf",            type: "rec",  sortDir: -1},
+  {key: "homeRecord",  label: "Home",            type: "rec",  sortDir: -1},
+  {key: "awayRecord",  label: "Away",            type: "rec",  sortDir: -1},
+  {key: "last5Record", label: "Form",            type: "rec",  sortDir: -1},
+  {key: "band1_25",    label: "RPI 1-25",        type: "rec",  sortDir: -1},
+  {key: "band26_50",   label: "RPI 26-50",       type: "rec",  sortDir: -1},
+  {key: "band51_100",  label: "RPI 51-100",      type: "rec",  sortDir: -1},
+  {key: "band101plus", label: "RPI 101+",        type: "rec",  sortDir: -1},
+  {key: "vsTop100",    label: "vs Top 100",      type: "rec",  sortDir: -1},
+  {key: "vsBelow150",  label: "vs Below 150",    type: "rec",  sortDir: -1},
+];
+
+const MONTH_ABBR = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function fmtDate(iso) {
+  // Parse "YYYY-MM-DD" manually rather than `new Date(iso)` -- the latter
+  // parses as UTC midnight, which renders as the PREVIOUS day in any
+  // timezone west of UTC. Plain string splitting avoids that entirely.
+  if (!iso) return "—";
+  const parts = iso.split("-").map(Number);
+  const m = parts[1], d = parts[2];
+  if (!m || !d) return iso;
+  return `${MONTH_ABBR[m - 1]} ${d}`;
+}
+
+function recNet(rec) {
+  // "W-L-D" -> net wins for sorting purposes
+  const parts = (rec || "0-0-0").split("-").map(Number);
+  return (parts[0] || 0) - (parts[1] || 0);
+}
+
+function fmtPct(v) {
+  if (v === null || v === undefined) return "—";
+  let s = v.toFixed(3);
+  if (s.startsWith("0.")) s = s.slice(1);
+  else if (s.startsWith("-0.")) s = "-" + s.slice(2);
+  return s;
+}
+
+function fmtGD(v) {
+  if (v === null || v === undefined) return "—";
+  if (v > 0) return `<span class="pos">+${v}</span>`;
+  if (v < 0) return `<span class="neg">${v}</span>`;
+  return "0";
+}
+
+// Small per-match sparkline for the team-detail Season Record grid's
+// Goals Scored/Game and Goals Conceded/Game tiles -- ported verbatim from
+// fixtures.html/home.html so all three Season Record pages plot the
+// identical series identically. `schedule` here is `t.schedule`, this
+// same team's own per-game gf/ga list already built above.
+function renderTrendSpark(schedule, key) {
+  const pts = (schedule || []).filter(g => g.played && g.opp_is_d1).map(g => g[key]);
+  if (pts.length < 2) return `<div class="trend-spark-empty">Not enough games yet</div>`;
+  const w = 64, h = 20, pad = 2.5;
+  const min = Math.min(...pts), max = Math.max(...pts);
+  const range = (max - min) || 1;
+  const x = i => pad + (i * (w - 2 * pad)) / (pts.length - 1);
+  const y = v => h - pad - ((v - min) / range) * (h - 2 * pad);
+  let segs = "";
+  for (let i = 1; i < pts.length; i++) {
+    const d = pts[i] - pts[i - 1];
+    const color = d > 0 ? "#1a7f37" : d < 0 ? "#c0392b" : "#8a8f98";
+    segs += `<line x1="${x(i - 1).toFixed(1)}" y1="${y(pts[i - 1]).toFixed(1)}" x2="${x(i).toFixed(1)}" y2="${y(pts[i]).toFixed(1)}" stroke="${color}" stroke-width="1.6" stroke-linecap="round"/>`;
+  }
+  const lastX = x(pts.length - 1).toFixed(1), lastY = y(pts[pts.length - 1]).toFixed(1);
+  return `<svg class="trend-spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">${segs}<circle cx="${lastX}" cy="${lastY}" r="1.7" fill="#003366"/></svg>`;
+}
+
+function renderForm(results) {
+  // Last 5 results as small colored circles (oldest -> newest, left to
+  // right) instead of a "W-L-D" record string -- a 3-number record reads
+  // fine over a full season, but "Last 10" was more than half an early
+  // ~18-20 game season, so it barely differed from the overall record.
+  // "Last 5" (Colin, 2026-09-10) is a real recent-form window at any point
+  // in the season.
+  if (!results || !results.length) return "—";
+  return `<span class="form">` + results.map(r => {
+    const cls = r === "W" ? "form-w" : r === "L" ? "form-l" : "form-d";
+    const title = r === "W" ? "Win" : r === "L" ? "Loss" : "Draw";
+    return `<span class="form-circle ${cls}" title="${title}">${r}</span>`;
+  }).join("") + `</span>`;
+}
+
+function fmtAdjustmentTitle(adj) {
+  // Tooltip for the Adjusted RPI column: the net bonus/penalty applied on
+  // top of the plain RPI column, from this team's non-conference results
+  // against ranked D1 opponents (2024 Women's Soccer Committee structure).
+  if (adj === null || adj === undefined) return "";
+  const sign = adj >= 0 ? "+" : "";
+  return `${sign}${adj.toFixed(4)} bonus/penalty from non-conference results vs. ranked opponents`;
+}
+
+function teamsArray() {
+  // "record" (W-L-D) is a derived display/sort field, not stored on the
+  // underlying team object -- computed once here so COLUMNS' generic
+  // "rec"-type sort logic (recNet) works on it like any other record field.
+  return Object.values(NATIONAL.teams).map(t => ({...t, record: `${t.w}-${t.l}-${t.d}`}));
+}
+
+let sortState = {key: "rank", dir: 1};
+
+function applySort(rows) {
+  const col = COLUMNS.find(c => c.key === sortState.key);
+  const dir = sortState.dir;
+  return rows.slice().sort((a, b) => {
+    let av, bv;
+    if (col.type === "rec") { av = recNet(a[col.key]); bv = recNet(b[col.key]); }
+    else if (col.type === "num" || col.type === "pct") { av = a[col.key]; bv = b[col.key]; }
+    else { av = (a[col.key] || "").toLowerCase(); bv = (b[col.key] || "").toLowerCase(); }
+    const aNull = av === null || av === undefined;
+    const bNull = bv === null || bv === undefined;
+    if (aNull && bNull) return 0;
+    if (aNull) return 1;
+    if (bNull) return -1;
+    if (av < bv) return -1 * dir;
+    if (av > bv) return 1 * dir;
+    return 0;
+  });
+}
+
+function renderHead() {
+  const tr = document.getElementById("nat-head");
+  tr.innerHTML = "";
+  COLUMNS.forEach(col => {
+    const th = document.createElement("th");
+    th.textContent = col.label;
+    th.dataset.key = col.key;
+    if (sortState.key === col.key) {
+      th.classList.add("sorted");
+      th.dataset.arrow = sortState.dir === 1 ? "▲" : "▼";
+    }
+    th.addEventListener("click", () => {
+      if (sortState.key === col.key) {
+        sortState.dir *= -1;
+      } else {
+        sortState = {key: col.key, dir: col.sortDir};
+      }
+      renderTable();
+    });
+    tr.appendChild(th);
+  });
+}
+
+function teamLink(name, extraClass) {
+  if (!name) return "";
+  return `<a class="${extraClass || ''}" href="#/team/${encodeURIComponent(name)}">${name}</a>`;
+}
+
+function renderTable() {
+  renderHead();
+  const search = document.getElementById("search").value.trim().toLowerCase();
+  const confFilter = document.getElementById("conf-filter").value;
+  let rows = teamsArray();
+  if (search) rows = rows.filter(t => t.name.toLowerCase().includes(search));
+  if (confFilter) rows = rows.filter(t => t.conference === confFilter);
+  rows = applySort(rows);
+  document.getElementById("row-count").textContent = `${rows.length} of ${teamsArray().length} teams`;
+
+  const body = document.getElementById("nat-body");
+  body.innerHTML = rows.map(t => `
+    <tr>
+      <td class="rk-cell">${t.rank ?? "—"}</td>
+      <td class="team-cell">${t.logo ? `<img src="${t.logo}" onerror="this.style.display='none'">` : ""}${teamLink(t.name)}</td>
+      <td>${t.conference || "—"}</td>
+      <td>${t.p}</td><td>${t.record}</td>
+      <td>${t.gf}</td><td>${t.ga}</td><td>${fmtGD(t.gd)}</td>
+      <td>${fmtPct(t.winPct)}</td><td>${fmtPct(t.oppWinPct)}</td><td>${fmtPct(t.oppOppWinPct)}</td>
+      <td>${fmtPct(t.rpiTotal)}</td>
+      <td title="${fmtAdjustmentTitle(t.rpiAdjustment)}">${fmtPct(t.rpiAdjusted)}</td>
+      <td>${t.confRank ?? "—"}</td>
+      <td>${t.nonConfRecord}</td><td>${t.confRecord}</td><td>${t.homeRecord}</td><td>${t.awayRecord}</td><td>${renderForm(t.last5)}</td>
+      <td>${t.band1_25}</td><td>${t.band26_50}</td><td>${t.band51_100}</td><td>${t.band101plus}</td>
+      <td>${t.vsTop100}</td><td>${t.vsBelow150}</td>
+    </tr>
+  `).join("");
+}
+
+function populateConfFilter() {
+  const sel = document.getElementById("conf-filter");
+  const confs = Array.from(new Set(teamsArray().map(t => t.conference).filter(Boolean))).sort();
+  confs.forEach(c => {
+    const opt = document.createElement("option");
+    opt.value = c; opt.textContent = c;
+    sel.appendChild(opt);
+  });
+}
+
+function resultClass(g) {
+  if (!g.played) return "result-pending";
+  if (g.gf > g.ga) return "result-w";
+  if (g.gf < g.ga) return "result-l";
+  return "result-d";
+}
+function resultText(g) {
+  if (!g.played) return "—";
+  if (g.gf > g.ga) return `W ${g.gf}-${g.ga}`;
+  if (g.gf < g.ga) return `L ${g.gf}-${g.ga}`;
+  return `D ${g.gf}-${g.ga}`;
+}
+
+function renderTeam(name) {
+  const t = NATIONAL.teams[name];
+  const container = document.getElementById("team-content");
+  if (!t) {
+    container.innerHTML = `<div class="not-found">No national RPI data for "${name}" yet (needs at least one Division I result). <a href="#/national">Back to National Rankings</a></div>`;
+    return;
+  }
+  container.innerHTML = `
+    <div class="team-header">
+      ${t.logo ? `<img class="logo" src="${t.logo}" onerror="this.style.display='none'">` : ""}
+      <div class="id">
+        <h2>${t.name}${t.confLogo ? `<img class="conf-logo" src="${t.confLogo}" onerror="this.style.display='none'">` : ""}</h2>
+        <div class="conf">${t.confFull || t.conference || "—"} ${t.confRank ? `&middot; Conf Rk ${t.confRank}/${t.confTotal}` : ""}</div>
+      </div>
+      <div class="stat-grid">
+        <div class="stat-tile"><div class="v">${t.w}-${t.l}-${t.d}</div><div class="l">Record</div></div>
+        <div class="stat-tile"><div class="v">${t.nonConfRecord}</div><div class="l">Non-Conf</div></div>
+        <div class="stat-tile"><div class="v">${t.confRecord}</div><div class="l">${t.conference || "Conf"}</div></div>
+        <div class="stat-tile"><div class="v">${t.homeRecord}</div><div class="l">Home</div></div>
+        <div class="stat-tile"><div class="v">${t.awayRecord}</div><div class="l">Away</div></div>
+        <div class="stat-tile"><div class="v">${t.gf}-${t.ga} (${fmtGD(t.gd)})</div><div class="l">Goals F/A/D</div></div>
+        <div class="stat-tile"><div class="v">#${t.rank ?? "—"}</div><div class="l">RPI Rank</div></div>
+        <div class="stat-tile stat-tile-trend"><div class="v">${t.gfpg != null ? t.gfpg.toFixed(2) : "—"}</div>${renderTrendSpark(t.schedule, "gf")}<div class="l">Goals Scored/Game</div></div>
+        <div class="stat-tile stat-tile-trend"><div class="v">${t.gapg != null ? t.gapg.toFixed(2) : "—"}</div>${renderTrendSpark(t.schedule, "ga")}<div class="l">Goals Conceded/Game</div></div>
+        <div class="stat-tile"><div class="v">${t.vsTop50}</div><div class="l">vs Top 50</div></div>
+        <div class="stat-tile"><div class="v">${t.vs51_150}</div><div class="l">vs 51-150</div></div>
+        <div class="stat-tile"><div class="v">${t.vsBelow150}</div><div class="l">vs 151+</div></div>
+      </div>
+    </div>
+    <div class="table-scroll">
+    <table class="sched">
+      <thead><tr>
+        <th>Date</th><th>Venue</th><th>Opponent</th><th>Type</th><th>Opp RPI</th><th>Opp Record</th>
+        <th>Result</th><th>Season Record</th>
+      </tr></thead>
+      <tbody>
+        ${t.schedule.map(g => `
+          <tr>
+            <td>${fmtDate(g.date)}</td>
+            <td>${g.loc}</td>
+            <td class="opp-cell">${g.oppLogo ? `<img src="${g.oppLogo}" onerror="this.style.display='none'">` : ""}${g.opp_is_d1 ? teamLink(g.opp) : (g.opp || "—")}</td>
+            <td>${g.gameType || "—"}</td>
+            <td>${g.oppLiveRank ?? "—"}</td>
+            <td>${g.oppRecord ?? "—"}</td>
+            <td class="${resultClass(g)}">${resultText(g)}</td>
+            <td>${g.cumRecord}</td>
+          </tr>
+        `).join("")}
+      </tbody>
+    </table>
+    </div>
+  `;
+}
+
+function showView(id) {
+  document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
+  document.getElementById(id).classList.add("active");
+}
+
+function route() {
+  const hash = location.hash || "#/national";
+  const teamMatch = hash.match(/^#\/team\/(.+)$/);
+  if (teamMatch) {
+    const name = decodeURIComponent(teamMatch[1]);
+    renderTeam(name);
+    showView("view-team");
+    window.scrollTo(0, 0);
+  } else {
+    showView("view-national");
+  }
+}
+
+function fixBackLink() {
+  const a = document.getElementById("back-to-matrix");
+  if (location.pathname.includes("/uncw-matrix/")) {
+    a.setAttribute("href", "index.html");
+  }
+}
+
+document.getElementById("search").addEventListener("input", renderTable);
+document.getElementById("conf-filter").addEventListener("change", renderTable);
+window.addEventListener("hashchange", route);
+
+document.getElementById("asof-line").textContent =
+  `As of ${NATIONAL.asOf || "—"} · ${NATIONAL.totalRated} teams rated (Division I opponents only, per NCAA RPI rules)`;
+populateConfFilter();
+renderTable();
+fixBackLink();
+route();
+</script>
+
+</body>
+</html>
