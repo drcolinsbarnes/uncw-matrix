@@ -2497,6 +2497,25 @@ def build_fixtures_summary(scrape_path, rpi_path, master_path, team_schedules, m
         # knows how to handle via LOGO_OVERRIDES/RPI_NAME_ALIASES.
         return lookup_logo(raw_name) or lookup_logo(disp_name)
 
+    # Conference logo for the Schedule table's Type column (Colin,
+    # 2026-09-15: "put the CAA logo instead of conference games in the
+    # fixture for Type"). Resolved directly from rpi_df/master_df (both
+    # already loaded above) via the same normalize()-based join
+    # build_national_rpi_data() uses for its own conf_logo_by_short --
+    # not reusing national_stats for this, since a team's conference
+    # membership/logo isn't a time-sensitive stat the way
+    # ownRecord/live-RPI-rank are (same reasoning as resolve_opp_logo()
+    # above), so this resolves the same way for historical seasons too,
+    # unlike national_stats which is only populated `if is_current`.
+    conf_logo = None
+    _team_norm = normalize(RPI_NAME_ALIASES.get(team_name, team_name))
+    _rpi_match = rpi_df[rpi_df["Team"].apply(lambda t: normalize(t) == _team_norm)]
+    if not _rpi_match.empty and pd.notna(_rpi_match.iloc[0].get("Conference_Short")):
+        _conf_short = str(_rpi_match.iloc[0]["Conference_Short"]).strip()
+        _master_match = master_df[master_df["Conference_Short"] == _conf_short]
+        if not _master_match.empty and pd.notna(_master_match.iloc[0].get("Conference_Logo_URL")):
+            conf_logo = to_https(clean_url(_master_match.iloc[0]["Conference_Logo_URL"]))
+
     matches = match_center.get("matches", [])
 
     # Season Record ("Season Stats" originally, renamed 2026-09-14 -- same
@@ -2611,6 +2630,10 @@ def build_fixtures_summary(scrape_path, rpi_path, master_path, team_schedules, m
         "trends": {"form": form, "goals": goals_trend, "rpi": rpi_trend, "flow": flow_trend,
                    "upcoming": upcoming},
         "seasonStats": season_stats,
+        # Conference logo for the Schedule table's Type column -- see
+        # `conf_logo` above. One value for the whole page (not per-row)
+        # since it's always team_name's own conference, not per-match data.
+        "confLogo": conf_logo,
     }
 
 
