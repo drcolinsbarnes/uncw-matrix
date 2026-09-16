@@ -2237,8 +2237,14 @@ def build_squad_table(match_xlsx_path, lookup_xlsx_path):
                     box out or just skip re-dividing, same idea as Stats
                     page disabling its opponent toggle for Physical.
       players    -- {name: {identity fields, seasons: [...], career: [...]}}
-                    Identity fields: position/headshot/jersey/year plus
-                    homeCity/homeCountry/flag (Colin's hand-collected
+                    `name` is the raw fDataMatch.xlsx/Players key (e.g.
+                    "J. Tuffin") used for routing/lookup; `displayName` is
+                    the full "First LAST" form (e.g. "Jada TUFFIN") the UI
+                    shows instead, per Colin's 2026-09-16 ask -- built from
+                    Players.FirstName/LastName, falling back to `name` for
+                    the one player with no Players-sheet entry at all.
+                    Other identity fields: position/headshot/jersey/year
+                    plus homeCity/homeCountry/flag (Colin's hand-collected
                     hometown + state-or-national flag URL) and extraBio --
                     a list of {label, value} for any OTHER column present
                     on the Players sheet (see _BIO_KNOWN_COLS/
@@ -2330,6 +2336,20 @@ def build_squad_table(match_xlsx_path, lookup_xlsx_path):
         home_city = ident["HomeCity"] if ident is not None and pd.notna(ident.get("HomeCity")) else None
         home_country = ident["HomeCountry"] if ident is not None and pd.notna(ident.get("HomeCountry")) else None
         flag = ident["Flag"] if ident is not None and pd.notna(ident.get("Flag")) else None
+        # Colin's ask (2026-09-16): show players by their real full name, not
+        # the "J. Tuffin"-style abbreviated form fDataMatch.xlsx uses as its
+        # own player key -- "Colin BARNES" (first name spelled out, last name
+        # in caps). Built from Players.FirstName/LastName when an identity
+        # row exists; falls back to the raw fDataMatch `name` key for the
+        # rare player with no Players-sheet entry at all (S. Pagnamenta, see
+        # the data-quality note above), since there's no full name on file
+        # for them to build one from.
+        first_name = ident["FirstName"] if ident is not None and pd.notna(ident.get("FirstName")) else None
+        last_name = ident["LastName"] if ident is not None and pd.notna(ident.get("LastName")) else None
+        if first_name and last_name:
+            display_name = f"{str(first_name).strip()} {str(last_name).strip().upper()}"
+        else:
+            display_name = name
         # Any OTHER column on the Players sheet beyond the ones already
         # named above (jersey/position/headshot/year/hometown/flag) is
         # passed through generically as a labeled bio field -- e.g. Colin
@@ -2402,7 +2422,8 @@ def build_squad_table(match_xlsx_path, lookup_xlsx_path):
         })
 
         players_out[name] = {
-            "name": name, "position": position, "hasIdentity": ident is not None,
+            "name": name, "displayName": display_name, "position": position,
+            "hasIdentity": ident is not None,
             "headshot": headshot, "jersey": jersey, "year": year,
             "homeCity": home_city, "homeCountry": home_country, "flag": flag,
             "extraBio": extra_bio,
