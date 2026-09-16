@@ -2201,6 +2201,26 @@ def _squad_stat_block(df):
     return totals, per90, minutes
 
 
+# Player-bio fields on PlayerMatchReport.xlsx's Players sheet that are
+# already named/handled explicitly in build_squad_table() (identity,
+# headshot, jersey/position/year, hometown+flag) -- excluded from the
+# generic extra-bio pass-through below so nothing shows up twice.
+_BIO_KNOWN_COLS = {
+    "Jersey", "FirstName", "LastName", "Player", "Position", "Headshot",
+    "Year", "HomeCity", "HomeCountry", "Flag",
+}
+# Friendlier labels for columns whose auto-prettified name would read
+# awkwardly; anything not listed here just gets _prettify_bio_col()'d.
+_BIO_LABEL_OVERRIDES = {}
+
+
+def _prettify_bio_col(col):
+    """'PreviousClub' -> 'Previous Club'. Lets a brand-new column Colin
+    adds to the Players sheet (e.g. previous club, high school) show up on
+    the player page with a readable label and no code change here."""
+    return re.sub(r"(?<!^)(?=[A-Z])", " ", str(col)).strip()
+
+
 def build_squad_table(match_xlsx_path, lookup_xlsx_path):
     """
     Squad page data, Round 7 rebuild (replaces build_squad_data() -- see
@@ -2217,6 +2237,14 @@ def build_squad_table(match_xlsx_path, lookup_xlsx_path):
                     box out or just skip re-dividing, same idea as Stats
                     page disabling its opponent toggle for Physical.
       players    -- {name: {identity fields, seasons: [...], career: [...]}}
+                    Identity fields: position/headshot/jersey/year plus
+                    homeCity/homeCountry/flag (Colin's hand-collected
+                    hometown + state-or-national flag URL) and extraBio --
+                    a list of {label, value} for any OTHER column present
+                    on the Players sheet (see _BIO_KNOWN_COLS/
+                    _prettify_bio_col) so a future column like
+                    "PreviousClub" or "School" shows up on the player page
+                    automatically, no code change required.
 
     `players[name]["seasons"]` has one entry per season the player was
     EITHER on the roster (per ROSTER_BY_SEASON/roster_for_season -- this is
@@ -2299,6 +2327,27 @@ def build_squad_table(match_xlsx_path, lookup_xlsx_path):
         headshot = ident["Headshot"] if ident is not None and pd.notna(ident.get("Headshot")) else None
         jersey = int(ident["Jersey"]) if ident is not None and pd.notna(ident.get("Jersey")) else None
         year = ident["Year"] if ident is not None and pd.notna(ident.get("Year")) else None
+        home_city = ident["HomeCity"] if ident is not None and pd.notna(ident.get("HomeCity")) else None
+        home_country = ident["HomeCountry"] if ident is not None and pd.notna(ident.get("HomeCountry")) else None
+        flag = ident["Flag"] if ident is not None and pd.notna(ident.get("Flag")) else None
+        # Any OTHER column on the Players sheet beyond the ones already
+        # named above (jersey/position/headshot/year/hometown/flag) is
+        # passed through generically as a labeled bio field -- e.g. Colin
+        # adding a "PreviousClub" or "School" column to that sheet in the
+        # future will show up on the player page with zero code changes
+        # here, which is the whole point ("we might want to add more
+        # information like previous club or school" going forward).
+        extra_bio = []
+        if ident is not None:
+            for col in players_df.columns:
+                if col in _BIO_KNOWN_COLS:
+                    continue
+                val = ident.get(col)
+                if pd.notna(val) and str(val).strip():
+                    extra_bio.append({
+                        "label": _BIO_LABEL_OVERRIDES.get(col, _prettify_bio_col(col)),
+                        "value": str(val).strip(),
+                    })
 
         seasons_out = []
         for season in SQUAD_SEASON_ORDER:
@@ -2355,6 +2404,8 @@ def build_squad_table(match_xlsx_path, lookup_xlsx_path):
         players_out[name] = {
             "name": name, "position": position, "hasIdentity": ident is not None,
             "headshot": headshot, "jersey": jersey, "year": year,
+            "homeCity": home_city, "homeCountry": home_country, "flag": flag,
+            "extraBio": extra_bio,
             "seasons": seasons_out, "career": career_rows,
         }
 
