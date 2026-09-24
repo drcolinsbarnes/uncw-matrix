@@ -27,6 +27,8 @@
     fixtures: '<rect x="3.5" y="5" width="17" height="15" rx="1.5"/><path d="M3.5 9.5h17"/><path d="M8 3v3.5"/><path d="M16 3v3.5"/>',
     caa: '<path d="M7 4h10v5a5 5 0 0 1-10 0V4Z"/><path d="M7 6H4.5A1.5 1.5 0 0 0 3 7.5C3 9.4 4.4 11 7 11"/><path d="M17 6h2.5A1.5 1.5 0 0 1 21 7.5c0 1.9-1.4 3.5-4 3.5"/><path d="M12 14v3.5"/><path d="M8.5 21h7"/><path d="M9.5 17.5h5l1 3.5h-7l1-3.5Z"/>',
     rpi: '<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17"/><path d="M12 3.5c2.6 2.3 4 5.3 4 8.5s-1.4 6.2-4 8.5c-2.6-2.3-4-5.3-4-8.5s1.4-6.2 4-8.5Z"/>',
+    recruiting: '<path d="M12 3.5l2.5 5.2 5.7.8-4.1 4 1 5.6L12 16.4l-5.1 2.7 1-5.6-4.1-4 5.7-.8L12 3.5Z"/>',
+    transfer: '<path d="M4 8h14"/><path d="M14.5 4.5 18 8l-3.5 3.5"/><path d="M20 16H6"/><path d="M9.5 12.5 6 16l3.5 3.5"/>',
   };
   function iconSvg(key) {
     return `<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">${ICONS[key] || ""}</svg>`;
@@ -39,6 +41,22 @@
     { key: "fixtures", label: "Fixtures", href: "fixtures.html" },
     { key: "caa", label: "CAA", href: "caa.html" },
     { key: "rpi", label: "RPI", href: "national_rpi.html" },
+  ];
+
+  // Recruiting hub -- the two Supabase-backed apps on the uncw-recruiting-app
+  // Cloudflare Pages project (Day 1 of the unification plan, 2026-09-24).
+  // When this sidebar is served from that same Cloudflare site (the /matrix/
+  // mirror, incl. preview deploys) the links stay same-origin; from the
+  // GitHub Pages copy they go to the live Cloudflare URLs instead.
+  const HUB_ORIGIN = "https://uncw-recruiting-app.pages.dev";
+  function hubHref(path) {
+    return /(^|\.)uncw-recruiting-app\.pages\.dev$/.test(window.location.hostname)
+      ? path
+      : HUB_ORIGIN + path;
+  }
+  const HUB_ITEMS = [
+    { key: "recruiting", label: "Recruiting", href: hubHref("/") },
+    { key: "transfer", label: "Transfer Portal", href: hubHref("/transfer-app/") },
   ];
 
   const MODE_KEY = "uncwSidebarMode"; // stored value: "full" | "icons"
@@ -99,6 +117,19 @@
     NAV_ITEMS.forEach(item => {
       const a = document.createElement("a");
       a.className = "nav-item" + (item.key === current ? " active" : "");
+      a.href = item.href;
+      a.title = item.label;
+      a.innerHTML = `<span class="emoji">${iconSvg(item.key)}</span><span class="label">${item.label}</span>`;
+      nav.appendChild(a);
+    });
+
+    const section = document.createElement("div");
+    section.className = "nav-section";
+    section.innerHTML = '<span class="label">Recruiting hub</span>';
+    nav.appendChild(section);
+    HUB_ITEMS.forEach(item => {
+      const a = document.createElement("a");
+      a.className = "nav-item nav-item-hub";
       a.href = item.href;
       a.title = item.label;
       a.innerHTML = `<span class="emoji">${iconSvg(item.key)}</span><span class="label">${item.label}</span>`;
