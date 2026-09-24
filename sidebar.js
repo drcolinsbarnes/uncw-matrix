@@ -50,6 +50,12 @@
     { key: "elo", label: "Elo Predictions", href: "elo.html" },
   ];
 
+  // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
+  // HUB_VERSION_START
+  const HUB_VERSION = "2.0";
+  const HUB_UPDATED = "24 Sep 2026";
+  // HUB_VERSION_END
+
   const MODE_KEY = "uncwSidebarMode"; // stored value: "full" | "icons"
 
   function getSavedMode() {
@@ -82,7 +88,7 @@
     brand.innerHTML =
       '<img src="uncw-logo.png" alt="UNCW Seahawks" ' +
       'onerror="this.style.visibility=\'hidden\'">' +
-      '<div class="name">UNCW Women’s Soccer<small>Schedule / RPI Matrix</small></div>';
+      '<div class="name">UNCW Women’s Soccer<small>Coaching Hub</small></div>';
     header.appendChild(brand);
 
     const toggle = document.createElement("button");
@@ -121,7 +127,8 @@
     footer.innerHTML =
       '<a class="legacy-link" href="index.html" title="Classic dashboard (legacy)">' +
       '<span class="icon">←</span><span class="label">Classic dashboard (legacy)</span></a>' +
-      '<div class="build-note">New site, in progress</div>';
+      '<div class="build-note" title="Coaching Hub version">Coaching Hub v' + HUB_VERSION +
+      (HUB_UPDATED ? ' &middot; ' + HUB_UPDATED : '') + '</div>';
     root.appendChild(footer);
   }
 

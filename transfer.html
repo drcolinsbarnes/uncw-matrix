@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Transfer Portal | UNCW Women's Soccer</title>
+<title>Transfer Portal — UNCW Coaching Hub</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="sidebar.css?v=5">
+<link rel="stylesheet" href="sidebar.css?v=2.0">
 <style>
   /* Transfer Portal page (2026-09-24): the live Supabase-backed app from the
      uncw-recruiting-app Cloudflare project, framed inside the Matrix shell so
@@ -60,7 +60,7 @@
     </div>
   </main>
 </div>
-<script src="sidebar.js?v=5"></script>
+<script src="sidebar.js?v=2.0"></script>
 <script>
 (function () {
   var APP_PATH = "/transfer-app/";
@@ -98,7 +98,7 @@
       var p = frame.contentWindow.location.pathname;
       if (p !== APP_PATH && SIBLINGS[p]) { location.href = SIBLINGS[p]; return; }
       if (p.indexOf("/matrix/") === 0) { location.href = p; return; }
-      document.title = (frame.contentDocument.title || "Transfer Portal") + " | UNCW Women's Soccer";
+      document.title = (frame.contentDocument.title || "Transfer Portal") + " — UNCW Coaching Hub";
     } catch (e) { /* cross-origin navigation -- leave it */ }
   });
   wrap.appendChild(frame);
