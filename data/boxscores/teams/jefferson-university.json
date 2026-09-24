@@ -1,0 +1,92 @@
+{
+ "team": "Jefferson University",
+ "season": 2026,
+ "games": 1,
+ "record": {
+  "w": 0,
+  "d": 0,
+  "l": 1
+ },
+ "totals": {
+  "for": {
+   "shots": 5,
+   "shots_on_goal": 2,
+   "saves": 4,
+   "corner_kicks": 2,
+   "fouls": 7,
+   "offsides": 4,
+   "goals": 1
+  },
+  "against": {
+   "shots": 15,
+   "shots_on_goal": 6,
+   "saves": 1,
+   "corner_kicks": 7,
+   "fouls": 9,
+   "offsides": 7,
+   "goals": 2
+  }
+ },
+ "matches": [
+  {
+   "date": "2026-09-16",
+   "opponent": "Penn",
+   "home": false,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     0,
+     5
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     3,
+     4
+    ],
+    "offsides": 4,
+    "goals": 1
+   },
+   "against": {
+    "shots": 15,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     6,
+     9
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     2,
+     5
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 7,
+    "goals": 2
+   },
+   "source": "pennathletics.com-30367",
+   "source_url": "https://pennathletics.com/sports/womens-soccer/stats/2026/jefferson/boxscore/30367",
+   "platform": "sidearm"
+  }
+ ]
+}

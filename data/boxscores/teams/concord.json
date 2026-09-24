@@ -1,0 +1,92 @@
+{
+ "team": "Concord",
+ "season": 2026,
+ "games": 1,
+ "record": {
+  "w": 0,
+  "d": 0,
+  "l": 1
+ },
+ "totals": {
+  "for": {
+   "shots": 6,
+   "shots_on_goal": 3,
+   "saves": 6,
+   "corner_kicks": 1,
+   "fouls": 12,
+   "offsides": 0,
+   "goals": 0
+  },
+  "against": {
+   "shots": 18,
+   "shots_on_goal": 9,
+   "saves": 3,
+   "corner_kicks": 6,
+   "fouls": 13,
+   "offsides": 1,
+   "goals": 3
+  }
+ },
+ "matches": [
+  {
+   "date": "2026-08-13",
+   "opponent": "Radford",
+   "home": false,
+   "result": "L",
+   "score": "0-3",
+   "for": {
+    "shots": 6,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     2,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     4,
+     2
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     8,
+     4
+    ],
+    "offsides": 0,
+    "goals": 0
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     10,
+     8
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     2,
+     4
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     6,
+     7
+    ],
+    "offsides": 1,
+    "goals": 3
+   },
+   "source": "radfordathletics.com-14702",
+   "source_url": "https://radfordathletics.com:443/sports/womens-soccer/stats/2026/concord/boxscore/14702",
+   "platform": "sidearm"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "team": "Western Oregon",
+ "season": 2026,
+ "games": 1,
+ "record": {
+  "w": 0,
+  "d": 0,
+  "l": 1
+ },
+ "totals": {
+  "for": {
+   "shots": 11,
+   "shots_on_goal": 6,
+   "saves": 1,
+   "corner_kicks": 3,
+   "fouls": 13,
+   "offsides": 3,
+   "goals": 2
+  },
+  "against": {
+   "shots": 8,
+   "shots_on_goal": 4,
+   "saves": 4,
+   "corner_kicks": 4,
+   "fouls": 8,
+   "offsides": 0,
+   "goals": 3
+  }
+ },
+ "matches": [
+  {
+   "date": "2026-09-06",
+   "opponent": "Portland State",
+   "home": false,
+   "result": "L",
+   "score": "2-3",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     2,
+     9
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     0,
+     3
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     9,
+     4
+    ],
+    "offsides": 3,
+    "goals": 2
+   },
+   "against": {
+    "shots": 8,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     6,
+     2
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     0,
+     4
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     2,
+     6
+    ],
+    "offsides": 0,
+    "goals": 3
+   },
+   "source": "goviks.com-5883",
+   "source_url": "https://goviks.com/sports/womens-soccer/stats/2026/western-oregon/boxscore/5883",
+   "platform": "sidearm"
+  }
+ ]
+}

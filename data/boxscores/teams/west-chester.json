@@ -1,0 +1,92 @@
+{
+ "team": "West Chester",
+ "season": 2026,
+ "games": 1,
+ "record": {
+  "w": 0,
+  "d": 1,
+  "l": 0
+ },
+ "totals": {
+  "for": {
+   "shots": 10,
+   "shots_on_goal": 4,
+   "saves": 5,
+   "corner_kicks": 2,
+   "fouls": 12,
+   "offsides": 2,
+   "goals": 2
+  },
+  "against": {
+   "shots": 18,
+   "shots_on_goal": 7,
+   "saves": 2,
+   "corner_kicks": 1,
+   "fouls": 10,
+   "offsides": 2,
+   "goals": 2
+  }
+ },
+ "matches": [
+  {
+   "date": "2026-08-23",
+   "opponent": "UMBC",
+   "home": false,
+   "result": "D",
+   "score": "2-2",
+   "for": {
+    "shots": 10,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     6,
+     4
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     6,
+     6
+    ],
+    "offsides": 2,
+    "goals": 2
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     7,
+     11
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     1,
+     1
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     3,
+     7
+    ],
+    "offsides": 2,
+    "goals": 2
+   },
+   "source": "umbcretrievers.com-9577",
+   "source_url": "https://umbcretrievers.com/sports/womens-soccer/stats/2026/west-chester/boxscore/9577",
+   "platform": "sidearm"
+  }
+ ]
+}

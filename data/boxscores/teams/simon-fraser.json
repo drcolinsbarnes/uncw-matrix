@@ -1,0 +1,92 @@
+{
+ "team": "Simon Fraser",
+ "season": 2026,
+ "games": 1,
+ "record": {
+  "w": 0,
+  "d": 1,
+  "l": 0
+ },
+ "totals": {
+  "for": {
+   "shots": 10,
+   "shots_on_goal": 5,
+   "saves": 8,
+   "corner_kicks": 3,
+   "fouls": 7,
+   "offsides": 1,
+   "goals": 1
+  },
+  "against": {
+   "shots": 22,
+   "shots_on_goal": 9,
+   "saves": 4,
+   "corner_kicks": 8,
+   "fouls": 4,
+   "offsides": 4,
+   "goals": 1
+  }
+ },
+ "matches": [
+  {
+   "date": "2026-08-23",
+   "opponent": "Seattle",
+   "home": false,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 10,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     5,
+     5
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     4,
+     4
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     3,
+     0
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     3,
+     4
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "against": {
+    "shots": 22,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     10,
+     12
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 8,
+    "corner_kicks_by_period": [
+     3,
+     5
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     1,
+     3
+    ],
+    "offsides": 4,
+    "goals": 1
+   },
+   "source": "goseattleu.com-8775",
+   "source_url": "https://goseattleu.com/boxscore/8775",
+   "platform": "wmt"
+  }
+ ]
+}

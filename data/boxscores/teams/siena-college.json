@@ -1,0 +1,632 @@
+{
+ "team": "Siena College",
+ "season": 2026,
+ "games": 10,
+ "record": {
+  "w": 6,
+  "d": 1,
+  "l": 3
+ },
+ "totals": {
+  "for": {
+   "shots": 120,
+   "shots_on_goal": 62,
+   "saves": 45,
+   "corner_kicks": 40,
+   "fouls": 63,
+   "offsides": 22,
+   "goals": 16
+  },
+  "against": {
+   "shots": 108,
+   "shots_on_goal": 55,
+   "saves": 46,
+   "corner_kicks": 46,
+   "fouls": 88,
+   "offsides": 13,
+   "goals": 10
+  }
+ },
+ "matches": [
+  {
+   "date": "2026-08-12",
+   "opponent": "Boston College",
+   "home": false,
+   "result": "L",
+   "score": "1-7",
+   "for": {
+    "shots": 10,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     7,
+     3
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     4,
+     5
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     5,
+     0
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     3,
+     2
+    ],
+    "offsides": 3,
+    "goals": 1
+   },
+   "against": {
+    "shots": 26,
+    "shots_on_goal": 16,
+    "shots_by_period": [
+     12,
+     14
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 10,
+    "corner_kicks_by_period": [
+     2,
+     8
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 0,
+    "goals": 7
+   },
+   "source": "bceagles.com-26872",
+   "source_url": "https://bceagles.com/sports/womens-soccer/stats/2026/siena/boxscore/26872",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-16",
+   "opponent": "New Hampshire",
+   "home": true,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     7,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     4,
+     2
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     0,
+     1
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     5,
+     3
+    ],
+    "offsides": 2,
+    "goals": 1
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     5,
+     4
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     4,
+     1
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     4,
+     4
+    ],
+    "offsides": 2,
+    "goals": 0
+   },
+   "source": "sienasaints.com-18787",
+   "source_url": "https://sienasaints.com/sports/womens-soccer/stats/2026/new-hampshire/boxscore/18787",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-20",
+   "opponent": "Albany",
+   "home": true,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     7,
+     6
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     3,
+     2
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     3,
+     4
+    ],
+    "offsides": 2,
+    "goals": 1
+   },
+   "against": {
+    "shots": 7,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     2,
+     5
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     4,
+     3
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     0,
+     1
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     4,
+     7
+    ],
+    "offsides": 1,
+    "goals": 0
+   },
+   "source": "sienasaints.com-18788",
+   "source_url": "https://sienasaints.com/sports/womens-soccer/stats/2026/ualbany/boxscore/18788",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-23",
+   "opponent": "Bryant",
+   "home": false,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     2,
+     3
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     1,
+     5
+    ],
+    "offsides": 2,
+    "goals": 1
+   },
+   "against": {
+    "shots": 11,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     7,
+     4
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     4,
+     1
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     3,
+     1
+    ],
+    "offsides": 2,
+    "goals": 0
+   },
+   "source": "bryantbulldogs.com-12457",
+   "source_url": "https://bryantbulldogs.com/sports/womens-soccer/stats/2026/siena/boxscore/12457",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-27",
+   "opponent": "Binghamton",
+   "home": false,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 7,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     4,
+     3
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     1,
+     4
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     4,
+     1
+    ],
+    "offsides": 1,
+    "goals": 0
+   },
+   "against": {
+    "shots": 8,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     3,
+     5
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 12,
+    "corner_kicks_by_period": [
+     6,
+     6
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     6,
+     4
+    ],
+    "offsides": 1,
+    "goals": 0
+   },
+   "source": "binghamtonbearcats.com-15656",
+   "source_url": "https://binghamtonbearcats.com/sports/womens-soccer/stats/2026/siena-university/boxscore/15656",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-02",
+   "opponent": "Le Moyne",
+   "home": false,
+   "result": "W",
+   "score": "4-0",
+   "for": {
+    "shots": 19,
+    "shots_on_goal": 13,
+    "shots_by_period": [
+     6,
+     13
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 8,
+    "corner_kicks_by_period": [
+     1,
+     7
+    ],
+    "fouls": 2,
+    "fouls_by_period": [
+     0,
+     2
+    ],
+    "offsides": 4,
+    "goals": 4
+   },
+   "against": {
+    "shots": 6,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     2,
+     4
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     4,
+     5
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     1,
+     6
+    ],
+    "offsides": 3,
+    "goals": 0
+   },
+   "source": "lemoynedolphins.com-15980",
+   "source_url": "https://lemoynedolphins.com/sports/womens-soccer/stats/2026/siena-university/boxscore/15980",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-05",
+   "opponent": "Manhattan",
+   "home": true,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     6,
+     3
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     3,
+     6
+    ],
+    "offsides": 5,
+    "goals": 1
+   },
+   "against": {
+    "shots": 10,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     4,
+     6
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     2,
+     4
+    ],
+    "fouls": 14,
+    "fouls_by_period": [
+     9,
+     5
+    ],
+    "offsides": 2,
+    "goals": 0
+   },
+   "source": "sienasaints.com-18792",
+   "source_url": "https://sienasaints.com/sports/womens-soccer/stats/2026/manhattan/boxscore/18792",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-12",
+   "opponent": "Rider",
+   "home": false,
+   "result": "W",
+   "score": "6-0",
+   "for": {
+    "shots": 22,
+    "shots_on_goal": 13,
+    "shots_by_period": [
+     8,
+     14
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     4,
+     4
+    ],
+    "offsides": 2,
+    "goals": 6
+   },
+   "against": {
+    "shots": 8,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     4,
+     4
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     3,
+     4
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     6,
+     1
+    ],
+    "offsides": 0,
+    "goals": 0
+   },
+   "source": "gobroncs.com-13661",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/siena/boxscore/13661",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-19",
+   "opponent": "Fairfield",
+   "home": true,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 10,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     6,
+     4
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     1,
+     3
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     2,
+     1
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "against": {
+    "shots": 14,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     3,
+     11
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 1,
+    "goals": 2
+   },
+   "source": "sienasaints.com-18794",
+   "source_url": "https://sienasaints.com/sports/womens-soccer/stats/2026/fairfield/boxscore/18794",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-23",
+   "opponent": "Niagara",
+   "home": false,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 14,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     5,
+     9
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     2,
+     0
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     3,
+     3
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     3,
+     1
+    ],
+    "offsides": 0,
+    "goals": 0
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     7,
+     2
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     2,
+     6
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     4,
+     4
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "source": "purpleeagles.com-17920",
+   "source_url": "https://purpleeagles.com/sports/womens-soccer/stats/2026/siena/boxscore/17920",
+   "platform": "sidearm"
+  }
+ ]
+}

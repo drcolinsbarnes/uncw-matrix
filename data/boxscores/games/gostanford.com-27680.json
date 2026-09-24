@@ -1,0 +1,1790 @@
+{
+ "id": "gostanford.com-27680",
+ "source_url": "https://gostanford.com/boxscore/27680",
+ "platform": "wmt",
+ "wmt_game_id": 6603335,
+ "wmt_school": "stanford",
+ "title": "UCLA at Stanford",
+ "date": "2026-08-27",
+ "site": "Stanford, CA",
+ "stadium": "Laird Q. Cagan Stadium",
+ "attendance": 1392,
+ "neutral_site": false,
+ "stats_finalized": true,
+ "periods": [
+  "1",
+  "2"
+ ],
+ "away": {
+  "name": "UCLA",
+  "abbr": "UCLA",
+  "winner": false,
+  "periods": [
+   0,
+   0
+  ],
+  "total": 0
+ },
+ "home": {
+  "name": "Stanford",
+  "abbr": "Stanford",
+  "winner": true,
+  "periods": [
+   2,
+   1
+  ],
+  "total": 3
+ },
+ "team_stats": {
+  "away": {
+   "shots": 5,
+   "shots_on_goal": 2,
+   "shots_by_period": [
+    1,
+    4
+   ],
+   "saves": 9,
+   "saves_by_period": [
+    3,
+    6
+   ],
+   "corner_kicks": 3,
+   "corner_kicks_by_period": [
+    2,
+    1
+   ],
+   "fouls": 10,
+   "fouls_by_period": [
+    7,
+    3
+   ],
+   "offsides": 3
+  },
+  "home": {
+   "shots": 18,
+   "shots_on_goal": 12,
+   "shots_by_period": [
+    7,
+    11
+   ],
+   "saves": 2,
+   "saves_by_period": [
+    0,
+    2
+   ],
+   "corner_kicks": 5,
+   "corner_kicks_by_period": [
+    5,
+    0
+   ],
+   "fouls": 12,
+   "fouls_by_period": [
+    2,
+    10
+   ],
+   "offsides": 4
+  }
+ },
+ "players": [
+  {
+   "team": "home",
+   "start": true,
+   "pos": "GK",
+   "num": "0",
+   "name": "Stewart, Rhiannon",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "17",
+   "name": "Grilione, Erica",
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 8,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "9",
+   "name": "Thomas, Jaden",
+   "sh": 4,
+   "sog": 4,
+   "g": 0,
+   "a": 0,
+   "min": 63,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "",
+   "num": "10",
+   "name": "Kohler, Charlotte",
+   "sh": 3,
+   "sog": 2,
+   "g": 1,
+   "a": 0,
+   "min": 90,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "13",
+   "name": "Smith, Sammy",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "D",
+   "num": "15",
+   "name": "Emri, Ella",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 5,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "12",
+   "name": "Winn, Bella",
+   "sh": 2,
+   "sog": 2,
+   "g": 1,
+   "a": 1,
+   "min": 85,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "16",
+   "name": "Bray, Milly",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "27",
+   "name": "Holden, Brooke",
+   "sh": 4,
+   "sog": 3,
+   "g": 1,
+   "a": 0,
+   "min": 58,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "26",
+   "name": "Harrison, Ava",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 5,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "M",
+   "num": "25",
+   "name": "Johnson, Noe",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 15,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "23",
+   "name": "Freer, Lily",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 85,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "24",
+   "name": "Leal-Schuman, Sadie",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 2,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "3",
+   "name": "Marinos, Peyton",
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 1,
+   "min": 32,
+   "fouls": 3,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "30",
+   "name": "Munneke, Ale",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 18,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "2",
+   "name": "Young, London",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "28",
+   "name": "Williams, Aniya",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 75,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "22",
+   "name": "Woodson, Olivia",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "11",
+   "name": "Galdamez, Marli",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 37,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "M",
+   "num": "2",
+   "name": "Priest, Ava",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 52,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "14",
+   "name": "Sarinopoulos, Cate",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 53,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "F",
+   "num": "23",
+   "name": "Croone, Kara",
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 49,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "7",
+   "name": "Daubert, Paloma",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "24",
+   "name": "Cooper, Payten",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 33,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "GK",
+   "num": "1",
+   "name": "Nakfoor, Daphne",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "16",
+   "name": "Powell, Leena",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 53,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "19",
+   "name": "Hayashi, Oruha",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 75,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "M",
+   "num": "3",
+   "name": "Edris, Laila",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 9,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "D",
+   "num": "17",
+   "name": "Meyer, Siena",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 17,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "6",
+   "name": "Shank, Grace",
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 82,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "",
+   "num": "27",
+   "name": "Hale, Molly",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 39,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "21",
+   "name": "Perry, Thea",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 85,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "D",
+   "num": "28",
+   "name": "Wilson, Anna",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 13,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "M",
+   "num": "26",
+   "name": "McGeough, Fiona",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 45,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "5",
+   "name": "Yamazaki, Asa",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 78,
+   "fouls": 1,
+   "yc": 1,
+   "rc": 0
+  }
+ ],
+ "goalies": [
+  {
+   "team": "home",
+   "pos": "GK",
+   "num": "0",
+   "name": "Stewart, Rhiannon",
+   "min": "90:00",
+   "ga": 0,
+   "saves": 2
+  },
+  {
+   "team": "away",
+   "pos": "GK",
+   "num": "1",
+   "name": "Nakfoor, Daphne",
+   "min": "90:00",
+   "ga": 3,
+   "saves": 8
+  }
+ ],
+ "goals": [
+  {
+   "clock": "20:58",
+   "abbr": "Stanford",
+   "scorer": "Winn, Bella",
+   "assists": [
+    "Leal-Schuman, Sadie"
+   ],
+   "text": "Goal (goalmouth:highright;from:leftfoot;) by Bella Winn Assist by Leal-Schuman, Sadie.",
+   "period": 1,
+   "team": "home",
+   "penalty": false,
+   "from": "leftfoot"
+  },
+  {
+   "clock": "23:45",
+   "abbr": "Stanford",
+   "scorer": "Holden, Brooke",
+   "assists": [
+    "Leal-Schuman, Sadie"
+   ],
+   "text": "Goal (goalmouth:highleft;from:head;) by Brooke Holden Assist by Leal-Schuman, Sadie.",
+   "period": 1,
+   "team": "home",
+   "penalty": false,
+   "from": "head"
+  },
+  {
+   "clock": "81:38",
+   "abbr": "Stanford",
+   "scorer": "Kohler, Charlotte",
+   "assists": [
+    "Marinos, Peyton",
+    "Winn, Bella"
+   ],
+   "text": "Goal (goalmouth:lowright;from:leftfoot;) by Charlotte Kohler Assist by Marinos, Peyton And Winn, Bella.",
+   "period": 2,
+   "team": "home",
+   "penalty": false,
+   "from": "leftfoot"
+  }
+ ],
+ "cards": [
+  {
+   "type": "yellow",
+   "clock": "13:58",
+   "abbr": "UCLA",
+   "player": "Yamazaki, Asa",
+   "num": "5",
+   "reason": "unsporting"
+  }
+ ],
+ "pbp": [
+  {
+   "period": 1,
+   "clock": "02:04",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Thea Perry",
+   "player": "Perry, Thea"
+  },
+  {
+   "period": 1,
+   "clock": "04:09",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "04:26",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Olivia Woodson",
+   "player": "Woodson, Olivia"
+  },
+  {
+   "period": 1,
+   "clock": "05:01",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Charlotte Kohler",
+   "player": "Kohler, Charlotte",
+   "qual": "goalmouth:lowleft;",
+   "x": 24,
+   "y": 33
+  },
+  {
+   "period": 1,
+   "clock": "05:01",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 1,
+   "clock": "05:28",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "06:23",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Brooke Holden",
+   "player": "Holden, Brooke"
+  },
+  {
+   "period": 1,
+   "clock": "07:03",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Brooke Holden",
+   "player": "Holden, Brooke",
+   "qual": "goalmouth:lowright;",
+   "x": 7,
+   "y": 59
+  },
+  {
+   "period": 1,
+   "clock": "07:03",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 1,
+   "clock": "10:15",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Olivia Woodson",
+   "player": "Woodson, Olivia",
+   "qual": "goalmouth:outhigh;",
+   "x": 95,
+   "y": 39
+  },
+  {
+   "period": 1,
+   "clock": "11:09",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Brooke Holden",
+   "player": "Holden, Brooke",
+   "qual": "goalmouth:lowleft;",
+   "x": 16,
+   "y": 52
+  },
+  {
+   "period": 1,
+   "clock": "11:09",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 1,
+   "clock": "13:53",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Asa Yamazaki",
+   "player": "Yamazaki, Asa"
+  },
+  {
+   "period": 1,
+   "clock": "13:58",
+   "team": "away",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Asa Yamazaki",
+   "player": "Yamazaki, Asa"
+  },
+  {
+   "period": 1,
+   "clock": "15:02",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "19:14",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Brooke Holden",
+   "player": "Holden, Brooke",
+   "qual": "blocked;",
+   "x": 14,
+   "y": 66
+  },
+  {
+   "period": 1,
+   "clock": "19:42",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "20:20",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Aniya Williams",
+   "player": "Williams, Aniya",
+   "qual": "blocked;",
+   "x": 17,
+   "y": 65
+  },
+  {
+   "period": 1,
+   "clock": "20:43",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "20:58",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:highright;) by Bella Winn",
+   "player": "Winn, Bella",
+   "qual": "goalmouth:highright;",
+   "x": 9,
+   "y": 43
+  },
+  {
+   "period": 1,
+   "clock": "20:58",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:highright;from:leftfoot;) by Bella Winn",
+   "player": "Winn, Bella",
+   "qual": "goalmouth:highright;from:leftfoot;",
+   "x": 9,
+   "y": 43
+  },
+  {
+   "period": 1,
+   "clock": "20:58",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Marli Galdamez",
+   "player": "Galdamez, Marli"
+  },
+  {
+   "period": 1,
+   "clock": "20:58",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Anna Wilson",
+   "player": "Wilson, Anna"
+  },
+  {
+   "period": 1,
+   "clock": "20:58",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Payten Cooper",
+   "player": "Cooper, Payten"
+  },
+  {
+   "period": 1,
+   "clock": "20:58",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Kara Croone",
+   "player": "Croone, Kara"
+  },
+  {
+   "period": 1,
+   "clock": "21:54",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Kara Croone",
+   "player": "Croone, Kara"
+  },
+  {
+   "period": 1,
+   "clock": "23:07",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Leena Powell",
+   "player": "Powell, Leena"
+  },
+  {
+   "period": 1,
+   "clock": "23:45",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:highleft;) by Brooke Holden",
+   "player": "Holden, Brooke",
+   "qual": "goalmouth:highleft;",
+   "x": 9,
+   "y": 69
+  },
+  {
+   "period": 1,
+   "clock": "23:45",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:highleft;from:head;) by Brooke Holden",
+   "player": "Holden, Brooke",
+   "qual": "goalmouth:highleft;from:head;",
+   "x": 9,
+   "y": 69
+  },
+  {
+   "period": 1,
+   "clock": "23:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Cate Sarinopoulos",
+   "player": "Sarinopoulos, Cate"
+  },
+  {
+   "period": 1,
+   "clock": "23:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ava Priest",
+   "player": "Priest, Ava"
+  },
+  {
+   "period": 1,
+   "clock": "26:04",
+   "team": "away",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "30:04",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Oruha Hayashi",
+   "player": "Hayashi, Oruha"
+  },
+  {
+   "period": 1,
+   "clock": "34:22",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Jaden Thomas",
+   "player": "Thomas, Jaden"
+  },
+  {
+   "period": 1,
+   "clock": "34:22",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Peyton Marinos",
+   "player": "Marinos, Peyton"
+  },
+  {
+   "period": 1,
+   "clock": "34:22",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Brooke Holden",
+   "player": "Holden, Brooke"
+  },
+  {
+   "period": 1,
+   "clock": "34:22",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Ale Munneke",
+   "player": "Munneke, Ale"
+  },
+  {
+   "period": 1,
+   "clock": "34:22",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Anna Wilson",
+   "player": "Wilson, Anna"
+  },
+  {
+   "period": 1,
+   "clock": "34:22",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Molly Hale",
+   "player": "Hale, Molly"
+  },
+  {
+   "period": 1,
+   "clock": "35:50",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Milly Bray",
+   "player": "Bray, Milly"
+  },
+  {
+   "period": 1,
+   "clock": "35:58",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Leena Powell",
+   "player": "Powell, Leena"
+  },
+  {
+   "period": 1,
+   "clock": "35:58",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Laila Edris",
+   "player": "Edris, Laila"
+  },
+  {
+   "period": 1,
+   "clock": "35:59",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "36:29",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "37:57",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "38:58",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "39:14",
+   "team": "away",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "41:37",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Ava Priest",
+   "player": "Priest, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Peyton Marinos",
+   "player": "Marinos, Peyton"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Jaden Thomas",
+   "player": "Thomas, Jaden"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Ale Munneke",
+   "player": "Munneke, Ale"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Brooke Holden",
+   "player": "Holden, Brooke"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Laila Edris",
+   "player": "Edris, Laila"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Marli Galdamez",
+   "player": "Galdamez, Marli"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Kara Croone",
+   "player": "Croone, Kara"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Fiona McGeough",
+   "player": "McGeough, Fiona"
+  },
+  {
+   "period": 2,
+   "clock": "46:42",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "47:25",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Charlotte Kohler",
+   "player": "Kohler, Charlotte"
+  },
+  {
+   "period": 2,
+   "clock": "52:10",
+   "team": "away",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "54:54",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Aniya Williams",
+   "player": "Williams, Aniya"
+  },
+  {
+   "period": 2,
+   "clock": "55:34",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:highcenter;) by Grace Shank",
+   "player": "Shank, Grace",
+   "qual": "goalmouth:highcenter;",
+   "x": 19,
+   "y": 33
+  },
+  {
+   "period": 2,
+   "clock": "55:34",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Rhiannon Stewart",
+   "player": "Stewart, Rhiannon"
+  },
+  {
+   "period": 2,
+   "clock": "56:18",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul(handball) by Jaden Thomas",
+   "player": "Thomas, Jaden"
+  },
+  {
+   "period": 2,
+   "clock": "56:48",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "57:47",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Grace Shank",
+   "player": "Shank, Grace"
+  },
+  {
+   "period": 2,
+   "clock": "58:20",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Marli Galdamez",
+   "player": "Galdamez, Marli"
+  },
+  {
+   "period": 2,
+   "clock": "58:55",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Jaden Thomas",
+   "player": "Thomas, Jaden",
+   "qual": "goalmouth:lowright;",
+   "x": 90,
+   "y": 53
+  },
+  {
+   "period": 2,
+   "clock": "58:55",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 2,
+   "clock": "59:43",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:highleft;) by Jaden Thomas",
+   "player": "Thomas, Jaden",
+   "qual": "goalmouth:highleft;",
+   "x": 90,
+   "y": 43
+  },
+  {
+   "period": 2,
+   "clock": "59:43",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 2,
+   "clock": "60:39",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Charlotte Kohler",
+   "player": "Kohler, Charlotte",
+   "qual": "blocked;",
+   "x": 89,
+   "y": 65
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Jaden Thomas",
+   "player": "Thomas, Jaden"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Ale Munneke",
+   "player": "Munneke, Ale"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Asa Yamazaki",
+   "player": "Yamazaki, Asa"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Payten Cooper",
+   "player": "Cooper, Payten"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ava Priest",
+   "player": "Priest, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Cate Sarinopoulos",
+   "player": "Sarinopoulos, Cate"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Marli Galdamez",
+   "player": "Galdamez, Marli"
+  },
+  {
+   "period": 2,
+   "clock": "60:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Siena Meyer",
+   "player": "Meyer, Siena"
+  },
+  {
+   "period": 2,
+   "clock": "64:10",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Grace Shank",
+   "player": "Shank, Grace"
+  },
+  {
+   "period": 2,
+   "clock": "65:13",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Molly Hale",
+   "player": "Hale, Molly"
+  },
+  {
+   "period": 2,
+   "clock": "65:13",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Kara Croone",
+   "player": "Croone, Kara"
+  },
+  {
+   "period": 2,
+   "clock": "66:20",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Milly Bray",
+   "player": "Bray, Milly"
+  },
+  {
+   "period": 2,
+   "clock": "68:42",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Ale Munneke",
+   "player": "Munneke, Ale"
+  },
+  {
+   "period": 2,
+   "clock": "68:42",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Jaden Thomas",
+   "player": "Thomas, Jaden"
+  },
+  {
+   "period": 2,
+   "clock": "68:47",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Brooke Holden",
+   "player": "Holden, Brooke"
+  },
+  {
+   "period": 2,
+   "clock": "68:47",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Peyton Marinos",
+   "player": "Marinos, Peyton"
+  },
+  {
+   "period": 2,
+   "clock": "69:46",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:highleft;) by Peyton Marinos",
+   "player": "Marinos, Peyton",
+   "qual": "goalmouth:highleft;",
+   "x": 89,
+   "y": 53
+  },
+  {
+   "period": 2,
+   "clock": "69:46",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 2,
+   "clock": "70:39",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Bella Winn",
+   "player": "Winn, Bella",
+   "qual": "goalmouth:lowright;",
+   "x": 94,
+   "y": 73
+  },
+  {
+   "period": 2,
+   "clock": "70:39",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Team"
+  },
+  {
+   "period": 2,
+   "clock": "71:28",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Kara Croone",
+   "player": "Croone, Kara",
+   "qual": "goalmouth:lowright;",
+   "x": 7,
+   "y": 37
+  },
+  {
+   "period": 2,
+   "clock": "71:28",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Rhiannon Stewart",
+   "player": "Stewart, Rhiannon"
+  },
+  {
+   "period": 2,
+   "clock": "72:33",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Payten Cooper",
+   "player": "Cooper, Payten"
+  },
+  {
+   "period": 2,
+   "clock": "72:33",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Leena Powell",
+   "player": "Powell, Leena"
+  },
+  {
+   "period": 2,
+   "clock": "72:33",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Siena Meyer",
+   "player": "Meyer, Siena"
+  },
+  {
+   "period": 2,
+   "clock": "72:33",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Asa Yamazaki",
+   "player": "Yamazaki, Asa"
+  },
+  {
+   "period": 2,
+   "clock": "73:13",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Jaden Thomas",
+   "player": "Thomas, Jaden",
+   "qual": "goalmouth:lowcenter;",
+   "x": 83,
+   "y": 40
+  },
+  {
+   "period": 2,
+   "clock": "73:13",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 2,
+   "clock": "74:25",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Charlotte Kohler",
+   "player": "Kohler, Charlotte"
+  },
+  {
+   "period": 2,
+   "clock": "74:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Oruha Hayashi",
+   "player": "Hayashi, Oruha"
+  },
+  {
+   "period": 2,
+   "clock": "74:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ava Priest",
+   "player": "Priest, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "74:45",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Aniya Williams",
+   "player": "Williams, Aniya"
+  },
+  {
+   "period": 2,
+   "clock": "74:45",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Noe Johnson",
+   "player": "Johnson, Noe"
+  },
+  {
+   "period": 2,
+   "clock": "75:59",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Peyton Marinos",
+   "player": "Marinos, Peyton"
+  },
+  {
+   "period": 2,
+   "clock": "76:47",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:highcenter;) by Jaden Thomas",
+   "player": "Thomas, Jaden",
+   "qual": "goalmouth:highcenter;",
+   "x": 87,
+   "y": 43
+  },
+  {
+   "period": 2,
+   "clock": "76:47",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Daphne Nakfoor",
+   "player": "Nakfoor, Daphne"
+  },
+  {
+   "period": 2,
+   "clock": "77:16",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Sammy Smith",
+   "player": "Smith, Sammy"
+  },
+  {
+   "period": 2,
+   "clock": "78:20",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (blocked;) by Kara Croone",
+   "player": "Croone, Kara",
+   "qual": "blocked;",
+   "x": 18,
+   "y": 40
+  },
+  {
+   "period": 2,
+   "clock": "79:17",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Peyton Marinos",
+   "player": "Marinos, Peyton"
+  },
+  {
+   "period": 2,
+   "clock": "81:38",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Charlotte Kohler",
+   "player": "Kohler, Charlotte",
+   "qual": "goalmouth:lowright;",
+   "x": 87,
+   "y": 67
+  },
+  {
+   "period": 2,
+   "clock": "81:38",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowright;from:leftfoot;) by Charlotte Kohler",
+   "player": "Kohler, Charlotte",
+   "qual": "goalmouth:lowright;from:leftfoot;",
+   "x": 87,
+   "y": 67
+  },
+  {
+   "period": 2,
+   "clock": "81:38",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Jaden Thomas",
+   "player": "Thomas, Jaden"
+  },
+  {
+   "period": 2,
+   "clock": "81:38",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Erica Grilione",
+   "player": "Grilione, Erica"
+  },
+  {
+   "period": 2,
+   "clock": "81:38",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Grace Shank",
+   "player": "Shank, Grace"
+  },
+  {
+   "period": 2,
+   "clock": "81:38",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Molly Hale",
+   "player": "Hale, Molly"
+  },
+  {
+   "period": 2,
+   "clock": "82:13",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Noe Johnson",
+   "player": "Johnson, Noe"
+  },
+  {
+   "period": 2,
+   "clock": "84:35",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Erica Grilione",
+   "player": "Grilione, Erica",
+   "qual": "blocked;",
+   "x": 91,
+   "y": 37
+  },
+  {
+   "period": 2,
+   "clock": "84:39",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhighleft;) by Erica Grilione",
+   "player": "Grilione, Erica",
+   "qual": "goalmouth:outhighleft;",
+   "x": 91,
+   "y": 43
+  },
+  {
+   "period": 2,
+   "clock": "84:47",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Thea Perry",
+   "player": "Perry, Thea"
+  },
+  {
+   "period": 2,
+   "clock": "84:47",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Siena Meyer",
+   "player": "Meyer, Siena"
+  },
+  {
+   "period": 2,
+   "clock": "85:18",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Bella Winn",
+   "player": "Winn, Bella"
+  },
+  {
+   "period": 2,
+   "clock": "85:18",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Ava Harrison",
+   "player": "Harrison, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "85:18",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Lily Freer",
+   "player": "Freer, Lily"
+  },
+  {
+   "period": 2,
+   "clock": "85:18",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Ella Emri",
+   "player": "Emri, Ella"
+  },
+  {
+   "period": 2,
+   "clock": "86:29",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Ava Priest",
+   "player": "Priest, Ava",
+   "qual": "goalmouth:outleft;",
+   "x": 19,
+   "y": 65
+  },
+  {
+   "period": 2,
+   "clock": "87:57",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Peyton Marinos",
+   "player": "Marinos, Peyton"
+  },
+  {
+   "period": 2,
+   "clock": "89:20",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Ava Harrison",
+   "player": "Harrison, Ava",
+   "qual": "goalmouth:outhigh;",
+   "x": 91,
+   "y": 51
+  }
+ ],
+ "pbp_abbr": {
+  "away": "UCLA",
+  "home": "Stanford"
+ },
+ "home_team": "Stanford",
+ "away_team": "UCLA",
+ "scrape_score": "3-0"
+}
