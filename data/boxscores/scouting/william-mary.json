@@ -1,0 +1,288 @@
+{
+ "team": "William & Mary",
+ "season": 2026,
+ "games": 8,
+ "record": {
+  "w": 1,
+  "d": 3,
+  "l": 4
+ },
+ "totals": {
+  "for": {
+   "shots": 103,
+   "shots_on_goal": 53,
+   "saves": 37,
+   "corner_kicks": 52,
+   "fouls": 59,
+   "offsides": 10,
+   "goals": 13
+  },
+  "against": {
+   "shots": 103,
+   "shots_on_goal": 52,
+   "saves": 40,
+   "corner_kicks": 37,
+   "fouls": 65,
+   "offsides": 8,
+   "goals": 15
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Campbell, Kenley",
+    "num": "16",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 270,
+    "min_season": 450,
+    "score": 5274.5,
+    "confidence": 1.0
+   },
+   {
+    "name": "Widderich, Molly",
+    "num": "15",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 270,
+    "min_season": 450,
+    "score": 5274.5,
+    "confidence": 1.0
+   },
+   {
+    "name": "DeLeo, Ashley",
+    "num": "23",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 267,
+    "min_season": 307,
+    "score": 5270.07,
+    "confidence": 1.0
+   },
+   {
+    "name": "Wilson, Lindsay",
+    "num": "2",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 253,
+    "min_season": 433,
+    "score": 5257.33,
+    "confidence": 1.0
+   },
+   {
+    "name": "Abbey, Mia",
+    "num": "10",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 232,
+    "min_season": 406,
+    "score": 5236.06,
+    "confidence": 1.0
+   },
+   {
+    "name": "Schultz, Ava",
+    "num": "35",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 220,
+    "min_season": 371,
+    "score": 5223.71,
+    "confidence": 1.0
+   },
+   {
+    "name": "Marvin, Ava",
+    "num": "30",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 179,
+    "min_season": 351,
+    "score": 5182.51,
+    "confidence": 1.0
+   },
+   {
+    "name": "Tegeris, Mia",
+    "num": "19",
+    "pos": "GK",
+    "starts_recent": 4,
+    "games_recent": 4,
+    "min_recent": 225,
+    "min_season": 315,
+    "score": 4228.15,
+    "confidence": 1.0
+   },
+   {
+    "name": "Magnuson, Ava",
+    "num": "13",
+    "pos": "FWD",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 214,
+    "min_season": 371,
+    "score": 4217.71,
+    "confidence": 0.8
+   },
+   {
+    "name": "Rubino, Lizzie",
+    "num": "18",
+    "pos": "MID",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 198,
+    "min_season": 237,
+    "score": 4200.37,
+    "confidence": 0.8
+   },
+   {
+    "name": "Leffler, Ellie",
+    "num": "14",
+    "pos": "FWD",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 138,
+    "min_season": 186,
+    "score": 4139.86,
+    "confidence": 0.8
+   }
+  ],
+  "next_in": [
+   {
+    "name": "Ledwith, Ella",
+    "num": "8",
+    "pos": null,
+    "starts_recent": 2,
+    "games_recent": 4,
+    "min_recent": 78,
+    "min_season": 198,
+    "score": 2079.98
+   },
+   {
+    "name": "Seitz, Paige",
+    "num": "7",
+    "pos": "MID",
+    "starts_recent": 1,
+    "games_recent": 4,
+    "min_recent": 98,
+    "min_season": 104,
+    "score": 1099.04
+   },
+   {
+    "name": "Doughty, Gwen",
+    "num": "1",
+    "pos": "GK",
+    "starts_recent": 1,
+    "games_recent": 2,
+    "min_recent": 45,
+    "min_season": 134,
+    "score": 1046.34
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 8,
+  "avg_subs_per_game": 4.6,
+  "avg_bench_minutes_per_game": 102.0,
+  "avg_sub_entry_minute": 67.9,
+  "earliest_sub_minute": 29,
+  "latest_sub_minute": 89,
+  "avg_starter_exit_minute_when_subbed": 64.9,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Abbey, Mia",
+   "goals_season": 3,
+   "assists_season": 2,
+   "shots_season": 30,
+   "goals_recent": 0,
+   "goals_before_recent": 3,
+   "shots_recent": 19,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Leffler, Ellie",
+   "goals_season": 3,
+   "assists_season": 0,
+   "shots_season": 10,
+   "goals_recent": 2,
+   "goals_before_recent": 1,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Seitz, Paige",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 4,
+   "goals_recent": 2,
+   "goals_before_recent": 0,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Wilson, Lindsay",
+   "goals_season": 2,
+   "assists_season": 1,
+   "shots_season": 14,
+   "goals_recent": 1,
+   "goals_before_recent": 1,
+   "shots_recent": 6,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Ledwith, Ella",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 3,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Magnuson, Ava",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 10,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 5,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Schultz, Ava",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 6,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Oswald, Brooke",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 9,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 5,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "team": "Northeastern",
+ "season": 2026,
+ "games": 9,
+ "record": {
+  "w": 3,
+  "d": 2,
+  "l": 4
+ },
+ "totals": {
+  "for": {
+   "shots": 91,
+   "shots_on_goal": 42,
+   "saves": 51,
+   "corner_kicks": 35,
+   "fouls": 100,
+   "offsides": 15,
+   "goals": 7
+  },
+  "against": {
+   "shots": 114,
+   "shots_on_goal": 61,
+   "saves": 35,
+   "corner_kicks": 43,
+   "fouls": 72,
+   "offsides": 20,
+   "goals": 10
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Teplow, Eliza",
+    "num": "1",
+    "pos": "GK",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 431,
+    "min_season": 791,
+    "score": 5438.91,
+    "confidence": 1.0
+   },
+   {
+    "name": "Aughe, Maddie",
+    "num": "4",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 428,
+    "min_season": 788,
+    "score": 5435.88,
+    "confidence": 1.0
+   },
+   {
+    "name": "Bartlett, Nicole",
+    "num": "2",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 421,
+    "min_season": 781,
+    "score": 5428.81,
+    "confidence": 1.0
+   },
+   {
+    "name": "Gialanella, Ava",
+    "num": "21",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 395,
+    "min_season": 755,
+    "score": 5402.55,
+    "confidence": 1.0
+   },
+   {
+    "name": "Nace, Ava",
+    "num": "7",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 333,
+    "min_season": 621,
+    "score": 5339.21,
+    "confidence": 1.0
+   },
+   {
+    "name": "Murray, Claire",
+    "num": "9",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 297,
+    "min_season": 453,
+    "score": 5301.53,
+    "confidence": 1.0
+   },
+   {
+    "name": "Pierce, Jannah",
+    "num": "22",
+    "pos": "DEF",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 382,
+    "min_season": 443,
+    "score": 4386.43,
+    "confidence": 0.8
+   },
+   {
+    "name": "Durkin, Bridget",
+    "num": "23",
+    "pos": "FWD",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 309,
+    "min_season": 517,
+    "score": 4314.17,
+    "confidence": 0.8
+   },
+   {
+    "name": "Sumner, Hayden",
+    "num": "18",
+    "pos": "MID",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 258,
+    "min_season": 594,
+    "score": 4263.94,
+    "confidence": 0.8
+   },
+   {
+    "name": "Baur, Scarlett",
+    "num": "26",
+    "pos": "FWD",
+    "starts_recent": 3,
+    "games_recent": 5,
+    "min_recent": 215,
+    "min_season": 354,
+    "score": 3218.54,
+    "confidence": 0.6
+   },
+   {
+    "name": "Arcila, Lula",
+    "num": "17",
+    "pos": "MID",
+    "starts_recent": 3,
+    "games_recent": 3,
+    "min_recent": 199,
+    "min_season": 274,
+    "score": 3201.74,
+    "confidence": 1.0
+   }
+  ],
+  "next_in": [
+   {
+    "name": "Arcila, Lucia",
+    "num": "17",
+    "pos": "MID",
+    "starts_recent": 2,
+    "games_recent": 2,
+    "min_recent": 134,
+    "min_season": 347,
+    "score": 2137.47
+   },
+   {
+    "name": "Karrow, Giulia",
+    "num": "10",
+    "pos": "MID",
+    "starts_recent": 1,
+    "games_recent": 5,
+    "min_recent": 289,
+    "min_season": 409,
+    "score": 1293.09
+   },
+   {
+    "name": "Sutliffe, Lauren",
+    "num": "11",
+    "pos": "DEF",
+    "starts_recent": 1,
+    "games_recent": 5,
+    "min_recent": 250,
+    "min_season": 474,
+    "score": 1254.74
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 9,
+  "avg_subs_per_game": 6.6,
+  "avg_bench_minutes_per_game": 205.9,
+  "avg_sub_entry_minute": 58.6,
+  "earliest_sub_minute": 23,
+  "latest_sub_minute": 86,
+  "avg_starter_exit_minute_when_subbed": 59.6,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Arcila, Lucia",
+   "goals_season": 2,
+   "assists_season": 1,
+   "shots_season": 10,
+   "goals_recent": 2,
+   "goals_before_recent": 0,
+   "shots_recent": 5,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Murray, Claire",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 21,
+   "goals_recent": 1,
+   "goals_before_recent": 1,
+   "shots_recent": 7,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Gialanella, Ava",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 2,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "McGee, Ella",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 2,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Nace, Ava",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 1,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Balogun, Foluke",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Baur, Scarlett",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 7,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Durkin, Bridget",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 17,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 7,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Sutliffe, Lauren",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 11,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}

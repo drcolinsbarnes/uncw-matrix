@@ -1,0 +1,376 @@
+{
+ "team": "Elon",
+ "season": 2026,
+ "games": 9,
+ "record": {
+  "w": 6,
+  "d": 2,
+  "l": 1
+ },
+ "totals": {
+  "for": {
+   "shots": 145,
+   "shots_on_goal": 78,
+   "saves": 30,
+   "corner_kicks": 39,
+   "fouls": 54,
+   "offsides": 13,
+   "goals": 26
+  },
+  "against": {
+   "shots": 90,
+   "shots_on_goal": 37,
+   "saves": 52,
+   "corner_kicks": 39,
+   "fouls": 86,
+   "offsides": 13,
+   "goals": 7
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Pierce, Alexis",
+    "num": "4",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 412,
+    "min_season": 724,
+    "score": 5419.24,
+    "confidence": 1.0
+   },
+   {
+    "name": "Dwyer, Megan",
+    "num": "5",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 374,
+    "min_season": 734,
+    "score": 5381.34,
+    "confidence": 1.0
+   },
+   {
+    "name": "Murdock, Isa",
+    "num": "7",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 344,
+    "min_season": 654,
+    "score": 5350.54,
+    "confidence": 1.0
+   },
+   {
+    "name": "Tirado, Gabby",
+    "num": "3",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 291,
+    "min_season": 550,
+    "score": 5296.5,
+    "confidence": 1.0
+   },
+   {
+    "name": "Feigin, Talia",
+    "num": "11",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 262,
+    "min_season": 548,
+    "score": 5267.48,
+    "confidence": 1.0
+   },
+   {
+    "name": "Green, Jordan",
+    "num": "16",
+    "pos": "DEF",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 326,
+    "min_season": 611,
+    "score": 4332.11,
+    "confidence": 0.8
+   },
+   {
+    "name": "Person, Naomi",
+    "num": "28",
+    "pos": "GK",
+    "starts_recent": 4,
+    "games_recent": 4,
+    "min_recent": 289,
+    "min_season": 604,
+    "score": 4295.04,
+    "confidence": 1.0
+   },
+   {
+    "name": "Hellner, Ava",
+    "num": "12",
+    "pos": "MID",
+    "starts_recent": 4,
+    "games_recent": 4,
+    "min_recent": 249,
+    "min_season": 361,
+    "score": 4252.61,
+    "confidence": 1.0
+   },
+   {
+    "name": "Hill, Jessica",
+    "num": "14",
+    "pos": "DEF",
+    "starts_recent": 3,
+    "games_recent": 5,
+    "min_recent": 328,
+    "min_season": 643,
+    "score": 3334.43,
+    "confidence": 0.6
+   },
+   {
+    "name": "Gelhaus, Grace",
+    "num": "6",
+    "pos": "DEF",
+    "starts_recent": 3,
+    "games_recent": 4,
+    "min_recent": 303,
+    "min_season": 563,
+    "score": 3308.63,
+    "confidence": 0.75
+   },
+   {
+    "name": "Kleyner, Nicole",
+    "num": "10",
+    "pos": "mid",
+    "starts_recent": 2,
+    "games_recent": 5,
+    "min_recent": 234,
+    "min_season": 493,
+    "score": 2238.93,
+    "confidence": 0.4
+   }
+  ],
+  "next_in": [
+   {
+    "name": "Grimes, Charlise",
+    "num": "8",
+    "pos": "DEF",
+    "starts_recent": 2,
+    "games_recent": 5,
+    "min_recent": 190,
+    "min_season": 295,
+    "score": 2192.95
+   },
+   {
+    "name": "Abousaab, Jenna",
+    "num": "13",
+    "pos": "mid",
+    "starts_recent": 2,
+    "games_recent": 4,
+    "min_recent": 140,
+    "min_season": 211,
+    "score": 2142.11
+   },
+   {
+    "name": "Carlson, Hannah",
+    "num": "19",
+    "pos": "DEF",
+    "starts_recent": 2,
+    "games_recent": 3,
+    "min_recent": 121,
+    "min_season": 169,
+    "score": 2122.69
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 9,
+  "avg_subs_per_game": 7.9,
+  "avg_bench_minutes_per_game": 235.3,
+  "avg_sub_entry_minute": 60.2,
+  "earliest_sub_minute": 29,
+  "latest_sub_minute": 88,
+  "avg_starter_exit_minute_when_subbed": 60.3,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Murdock, Isa",
+   "goals_season": 6,
+   "assists_season": 4,
+   "shots_season": 36,
+   "goals_recent": 1,
+   "goals_before_recent": 5,
+   "shots_recent": 9,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Abousaab, Maya",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 4,
+   "goals_recent": 1,
+   "goals_before_recent": 1,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Beck, Jess",
+   "goals_season": 2,
+   "assists_season": 2,
+   "shots_season": 6,
+   "goals_recent": 1,
+   "goals_before_recent": 1,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Green, Jordan",
+   "goals_season": 2,
+   "assists_season": 2,
+   "shots_season": 8,
+   "goals_recent": 1,
+   "goals_before_recent": 1,
+   "shots_recent": 5,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Hellner, Ava",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 4,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Kleyner, Nicole",
+   "goals_season": 2,
+   "assists_season": 1,
+   "shots_season": 10,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Tirado, Gabby",
+   "goals_season": 2,
+   "assists_season": 4,
+   "shots_season": 14,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Carlson, Hannah",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 2,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "DiPrima, Isabel",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 1,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Dwyer, Megan",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 10,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 7,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Feigin, Talia",
+   "goals_season": 1,
+   "assists_season": 5,
+   "shots_season": 12,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Gelhaus, Grace",
+   "goals_season": 1,
+   "assists_season": 5,
+   "shots_season": 13,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 6,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Hill, Jessica",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 1,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "McCauley , Lauren",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 5,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Rogers, Emerson",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 2,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "McCauley, Lauren",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 5,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}

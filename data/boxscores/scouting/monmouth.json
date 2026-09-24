@@ -1,0 +1,321 @@
+{
+ "team": "Monmouth",
+ "season": 2026,
+ "games": 9,
+ "record": {
+  "w": 5,
+  "d": 2,
+  "l": 2
+ },
+ "totals": {
+  "for": {
+   "shots": 151,
+   "shots_on_goal": 59,
+   "saves": 34,
+   "corner_kicks": 46,
+   "fouls": 84,
+   "offsides": 8,
+   "goals": 14
+  },
+  "against": {
+   "shots": 112,
+   "shots_on_goal": 40,
+   "saves": 45,
+   "corner_kicks": 41,
+   "fouls": 80,
+   "offsides": 37,
+   "goals": 6
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Miller, Tallulah",
+    "num": "1",
+    "pos": "GK",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 450,
+    "min_season": 810,
+    "score": 5458.1,
+    "confidence": 1.0
+   },
+   {
+    "name": "Perna, Charlee",
+    "num": "3",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 441,
+    "min_season": 763,
+    "score": 5448.63,
+    "confidence": 1.0
+   },
+   {
+    "name": "Notarfrancesco, Grace",
+    "num": "99",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 430,
+    "min_season": 774,
+    "score": 5437.74,
+    "confidence": 1.0
+   },
+   {
+    "name": "Hoke, Cadi",
+    "num": "18",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 418,
+    "min_season": 778,
+    "score": 5425.78,
+    "confidence": 1.0
+   },
+   {
+    "name": "Lavrich, Ashley",
+    "num": "8",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 370,
+    "min_season": 690,
+    "score": 5376.9,
+    "confidence": 1.0
+   },
+   {
+    "name": "De Almeida, Brooke",
+    "num": "21",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 366,
+    "min_season": 680,
+    "score": 5372.8,
+    "confidence": 1.0
+   },
+   {
+    "name": "Perdomo, Evangeline",
+    "num": "12",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 353,
+    "min_season": 601,
+    "score": 5359.01,
+    "confidence": 1.0
+   },
+   {
+    "name": "van der Boom, Saar",
+    "num": "25",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 346,
+    "min_season": 633,
+    "score": 5352.33,
+    "confidence": 1.0
+   },
+   {
+    "name": "Bogue, Marie",
+    "num": "7",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 187,
+    "min_season": 402,
+    "score": 5191.02,
+    "confidence": 1.0
+   },
+   {
+    "name": "DeMaio, Maddie",
+    "num": "2",
+    "pos": "MID",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 371,
+    "min_season": 505,
+    "score": 4376.05,
+    "confidence": 0.8
+   },
+   {
+    "name": "Messer, Chloe",
+    "num": "9",
+    "pos": "mid",
+    "starts_recent": 3,
+    "games_recent": 5,
+    "min_recent": 316,
+    "min_season": 525,
+    "score": 3321.25,
+    "confidence": 0.6
+   }
+  ],
+  "next_in": [
+   {
+    "name": "De Almeida, Emily",
+    "num": "16",
+    "pos": "mid",
+    "starts_recent": 3,
+    "games_recent": 5,
+    "min_recent": 263,
+    "min_season": 519,
+    "score": 3268.19
+   },
+   {
+    "name": "McGovern, Natalie",
+    "num": "19",
+    "pos": "MID",
+    "starts_recent": 0,
+    "games_recent": 4,
+    "min_recent": 131,
+    "min_season": 304,
+    "score": 134.04
+   },
+   {
+    "name": "Husic, Lindsey",
+    "num": "11",
+    "pos": "def",
+    "starts_recent": 0,
+    "games_recent": 5,
+    "min_recent": 120,
+    "min_season": 214,
+    "score": 122.14
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 9,
+  "avg_subs_per_game": 7.6,
+  "avg_bench_minutes_per_game": 181.8,
+  "avg_sub_entry_minute": 65.9,
+  "earliest_sub_minute": 19,
+  "latest_sub_minute": 89,
+  "avg_starter_exit_minute_when_subbed": 64.4,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Lavrich, Ashley",
+   "goals_season": 5,
+   "assists_season": 2,
+   "shots_season": 32,
+   "goals_recent": 1,
+   "goals_before_recent": 4,
+   "shots_recent": 8,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Butash, Daniella",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 11,
+   "goals_recent": 1,
+   "goals_before_recent": 1,
+   "shots_recent": 7,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Messer, Chloe",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 16,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 6,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "De Almeida, Brooke",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 12,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "DeMaio, Maddie",
+   "goals_season": 1,
+   "assists_season": 3,
+   "shots_season": 13,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "McGovern, Natalie",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 2,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Perdomo, Evangeline",
+   "goals_season": 1,
+   "assists_season": 3,
+   "shots_season": 14,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "van der Boom, Saar",
+   "goals_season": 1,
+   "assists_season": 2,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Bogue, Marie",
+   "goals_season": 0,
+   "assists_season": 2,
+   "shots_season": 15,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Gehret, Loren",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Perna, Charlee",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}

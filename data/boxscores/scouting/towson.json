@@ -1,0 +1,321 @@
+{
+ "team": "Towson",
+ "season": 2026,
+ "games": 9,
+ "record": {
+  "w": 3,
+  "d": 2,
+  "l": 4
+ },
+ "totals": {
+  "for": {
+   "shots": 153,
+   "shots_on_goal": 50,
+   "saves": 35,
+   "corner_kicks": 53,
+   "fouls": 78,
+   "offsides": 12,
+   "goals": 11
+  },
+  "against": {
+   "shots": 87,
+   "shots_on_goal": 46,
+   "saves": 39,
+   "corner_kicks": 40,
+   "fouls": 96,
+   "offsides": 9,
+   "goals": 11
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Thibeault, Sophie",
+    "num": "18",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 450,
+    "min_season": 788,
+    "score": 5457.88,
+    "confidence": 1.0
+   },
+   {
+    "name": "Lindeman, Sydney",
+    "num": "3",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 443,
+    "min_season": 803,
+    "score": 5451.03,
+    "confidence": 1.0
+   },
+   {
+    "name": "Rubio, Emely",
+    "num": "11",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 437,
+    "min_season": 675,
+    "score": 5443.75,
+    "confidence": 1.0
+   },
+   {
+    "name": "Levin, Emma",
+    "num": "34",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 417,
+    "min_season": 563,
+    "score": 5422.63,
+    "confidence": 1.0
+   },
+   {
+    "name": "Koro, Meron",
+    "num": "10",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 392,
+    "min_season": 670,
+    "score": 5398.7,
+    "confidence": 1.0
+   },
+   {
+    "name": "Rosenblatt, Sofia",
+    "num": "36",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 378,
+    "min_season": 729,
+    "score": 5385.29,
+    "confidence": 1.0
+   },
+   {
+    "name": "Birrell, Brooke",
+    "num": "33",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 365,
+    "min_season": 711,
+    "score": 5372.11,
+    "confidence": 1.0
+   },
+   {
+    "name": "Perry, Kale'a",
+    "num": "7",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 345,
+    "min_season": 673,
+    "score": 5351.73,
+    "confidence": 1.0
+   },
+   {
+    "name": "White, Jaelyn",
+    "num": "25",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 344,
+    "min_season": 687,
+    "score": 5350.87,
+    "confidence": 1.0
+   },
+   {
+    "name": "Williams, Keagan",
+    "num": "0",
+    "pos": "GK",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 240,
+    "min_season": 240,
+    "score": 4242.4,
+    "confidence": 0.8
+   },
+   {
+    "name": "Matthews, Riley",
+    "num": "6",
+    "pos": "FWD",
+    "starts_recent": 3,
+    "games_recent": 3,
+    "min_recent": 144,
+    "min_season": 371,
+    "score": 3147.71,
+    "confidence": 1.0
+   }
+  ],
+  "next_in": [
+   {
+    "name": "Bayer, Paelyn",
+    "num": "12",
+    "pos": "fwd",
+    "starts_recent": 1,
+    "games_recent": 5,
+    "min_recent": 227,
+    "min_season": 325,
+    "score": 1230.25
+   },
+   {
+    "name": "Gardner, Teagan",
+    "num": "1",
+    "pos": "gk",
+    "starts_recent": 1,
+    "games_recent": 4,
+    "min_recent": 210,
+    "min_season": 570,
+    "score": 1215.7
+   },
+   {
+    "name": "Reid, Angel",
+    "num": "16",
+    "pos": "FWD",
+    "starts_recent": 1,
+    "games_recent": 5,
+    "min_recent": 164,
+    "min_season": 226,
+    "score": 1166.26
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 9,
+  "avg_subs_per_game": 5.8,
+  "avg_bench_minutes_per_game": 151.6,
+  "avg_sub_entry_minute": 63.8,
+  "earliest_sub_minute": 34,
+  "latest_sub_minute": 89,
+  "avg_starter_exit_minute_when_subbed": 66.1,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Perry, Kale'a",
+   "goals_season": 3,
+   "assists_season": 1,
+   "shots_season": 29,
+   "goals_recent": 1,
+   "goals_before_recent": 2,
+   "shots_recent": 12,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Caldwell, Jayla",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Koro, Meron",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 21,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Rosenblatt, Sofia",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 8,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Taylor, Sydney",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 5,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Thibeault, Sophie",
+   "goals_season": 1,
+   "assists_season": 2,
+   "shots_season": 28,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 8,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Bayer, Paelyn",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Levin, Emma",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 7,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Matthews, Riley",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Reid, Angel",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 8,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 5,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Rubio, Emely",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 17,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 8,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}

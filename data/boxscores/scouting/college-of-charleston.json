@@ -1,0 +1,332 @@
+{
+ "team": "College of Charleston",
+ "season": 2026,
+ "games": 10,
+ "record": {
+  "w": 3,
+  "d": 3,
+  "l": 4
+ },
+ "totals": {
+  "for": {
+   "shots": 130,
+   "shots_on_goal": 42,
+   "saves": 45,
+   "corner_kicks": 59,
+   "fouls": 82,
+   "offsides": 11,
+   "goals": 14
+  },
+  "against": {
+   "shots": 115,
+   "shots_on_goal": 59,
+   "saves": 28,
+   "corner_kicks": 52,
+   "fouls": 87,
+   "offsides": 4,
+   "goals": 14
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Chunn, Ainsley",
+    "num": "1",
+    "pos": "GK",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 384,
+    "min_season": 789,
+    "score": 5391.89,
+    "confidence": 1.0
+   },
+   {
+    "name": "Ward, Sienna",
+    "num": "2",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 383,
+    "min_season": 793,
+    "score": 5390.93,
+    "confidence": 1.0
+   },
+   {
+    "name": "Antonio, Bella",
+    "num": "14",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 362,
+    "min_season": 726,
+    "score": 5369.26,
+    "confidence": 1.0
+   },
+   {
+    "name": "Spinner, Mary Martin",
+    "num": "7",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 323,
+    "min_season": 683,
+    "score": 5329.83,
+    "confidence": 1.0
+   },
+   {
+    "name": "Uzelman, Kassy",
+    "num": "17",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 319,
+    "min_season": 697,
+    "score": 5325.97,
+    "confidence": 1.0
+   },
+   {
+    "name": "Nelson, Chloe",
+    "num": "27",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 242,
+    "min_season": 478,
+    "score": 5246.78,
+    "confidence": 1.0
+   },
+   {
+    "name": "Stankunas, Emma",
+    "num": "12",
+    "pos": "DEF",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 365,
+    "min_season": 806,
+    "score": 4373.06,
+    "confidence": 0.8
+   },
+   {
+    "name": "Toubia, Caitlyn",
+    "num": "32",
+    "pos": "DEF",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 352,
+    "min_season": 746,
+    "score": 4359.46,
+    "confidence": 0.8
+   },
+   {
+    "name": "Stewart, Ellie ",
+    "num": "20",
+    "pos": "FWD",
+    "starts_recent": 4,
+    "games_recent": 4,
+    "min_recent": 295,
+    "min_season": 375,
+    "score": 4298.75,
+    "confidence": 1.0
+   },
+   {
+    "name": "Wadsworth, Maggie",
+    "num": "13",
+    "pos": "FWD",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 272,
+    "min_season": 594,
+    "score": 4277.94,
+    "confidence": 0.8
+   },
+   {
+    "name": "Heffernan, Maggie",
+    "num": "21",
+    "pos": "DEF",
+    "starts_recent": 4,
+    "games_recent": 4,
+    "min_recent": 269,
+    "min_season": 640,
+    "score": 4275.4,
+    "confidence": 1.0
+   }
+  ],
+  "next_in": [
+   {
+    "name": "Gwozdo, Madeira",
+    "num": "5",
+    "pos": null,
+    "starts_recent": 2,
+    "games_recent": 5,
+    "min_recent": 289,
+    "min_season": 444,
+    "score": 2293.44
+   },
+   {
+    "name": "Arnold, Izzy",
+    "num": "11",
+    "pos": "DEF",
+    "starts_recent": 1,
+    "games_recent": 5,
+    "min_recent": 226,
+    "min_season": 388,
+    "score": 1229.88
+   },
+   {
+    "name": "Petro, Sienna",
+    "num": "22",
+    "pos": "MID",
+    "starts_recent": 1,
+    "games_recent": 5,
+    "min_recent": 209,
+    "min_season": 410,
+    "score": 1213.1
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 10,
+  "avg_subs_per_game": 7.5,
+  "avg_bench_minutes_per_game": 214.1,
+  "avg_sub_entry_minute": 59.5,
+  "earliest_sub_minute": 23,
+  "latest_sub_minute": 87,
+  "avg_starter_exit_minute_when_subbed": 63.9,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Antonio, Bella",
+   "goals_season": 6,
+   "assists_season": 0,
+   "shots_season": 19,
+   "goals_recent": 1,
+   "goals_before_recent": 5,
+   "shots_recent": 6,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Bromley, Emma",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 4,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Heffernan, Maggie",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 10,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Schick, Lyla",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 6,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Spinner, Mary Martin",
+   "goals_season": 1,
+   "assists_season": 3,
+   "shots_season": 15,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Stewart, Ellie ",
+   "goals_season": 1,
+   "assists_season": 1,
+   "shots_season": 10,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Toubia, Caitlyn",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 1,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Uzelman, Kassy",
+   "goals_season": 1,
+   "assists_season": 2,
+   "shots_season": 9,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Ward, Sienna",
+   "goals_season": 1,
+   "assists_season": 2,
+   "shots_season": 7,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 4,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Gwozdo, Madeira",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 8,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Petro, Sienna",
+   "goals_season": 0,
+   "assists_season": 1,
+   "shots_season": 7,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "steady"
+  },
+  {
+   "name": "Wadsworth, Maggie",
+   "goals_season": 0,
+   "assists_season": 2,
+   "shots_season": 19,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}

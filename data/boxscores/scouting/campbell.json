@@ -1,0 +1,310 @@
+{
+ "team": "Campbell",
+ "season": 2026,
+ "games": 10,
+ "record": {
+  "w": 3,
+  "d": 2,
+  "l": 5
+ },
+ "totals": {
+  "for": {
+   "shots": 129,
+   "shots_on_goal": 69,
+   "saves": 45,
+   "corner_kicks": 51,
+   "fouls": 85,
+   "offsides": 30,
+   "goals": 14
+  },
+  "against": {
+   "shots": 135,
+   "shots_on_goal": 60,
+   "saves": 55,
+   "corner_kicks": 45,
+   "fouls": 73,
+   "offsides": 20,
+   "goals": 15
+  }
+ },
+ "projected_xi": {
+  "window_games": 5,
+  "xi": [
+   {
+    "name": "Badgett, Sadie",
+    "num": "19",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 433,
+    "min_season": 846,
+    "score": 5441.46,
+    "confidence": 1.0
+   },
+   {
+    "name": "Reed, Kennedy",
+    "num": "2",
+    "pos": "DEF",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 430,
+    "min_season": 827,
+    "score": 5438.27,
+    "confidence": 1.0
+   },
+   {
+    "name": "Fepessi, Zahra",
+    "num": "6",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 355,
+    "min_season": 664,
+    "score": 5361.64,
+    "confidence": 1.0
+   },
+   {
+    "name": "Connolly, Abby",
+    "num": "20",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 320,
+    "min_season": 609,
+    "score": 5326.09,
+    "confidence": 1.0
+   },
+   {
+    "name": "Bannon, Grace",
+    "num": "8",
+    "pos": "MID",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 310,
+    "min_season": 571,
+    "score": 5315.71,
+    "confidence": 1.0
+   },
+   {
+    "name": "Heafner, Laney",
+    "num": "7",
+    "pos": "FWD",
+    "starts_recent": 5,
+    "games_recent": 5,
+    "min_recent": 300,
+    "min_season": 588,
+    "score": 5305.88,
+    "confidence": 1.0
+   },
+   {
+    "name": "Garrison, Gillian",
+    "num": "27",
+    "pos": "DEF",
+    "starts_recent": 4,
+    "games_recent": 5,
+    "min_recent": 216,
+    "min_season": 429,
+    "score": 4220.29,
+    "confidence": 0.8
+   },
+   {
+    "name": "van Doesburg, Ana\u00efs",
+    "num": "0",
+    "pos": "GK",
+    "starts_recent": 3,
+    "games_recent": 3,
+    "min_recent": 270,
+    "min_season": 519,
+    "score": 3275.19,
+    "confidence": 1.0
+   },
+   {
+    "name": "Latini, Kate",
+    "num": "9",
+    "pos": "def",
+    "starts_recent": 3,
+    "games_recent": 5,
+    "min_recent": 260,
+    "min_season": 489,
+    "score": 3264.89,
+    "confidence": 0.6
+   },
+   {
+    "name": "Kanaar, Ava",
+    "num": "13",
+    "pos": "FWD",
+    "starts_recent": 3,
+    "games_recent": 3,
+    "min_recent": 179,
+    "min_season": 429,
+    "score": 3183.29,
+    "confidence": 1.0
+   },
+   {
+    "name": "Baker, Gretchen",
+    "num": "12",
+    "pos": "mid",
+    "starts_recent": 2,
+    "games_recent": 5,
+    "min_recent": 220,
+    "min_season": 423,
+    "score": 2224.23,
+    "confidence": 0.4
+   }
+  ],
+  "next_in": [
+   {
+    "name": "Wineka, Ella",
+    "num": "17",
+    "pos": "mid",
+    "starts_recent": 2,
+    "games_recent": 5,
+    "min_recent": 216,
+    "min_season": 419,
+    "score": 2220.19
+   },
+   {
+    "name": "Moore, Kira",
+    "num": "15",
+    "pos": "DEF",
+    "starts_recent": 2,
+    "games_recent": 5,
+    "min_recent": 215,
+    "min_season": 463,
+    "score": 2219.63
+   },
+   {
+    "name": "van Doesburg, Anais",
+    "num": "0",
+    "pos": "GK",
+    "starts_recent": 2,
+    "games_recent": 2,
+    "min_recent": 180,
+    "min_season": 360,
+    "score": 2183.6
+   }
+  ]
+ },
+ "substitutions": {
+  "games": 10,
+  "avg_subs_per_game": 10.6,
+  "avg_bench_minutes_per_game": 293.4,
+  "avg_sub_entry_minute": 59.6,
+  "earliest_sub_minute": 32,
+  "latest_sub_minute": 88,
+  "avg_starter_exit_minute_when_subbed": 57.3,
+  "note": "Estimated from minutes played vs. that game's longest-playing player (proxy for match length), not from parsed substitution events -- see this script's docstring."
+ },
+ "form_trends": [
+  {
+   "name": "Garrett, Avery",
+   "goals_season": 3,
+   "assists_season": 0,
+   "shots_season": 7,
+   "goals_recent": 0,
+   "goals_before_recent": 3,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Connolly, Abby",
+   "goals_season": 2,
+   "assists_season": 2,
+   "shots_season": 35,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 7,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Heafner, Laney",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 23,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 7,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Vandre, Olivia",
+   "goals_season": 2,
+   "assists_season": 0,
+   "shots_season": 2,
+   "goals_recent": 0,
+   "goals_before_recent": 2,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Baughan, Tyler",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 9,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Fepessi, Zahra",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 3,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 3,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Garrison, Gillian",
+   "goals_season": 1,
+   "assists_season": 2,
+   "shots_season": 4,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 2,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Kanaar, Ava",
+   "goals_season": 1,
+   "assists_season": 2,
+   "shots_season": 8,
+   "goals_recent": 0,
+   "goals_before_recent": 1,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "cold"
+  },
+  {
+   "name": "Reed, Kennedy",
+   "goals_season": 1,
+   "assists_season": 0,
+   "shots_season": 4,
+   "goals_recent": 1,
+   "goals_before_recent": 0,
+   "shots_recent": 1,
+   "recent_games": 3,
+   "trend": "hot"
+  },
+  {
+   "name": "Normand, Abygaelle",
+   "goals_season": 0,
+   "assists_season": 0,
+   "shots_season": 11,
+   "goals_recent": 0,
+   "goals_before_recent": 0,
+   "shots_recent": 0,
+   "recent_games": 3,
+   "trend": "steady"
+  }
+ ]
+}
