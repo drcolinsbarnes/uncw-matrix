@@ -1,30 +1,30 @@
 {
  "team": "Oklahoma State",
  "season": 2026,
- "games": 8,
+ "games": 9,
  "record": {
   "w": 5,
   "d": 2,
-  "l": 1
+  "l": 2
  },
  "totals": {
   "for": {
-   "shots": 148,
-   "shots_on_goal": 58,
-   "saves": 21,
-   "corner_kicks": 56,
-   "fouls": 74,
-   "offsides": 16,
-   "goals": 21
+   "shots": 157,
+   "shots_on_goal": 63,
+   "saves": 27,
+   "corner_kicks": 57,
+   "fouls": 83,
+   "offsides": 17,
+   "goals": 22
   },
   "against": {
-   "shots": 74,
-   "shots_on_goal": 27,
-   "saves": 37,
-   "corner_kicks": 28,
-   "fouls": 91,
-   "offsides": 4,
-   "goals": 6
+   "shots": 93,
+   "shots_on_goal": 35,
+   "saves": 41,
+   "corner_kicks": 36,
+   "fouls": 99,
+   "offsides": 6,
+   "goals": 8
   }
  },
  "matches": [
@@ -507,6 +507,66 @@
    "source": "okstate.com-17496",
    "source_url": "https://okstate.com/sports/womens-soccer/stats/2026/tcu/boxscore/17496",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Baylor",
+   "home": false,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     5,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     4,
+     5
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     7,
+     12
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 8,
+    "corner_kicks_by_period": [
+     4,
+     4
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     5,
+     3
+    ],
+    "offsides": 2,
+    "goals": 2
+   },
+   "source": "baylorbears.com-29777",
+   "source_url": "https://baylorbears.com:443/sports/womens-soccer/stats/2026/oklahoma-state/boxscore/29777",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -514,9 +574,9 @@
    "name": "Hoppers, Katelyn",
    "num": "8",
    "pos": "DEF",
-   "gp": 8,
-   "starts": 8,
-   "min": 687,
+   "gp": 9,
+   "starts": 9,
+   "min": 777,
    "sh": 2,
    "sog": 0,
    "g": 0,
@@ -529,9 +589,9 @@
    "name": "Hedden, Emmy",
    "num": "4",
    "pos": "MID",
-   "gp": 8,
-   "starts": 8,
-   "min": 589,
+   "gp": 9,
+   "starts": 9,
+   "min": 679,
    "sh": 3,
    "sog": 3,
    "g": 1,
@@ -544,15 +604,45 @@
    "name": "Wilson, Laudan",
    "num": "11",
    "pos": "MID",
-   "gp": 8,
-   "starts": 8,
-   "min": 548,
-   "sh": 19,
-   "sog": 4,
-   "g": 2,
+   "gp": 9,
+   "starts": 9,
+   "min": 634,
+   "sh": 22,
+   "sog": 5,
+   "g": 3,
    "a": 1,
-   "fouls": 3,
+   "fouls": 5,
    "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Geoffroy, Ellie",
+   "num": "3",
+   "pos": "DEF",
+   "gp": 8,
+   "starts": 6,
+   "min": 594,
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Mitchell, Keaton",
+   "num": "17",
+   "pos": "MID",
+   "gp": 9,
+   "starts": 8,
+   "min": 557,
+   "sh": 21,
+   "sog": 10,
+   "g": 4,
+   "a": 1,
+   "fouls": 2,
+   "yc": 3,
    "rc": 0
   },
   {
@@ -567,21 +657,6 @@
    "g": 3,
    "a": 0,
    "fouls": 5,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Geoffroy, Ellie",
-   "num": "3",
-   "pos": "DEF",
-   "gp": 7,
-   "starts": 5,
-   "min": 504,
-   "sh": 2,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -601,19 +676,24 @@
    "rc": 0
   },
   {
-   "name": "Mitchell, Keaton",
-   "num": "17",
-   "pos": "MID",
-   "gp": 8,
-   "starts": 7,
-   "min": 479,
-   "sh": 19,
-   "sog": 9,
-   "g": 4,
-   "a": 1,
-   "fouls": 2,
-   "yc": 2,
-   "rc": 0
+   "name": "Bass, Avery",
+   "num": "00",
+   "pos": "GK",
+   "gp": 6,
+   "starts": 5,
+   "min": 449,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "goalie": {
+    "gp": 6,
+    "ga": 4,
+    "saves": 17
+   }
   },
   {
    "name": "Rowlett, Brenna",
@@ -627,6 +707,21 @@
    "g": 0,
    "a": 0,
    "fouls": 7,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Thibeau, Taryn",
+   "num": "21",
+   "pos": "DEF",
+   "gp": 8,
+   "starts": 2,
+   "min": 393,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 2,
+   "fouls": 2,
    "yc": 0,
    "rc": 0
   },
@@ -651,37 +746,17 @@
    }
   },
   {
-   "name": "Bass, Avery",
-   "num": "00",
-   "pos": "GK",
-   "gp": 5,
+   "name": "Moorman, Jada",
+   "num": "31",
+   "pos": "FWD",
+   "gp": 9,
    "starts": 4,
-   "min": 359,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
+   "min": 339,
+   "sh": 14,
+   "sog": 5,
+   "g": 2,
    "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "goalie": {
-    "gp": 5,
-    "ga": 2,
-    "saves": 11
-   }
-  },
-  {
-   "name": "Thibeau, Taryn",
-   "num": "21",
-   "pos": "DEF",
-   "gp": 7,
-   "starts": 2,
-   "min": 349,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 2,
-   "fouls": 1,
+   "fouls": 8,
    "yc": 0,
    "rc": 0
   },
@@ -689,14 +764,29 @@
    "name": "Pierotti, Bella",
    "num": "16",
    "pos": "MID",
-   "gp": 8,
+   "gp": 9,
    "starts": 1,
-   "min": 300,
-   "sh": 9,
+   "min": 335,
+   "sh": 10,
    "sog": 3,
    "g": 0,
    "a": 1,
-   "fouls": 6,
+   "fouls": 8,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Jensen, Emma",
+   "num": "10",
+   "pos": "MID",
+   "gp": 9,
+   "starts": 3,
+   "min": 327,
+   "sh": 16,
+   "sog": 7,
+   "g": 2,
+   "a": 3,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -704,9 +794,9 @@
    "name": "Bindbeutel, Gracie",
    "num": "14",
    "pos": "FWD",
-   "gp": 7,
+   "gp": 8,
    "starts": 5,
-   "min": 291,
+   "min": 317,
    "sh": 7,
    "sog": 4,
    "g": 2,
@@ -731,42 +821,12 @@
    "rc": 0
   },
   {
-   "name": "Moorman, Jada",
-   "num": "31",
-   "pos": "FWD",
-   "gp": 8,
-   "starts": 3,
-   "min": 280,
-   "sh": 13,
-   "sog": 4,
-   "g": 2,
-   "a": 0,
-   "fouls": 6,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Jensen, Emma",
-   "num": "10",
-   "pos": "MID",
-   "gp": 8,
-   "starts": 2,
-   "min": 258,
-   "sh": 15,
-   "sog": 6,
-   "g": 2,
-   "a": 3,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "King, Sherline",
    "num": "7",
    "pos": "FWD",
-   "gp": 7,
+   "gp": 8,
    "starts": 1,
-   "min": 231,
+   "min": 254,
    "sh": 11,
    "sog": 3,
    "g": 1,
@@ -779,14 +839,29 @@
    "name": "McHugh, Chloe",
    "num": "26",
    "pos": "DEF",
-   "gp": 4,
-   "starts": 2,
-   "min": 183,
+   "gp": 5,
+   "starts": 3,
+   "min": 240,
    "sh": 2,
    "sog": 0,
    "g": 0,
    "a": 0,
    "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Wilson, Sophie",
+   "num": "15",
+   "pos": "DEF",
+   "gp": 7,
+   "starts": 4,
+   "min": 220,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "fouls": 8,
    "yc": 0,
    "rc": 0
   },
@@ -821,21 +896,6 @@
    "rc": 0
   },
   {
-   "name": "Wilson, Sophie",
-   "num": "15",
-   "pos": "DEF",
-   "gp": 6,
-   "starts": 3,
-   "min": 174,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 1,
-   "fouls": 8,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Mitchell, Raquelle",
    "num": "9",
    "pos": "FWD",
@@ -866,12 +926,27 @@
    "rc": 0
   },
   {
+   "name": "De Fini, Sonora",
+   "num": "12",
+   "pos": "FWD",
+   "gp": 1,
+   "starts": 1,
+   "min": 72,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 1,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Grimes, Tyller",
    "num": "22",
    "pos": "DEF",
-   "gp": 1,
+   "gp": 2,
    "starts": 0,
-   "min": 32,
+   "min": 67,
    "sh": 0,
    "sog": 0,
    "g": 0,

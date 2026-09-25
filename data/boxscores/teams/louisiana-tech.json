@@ -1,30 +1,30 @@
 {
  "team": "Louisiana Tech",
  "season": 2026,
- "games": 7,
+ "games": 8,
  "record": {
   "w": 2,
   "d": 1,
-  "l": 4
+  "l": 5
  },
  "totals": {
   "for": {
-   "shots": 85,
+   "shots": 96,
    "shots_on_goal": 40,
-   "saves": 60,
-   "corner_kicks": 32,
-   "fouls": 44,
-   "offsides": 13,
+   "saves": 65,
+   "corner_kicks": 33,
+   "fouls": 51,
+   "offsides": 15,
    "goals": 10
   },
   "against": {
-   "shots": 149,
-   "shots_on_goal": 77,
+   "shots": 174,
+   "shots_on_goal": 84,
    "saves": 31,
-   "corner_kicks": 37,
-   "fouls": 71,
-   "offsides": 13,
-   "goals": 17
+   "corner_kicks": 46,
+   "fouls": 84,
+   "offsides": 14,
+   "goals": 19
   }
  },
  "matches": [
@@ -447,6 +447,66 @@
    "source": "latechsports.com-14957",
    "source_url": "https://latechsports.com/sports/womens-soccer/stats/2026/texas-state/boxscore/14957",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Appalachian State",
+   "home": true,
+   "result": "L",
+   "score": "0-2",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 0,
+    "shots_by_period": [
+     5,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     4,
+     3
+    ],
+    "offsides": 2,
+    "goals": 0
+   },
+   "against": {
+    "shots": 25,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     14,
+     11
+    ],
+    "saves": 0,
+    "saves_by_period": [
+     0,
+     0
+    ],
+    "corner_kicks": 9,
+    "corner_kicks_by_period": [
+     3,
+     6
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     7,
+     6
+    ],
+    "offsides": 1,
+    "goals": 2
+   },
+   "source": "latechsports.com-14959",
+   "source_url": "https://latechsports.com/sports/womens-soccer/stats/2026/appalachian-state/boxscore/14959",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -454,14 +514,14 @@
    "name": "Pensom, Madison",
    "num": "11",
    "pos": "MID",
-   "gp": 7,
-   "starts": 7,
-   "min": 610,
-   "sh": 14,
+   "gp": 8,
+   "starts": 8,
+   "min": 700,
+   "sh": 20,
    "sog": 5,
    "g": 3,
    "a": 0,
-   "fouls": 6,
+   "fouls": 7,
    "yc": 1,
    "rc": 0
   },
@@ -469,14 +529,14 @@
    "name": "Leonhart, Ashley",
    "num": "10",
    "pos": "MID",
-   "gp": 7,
-   "starts": 7,
-   "min": 592,
-   "sh": 5,
+   "gp": 8,
+   "starts": 8,
+   "min": 682,
+   "sh": 6,
    "sog": 2,
    "g": 0,
    "a": 1,
-   "fouls": 2,
+   "fouls": 3,
    "yc": 1,
    "rc": 0
   },
@@ -484,14 +544,14 @@
    "name": "Buchanan, Brielle",
    "num": "7",
    "pos": "MID",
-   "gp": 7,
-   "starts": 7,
-   "min": 560,
+   "gp": 8,
+   "starts": 8,
+   "min": 650,
    "sh": 7,
    "sog": 2,
    "g": 0,
    "a": 2,
-   "fouls": 0,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -499,9 +559,9 @@
    "name": "Lorkowski, Mackenzie",
    "num": "0",
    "pos": "GK",
-   "gp": 6,
-   "starts": 6,
-   "min": 540,
+   "gp": 7,
+   "starts": 7,
+   "min": 630,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -510,23 +570,23 @@
    "yc": 0,
    "rc": 0,
    "goalie": {
-    "gp": 6,
-    "ga": 15,
-    "saves": 57
+    "gp": 7,
+    "ga": 17,
+    "saves": 62
    }
   },
   {
    "name": "Hanton, Abby",
    "num": "18",
    "pos": "FWD",
-   "gp": 7,
-   "starts": 5,
-   "min": 508,
-   "sh": 17,
+   "gp": 8,
+   "starts": 6,
+   "min": 598,
+   "sh": 18,
    "sog": 9,
    "g": 3,
    "a": 3,
-   "fouls": 3,
+   "fouls": 5,
    "yc": 0,
    "rc": 0
   },
@@ -534,9 +594,9 @@
    "name": "Roberts, Reagan",
    "num": "19",
    "pos": "FWD",
-   "gp": 7,
-   "starts": 7,
-   "min": 502,
+   "gp": 8,
+   "starts": 8,
+   "min": 592,
    "sh": 10,
    "sog": 4,
    "g": 2,
@@ -546,12 +606,27 @@
    "rc": 1
   },
   {
+   "name": "Costenaro, Maeva",
+   "num": "17",
+   "pos": "MID",
+   "gp": 8,
+   "starts": 6,
+   "min": 531,
+   "sh": 6,
+   "sog": 3,
+   "g": 0,
+   "a": 0,
+   "fouls": 10,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Jacobs, Avery",
    "num": "29",
    "pos": "DEF",
-   "gp": 7,
+   "gp": 8,
    "starts": 6,
-   "min": 492,
+   "min": 522,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -561,12 +636,27 @@
    "rc": 0
   },
   {
+   "name": "Neil, Jane",
+   "num": "3",
+   "pos": null,
+   "gp": 6,
+   "starts": 6,
+   "min": 521,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 3,
+   "yc": 2,
+   "rc": 0
+  },
+  {
    "name": "Wiseman, Peyton",
    "num": "9",
    "pos": "FWD",
-   "gp": 7,
-   "starts": 5,
-   "min": 455,
+   "gp": 8,
+   "starts": 6,
+   "min": 515,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -576,33 +666,18 @@
    "rc": 0
   },
   {
-   "name": "Costenaro, Maeva",
-   "num": "17",
-   "pos": "MID",
-   "gp": 7,
-   "starts": 5,
-   "min": 441,
-   "sh": 5,
-   "sog": 3,
-   "g": 0,
-   "a": 0,
-   "fouls": 9,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Neil, Jane",
-   "num": "3",
-   "pos": null,
+   "name": "Burford\u00a0, Mary Helen",
+   "num": "28",
+   "pos": "DEF",
    "gp": 5,
    "starts": 5,
-   "min": 431,
-   "sh": 1,
-   "sog": 1,
+   "min": 446,
+   "sh": 2,
+   "sog": 2,
    "g": 0,
    "a": 0,
-   "fouls": 3,
-   "yc": 2,
+   "fouls": 1,
+   "yc": 1,
    "rc": 0
   },
   {
@@ -621,32 +696,17 @@
    "rc": 0
   },
   {
-   "name": "Burford\u00a0, Mary Helen",
-   "num": "28",
-   "pos": "DEF",
-   "gp": 4,
-   "starts": 4,
-   "min": 356,
-   "sh": 2,
-   "sog": 2,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 1,
-   "rc": 0
-  },
-  {
    "name": "Wilson, Izzy",
    "num": "12",
    "pos": null,
-   "gp": 4,
-   "starts": 4,
-   "min": 311,
-   "sh": 7,
+   "gp": 5,
+   "starts": 5,
+   "min": 371,
+   "sh": 8,
    "sog": 4,
    "g": 0,
    "a": 1,
-   "fouls": 5,
+   "fouls": 6,
    "yc": 1,
    "rc": 0
   },
@@ -746,6 +806,21 @@
    "rc": 0
   },
   {
+   "name": "Martin\u00a0, Caroline",
+   "num": "26",
+   "pos": "DEF",
+   "gp": 2,
+   "starts": 0,
+   "min": 52,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Levy, Alethea",
    "num": "5",
    "pos": null,
@@ -768,21 +843,6 @@
    "starts": 0,
    "min": 32,
    "sh": 2,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Martin\u00a0, Caroline",
-   "num": "26",
-   "pos": "DEF",
-   "gp": 1,
-   "starts": 0,
-   "min": 22,
-   "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 0,

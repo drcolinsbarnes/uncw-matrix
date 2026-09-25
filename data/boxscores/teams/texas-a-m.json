@@ -1,30 +1,30 @@
 {
  "team": "Texas A&M",
  "season": 2026,
- "games": 9,
+ "games": 10,
  "record": {
   "w": 4,
   "d": 0,
-  "l": 5
+  "l": 6
  },
  "totals": {
   "for": {
-   "shots": 157,
-   "shots_on_goal": 69,
-   "saves": 39,
-   "corner_kicks": 51,
-   "fouls": 83,
-   "offsides": 15,
+   "shots": 169,
+   "shots_on_goal": 70,
+   "saves": 42,
+   "corner_kicks": 53,
+   "fouls": 96,
+   "offsides": 16,
    "goals": 18
   },
   "against": {
-   "shots": 112,
-   "shots_on_goal": 57,
-   "saves": 51,
-   "corner_kicks": 46,
-   "fouls": 99,
+   "shots": 126,
+   "shots_on_goal": 61,
+   "saves": 52,
+   "corner_kicks": 48,
+   "fouls": 109,
    "offsides": 2,
-   "goals": 18
+   "goals": 19
   }
  },
  "matches": [
@@ -567,9 +567,114 @@
    "source": "12thman.com-16826",
    "source_url": "https://12thman.com/boxscore/16826",
    "platform": "wmt"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Alabama",
+   "home": true,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 12,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     7,
+     5
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     7,
+     6
+    ],
+    "offsides": 1,
+    "goals": 0
+   },
+   "against": {
+    "shots": 14,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     10,
+     4
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     1,
+     0
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     3,
+     7
+    ],
+    "offsides": 0,
+    "goals": 1
+   },
+   "source": "rolltide.com-21832",
+   "source_url": "https://rolltide.com/sports/womens-soccer/stats/2026/texas-am/boxscore/21832",
+   "platform": "sidearm"
   }
  ],
  "roster": [
+  {
+   "name": "Churchill, Ireland",
+   "num": "55",
+   "pos": "FWD",
+   "gp": 10,
+   "starts": 10,
+   "min": 787,
+   "sh": 45,
+   "sog": 21,
+   "g": 7,
+   "a": 2,
+   "fouls": 15,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "Buchanan, Trinity",
+   "num": "16",
+   "pos": "MID",
+   "gp": 10,
+   "starts": 10,
+   "min": 777,
+   "sh": 32,
+   "sog": 17,
+   "g": 6,
+   "a": 3,
+   "fouls": 5,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Sexton, Ava",
+   "num": "6",
+   "pos": "DEF",
+   "gp": 10,
+   "starts": 10,
+   "min": 765,
+   "sh": 6,
+   "sog": 2,
+   "g": 0,
+   "a": 1,
+   "fouls": 2,
+   "yc": 1,
+   "rc": 0
+  },
   {
    "name": "August, Makenna",
    "num": "1",
@@ -591,48 +696,33 @@
    }
   },
   {
-   "name": "Churchill, Ireland",
-   "num": "55",
-   "pos": "FWD",
-   "gp": 9,
-   "starts": 9,
-   "min": 697,
-   "sh": 41,
-   "sog": 21,
-   "g": 7,
-   "a": 2,
-   "fouls": 13,
-   "yc": 1,
-   "rc": 0
-  },
-  {
-   "name": "Buchanan, Trinity",
-   "num": "16",
-   "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 687,
-   "sh": 27,
-   "sog": 17,
-   "g": 6,
-   "a": 3,
-   "fouls": 4,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Sexton, Ava",
-   "num": "6",
+   "name": "Patterson, Hattie",
+   "num": "14",
    "pos": "DEF",
-   "gp": 9,
-   "starts": 9,
-   "min": 675,
-   "sh": 6,
-   "sog": 2,
+   "gp": 10,
+   "starts": 7,
+   "min": 676,
+   "sh": 2,
+   "sog": 1,
    "g": 0,
    "a": 1,
-   "fouls": 2,
+   "fouls": 5,
    "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "Lacher, Finley",
+   "num": "9",
+   "pos": "FWD",
+   "gp": 10,
+   "starts": 8,
+   "min": 672,
+   "sh": 17,
+   "sog": 8,
+   "g": 3,
+   "a": 3,
+   "fouls": 5,
+   "yc": 0,
    "rc": 0
   },
   {
@@ -651,42 +741,12 @@
    "rc": 1
   },
   {
-   "name": "Lacher, Finley",
-   "num": "9",
-   "pos": "FWD",
-   "gp": 9,
-   "starts": 7,
-   "min": 605,
-   "sh": 17,
-   "sog": 8,
-   "g": 3,
-   "a": 3,
-   "fouls": 4,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Patterson, Hattie",
-   "num": "14",
-   "pos": "DEF",
-   "gp": 9,
-   "starts": 6,
-   "min": 586,
-   "sh": 2,
-   "sog": 1,
-   "g": 0,
-   "a": 1,
-   "fouls": 3,
-   "yc": 1,
-   "rc": 0
-  },
-  {
    "name": "Hoang, Emma",
    "num": "2",
    "pos": "FWD",
-   "gp": 8,
-   "starts": 6,
-   "min": 518,
+   "gp": 9,
+   "starts": 7,
+   "min": 578,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -696,42 +756,42 @@
    "rc": 0
   },
   {
-   "name": "Carapazza, Bella",
-   "num": "10",
-   "pos": "MID",
-   "gp": 9,
-   "starts": 8,
-   "min": 490,
-   "sh": 7,
-   "sog": 3,
-   "g": 1,
-   "a": 1,
-   "fouls": 4,
-   "yc": 3,
-   "rc": 0
-  },
-  {
    "name": "Campbell, Kat",
    "num": "8",
    "pos": "MID",
-   "gp": 9,
-   "starts": 3,
-   "min": 446,
+   "gp": 10,
+   "starts": 4,
+   "min": 536,
    "sh": 1,
    "sog": 1,
    "g": 0,
    "a": 0,
-   "fouls": 4,
+   "fouls": 6,
    "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Carapazza, Bella",
+   "num": "10",
+   "pos": "MID",
+   "gp": 10,
+   "starts": 8,
+   "min": 524,
+   "sh": 7,
+   "sog": 3,
+   "g": 1,
+   "a": 1,
+   "fouls": 5,
+   "yc": 3,
    "rc": 0
   },
   {
    "name": "Haras, Juliet",
    "num": "4",
    "pos": "DEF",
-   "gp": 8,
-   "starts": 3,
-   "min": 365,
+   "gp": 9,
+   "starts": 4,
+   "min": 455,
    "sh": 2,
    "sog": 0,
    "g": 0,
@@ -752,6 +812,21 @@
    "g": 0,
    "a": 1,
    "fouls": 3,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Storer, Holly",
+   "num": "21",
+   "pos": "FWD",
+   "gp": 9,
+   "starts": 3,
+   "min": 336,
+   "sh": 5,
+   "sog": 2,
+   "g": 0,
+   "a": 0,
+   "fouls": 5,
    "yc": 0,
    "rc": 0
   },
@@ -801,21 +876,6 @@
    "rc": 0
   },
   {
-   "name": "Storer, Holly",
-   "num": "21",
-   "pos": "FWD",
-   "gp": 8,
-   "starts": 2,
-   "min": 250,
-   "sh": 5,
-   "sog": 2,
-   "g": 0,
-   "a": 0,
-   "fouls": 3,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Smith, Kieana",
    "num": "22",
    "pos": "FWD",
@@ -829,6 +889,26 @@
    "fouls": 4,
    "yc": 0,
    "rc": 0
+  },
+  {
+   "name": "Paredes, Adelaide",
+   "num": "15",
+   "pos": "GK",
+   "gp": 3,
+   "starts": 2,
+   "min": 201,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "goalie": {
+    "gp": 3,
+    "ga": 6,
+    "saves": 12
+   }
   },
   {
    "name": "Ruiz, Samantha",
@@ -849,12 +929,27 @@
    "name": "Bell, Norah",
    "num": "13",
    "pos": "DEF",
-   "gp": 7,
+   "gp": 8,
    "starts": 2,
-   "min": 183,
+   "min": 195,
    "sh": 2,
    "sog": 2,
    "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Mitchell, Ciara Jade",
+   "num": "23",
+   "pos": "FWD",
+   "gp": 7,
+   "starts": 1,
+   "min": 130,
+   "sh": 6,
+   "sog": 4,
+   "g": 1,
    "a": 0,
    "fouls": 1,
    "yc": 0,
@@ -876,49 +971,14 @@
    "rc": 0
   },
   {
-   "name": "Paredes, Adelaide",
-   "num": "15",
-   "pos": "GK",
-   "gp": 2,
-   "starts": 1,
-   "min": 111,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "goalie": {
-    "gp": 2,
-    "ga": 5,
-    "saves": 9
-   }
-  },
-  {
-   "name": "Mitchell, Ciara Jade",
-   "num": "23",
-   "pos": "FWD",
-   "gp": 6,
-   "starts": 1,
-   "min": 99,
-   "sh": 5,
-   "sog": 4,
-   "g": 1,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Jernigan, Taylor",
    "num": "24",
-   "pos": "F",
-   "gp": 2,
-   "starts": 0,
-   "min": 58,
-   "sh": 0,
-   "sog": 0,
+   "pos": "FWD",
+   "gp": 3,
+   "starts": 1,
+   "min": 117,
+   "sh": 2,
+   "sog": 1,
    "g": 0,
    "a": 0,
    "fouls": 1,
@@ -928,15 +988,15 @@
   {
    "name": "Scranton, Mia",
    "num": "17",
-   "pos": "D",
-   "gp": 1,
+   "pos": "DEF",
+   "gp": 2,
    "starts": 0,
-   "min": 37,
+   "min": 48,
    "sh": 1,
    "sog": 0,
    "g": 0,
    "a": 0,
-   "fouls": 0,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },

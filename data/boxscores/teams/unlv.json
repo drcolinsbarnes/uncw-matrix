@@ -1,30 +1,30 @@
 {
  "team": "UNLV",
  "season": 2026,
- "games": 8,
+ "games": 9,
  "record": {
-  "w": 2,
+  "w": 3,
   "d": 2,
   "l": 4
  },
  "totals": {
   "for": {
-   "shots": 80,
-   "shots_on_goal": 32,
-   "saves": 30,
-   "corner_kicks": 42,
-   "fouls": 95,
-   "offsides": 19,
-   "goals": 11
+   "shots": 93,
+   "shots_on_goal": 38,
+   "saves": 33,
+   "corner_kicks": 46,
+   "fouls": 109,
+   "offsides": 20,
+   "goals": 13
   },
   "against": {
-   "shots": 100,
-   "shots_on_goal": 47,
-   "saves": 21,
-   "corner_kicks": 48,
-   "fouls": 79,
-   "offsides": 13,
-   "goals": 17
+   "shots": 116,
+   "shots_on_goal": 51,
+   "saves": 25,
+   "corner_kicks": 53,
+   "fouls": 90,
+   "offsides": 14,
+   "goals": 18
   }
  },
  "matches": [
@@ -507,6 +507,66 @@
    "source": "unlvrebels.com-17882",
    "source_url": "https://unlvrebels.com/sports/womens-soccer/stats/2026/pacific/boxscore/17882",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "UTEP",
+   "home": true,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     7,
+     6
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     0,
+     3
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     1,
+     3
+    ],
+    "fouls": 14,
+    "fouls_by_period": [
+     4,
+     10
+    ],
+    "offsides": 1,
+    "goals": 2
+   },
+   "against": {
+    "shots": 16,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     5,
+     11
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     1,
+     4
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     1,
+     10
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "source": "unlvrebels.com-17883",
+   "source_url": "https://unlvrebels.com/sports/womens-soccer/stats/2026/utep/boxscore/17883",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -514,9 +574,9 @@
    "name": "Encinas, Madison",
    "num": "4",
    "pos": "DEF",
-   "gp": 8,
-   "starts": 8,
-   "min": 702,
+   "gp": 9,
+   "starts": 9,
+   "min": 792,
    "sh": 2,
    "sog": 0,
    "g": 0,
@@ -526,12 +586,27 @@
    "rc": 0
   },
   {
+   "name": "Taylor, Kaitlin",
+   "num": "13",
+   "pos": "FWD",
+   "gp": 9,
+   "starts": 9,
+   "min": 720,
+   "sh": 18,
+   "sog": 10,
+   "g": 5,
+   "a": 2,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Pyles, Summer",
    "num": "9",
    "pos": "MID",
-   "gp": 8,
-   "starts": 8,
-   "min": 648,
+   "gp": 9,
+   "starts": 9,
+   "min": 714,
    "sh": 13,
    "sog": 3,
    "g": 1,
@@ -541,42 +616,12 @@
    "rc": 0
   },
   {
-   "name": "Taylor, Kaitlin",
-   "num": "13",
-   "pos": "FWD",
-   "gp": 8,
-   "starts": 8,
-   "min": 646,
-   "sh": 16,
-   "sog": 9,
-   "g": 5,
-   "a": 2,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "McKenna, Macee",
-   "num": "3",
-   "pos": "MID",
-   "gp": 8,
-   "starts": 8,
-   "min": 614,
-   "sh": 5,
-   "sog": 2,
-   "g": 0,
-   "a": 0,
-   "fouls": 5,
-   "yc": 1,
-   "rc": 0
-  },
-  {
    "name": "Lopez, Olivia",
    "num": "14",
    "pos": "DEF",
-   "gp": 7,
-   "starts": 7,
-   "min": 613,
+   "gp": 8,
+   "starts": 8,
+   "min": 703,
    "sh": 2,
    "sog": 0,
    "g": 0,
@@ -586,12 +631,27 @@
    "rc": 0
   },
   {
+   "name": "McKenna, Macee",
+   "num": "3",
+   "pos": "MID",
+   "gp": 9,
+   "starts": 9,
+   "min": 684,
+   "sh": 7,
+   "sog": 3,
+   "g": 1,
+   "a": 0,
+   "fouls": 5,
+   "yc": 1,
+   "rc": 0
+  },
+  {
    "name": "Garcia, Felicity",
    "num": "21",
    "pos": "FWD",
-   "gp": 7,
-   "starts": 7,
-   "min": 554,
+   "gp": 8,
+   "starts": 8,
+   "min": 634,
    "sh": 4,
    "sog": 2,
    "g": 0,
@@ -599,6 +659,51 @@
    "fouls": 1,
    "yc": 2,
    "rc": 1
+  },
+  {
+   "name": "Salem, Julia",
+   "num": "5",
+   "pos": "FWD",
+   "gp": 9,
+   "starts": 8,
+   "min": 567,
+   "sh": 11,
+   "sog": 6,
+   "g": 2,
+   "a": 2,
+   "fouls": 2,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "Siaki, Makena",
+   "num": "24",
+   "pos": "DEF",
+   "gp": 7,
+   "starts": 6,
+   "min": 516,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 2,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "De Los Santos, Ana",
+   "num": "11",
+   "pos": "MID",
+   "gp": 6,
+   "starts": 6,
+   "min": 507,
+   "sh": 5,
+   "sog": 3,
+   "g": 0,
+   "a": 0,
+   "fouls": 3,
+   "yc": 1,
+   "rc": 0
   },
   {
    "name": "Lee, Kaitlyn",
@@ -616,49 +721,39 @@
    "rc": 0
   },
   {
-   "name": "Salem, Julia",
-   "num": "5",
+   "name": "Yergensen, Kamri",
+   "num": "25",
    "pos": "FWD",
-   "gp": 8,
-   "starts": 7,
-   "min": 495,
+   "gp": 9,
+   "starts": 4,
+   "min": 458,
    "sh": 8,
-   "sog": 5,
+   "sog": 3,
    "g": 2,
    "a": 1,
    "fouls": 2,
-   "yc": 1,
+   "yc": 0,
    "rc": 0
   },
   {
-   "name": "Siaki, Makena",
-   "num": "24",
-   "pos": "DEF",
+   "name": "Hodson, Riley",
+   "num": "1",
+   "pos": "GK",
    "gp": 6,
-   "starts": 5,
-   "min": 426,
-   "sh": 1,
+   "starts": 6,
+   "min": 451,
+   "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 0,
-   "fouls": 2,
-   "yc": 1,
-   "rc": 0
-  },
-  {
-   "name": "De Los Santos, Ana",
-   "num": "11",
-   "pos": "MID",
-   "gp": 5,
-   "starts": 5,
-   "min": 420,
-   "sh": 4,
-   "sog": 3,
-   "g": 0,
-   "a": 0,
-   "fouls": 3,
+   "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "goalie": {
+    "gp": 6,
+    "ga": 9,
+    "saves": 18
+   }
   },
   {
    "name": "Hernandez, Audrina",
@@ -676,52 +771,32 @@
    "rc": 0
   },
   {
-   "name": "Yergensen, Kamri",
-   "num": "25",
-   "pos": "FWD",
-   "gp": 8,
-   "starts": 3,
-   "min": 368,
-   "sh": 4,
-   "sog": 1,
-   "g": 1,
-   "a": 1,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Hodson, Riley",
-   "num": "1",
-   "pos": "GK",
-   "gp": 5,
-   "starts": 5,
-   "min": 361,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "goalie": {
-    "gp": 5,
-    "ga": 8,
-    "saves": 15
-   }
-  },
-  {
    "name": "McCallum, Sierah",
    "num": "23",
    "pos": "FWD",
-   "gp": 8,
+   "gp": 9,
    "starts": 5,
-   "min": 293,
+   "min": 303,
    "sh": 5,
    "sog": 2,
    "g": 0,
    "a": 0,
    "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Flannery, Emma",
+   "num": "18",
+   "pos": "mid",
+   "gp": 9,
+   "starts": 0,
+   "min": 218,
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -744,21 +819,6 @@
     "ga": 5,
     "saves": 10
    }
-  },
-  {
-   "name": "Flannery, Emma",
-   "num": "18",
-   "pos": "mid",
-   "gp": 8,
-   "starts": 0,
-   "min": 188,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0
   },
   {
    "name": "Kramer, Brooke",
@@ -799,13 +859,28 @@
    "name": "Jackson, Tatum",
    "num": "15",
    "pos": "fwd",
-   "gp": 4,
+   "gp": 5,
    "starts": 0,
-   "min": 54,
+   "min": 73,
    "sh": 2,
    "sog": 1,
    "g": 1,
    "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Martinez, Tori",
+   "num": "16",
+   "pos": "mid",
+   "gp": 2,
+   "starts": 0,
+   "min": 68,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 2,
    "fouls": 0,
    "yc": 0,
    "rc": 0
@@ -841,21 +916,6 @@
    "rc": 0
   },
   {
-   "name": "Martinez, Tori",
-   "num": "16",
-   "pos": "mid",
-   "gp": 1,
-   "starts": 0,
-   "min": 39,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
-   "a": 1,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Marion, Dagny",
    "num": "22",
    "pos": "fwd",
@@ -874,9 +934,9 @@
    "name": "Kaiser, Morgan",
    "num": "12",
    "pos": "def",
-   "gp": 2,
+   "gp": 3,
    "starts": 0,
-   "min": 18,
+   "min": 21,
    "sh": 0,
    "sog": 0,
    "g": 0,

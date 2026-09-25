@@ -1,30 +1,30 @@
 {
  "team": "Temple",
  "season": 2026,
- "games": 9,
+ "games": 10,
  "record": {
   "w": 7,
   "d": 0,
-  "l": 2
+  "l": 3
  },
  "totals": {
   "for": {
-   "shots": 149,
-   "shots_on_goal": 66,
-   "saves": 17,
-   "corner_kicks": 65,
-   "fouls": 85,
+   "shots": 156,
+   "shots_on_goal": 69,
+   "saves": 19,
+   "corner_kicks": 69,
+   "fouls": 97,
    "offsides": 26,
-   "goals": 16
+   "goals": 17
   },
   "against": {
-   "shots": 60,
-   "shots_on_goal": 25,
-   "saves": 50,
-   "corner_kicks": 32,
-   "fouls": 75,
-   "offsides": 9,
-   "goals": 7
+   "shots": 80,
+   "shots_on_goal": 32,
+   "saves": 52,
+   "corner_kicks": 38,
+   "fouls": 84,
+   "offsides": 15,
+   "goals": 12
   }
  },
  "matches": [
@@ -567,6 +567,66 @@
    "source": "owlsports.com-15958",
    "source_url": "https://owlsports.com:443/sports/womens-soccer/stats/2026/uab/boxscore/15958",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Rice",
+   "home": false,
+   "result": "L",
+   "score": "1-5",
+   "for": {
+    "shots": 7,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     4,
+     3
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     3,
+     1
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     3,
+     9
+    ],
+    "offsides": 0,
+    "goals": 1
+   },
+   "against": {
+    "shots": 20,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     5,
+     15
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     1,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     0,
+     6
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     7,
+     2
+    ],
+    "offsides": 6,
+    "goals": 5
+   },
+   "source": "riceowls.com-28912",
+   "source_url": "https://riceowls.com/sports/womens-soccer/stats/2026/temple/boxscore/28912",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -574,14 +634,14 @@
    "name": "Echavarria, Giovanna",
    "num": "24",
    "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 786,
-   "sh": 28,
+   "gp": 10,
+   "starts": 10,
+   "min": 876,
+   "sh": 29,
    "sog": 12,
    "g": 2,
    "a": 2,
-   "fouls": 3,
+   "fouls": 4,
    "yc": 2,
    "rc": 0
   },
@@ -589,14 +649,14 @@
    "name": "Sacker, Ofri",
    "num": "3",
    "pos": "DEF",
-   "gp": 9,
-   "starts": 9,
-   "min": 782,
+   "gp": 10,
+   "starts": 10,
+   "min": 872,
    "sh": 6,
    "sog": 1,
    "g": 0,
    "a": 0,
-   "fouls": 2,
+   "fouls": 3,
    "yc": 0,
    "rc": 0
   },
@@ -604,9 +664,9 @@
    "name": "Zivkovic, Ana",
    "num": "0",
    "pos": "GK",
-   "gp": 9,
-   "starts": 9,
-   "min": 773,
+   "gp": 10,
+   "starts": 10,
+   "min": 863,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -615,23 +675,23 @@
    "yc": 0,
    "rc": 0,
    "goalie": {
-    "gp": 9,
-    "ga": 7,
-    "saves": 17
+    "gp": 10,
+    "ga": 12,
+    "saves": 19
    }
   },
   {
    "name": "Linden, Linnea",
    "num": "8",
    "pos": "MID",
-   "gp": 9,
-   "starts": 8,
-   "min": 694,
+   "gp": 10,
+   "starts": 9,
+   "min": 759,
    "sh": 3,
    "sog": 1,
    "g": 0,
    "a": 1,
-   "fouls": 7,
+   "fouls": 9,
    "yc": 0,
    "rc": 0
   },
@@ -639,24 +699,39 @@
    "name": "Abi Aoun, Madison",
    "num": "13",
    "pos": "DEF",
-   "gp": 7,
-   "starts": 7,
-   "min": 589,
-   "sh": 3,
-   "sog": 1,
+   "gp": 8,
+   "starts": 8,
+   "min": 679,
+   "sh": 4,
+   "sog": 2,
    "g": 0,
    "a": 3,
-   "fouls": 9,
+   "fouls": 10,
    "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "Banham, Danica",
+   "num": "28",
+   "pos": "FWD",
+   "gp": 10,
+   "starts": 6,
+   "min": 532,
+   "sh": 23,
+   "sog": 10,
+   "g": 1,
+   "a": 0,
+   "fouls": 10,
+   "yc": 0,
    "rc": 0
   },
   {
    "name": "Hill, Amaya",
    "num": "15",
    "pos": "FWD",
-   "gp": 9,
-   "starts": 7,
-   "min": 508,
+   "gp": 10,
+   "starts": 8,
+   "min": 530,
    "sh": 13,
    "sog": 4,
    "g": 1,
@@ -666,17 +741,17 @@
    "rc": 0
   },
   {
-   "name": "Banham, Danica",
-   "num": "28",
-   "pos": "FWD",
-   "gp": 9,
-   "starts": 6,
-   "min": 504,
-   "sh": 23,
-   "sog": 10,
-   "g": 1,
-   "a": 0,
-   "fouls": 7,
+   "name": "Ward, Madison",
+   "num": "6",
+   "pos": "MID",
+   "gp": 5,
+   "starts": 5,
+   "min": 433,
+   "sh": 5,
+   "sog": 3,
+   "g": 0,
+   "a": 1,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -690,6 +765,21 @@
    "sh": 5,
    "sog": 2,
    "g": 2,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Daveler, Jenna",
+   "num": "22",
+   "pos": "DEF",
+   "gp": 5,
+   "starts": 5,
+   "min": 426,
+   "sh": 4,
+   "sog": 0,
+   "g": 0,
    "a": 0,
    "fouls": 1,
    "yc": 0,
@@ -711,6 +801,36 @@
    "rc": 0
   },
   {
+   "name": "Atkins, Shari",
+   "num": "33",
+   "pos": "FWD",
+   "gp": 9,
+   "starts": 4,
+   "min": 387,
+   "sh": 3,
+   "sog": 2,
+   "g": 0,
+   "a": 3,
+   "fouls": 7,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Pimenta, Victoria",
+   "num": "19",
+   "pos": "FWD",
+   "gp": 5,
+   "starts": 5,
+   "min": 376,
+   "sh": 13,
+   "sog": 7,
+   "g": 2,
+   "a": 2,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Pimenta , Victoria",
    "num": "19",
    "pos": "FWD",
@@ -726,61 +846,16 @@
    "rc": 0
   },
   {
-   "name": "Ward, Madison",
-   "num": "6",
-   "pos": "MID",
-   "gp": 4,
-   "starts": 4,
-   "min": 343,
-   "sh": 5,
-   "sog": 3,
-   "g": 0,
-   "a": 1,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Daveler, Jenna",
-   "num": "22",
-   "pos": "DEF",
-   "gp": 4,
-   "starts": 4,
-   "min": 336,
-   "sh": 3,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Atkins, Shari",
-   "num": "9",
-   "pos": "FWD",
-   "gp": 8,
+   "name": "Revelle, Katelyn",
+   "num": "5",
+   "pos": null,
+   "gp": 5,
    "starts": 3,
-   "min": 321,
-   "sh": 3,
-   "sog": 2,
-   "g": 0,
-   "a": 3,
-   "fouls": 7,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Pimenta, Victoria",
-   "num": "19",
-   "pos": "FWD",
-   "gp": 4,
-   "starts": 4,
    "min": 291,
-   "sh": 11,
-   "sog": 6,
-   "g": 2,
-   "a": 1,
+   "sh": 6,
+   "sog": 4,
+   "g": 1,
+   "a": 0,
    "fouls": 1,
    "yc": 0,
    "rc": 0
@@ -804,14 +879,14 @@
    "name": "Bitterwolf, Valentina",
    "num": "10",
    "pos": "MID",
-   "gp": 4,
+   "gp": 5,
    "starts": 4,
-   "min": 255,
+   "min": 274,
    "sh": 4,
    "sog": 2,
    "g": 0,
    "a": 0,
-   "fouls": 1,
+   "fouls": 3,
    "yc": 1,
    "rc": 0
   },
@@ -846,21 +921,6 @@
    "rc": 0
   },
   {
-   "name": "Revelle, Katelyn",
-   "num": "5",
-   "pos": null,
-   "gp": 4,
-   "starts": 2,
-   "min": 201,
-   "sh": 4,
-   "sog": 3,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Accettola, Eva",
    "num": "32",
    "pos": "DEF",
@@ -872,6 +932,36 @@
    "g": 0,
    "a": 0,
    "fouls": 4,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Harkins, Teagan",
+   "num": "18",
+   "pos": "FWD",
+   "gp": 3,
+   "starts": 0,
+   "min": 106,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "Matesich, Eva",
+   "num": "30",
+   "pos": "FWD",
+   "gp": 3,
+   "starts": 0,
+   "min": 99,
+   "sh": 3,
+   "sog": 1,
+   "g": 1,
+   "a": 0,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -891,21 +981,6 @@
    "rc": 0
   },
   {
-   "name": "Harkins, Teagan",
-   "num": "18",
-   "pos": "FWD",
-   "gp": 2,
-   "starts": 0,
-   "min": 82,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Guy, Bex",
    "num": "11",
    "pos": "DEF",
@@ -917,21 +992,6 @@
    "g": 0,
    "a": 0,
    "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Matesich, Eva",
-   "num": "30",
-   "pos": "fwd",
-   "gp": 2,
-   "starts": 0,
-   "min": 54,
-   "sh": 3,
-   "sog": 1,
-   "g": 1,
-   "a": 0,
-   "fouls": 0,
    "yc": 0,
    "rc": 0
   },
@@ -1061,6 +1121,21 @@
    "rc": 0
   },
   {
+   "name": "Guy, Rebecca",
+   "num": "11",
+   "pos": "def",
+   "gp": 2,
+   "starts": 0,
+   "min": 9,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Acocella, Cara",
    "num": "34",
    "pos": null,
@@ -1072,21 +1147,6 @@
    "g": 0,
    "a": 0,
    "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Guy, Rebecca",
-   "num": "11",
-   "pos": "def",
-   "gp": 1,
-   "starts": 0,
-   "min": 3,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
    "yc": 0,
    "rc": 0
   }

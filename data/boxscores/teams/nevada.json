@@ -1,30 +1,30 @@
 {
  "team": "Nevada",
  "season": 2026,
- "games": 9,
+ "games": 10,
  "record": {
   "w": 3,
   "d": 0,
-  "l": 6
+  "l": 7
  },
  "totals": {
   "for": {
-   "shots": 93,
-   "shots_on_goal": 46,
-   "saves": 43,
-   "corner_kicks": 46,
-   "fouls": 73,
+   "shots": 95,
+   "shots_on_goal": 47,
+   "saves": 46,
+   "corner_kicks": 48,
+   "fouls": 80,
    "offsides": 19,
    "goals": 18
   },
   "against": {
-   "shots": 112,
-   "shots_on_goal": 60,
-   "saves": 28,
-   "corner_kicks": 34,
-   "fouls": 66,
-   "offsides": 7,
-   "goals": 17
+   "shots": 127,
+   "shots_on_goal": 65,
+   "saves": 29,
+   "corner_kicks": 45,
+   "fouls": 82,
+   "offsides": 9,
+   "goals": 19
   }
  },
  "matches": [
@@ -567,6 +567,66 @@
    "source": "nevadawolfpack.com-14212",
    "source_url": "https://nevadawolfpack.com/sports/womens-soccer/stats/2026/long-beach-state/boxscore/14212",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Wyoming",
+   "home": true,
+   "result": "L",
+   "score": "0-2",
+   "for": {
+    "shots": 2,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     2,
+     0
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     2,
+     5
+    ],
+    "offsides": 0,
+    "goals": 0
+   },
+   "against": {
+    "shots": 15,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     8,
+     7
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     1,
+     0
+    ],
+    "corner_kicks": 11,
+    "corner_kicks_by_period": [
+     6,
+     5
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     5,
+     11
+    ],
+    "offsides": 2,
+    "goals": 2
+   },
+   "source": "nevadawolfpack.com-14177",
+   "source_url": "https://nevadawolfpack.com/sports/womens-soccer/stats/2026/wyoming/boxscore/14177",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -574,9 +634,9 @@
    "name": "Ramon, Valeria",
    "num": "6",
    "pos": "DEF",
-   "gp": 9,
-   "starts": 7,
-   "min": 660,
+   "gp": 10,
+   "starts": 8,
+   "min": 750,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -589,11 +649,11 @@
    "name": "Loomis, Olivia",
    "num": "16",
    "pos": "FWD",
-   "gp": 9,
-   "starts": 9,
-   "min": 630,
-   "sh": 18,
-   "sog": 9,
+   "gp": 10,
+   "starts": 10,
+   "min": 720,
+   "sh": 19,
+   "sog": 10,
    "g": 2,
    "a": 2,
    "fouls": 4,
@@ -601,12 +661,27 @@
    "rc": 0
   },
   {
+   "name": "Navarro, Jasmine",
+   "num": "9",
+   "pos": "FWD",
+   "gp": 10,
+   "starts": 10,
+   "min": 699,
+   "sh": 8,
+   "sog": 4,
+   "g": 2,
+   "a": 1,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Yuba, Reika",
    "num": "11",
    "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 630,
+   "gp": 10,
+   "starts": 10,
+   "min": 681,
    "sh": 9,
    "sog": 4,
    "g": 0,
@@ -616,32 +691,47 @@
    "rc": 0
   },
   {
-   "name": "Navarro, Jasmine",
-   "num": "9",
-   "pos": "FWD",
-   "gp": 9,
-   "starts": 9,
-   "min": 618,
-   "sh": 7,
-   "sog": 4,
-   "g": 2,
+   "name": "Steenhard, Landri",
+   "num": "15",
+   "pos": "DEF",
+   "gp": 10,
+   "starts": 7,
+   "min": 661,
+   "sh": 3,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Brashear, Emily",
+   "num": "28",
+   "pos": "DEF",
+   "gp": 10,
+   "starts": 7,
+   "min": 625,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
    "a": 1,
    "fouls": 0,
    "yc": 0,
    "rc": 0
   },
   {
-   "name": "Steenhard, Landri",
-   "num": "15",
+   "name": "Wong, Samantha",
+   "num": "20",
    "pos": "DEF",
-   "gp": 9,
+   "gp": 10,
    "starts": 7,
-   "min": 606,
-   "sh": 3,
-   "sog": 1,
+   "min": 600,
+   "sh": 1,
+   "sog": 0,
    "g": 0,
-   "a": 0,
-   "fouls": 1,
+   "a": 1,
+   "fouls": 0,
    "yc": 0,
    "rc": 0
   },
@@ -666,42 +756,12 @@
    }
   },
   {
-   "name": "Brashear, Emily",
-   "num": "28",
-   "pos": "DEF",
-   "gp": 9,
-   "starts": 6,
-   "min": 535,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
-   "a": 1,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Wong, Samantha",
-   "num": "20",
-   "pos": "DEF",
-   "gp": 9,
-   "starts": 6,
-   "min": 510,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 1,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "McCusker, Saige",
    "num": "22",
    "pos": "FWD",
-   "gp": 9,
-   "starts": 5,
-   "min": 458,
+   "gp": 10,
+   "starts": 6,
+   "min": 509,
    "sh": 4,
    "sog": 1,
    "g": 0,
@@ -714,13 +774,28 @@
    "name": "Bonney, Charlotte",
    "num": "25",
    "pos": "FWD",
-   "gp": 9,
-   "starts": 4,
-   "min": 395,
+   "gp": 10,
+   "starts": 5,
+   "min": 442,
    "sh": 8,
    "sog": 3,
    "g": 1,
    "a": 3,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Jacobo-Duran, Leslie",
+   "num": "14",
+   "pos": "FWD",
+   "gp": 5,
+   "starts": 5,
+   "min": 392,
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
    "fouls": 0,
    "yc": 0,
    "rc": 0
@@ -741,6 +816,41 @@
    "rc": 0
   },
   {
+   "name": "Hernandez, Iyan",
+   "num": "0",
+   "pos": "GK",
+   "gp": 5,
+   "starts": 4,
+   "min": 360,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "goalie": {
+    "gp": 5,
+    "ga": 7,
+    "saves": 13
+   }
+  },
+  {
+   "name": "Hayes, Avery",
+   "num": "21",
+   "pos": "mid",
+   "gp": 9,
+   "starts": 1,
+   "min": 339,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
    "name": "Rok, Haylie",
    "num": "13",
    "pos": "DEF",
@@ -756,42 +866,12 @@
    "rc": 0
   },
   {
-   "name": "Hayes, Avery",
-   "num": "21",
-   "pos": "mid",
-   "gp": 8,
-   "starts": 1,
-   "min": 314,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 1,
-   "rc": 0
-  },
-  {
-   "name": "Jacobo-Duran, Leslie",
-   "num": "14",
-   "pos": "FWD",
-   "gp": 4,
-   "starts": 4,
-   "min": 314,
-   "sh": 2,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Mayorga-Torres, Daniela",
    "num": "17",
    "pos": "MID",
-   "gp": 8,
+   "gp": 9,
    "starts": 4,
-   "min": 309,
+   "min": 317,
    "sh": 4,
    "sog": 3,
    "g": 0,
@@ -801,24 +881,19 @@
    "rc": 0
   },
   {
-   "name": "Hernandez, Iyan",
-   "num": "0",
-   "pos": "GK",
-   "gp": 4,
+   "name": "Coronado, Carmen",
+   "num": "5",
+   "pos": "FWD",
+   "gp": 5,
    "starts": 3,
-   "min": 270,
-   "sh": 0,
-   "sog": 0,
+   "min": 292,
+   "sh": 1,
+   "sog": 1,
    "g": 0,
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0,
-   "goalie": {
-    "gp": 4,
-    "ga": 5,
-    "saves": 10
-   }
+   "rc": 0
   },
   {
    "name": "York, Ella",
@@ -851,18 +926,18 @@
    "rc": 0
   },
   {
-   "name": "Coronado, Carmen",
-   "num": "5",
-   "pos": "fwd",
-   "gp": 4,
-   "starts": 2,
-   "min": 202,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
+   "name": "Ayonon, Chloe",
+   "num": "19",
+   "pos": "mid",
+   "gp": 9,
+   "starts": 1,
+   "min": 185,
+   "sh": 3,
+   "sog": 3,
+   "g": 1,
    "a": 0,
-   "fouls": 0,
-   "yc": 0,
+   "fouls": 1,
+   "yc": 3,
    "rc": 0
   },
   {
@@ -881,21 +956,6 @@
    "rc": 0
   },
   {
-   "name": "Ayonon, Chloe",
-   "num": "19",
-   "pos": "mid",
-   "gp": 8,
-   "starts": 1,
-   "min": 175,
-   "sh": 3,
-   "sog": 3,
-   "g": 1,
-   "a": 0,
-   "fouls": 1,
-   "yc": 2,
-   "rc": 0
-  },
-  {
    "name": "Alley, Adalynn",
    "num": "2",
    "pos": "fwd",
@@ -908,6 +968,21 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Larson, Karlee",
+   "num": "12",
+   "pos": "fwd",
+   "gp": 5,
+   "starts": 0,
+   "min": 100,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
    "rc": 0
   },
   {
@@ -926,27 +1001,12 @@
    "rc": 0
   },
   {
-   "name": "Larson, Karlee",
-   "num": "12",
-   "pos": "fwd",
-   "gp": 4,
-   "starts": 0,
-   "min": 95,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 1,
-   "rc": 0
-  },
-  {
    "name": "Wheeler, Mya",
    "num": "7",
    "pos": "def",
-   "gp": 1,
+   "gp": 2,
    "starts": 0,
-   "min": 32,
+   "min": 71,
    "sh": 0,
    "sog": 0,
    "g": 0,

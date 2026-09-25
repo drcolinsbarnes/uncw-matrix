@@ -1,30 +1,30 @@
 {
  "team": "Detroit Mercy",
  "season": 2026,
- "games": 7,
+ "games": 8,
  "record": {
   "w": 3,
   "d": 1,
-  "l": 3
+  "l": 4
  },
  "totals": {
   "for": {
-   "shots": 59,
-   "shots_on_goal": 25,
-   "saves": 34,
-   "corner_kicks": 21,
-   "fouls": 72,
-   "offsides": 14,
+   "shots": 62,
+   "shots_on_goal": 26,
+   "saves": 39,
+   "corner_kicks": 24,
+   "fouls": 83,
+   "offsides": 15,
    "goals": 7
   },
   "against": {
-   "shots": 150,
-   "shots_on_goal": 45,
-   "saves": 18,
-   "corner_kicks": 47,
-   "fouls": 61,
+   "shots": 162,
+   "shots_on_goal": 51,
+   "saves": 19,
+   "corner_kicks": 51,
+   "fouls": 67,
    "offsides": 13,
-   "goals": 11
+   "goals": 12
   }
  },
  "matches": [
@@ -447,6 +447,66 @@
    "source": "detroittitans.com-6700",
    "source_url": "https://detroittitans.com/sports/womens-soccer/stats/2026/purdue-fort-wayne/boxscore/6700",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Wisconsin-Green Bay",
+   "home": false,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 3,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     0,
+     3
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     6,
+     5
+    ],
+    "offsides": 1,
+    "goals": 0
+   },
+   "against": {
+    "shots": 12,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     6,
+     6
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     2,
+     4
+    ],
+    "offsides": 0,
+    "goals": 1
+   },
+   "source": "greenbayphoenix.com-10569",
+   "source_url": "https://greenbayphoenix.com/sports/womens-soccer/stats/2026/detroit-mercy/boxscore/10569",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -454,9 +514,9 @@
    "name": "Duane, Kayla",
    "num": "6",
    "pos": "DEF",
-   "gp": 7,
-   "starts": 7,
-   "min": 605,
+   "gp": 8,
+   "starts": 8,
+   "min": 695,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -469,15 +529,50 @@
    "name": "Henry, Emma",
    "num": "10",
    "pos": "MID",
-   "gp": 7,
-   "starts": 7,
-   "min": 542,
+   "gp": 8,
+   "starts": 8,
+   "min": 632,
    "sh": 10,
    "sog": 5,
    "g": 2,
    "a": 1,
    "fouls": 0,
    "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Hill, Eva",
+   "num": "50",
+   "pos": "GK",
+   "gp": 7,
+   "starts": 7,
+   "min": 585,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0,
+   "goalie": {
+    "gp": 7,
+    "ga": 10,
+    "saves": 35
+   }
+  },
+  {
+   "name": "Layman, Katy",
+   "num": "19",
+   "pos": "DEF",
+   "gp": 8,
+   "starts": 7,
+   "min": 530,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 2,
    "rc": 0
   },
   {
@@ -496,26 +591,6 @@
    "rc": 0
   },
   {
-   "name": "Hill, Eva",
-   "num": "50",
-   "pos": "GK",
-   "gp": 6,
-   "starts": 6,
-   "min": 495,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 1,
-   "rc": 0,
-   "goalie": {
-    "gp": 6,
-    "ga": 9,
-    "saves": 30
-   }
-  },
-  {
    "name": "Hughes, Brogan",
    "num": "8",
    "pos": "MID",
@@ -531,33 +606,33 @@
    "rc": 0
   },
   {
-   "name": "Layman, Katy",
-   "num": "19",
-   "pos": "DEF",
-   "gp": 7,
-   "starts": 6,
-   "min": 454,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 2,
-   "rc": 0
-  },
-  {
    "name": "Mondoux, Avery",
    "num": "31",
    "pos": "FWD",
-   "gp": 7,
-   "starts": 7,
-   "min": 380,
+   "gp": 8,
+   "starts": 8,
+   "min": 447,
    "sh": 12,
    "sog": 4,
    "g": 2,
    "a": 0,
    "fouls": 2,
    "yc": 1,
+   "rc": 0
+  },
+  {
+   "name": "Robinson, Kiely",
+   "num": "20",
+   "pos": "mid",
+   "gp": 8,
+   "starts": 2,
+   "min": 384,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
    "rc": 0
   },
   {
@@ -579,9 +654,9 @@
    "name": "Ferrington, Teagan",
    "num": "5",
    "pos": "def",
-   "gp": 7,
+   "gp": 8,
    "starts": 2,
-   "min": 334,
+   "min": 348,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -591,17 +666,32 @@
    "rc": 0
   },
   {
-   "name": "Robinson, Kiely",
-   "num": "20",
-   "pos": "mid",
-   "gp": 7,
-   "starts": 1,
-   "min": 307,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
+   "name": "Jakubowski, Ellera",
+   "num": "12",
+   "pos": "MID",
+   "gp": 6,
+   "starts": 4,
+   "min": 342,
+   "sh": 5,
+   "sog": 3,
+   "g": 1,
    "a": 0,
    "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Stauffer, Auden",
+   "num": "9",
+   "pos": "FWD",
+   "gp": 6,
+   "starts": 6,
+   "min": 336,
+   "sh": 3,
+   "sog": 2,
+   "g": 0,
+   "a": 1,
+   "fouls": 2,
    "yc": 0,
    "rc": 0
   },
@@ -621,43 +711,13 @@
    "rc": 0
   },
   {
-   "name": "Stauffer, Auden",
-   "num": "9",
-   "pos": "FWD",
-   "gp": 5,
-   "starts": 5,
-   "min": 266,
-   "sh": 3,
-   "sog": 2,
-   "g": 0,
-   "a": 1,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Jakubowski, Ellera",
-   "num": "12",
-   "pos": "MID",
-   "gp": 5,
-   "starts": 3,
-   "min": 256,
-   "sh": 3,
-   "sog": 2,
-   "g": 1,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Rivera, Jada",
    "num": "7",
    "pos": "MID",
-   "gp": 5,
-   "starts": 3,
-   "min": 211,
-   "sh": 0,
+   "gp": 6,
+   "starts": 4,
+   "min": 269,
+   "sh": 1,
    "sog": 0,
    "g": 0,
    "a": 0,
@@ -669,24 +729,9 @@
    "name": "Robillard, Ciana",
    "num": "3",
    "pos": "DEF",
-   "gp": 3,
-   "starts": 3,
-   "min": 173,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 1,
-   "rc": 0
-  },
-  {
-   "name": "Clarkson, Elicia",
-   "num": "17",
-   "pos": "MID",
-   "gp": 3,
-   "starts": 2,
-   "min": 171,
+   "gp": 4,
+   "starts": 4,
+   "min": 255,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -699,9 +744,9 @@
    "name": "Pepper, Camryn",
    "num": "32",
    "pos": "MID",
-   "gp": 3,
-   "starts": 2,
-   "min": 163,
+   "gp": 4,
+   "starts": 3,
+   "min": 253,
    "sh": 1,
    "sog": 1,
    "g": 1,
@@ -714,9 +759,9 @@
    "name": "Sickinger, Sam",
    "num": "4",
    "pos": "mid",
-   "gp": 7,
+   "gp": 8,
    "starts": 0,
-   "min": 156,
+   "min": 200,
    "sh": 4,
    "sog": 3,
    "g": 1,
@@ -726,12 +771,27 @@
    "rc": 0
   },
   {
+   "name": "Clarkson, Elicia",
+   "num": "17",
+   "pos": "MID",
+   "gp": 4,
+   "starts": 2,
+   "min": 184,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
    "name": "Avey, Adey",
    "num": "21",
    "pos": "mid",
-   "gp": 7,
+   "gp": 8,
    "starts": 1,
-   "min": 150,
+   "min": 169,
    "sh": 3,
    "sog": 0,
    "g": 0,
@@ -791,6 +851,21 @@
    "rc": 0
   },
   {
+   "name": "Gojcaj, Gabriella",
+   "num": "16",
+   "pos": "FWD",
+   "gp": 3,
+   "starts": 1,
+   "min": 74,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Gojcaj , Gabriella",
    "num": "16",
    "pos": "fwd",
@@ -806,27 +881,12 @@
    "rc": 0
   },
   {
-   "name": "Gojcaj, Gabriella",
-   "num": "16",
-   "pos": "FWD",
-   "gp": 2,
-   "starts": 1,
-   "min": 61,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Mondoux, Jolie",
    "num": "2",
    "pos": "mid",
-   "gp": 2,
+   "gp": 3,
    "starts": 0,
-   "min": 42,
+   "min": 53,
    "sh": 0,
    "sog": 0,
    "g": 0,

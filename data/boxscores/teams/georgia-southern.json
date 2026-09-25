@@ -1,30 +1,30 @@
 {
  "team": "Georgia Southern",
  "season": 2026,
- "games": 9,
+ "games": 10,
  "record": {
   "w": 6,
   "d": 2,
-  "l": 1
+  "l": 2
  },
  "totals": {
   "for": {
-   "shots": 141,
-   "shots_on_goal": 51,
-   "saves": 42,
-   "corner_kicks": 40,
-   "fouls": 87,
-   "offsides": 17,
-   "goals": 16
+   "shots": 163,
+   "shots_on_goal": 58,
+   "saves": 46,
+   "corner_kicks": 52,
+   "fouls": 98,
+   "offsides": 18,
+   "goals": 17
   },
   "against": {
-   "shots": 114,
-   "shots_on_goal": 50,
-   "saves": 35,
-   "corner_kicks": 36,
-   "fouls": 65,
-   "offsides": 27,
-   "goals": 8
+   "shots": 129,
+   "shots_on_goal": 56,
+   "saves": 41,
+   "corner_kicks": 40,
+   "fouls": 70,
+   "offsides": 30,
+   "goals": 10
   }
  },
  "matches": [
@@ -567,33 +567,78 @@
    "source": "gseagles.com-17449",
    "source_url": "https://gseagles.com/sports/womens-soccer/stats/2026/arkansas-state/boxscore/17449",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Georgia State",
+   "home": false,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 22,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     16,
+     6
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     0,
+     4
+    ],
+    "corner_kicks": 12,
+    "corner_kicks_by_period": [
+     5,
+     7
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     5,
+     6
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "against": {
+    "shots": 15,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     5,
+     10
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     5,
+     1
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     1,
+     3
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     2,
+     3
+    ],
+    "offsides": 3,
+    "goals": 2
+   },
+   "source": "georgiastatesports.com-10500",
+   "source_url": "https://georgiastatesports.com/sports/womens-soccer/stats/2026/georgia-southern/boxscore/10500",
+   "platform": "sidearm"
   }
  ],
  "roster": [
   {
-   "name": "Golden, Olivia",
-   "num": "18",
-   "pos": "DEF",
-   "gp": 9,
-   "starts": 9,
-   "min": 803,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 1,
-   "fouls": 2,
-   "yc": 2,
-   "rc": 0
-  },
-  {
    "name": "Wilson, Kendall",
    "num": "7",
    "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 787,
-   "sh": 15,
-   "sog": 9,
+   "gp": 10,
+   "starts": 10,
+   "min": 877,
+   "sh": 17,
+   "sog": 10,
    "g": 3,
    "a": 0,
    "fouls": 3,
@@ -601,12 +646,42 @@
    "rc": 0
   },
   {
+   "name": "Golden, Olivia",
+   "num": "18",
+   "pos": "DEF",
+   "gp": 10,
+   "starts": 10,
+   "min": 865,
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "fouls": 2,
+   "yc": 3,
+   "rc": 0
+  },
+  {
+   "name": "Cathey, Paisley",
+   "num": "15",
+   "pos": "MID",
+   "gp": 10,
+   "starts": 10,
+   "min": 824,
+   "sh": 18,
+   "sog": 4,
+   "g": 1,
+   "a": 0,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Zmistowski, Maya",
    "num": "4",
    "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 749,
+   "gp": 10,
+   "starts": 10,
+   "min": 818,
    "sh": 3,
    "sog": 2,
    "g": 0,
@@ -616,27 +691,12 @@
    "rc": 0
   },
   {
-   "name": "Cathey, Paisley",
-   "num": "15",
-   "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 734,
-   "sh": 16,
-   "sog": 4,
-   "g": 1,
-   "a": 0,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Wilson, Quinn",
    "num": "0",
    "pos": "GK",
-   "gp": 8,
-   "starts": 8,
-   "min": 707,
+   "gp": 9,
+   "starts": 9,
+   "min": 797,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -645,19 +705,19 @@
    "yc": 0,
    "rc": 0,
    "goalie": {
-    "gp": 8,
-    "ga": 5,
-    "saves": 38
+    "gp": 9,
+    "ga": 7,
+    "saves": 42
    }
   },
   {
    "name": "Pugh, Meredith",
    "num": "3",
    "pos": "MID",
-   "gp": 9,
-   "starts": 9,
-   "min": 637,
-   "sh": 15,
+   "gp": 10,
+   "starts": 10,
+   "min": 727,
+   "sh": 16,
    "sog": 7,
    "g": 3,
    "a": 0,
@@ -669,14 +729,29 @@
    "name": "Conroy, Caitlin",
    "num": "2",
    "pos": "MID",
-   "gp": 9,
+   "gp": 10,
    "starts": 9,
-   "min": 635,
-   "sh": 11,
-   "sog": 6,
-   "g": 1,
+   "min": 687,
+   "sh": 13,
+   "sog": 8,
+   "g": 2,
    "a": 2,
    "fouls": 10,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Chapman, Emma",
+   "num": "11",
+   "pos": "MID",
+   "gp": 10,
+   "starts": 7,
+   "min": 619,
+   "sh": 17,
+   "sog": 4,
+   "g": 0,
+   "a": 1,
+   "fouls": 9,
    "yc": 0,
    "rc": 0
   },
@@ -684,15 +759,30 @@
    "name": "Comer, Addison",
    "num": "20",
    "pos": "FWD",
-   "gp": 9,
-   "starts": 9,
-   "min": 553,
-   "sh": 16,
-   "sog": 4,
+   "gp": 10,
+   "starts": 10,
+   "min": 612,
+   "sh": 18,
+   "sog": 5,
    "g": 3,
    "a": 4,
    "fouls": 3,
-   "yc": 1,
+   "yc": 2,
+   "rc": 0
+  },
+  {
+   "name": "Braziunas, Anna",
+   "num": "29",
+   "pos": "FWD",
+   "gp": 10,
+   "starts": 8,
+   "min": 585,
+   "sh": 24,
+   "sog": 7,
+   "g": 3,
+   "a": 1,
+   "fouls": 16,
+   "yc": 0,
    "rc": 0
   },
   {
@@ -711,42 +801,12 @@
    "rc": 0
   },
   {
-   "name": "Chapman, Emma",
-   "num": "11",
-   "pos": "MID",
-   "gp": 9,
-   "starts": 6,
-   "min": 533,
-   "sh": 11,
-   "sog": 3,
-   "g": 0,
-   "a": 1,
-   "fouls": 9,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Braziunas, Anna",
-   "num": "29",
-   "pos": "FWD",
-   "gp": 9,
-   "starts": 7,
-   "min": 499,
-   "sh": 18,
-   "sog": 5,
-   "g": 3,
-   "a": 1,
-   "fouls": 16,
-   "yc": 0,
-   "rc": 0
-  },
-  {
    "name": "Beach, Maryann",
    "num": "8",
    "pos": "DEF",
-   "gp": 8,
-   "starts": 3,
-   "min": 391,
+   "gp": 9,
+   "starts": 4,
+   "min": 472,
    "sh": 3,
    "sog": 1,
    "g": 0,
@@ -756,12 +816,27 @@
    "rc": 0
   },
   {
+   "name": "Sealy, Abby",
+   "num": "14",
+   "pos": "DEF",
+   "gp": 4,
+   "starts": 4,
+   "min": 338,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Cook, Kaitlin",
    "num": "5",
    "pos": "FWD",
-   "gp": 9,
+   "gp": 10,
    "starts": 2,
-   "min": 290,
+   "min": 314,
    "sh": 14,
    "sog": 5,
    "g": 1,
@@ -771,18 +846,18 @@
    "rc": 0
   },
   {
-   "name": "Sealy, Abby",
-   "num": "14",
-   "pos": "DEF",
-   "gp": 3,
-   "starts": 3,
-   "min": 270,
-   "sh": 0,
+   "name": "Kim, Kira",
+   "num": "17",
+   "pos": "MID",
+   "gp": 8,
+   "starts": 0,
+   "min": 212,
+   "sh": 6,
    "sog": 0,
    "g": 0,
    "a": 0,
    "fouls": 1,
-   "yc": 0,
+   "yc": 1,
    "rc": 0
   },
   {
@@ -801,27 +876,12 @@
    "rc": 0
   },
   {
-   "name": "Kim, Kira",
-   "num": "17",
-   "pos": "MID",
-   "gp": 7,
-   "starts": 0,
-   "min": 200,
-   "sh": 6,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 1,
-   "rc": 0
-  },
-  {
    "name": "Hirschy, Scarlett",
    "num": "33",
    "pos": "FWD",
-   "gp": 7,
+   "gp": 8,
    "starts": 0,
-   "min": 127,
+   "min": 158,
    "sh": 6,
    "sog": 3,
    "g": 0,

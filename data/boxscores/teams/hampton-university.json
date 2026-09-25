@@ -1,30 +1,30 @@
 {
  "team": "Hampton University",
  "season": 2026,
- "games": 8,
+ "games": 9,
  "record": {
   "w": 1,
   "d": 1,
-  "l": 6
+  "l": 7
  },
  "totals": {
   "for": {
-   "shots": 60,
-   "shots_on_goal": 29,
-   "saves": 50,
-   "corner_kicks": 27,
-   "fouls": 67,
-   "offsides": 19,
-   "goals": 3
+   "shots": 68,
+   "shots_on_goal": 32,
+   "saves": 59,
+   "corner_kicks": 32,
+   "fouls": 77,
+   "offsides": 20,
+   "goals": 4
   },
   "against": {
-   "shots": 133,
-   "shots_on_goal": 68,
-   "saves": 26,
-   "corner_kicks": 52,
-   "fouls": 64,
-   "offsides": 29,
-   "goals": 18
+   "shots": 152,
+   "shots_on_goal": 81,
+   "saves": 28,
+   "corner_kicks": 55,
+   "fouls": 70,
+   "offsides": 34,
+   "goals": 22
   }
  },
  "matches": [
@@ -507,6 +507,66 @@
    "source": "hamptonpirates.com-10051",
    "source_url": "https://hamptonpirates.com/sports/womens-soccer/stats/2026/uncw/boxscore/10051",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Drexel",
+   "home": true,
+   "result": "L",
+   "score": "1-4",
+   "for": {
+    "shots": 8,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     3,
+     5
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     5,
+     4
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     1,
+     4
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 1,
+    "goals": 1
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 13,
+    "shots_by_period": [
+     12,
+     7
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     1,
+     1
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     2,
+     1
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     2,
+     4
+    ],
+    "offsides": 5,
+    "goals": 4
+   },
+   "source": "hamptonpirates.com-10052",
+   "source_url": "https://hamptonpirates.com/sports/womens-soccer/stats/2026/drexel/boxscore/10052",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -514,9 +574,9 @@
    "name": "Geter, Keri",
    "num": "7",
    "pos": "DEF",
-   "gp": 7,
-   "starts": 7,
-   "min": 561,
+   "gp": 8,
+   "starts": 8,
+   "min": 651,
    "sh": 3,
    "sog": 1,
    "g": 0,
@@ -526,12 +586,42 @@
    "rc": 0
   },
   {
+   "name": "Jennings, Nylah",
+   "num": "26",
+   "pos": "FWD",
+   "gp": 8,
+   "starts": 8,
+   "min": 618,
+   "sh": 14,
+   "sog": 5,
+   "g": 2,
+   "a": 1,
+   "fouls": 5,
+   "yc": 2,
+   "rc": 0
+  },
+  {
+   "name": "Motshegwe, Gositang",
+   "num": "17",
+   "pos": "MID",
+   "gp": 8,
+   "starts": 6,
+   "min": 614,
+   "sh": 3,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 6,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Whitaker, Evan-Nichole",
    "num": "11",
    "pos": "MID",
-   "gp": 7,
-   "starts": 7,
-   "min": 547,
+   "gp": 8,
+   "starts": 8,
+   "min": 580,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -541,32 +631,17 @@
    "rc": 0
   },
   {
-   "name": "Jennings, Nylah",
-   "num": "26",
-   "pos": "FWD",
-   "gp": 7,
+   "name": "Rimpsey, Madisyn",
+   "num": "16",
+   "pos": "DEF",
+   "gp": 8,
    "starts": 7,
-   "min": 528,
-   "sh": 11,
-   "sog": 3,
-   "g": 1,
-   "a": 1,
-   "fouls": 4,
-   "yc": 2,
-   "rc": 0
-  },
-  {
-   "name": "Motshegwe, Gositang",
-   "num": "17",
-   "pos": "MID",
-   "gp": 7,
-   "starts": 5,
-   "min": 524,
-   "sh": 2,
+   "min": 511,
+   "sh": 1,
    "sog": 1,
    "g": 0,
    "a": 0,
-   "fouls": 3,
+   "fouls": 1,
    "yc": 0,
    "rc": 0
   },
@@ -589,9 +664,9 @@
    "name": "Peace, Caitlyn",
    "num": "22",
    "pos": "FWD",
-   "gp": 7,
+   "gp": 8,
    "starts": 5,
-   "min": 425,
+   "min": 432,
    "sh": 7,
    "sog": 3,
    "g": 1,
@@ -601,18 +676,18 @@
    "rc": 0
   },
   {
-   "name": "Rimpsey, Madisyn",
-   "num": "16",
-   "pos": "DEF",
-   "gp": 7,
+   "name": "Sutton, Jayda",
+   "num": "6",
+   "pos": "MID",
+   "gp": 8,
    "starts": 6,
-   "min": 421,
-   "sh": 1,
-   "sog": 1,
+   "min": 429,
+   "sh": 6,
+   "sog": 3,
    "g": 0,
    "a": 0,
-   "fouls": 1,
-   "yc": 0,
+   "fouls": 3,
+   "yc": 1,
    "rc": 0
   },
   {
@@ -631,48 +706,63 @@
    "rc": 0
   },
   {
-   "name": "Sutton, Jayda",
-   "num": "6",
-   "pos": "MID",
-   "gp": 7,
+   "name": "Mihoubi, Meriem",
+   "num": "31",
+   "pos": "FWD",
+   "gp": 8,
    "starts": 5,
-   "min": 361,
+   "min": 393,
    "sh": 5,
-   "sog": 2,
+   "sog": 1,
    "g": 0,
    "a": 0,
-   "fouls": 2,
-   "yc": 1,
+   "fouls": 5,
+   "yc": 0,
    "rc": 0
   },
   {
    "name": "Donath, Anneli",
    "num": "12",
    "pos": null,
-   "gp": 7,
+   "gp": 8,
    "starts": 5,
-   "min": 341,
-   "sh": 2,
+   "min": 377,
+   "sh": 3,
    "sog": 2,
    "g": 0,
-   "a": 0,
+   "a": 1,
    "fouls": 4,
    "yc": 0,
    "rc": 0
   },
   {
-   "name": "Mihoubi, Meriem",
-   "num": "31",
-   "pos": "FWD",
-   "gp": 7,
-   "starts": 4,
-   "min": 328,
-   "sh": 3,
+   "name": "Payne, Evelyn",
+   "num": "19",
+   "pos": null,
+   "gp": 5,
+   "starts": 3,
+   "min": 334,
+   "sh": 4,
+   "sog": 2,
+   "g": 0,
+   "a": 0,
+   "fouls": 3,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Rangel, Naileth",
+   "num": "18",
+   "pos": "MID",
+   "gp": 4,
+   "starts": 3,
+   "min": 309,
+   "sh": 2,
    "sog": 1,
    "g": 0,
    "a": 0,
    "fouls": 4,
-   "yc": 0,
+   "yc": 1,
    "rc": 0
   },
   {
@@ -696,42 +786,12 @@
    }
   },
   {
-   "name": "Payne, Evelyn",
-   "num": "19",
-   "pos": null,
-   "gp": 4,
-   "starts": 3,
-   "min": 277,
-   "sh": 4,
-   "sog": 2,
-   "g": 0,
-   "a": 0,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Rangel, Naileth",
-   "num": "18",
-   "pos": "MID",
-   "gp": 3,
-   "starts": 2,
-   "min": 226,
-   "sh": 2,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 3,
-   "yc": 1,
-   "rc": 0
-  },
-  {
    "name": "Myers, Arianna",
    "num": "37",
    "pos": "GK",
-   "gp": 2,
-   "starts": 2,
-   "min": 180,
+   "gp": 3,
+   "starts": 3,
+   "min": 263,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -740,18 +800,33 @@
    "yc": 0,
    "rc": 0,
    "goalie": {
-    "gp": 2,
-    "ga": 9,
-    "saves": 16
+    "gp": 3,
+    "ga": 13,
+    "saves": 23
    }
+  },
+  {
+   "name": "Estevao, Shaima C\u00e9sar ",
+   "num": "3",
+   "pos": "DEF",
+   "gp": 3,
+   "starts": 2,
+   "min": 171,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
   },
   {
    "name": "Dean, Safiya",
    "num": "14",
    "pos": "FWD",
-   "gp": 5,
+   "gp": 6,
    "starts": 1,
-   "min": 148,
+   "min": 158,
    "sh": 3,
    "sog": 2,
    "g": 0,
@@ -776,18 +851,33 @@
    "rc": 0
   },
   {
-   "name": "Estevao, Shaima C\u00e9sar ",
-   "num": "3",
-   "pos": "DEF",
-   "gp": 2,
+   "name": "Alejo Cardenas, Nuria",
+   "num": "28",
+   "pos": "FWD",
+   "gp": 5,
    "starts": 1,
-   "min": 113,
+   "min": 120,
    "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 0,
-   "fouls": 2,
+   "fouls": 0,
    "yc": 0,
+   "rc": 0
+  },
+  {
+   "name": "Edozie, Mattie",
+   "num": "23",
+   "pos": "FWD",
+   "gp": 8,
+   "starts": 0,
+   "min": 109,
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 4,
+   "yc": 1,
    "rc": 0
   },
   {
@@ -821,19 +911,24 @@
    "rc": 0
   },
   {
-   "name": "Edozie, Mattie",
-   "num": "23",
-   "pos": "FWD",
-   "gp": 7,
-   "starts": 0,
-   "min": 95,
-   "sh": 2,
-   "sog": 1,
+   "name": "Jenkins, Jackie",
+   "num": "00",
+   "pos": "GK",
+   "gp": 2,
+   "starts": 1,
+   "min": 97,
+   "sh": 0,
+   "sog": 0,
    "g": 0,
    "a": 0,
-   "fouls": 2,
-   "yc": 1,
-   "rc": 0
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "goalie": {
+    "gp": 2,
+    "ga": 1,
+    "saves": 5
+   }
   },
   {
    "name": "Blackston, Maya",
@@ -849,26 +944,6 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0
-  },
-  {
-   "name": "Jenkins, Jackie",
-   "num": "00",
-   "pos": "GK",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "goalie": {
-    "gp": 1,
-    "ga": 1,
-    "saves": 3
-   }
   },
   {
    "name": "Kissi, Imani",
@@ -966,6 +1041,21 @@
    "rc": 0
   },
   {
+   "name": "Yarbough, Imani",
+   "num": "2",
+   "pos": "DEF",
+   "gp": 2,
+   "starts": 0,
+   "min": 79,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
    "name": "Serrano Monge, Kristen",
    "num": "17",
    "pos": "DEF",
@@ -1005,21 +1095,6 @@
    "sh": 2,
    "sog": 1,
    "g": 1,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Alejo Cardenas, Nuria",
-   "num": "28",
-   "pos": "fwd",
-   "gp": 4,
-   "starts": 0,
-   "min": 68,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
    "a": 0,
    "fouls": 0,
    "yc": 0,
@@ -1109,29 +1184,14 @@
    "name": "Milisits, Ava",
    "num": "20",
    "pos": "FWD",
-   "gp": 3,
+   "gp": 4,
    "starts": 0,
-   "min": 26,
+   "min": 29,
    "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 0,
    "fouls": 1,
-   "yc": 0,
-   "rc": 0
-  },
-  {
-   "name": "Yarbough, Imani",
-   "num": "2",
-   "pos": "DEF",
-   "gp": 1,
-   "starts": 0,
-   "min": 25,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
    "yc": 0,
    "rc": 0
   },
