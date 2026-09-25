@@ -420,10 +420,105 @@
    }
   ]
  },
+ "bench": [
+  {
+   "name": "Husic, Lindsey",
+   "short": "L. Husic",
+   "num": "11",
+   "pos": "def",
+   "sub_apps": 9,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 66.2,
+   "min_season": 214,
+   "score": 342.14
+  },
+  {
+   "name": "McGovern, Natalie",
+   "short": "N. McGovern",
+   "num": "19",
+   "pos": "MID",
+   "sub_apps": 4,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 57.2,
+   "min_season": 304,
+   "score": 243.04
+  },
+  {
+   "name": "Butash, Daniella",
+   "short": "D. Butash",
+   "num": "20",
+   "pos": "fwd",
+   "sub_apps": 7,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 69.6,
+   "min_season": 143,
+   "score": 221.43
+  },
+  {
+   "name": "Leary, Scarlett",
+   "short": "S. Leary",
+   "num": "15",
+   "pos": "fwd",
+   "sub_apps": 7,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 75.7,
+   "min_season": 100,
+   "score": 221.0
+  },
+  {
+   "name": "Dreihaup, Alex",
+   "short": "A. Dreihaup",
+   "num": "28",
+   "pos": "def",
+   "sub_apps": 7,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 76.1,
+   "min_season": 97,
+   "score": 220.97
+  },
+  {
+   "name": "Gehret, Loren",
+   "short": "L. Gehret",
+   "num": "24",
+   "pos": "fwd",
+   "sub_apps": 4,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 58.2,
+   "min_season": 127,
+   "score": 191.27
+  },
+  {
+   "name": "Nguyen, Nikki",
+   "short": "N. Nguyen",
+   "num": "17",
+   "pos": "mid",
+   "sub_apps": 4,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 73.5,
+   "min_season": 66,
+   "score": 190.66
+  },
+  {
+   "name": "Cicchino, Keala",
+   "short": "K. Cicchino",
+   "num": "26",
+   "pos": "def",
+   "sub_apps": 3,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 72.0,
+   "min_season": 54,
+   "score": 130.54
+  }
+ ],
  "sub_table": {
   "games": [
    {
     "date": "2026-08-12",
+    "opponent": "Manhattan",
+    "result": "W",
+    "score": "1-0",
+    "for_goals": 1,
+    "against_goals": 0,
     "starters_min": 796,
     "subs_min": 194,
     "subs_h1": 1,
@@ -433,6 +528,11 @@
    },
    {
     "date": "2026-08-16",
+    "opponent": "Wagner",
+    "result": "L",
+    "score": "1-2",
+    "for_goals": 1,
+    "against_goals": 2,
     "starters_min": 802,
     "subs_min": 188,
     "subs_h1": 1,
@@ -442,6 +542,11 @@
    },
    {
     "date": "2026-08-20",
+    "opponent": "Providence",
+    "result": "D",
+    "score": "1-1",
+    "for_goals": 1,
+    "against_goals": 1,
     "starters_min": 815,
     "subs_min": 175,
     "subs_h1": 2,
@@ -451,6 +556,11 @@
    },
    {
     "date": "2026-08-27",
+    "opponent": "Army",
+    "result": "W",
+    "score": "3-0",
+    "for_goals": 3,
+    "against_goals": 0,
     "starters_min": 786,
     "subs_min": 204,
     "subs_h1": 1,
@@ -460,6 +570,11 @@
    },
    {
     "date": "2026-08-30",
+    "opponent": "Fairleigh Dickinson",
+    "result": "D",
+    "score": "2-2",
+    "for_goals": 2,
+    "against_goals": 2,
     "starters_min": 811,
     "subs_min": 179,
     "subs_h1": 1,
@@ -469,6 +584,11 @@
    },
    {
     "date": "2026-09-03",
+    "opponent": "St. John's",
+    "result": "W",
+    "score": "1-0",
+    "for_goals": 1,
+    "against_goals": 0,
     "starters_min": 766,
     "subs_min": 224,
     "subs_h1": 2,
@@ -478,6 +598,11 @@
    },
    {
     "date": "2026-09-06",
+    "opponent": "NJIT",
+    "result": "W",
+    "score": "3-0",
+    "for_goals": 3,
+    "against_goals": 0,
     "starters_min": 756,
     "subs_min": 234,
     "subs_h1": 2,
@@ -487,6 +612,11 @@
    },
    {
     "date": "2026-09-13",
+    "opponent": "Columbia",
+    "result": "W",
+    "score": "2-0",
+    "for_goals": 2,
+    "against_goals": 0,
     "starters_min": 834,
     "subs_min": 156,
     "subs_h1": 0,
@@ -496,6 +626,11 @@
    },
    {
     "date": "2026-09-20",
+    "opponent": "Stony Brook",
+    "result": "L",
+    "score": "0-1",
+    "for_goals": 0,
+    "against_goals": 1,
     "starters_min": 908,
     "subs_min": 82,
     "subs_h1": 0,
@@ -516,11 +651,13 @@
  "sub_interpretation": {
   "first_half": [
    "First substitution of the game typically comes around minute 32.3 (earliest 19, latest 43).",
-   "Averages 1.1 sub(s) before halftime."
+   "Averages 1.1 sub(s) before halftime.",
+   "Tends to be the same faces: C. Messer (5x), M. DeMaio (2x), L. Gehret (1x) account for 80% of these substitutions."
   ],
   "second_half": [
    "First second-half substitution typically comes around minute 55.4.",
-   "Averages 6.4 sub(s) after the break -- more than the first half."
+   "Averages 6.4 sub(s) after the break -- more than the first half.",
+   "Leans toward a few regulars -- L. Husic (8x), D. Butash (7x), A. Dreihaup (7x) appear most often, but it's not limited to them."
   ],
   "overall": [
    "Close games (\u22641-goal margin, 6 this season) have averaged 7.0 total subs vs 9.0 in blowouts (3+ goals, 2 this season) -- consistent with the usual pattern of resting starters less in tight games.",

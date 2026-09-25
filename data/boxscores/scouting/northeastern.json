@@ -420,10 +420,105 @@
    }
   ]
  },
+ "bench": [
+  {
+   "name": "Garcia, Juliana",
+   "short": "J. Garcia",
+   "num": "8",
+   "pos": "mid",
+   "sub_apps": 7,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 68.7,
+   "min_season": 149,
+   "score": 321.49
+  },
+  {
+   "name": "Karrow, Giulia",
+   "short": "G. Karrow",
+   "num": "10",
+   "pos": "MID",
+   "sub_apps": 8,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 49.6,
+   "min_season": 409,
+   "score": 284.09
+  },
+  {
+   "name": "McGee, Ella",
+   "short": "E. McGee",
+   "num": "3",
+   "pos": "FWD",
+   "sub_apps": 8,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 54.1,
+   "min_season": 325,
+   "score": 283.25
+  },
+  {
+   "name": "Sutliffe, Lauren",
+   "short": "L. Sutliffe",
+   "num": "11",
+   "pos": "DEF",
+   "sub_apps": 4,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 41.2,
+   "min_season": 474,
+   "score": 244.74
+  },
+  {
+   "name": "Herman, Catrina",
+   "short": "C. Herman",
+   "num": "15",
+   "pos": "DEF",
+   "sub_apps": 4,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 66.5,
+   "min_season": 94,
+   "score": 240.94
+  },
+  {
+   "name": "Balogun, Foluke",
+   "short": "F. Balogun",
+   "num": "16",
+   "pos": "FWD",
+   "sub_apps": 3,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 66.0,
+   "min_season": 260,
+   "score": 182.6
+  },
+  {
+   "name": "Nyondo, Lughano",
+   "short": "L. Nyondo",
+   "num": "12",
+   "pos": "FWD",
+   "sub_apps": 2,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 76.0,
+   "min_season": 28,
+   "score": 120.28
+  },
+  {
+   "name": "Price, Chloe",
+   "short": "C. Price",
+   "num": "5",
+   "pos": "DEF",
+   "sub_apps": 2,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 82.0,
+   "min_season": 16,
+   "score": 120.16
+  }
+ ],
  "sub_table": {
   "games": [
    {
     "date": "2026-08-13",
+    "opponent": "Boston University",
+    "result": "W",
+    "score": "1-0",
+    "for_goals": 1,
+    "against_goals": 0,
     "starters_min": 838,
     "subs_min": 152,
     "subs_h1": 0,
@@ -433,6 +528,11 @@
    },
    {
     "date": "2026-08-16",
+    "opponent": "Merrimack",
+    "result": "W",
+    "score": "2-0",
+    "for_goals": 2,
+    "against_goals": 0,
     "starters_min": 757,
     "subs_min": 232,
     "subs_h1": 1,
@@ -442,6 +542,11 @@
    },
    {
     "date": "2026-08-20",
+    "opponent": "Rhode Island",
+    "result": "D",
+    "score": "0-0",
+    "for_goals": 0,
+    "against_goals": 0,
     "starters_min": 826,
     "subs_min": 164,
     "subs_h1": 1,
@@ -451,6 +556,11 @@
    },
    {
     "date": "2026-08-23",
+    "opponent": "Providence",
+    "result": "D",
+    "score": "0-0",
+    "for_goals": 0,
+    "against_goals": 0,
     "starters_min": 824,
     "subs_min": 166,
     "subs_h1": 2,
@@ -460,6 +570,11 @@
    },
    {
     "date": "2026-08-27",
+    "opponent": "Yale",
+    "result": "L",
+    "score": "0-2",
+    "for_goals": 0,
+    "against_goals": 2,
     "starters_min": 636,
     "subs_min": 354,
     "subs_h1": 5,
@@ -469,6 +584,11 @@
    },
    {
     "date": "2026-08-30",
+    "opponent": "New Hampshire",
+    "result": "L",
+    "score": "1-4",
+    "for_goals": 1,
+    "against_goals": 4,
     "starters_min": 703,
     "subs_min": 287,
     "subs_h1": 1,
@@ -478,6 +598,11 @@
    },
    {
     "date": "2026-09-10",
+    "opponent": "Harvard",
+    "result": "L",
+    "score": "0-1",
+    "for_goals": 0,
+    "against_goals": 1,
     "starters_min": 821,
     "subs_min": 169,
     "subs_h1": 0,
@@ -487,6 +612,11 @@
    },
    {
     "date": "2026-09-13",
+    "opponent": "Massachusetts",
+    "result": "L",
+    "score": "0-3",
+    "for_goals": 0,
+    "against_goals": 3,
     "starters_min": 800,
     "subs_min": 190,
     "subs_h1": 2,
@@ -496,6 +626,11 @@
    },
    {
     "date": "2026-09-20",
+    "opponent": "Drexel",
+    "result": "W",
+    "score": "3-0",
+    "for_goals": 3,
+    "against_goals": 0,
     "starters_min": 851,
     "subs_min": 139,
     "subs_h1": 1,
@@ -516,11 +651,13 @@
  "sub_interpretation": {
   "first_half": [
    "First substitution of the game typically comes around minute 37.6 (earliest 23, latest 45).",
-   "Averages 1.4 sub(s) before halftime."
+   "Averages 1.4 sub(s) before halftime.",
+   "Leans toward a few regulars -- G. Karrow (4x), L. Sutliffe (3x), E. McGee (2x) appear most often, but it's not limited to them."
   ],
   "second_half": [
    "First second-half substitution typically comes around minute 52.3.",
-   "Averages 5.1 sub(s) after the break -- more than the first half."
+   "Averages 5.1 sub(s) after the break -- more than the first half.",
+   "Leans toward a few regulars -- J. Garcia (7x), E. McGee (6x), S. Baur (5x) appear most often, but it's not limited to them."
   ],
   "overall": [
    "Close games (\u22641-goal margin, 4 this season) have averaged 5.2 total subs vs 8.3 in blowouts (3+ goals, 3 this season) -- consistent with the usual pattern of resting starters less in tight games.",

@@ -420,10 +420,105 @@
    }
   ]
  },
+ "bench": [
+  {
+   "name": "Reyes, Capri",
+   "short": "C. Reyes",
+   "num": "12",
+   "pos": "FWD",
+   "sub_apps": 5,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 68.8,
+   "min_season": 106,
+   "score": 201.06
+  },
+  {
+   "name": "Seitz, Paige",
+   "short": "P. Seitz",
+   "num": "7",
+   "pos": "MID",
+   "sub_apps": 4,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 64.0,
+   "min_season": 104,
+   "score": 191.04
+  },
+  {
+   "name": "Oswald, Brooke",
+   "short": "B. Oswald",
+   "num": "22",
+   "pos": "FWD",
+   "sub_apps": 3,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 48.0,
+   "min_season": 295,
+   "score": 182.95
+  },
+  {
+   "name": "Palmer, Kerys",
+   "short": "K. Palmer",
+   "num": "4",
+   "pos": "MID",
+   "sub_apps": 3,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 75.0,
+   "min_season": 45,
+   "score": 130.45
+  },
+  {
+   "name": "Incarnato, Sydney",
+   "short": "S. Incarnato",
+   "num": "5",
+   "pos": "mid",
+   "sub_apps": 3,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 76.7,
+   "min_season": 40,
+   "score": 130.4
+  },
+  {
+   "name": "Ledwith, Ella",
+   "short": "E. Ledwith",
+   "num": "8",
+   "pos": null,
+   "sub_apps": 2,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 64.5,
+   "min_season": 198,
+   "score": 121.98
+  },
+  {
+   "name": "Dallara, Sophia",
+   "short": "S. Dallara",
+   "num": "11",
+   "pos": "mid",
+   "sub_apps": 3,
+   "sub_apps_l3": 1,
+   "avg_entry_min": 75.0,
+   "min_season": 45,
+   "score": 80.45
+  },
+  {
+   "name": "Hall, Lily",
+   "short": "L. Hall",
+   "num": "24",
+   "pos": null,
+   "sub_apps": 2,
+   "sub_apps_l3": 1,
+   "avg_entry_min": 77.0,
+   "min_season": 26,
+   "score": 70.26
+  }
+ ],
  "sub_table": {
   "games": [
    {
     "date": "2026-08-12",
+    "opponent": "Loyola (MD)",
+    "result": "D",
+    "score": "1-1",
+    "for_goals": 1,
+    "against_goals": 1,
     "starters_min": 818,
     "subs_min": 172,
     "subs_h1": 1,
@@ -433,6 +528,11 @@
    },
    {
     "date": "2026-08-20",
+    "opponent": "Army",
+    "result": "L",
+    "score": "2-3",
+    "for_goals": 2,
+    "against_goals": 3,
     "starters_min": 851,
     "subs_min": 138,
     "subs_h1": 1,
@@ -442,6 +542,11 @@
    },
    {
     "date": "2026-08-27",
+    "opponent": "Virginia Tech",
+    "result": "L",
+    "score": "1-3",
+    "for_goals": 1,
+    "against_goals": 3,
     "starters_min": 0,
     "subs_min": 0,
     "subs_h1": 0,
@@ -451,6 +556,11 @@
    },
    {
     "date": "2026-08-30",
+    "opponent": "Appalachian State",
+    "result": "L",
+    "score": "1-2",
+    "for_goals": 1,
+    "against_goals": 2,
     "starters_min": 805,
     "subs_min": 185,
     "subs_h1": 2,
@@ -460,6 +570,11 @@
    },
    {
     "date": "2026-09-03",
+    "opponent": "Liberty",
+    "result": "L",
+    "score": "0-2",
+    "for_goals": 0,
+    "against_goals": 2,
     "starters_min": 0,
     "subs_min": 0,
     "subs_h1": 0,
@@ -469,6 +584,11 @@
    },
    {
     "date": "2026-09-06",
+    "opponent": "VCU",
+    "result": "D",
+    "score": "2-2",
+    "for_goals": 2,
+    "against_goals": 2,
     "starters_min": 0,
     "subs_min": 0,
     "subs_h1": 0,
@@ -478,6 +598,11 @@
    },
    {
     "date": "2026-09-13",
+    "opponent": "American",
+    "result": "W",
+    "score": "5-1",
+    "for_goals": 5,
+    "against_goals": 1,
     "starters_min": 791,
     "subs_min": 188,
     "subs_h1": 0,
@@ -487,6 +612,11 @@
    },
    {
     "date": "2026-09-19",
+    "opponent": "College of Charleston",
+    "result": "D",
+    "score": "1-1",
+    "for_goals": 1,
+    "against_goals": 1,
     "starters_min": 857,
     "subs_min": 133,
     "subs_h1": 1,
@@ -507,11 +637,13 @@
  "sub_interpretation": {
   "first_half": [
    "First substitution of the game typically comes around minute 40.2 (earliest 29, latest 45).",
-   "Averages 0.6 sub(s) before halftime."
+   "Averages 0.6 sub(s) before halftime.",
+   "Tends to be the same faces: M. Tegeris (2x), G. Doughty (1x), B. Oswald (1x) account for 80% of these substitutions."
   ],
   "second_half": [
    "First second-half substitution typically comes around minute 54.6.",
-   "Averages 4.0 sub(s) after the break -- more than the first half."
+   "Averages 4.0 sub(s) after the break -- more than the first half.",
+   "Varies game to game -- no single player is used consistently here (16 different players have come on)."
   ],
   "overall": [
    "Close games (\u22641-goal margin, 5 this season) have averaged 4.8 total subs vs 13.0 in blowouts (3+ goals, 1 this season) -- consistent with the usual pattern of resting starters less in tight games.",

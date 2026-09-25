@@ -420,10 +420,105 @@
    }
   ]
  },
+ "bench": [
+  {
+   "name": "DiPrima, Isabel",
+   "short": "I. DiPrima",
+   "num": "20",
+   "pos": "mid",
+   "sub_apps": 8,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 50.9,
+   "min_season": 376,
+   "score": 333.76
+  },
+  {
+   "name": "Beck, Jess",
+   "short": "J. Beck",
+   "num": "21",
+   "pos": null,
+   "sub_apps": 5,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 65.6,
+   "min_season": 239,
+   "score": 302.39
+  },
+  {
+   "name": "Grimes, Charlise",
+   "short": "C. Grimes",
+   "num": "8",
+   "pos": "DEF",
+   "sub_apps": 6,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 67.3,
+   "min_season": 295,
+   "score": 212.95
+  },
+  {
+   "name": "Milano, Gia",
+   "short": "G. Milano",
+   "num": "9",
+   "pos": null,
+   "sub_apps": 6,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 63.8,
+   "min_season": 157,
+   "score": 211.57
+  },
+  {
+   "name": "McCauley , Lauren",
+   "short": "L. McCauley",
+   "num": "17",
+   "pos": null,
+   "sub_apps": 4,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 56.5,
+   "min_season": 134,
+   "score": 191.34
+  },
+  {
+   "name": "Abousaab, Maya",
+   "short": "M. Abousaab",
+   "num": "26",
+   "pos": null,
+   "sub_apps": 4,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 59.8,
+   "min_season": 121,
+   "score": 191.21
+  },
+  {
+   "name": "Abousaab, Jenna",
+   "short": "J. Abousaab",
+   "num": "13",
+   "pos": "mid",
+   "sub_apps": 5,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 64.4,
+   "min_season": 211,
+   "score": 152.11
+  },
+  {
+   "name": "McCauley, Lauren",
+   "short": "L. McCauley",
+   "num": "17",
+   "pos": "FWD",
+   "sub_apps": 4,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 56.5,
+   "min_season": 134,
+   "score": 141.34
+  }
+ ],
  "sub_table": {
   "games": [
    {
     "date": "2026-08-13",
+    "opponent": "VCU",
+    "result": "W",
+    "score": "4-1",
+    "for_goals": 4,
+    "against_goals": 1,
     "starters_min": 836,
     "subs_min": 154,
     "subs_h1": 1,
@@ -433,6 +528,11 @@
    },
    {
     "date": "2026-08-20",
+    "opponent": "South Carolina State",
+    "result": "W",
+    "score": "6-0",
+    "for_goals": 6,
+    "against_goals": 0,
     "starters_min": 571,
     "subs_min": 403,
     "subs_h1": 6,
@@ -442,6 +542,11 @@
    },
    {
     "date": "2026-08-23",
+    "opponent": "NC State",
+    "result": "L",
+    "score": "1-2",
+    "for_goals": 1,
+    "against_goals": 2,
     "starters_min": 880,
     "subs_min": 110,
     "subs_h1": 0,
@@ -451,6 +556,11 @@
    },
    {
     "date": "2026-08-27",
+    "opponent": "Davidson",
+    "result": "D",
+    "score": "3-3",
+    "for_goals": 3,
+    "against_goals": 3,
     "starters_min": 915,
     "subs_min": 75,
     "subs_h1": 0,
@@ -460,6 +570,11 @@
    },
    {
     "date": "2026-08-30",
+    "opponent": "High Point",
+    "result": "W",
+    "score": "2-1",
+    "for_goals": 2,
+    "against_goals": 1,
     "starters_min": 797,
     "subs_min": 192,
     "subs_h1": 1,
@@ -469,6 +584,11 @@
    },
    {
     "date": "2026-09-03",
+    "opponent": "VMI",
+    "result": "W",
+    "score": "5-0",
+    "for_goals": 5,
+    "against_goals": 0,
     "starters_min": 626,
     "subs_min": 364,
     "subs_h1": 3,
@@ -478,6 +598,11 @@
    },
    {
     "date": "2026-09-06",
+    "opponent": "American",
+    "result": "D",
+    "score": "0-0",
+    "for_goals": 0,
+    "against_goals": 0,
     "starters_min": 743,
     "subs_min": 247,
     "subs_h1": 3,
@@ -487,6 +612,11 @@
    },
    {
     "date": "2026-09-13",
+    "opponent": "Charleston Southern",
+    "result": "W",
+    "score": "3-0",
+    "for_goals": 3,
+    "against_goals": 0,
     "starters_min": 593,
     "subs_min": 396,
     "subs_h1": 3,
@@ -496,6 +626,11 @@
    },
    {
     "date": "2026-09-20",
+    "opponent": "Campbell",
+    "result": "W",
+    "score": "2-0",
+    "for_goals": 2,
+    "against_goals": 0,
     "starters_min": 813,
     "subs_min": 177,
     "subs_h1": 1,
@@ -516,11 +651,13 @@
  "sub_interpretation": {
   "first_half": [
    "First substitution of the game typically comes around minute 38.1 (earliest 29, latest 45).",
-   "Averages 2.0 sub(s) before halftime."
+   "Averages 2.0 sub(s) before halftime.",
+   "Leans toward a few regulars -- N. Kleyner (3x), I. DiPrima (3x), A. Carpenter (2x) appear most often, but it's not limited to them."
   ],
   "second_half": [
    "First second-half substitution typically comes around minute 52.1.",
-   "Averages 5.9 sub(s) after the break -- more than the first half."
+   "Averages 5.9 sub(s) after the break -- more than the first half.",
+   "Varies game to game -- no single player is used consistently here (18 different players have come on)."
   ],
   "overall": [
    "Close games (\u22641-goal margin, 4 this season) have averaged 5.5 total subs vs 10.5 in blowouts (3+ goals, 4 this season) -- consistent with the usual pattern of resting starters less in tight games.",

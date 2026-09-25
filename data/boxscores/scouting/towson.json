@@ -420,10 +420,105 @@
    }
   ]
  },
+ "bench": [
+  {
+   "name": "Caldwell, Jayla",
+   "short": "J. Caldwell",
+   "num": "5",
+   "pos": "def",
+   "sub_apps": 9,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 60.4,
+   "min_season": 266,
+   "score": 342.66
+  },
+  {
+   "name": "Taylor, Sydney",
+   "short": "S. Taylor",
+   "num": "17",
+   "pos": "mid",
+   "sub_apps": 9,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 63.6,
+   "min_season": 238,
+   "score": 342.38
+  },
+  {
+   "name": "Johnson, Zuri",
+   "short": "Z. Johnson",
+   "num": "8",
+   "pos": "fwd",
+   "sub_apps": 9,
+   "sub_apps_l3": 5,
+   "avg_entry_min": 70.0,
+   "min_season": 180,
+   "score": 341.8
+  },
+  {
+   "name": "Bayer, Paelyn",
+   "short": "P. Bayer",
+   "num": "12",
+   "pos": "fwd",
+   "sub_apps": 8,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 56.8,
+   "min_season": 325,
+   "score": 283.25
+  },
+  {
+   "name": "Reid, Angel",
+   "short": "A. Reid",
+   "num": "16",
+   "pos": "FWD",
+   "sub_apps": 8,
+   "sub_apps_l3": 4,
+   "avg_entry_min": 64.5,
+   "min_season": 226,
+   "score": 282.26
+  },
+  {
+   "name": "Gardner, Teagan",
+   "short": "T. Gardner",
+   "num": "1",
+   "pos": "gk",
+   "sub_apps": 3,
+   "sub_apps_l3": 3,
+   "avg_entry_min": 45.0,
+   "min_season": 570,
+   "score": 185.7
+  },
+  {
+   "name": "Petrash, Maya",
+   "short": "M. Petrash",
+   "num": "20",
+   "pos": "mid",
+   "sub_apps": 2,
+   "sub_apps_l3": 2,
+   "avg_entry_min": 85.5,
+   "min_season": 9,
+   "score": 120.09
+  },
+  {
+   "name": "Casler, Anna",
+   "short": "A. Casler",
+   "num": "21",
+   "pos": "def",
+   "sub_apps": 2,
+   "sub_apps_l3": 1,
+   "avg_entry_min": 85.5,
+   "min_season": 9,
+   "score": 70.09
+  }
+ ],
  "sub_table": {
   "games": [
    {
     "date": "2026-08-17",
+    "opponent": "Mount St. Mary's",
+    "result": "W",
+    "score": "2-0",
+    "for_goals": 2,
+    "against_goals": 0,
     "starters_min": 905,
     "subs_min": 85,
     "subs_h1": 0,
@@ -433,6 +528,11 @@
    },
    {
     "date": "2026-08-20",
+    "opponent": "St. John's",
+    "result": "L",
+    "score": "1-2",
+    "for_goals": 1,
+    "against_goals": 2,
     "starters_min": 835,
     "subs_min": 155,
     "subs_h1": 1,
@@ -442,6 +542,11 @@
    },
    {
     "date": "2026-08-23",
+    "opponent": "George Washington",
+    "result": "D",
+    "score": "2-2",
+    "for_goals": 2,
+    "against_goals": 2,
     "starters_min": 877,
     "subs_min": 113,
     "subs_h1": 0,
@@ -451,6 +556,11 @@
    },
    {
     "date": "2026-08-27",
+    "opponent": "Delaware",
+    "result": "D",
+    "score": "0-0",
+    "for_goals": 0,
+    "against_goals": 0,
     "starters_min": 833,
     "subs_min": 157,
     "subs_h1": 0,
@@ -460,6 +570,11 @@
    },
    {
     "date": "2026-09-03",
+    "opponent": "UMBC",
+    "result": "L",
+    "score": "1-3",
+    "for_goals": 1,
+    "against_goals": 3,
     "starters_min": 856,
     "subs_min": 134,
     "subs_h1": 0,
@@ -469,6 +584,11 @@
    },
    {
     "date": "2026-09-06",
+    "opponent": "Bucknell",
+    "result": "W",
+    "score": "3-1",
+    "for_goals": 3,
+    "against_goals": 1,
     "starters_min": 846,
     "subs_min": 144,
     "subs_h1": 0,
@@ -478,6 +598,11 @@
    },
    {
     "date": "2026-09-10",
+    "opponent": "Navy",
+    "result": "W",
+    "score": "1-0",
+    "for_goals": 1,
+    "against_goals": 0,
     "starters_min": 793,
     "subs_min": 197,
     "subs_h1": 1,
@@ -487,6 +612,11 @@
    },
    {
     "date": "2026-09-13",
+    "opponent": "Penn",
+    "result": "L",
+    "score": "0-1",
+    "for_goals": 0,
+    "against_goals": 1,
     "starters_min": 811,
     "subs_min": 179,
     "subs_h1": 1,
@@ -496,6 +626,11 @@
    },
    {
     "date": "2026-09-20",
+    "opponent": "Hofstra",
+    "result": "L",
+    "score": "1-2",
+    "for_goals": 1,
+    "against_goals": 2,
     "starters_min": 790,
     "subs_min": 200,
     "subs_h1": 2,
@@ -516,11 +651,13 @@
  "sub_interpretation": {
   "first_half": [
    "First substitution of the game typically comes around minute 41.0 (earliest 34, latest 45).",
-   "Averages 0.6 sub(s) before halftime."
+   "Averages 0.6 sub(s) before halftime.",
+   "Tends to be the same faces: T. Gardner (3x), P. Bayer (2x) account for 100% of these substitutions."
   ],
   "second_half": [
    "First second-half substitution typically comes around minute 52.2.",
-   "Averages 5.2 sub(s) after the break -- more than the first half."
+   "Averages 5.2 sub(s) after the break -- more than the first half.",
+   "Leans toward a few regulars -- J. Caldwell (9x), Z. Johnson (9x), S. Taylor (9x) appear most often, but it's not limited to them."
   ],
   "overall": [
    "Only close games so far this season (6) -- not enough game-state variety yet to compare close-game vs. blowout substitution patterns.",
