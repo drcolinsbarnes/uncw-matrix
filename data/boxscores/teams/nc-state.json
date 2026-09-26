@@ -692,6 +692,7 @@
  "roster": [
   {
    "name": "Symmes, Mary Frances",
+   "slug": "symmes-mary-frances",
    "num": "21",
    "pos": "MID",
    "gp": 11,
@@ -707,6 +708,7 @@
   },
   {
    "name": "Mohr, Alex",
+   "slug": "mohr-alex",
    "num": "5",
    "pos": "DEF",
    "gp": 11,
@@ -722,6 +724,7 @@
   },
   {
    "name": "Aoki, Yuna",
+   "slug": "aoki-yuna",
    "num": "2",
    "pos": "DEF",
    "gp": 11,
@@ -737,6 +740,7 @@
   },
   {
    "name": "Montgomery, Carly",
+   "slug": "montgomery-carly",
    "num": "11",
    "pos": "DEF",
    "gp": 11,
@@ -752,6 +756,7 @@
   },
   {
    "name": "Bordeleau, Jade",
+   "slug": "bordeleau-jade",
    "num": "13",
    "pos": "FWD",
    "gp": 11,
@@ -767,6 +772,7 @@
   },
   {
    "name": "Nakata, Mana",
+   "slug": "nakata-mana",
    "num": "6",
    "pos": "MID",
    "gp": 11,
@@ -782,6 +788,7 @@
   },
   {
    "name": "Pickels, Riley",
+   "slug": "pickels-riley",
    "num": "1",
    "pos": "GK",
    "gp": 9,
@@ -802,6 +809,7 @@
   },
   {
    "name": "Roberts, Erica",
+   "slug": "roberts-erica",
    "num": "7",
    "pos": "FWD",
    "gp": 11,
@@ -817,6 +825,7 @@
   },
   {
    "name": "Wong, Emily",
+   "slug": "wong-emily",
    "num": "17",
    "pos": "MID",
    "gp": 8,
@@ -832,6 +841,7 @@
   },
   {
    "name": "Casteen, Madison",
+   "slug": "casteen-madison",
    "num": "9",
    "pos": null,
    "gp": 11,
@@ -847,6 +857,7 @@
   },
   {
    "name": "Duda, Daisy",
+   "slug": "duda-daisy",
    "num": "15",
    "pos": "FWD",
    "gp": 10,
@@ -862,7 +873,8 @@
   },
   {
    "name": "Richter, Katie",
-   "num": "32",
+   "slug": "richter-katie",
+   "num": "30",
    "pos": "FWD",
    "gp": 10,
    "starts": 7,
@@ -877,6 +889,7 @@
   },
   {
    "name": "Leijdekker, Fien",
+   "slug": "leijdekker-fien",
    "num": "29",
    "pos": "MID",
    "gp": 8,
@@ -892,6 +905,7 @@
   },
   {
    "name": "Olou, Rosalie",
+   "slug": "olou-rosalie",
    "num": "8",
    "pos": "MID",
    "gp": 7,
@@ -907,6 +921,7 @@
   },
   {
    "name": "Mazziotto, Antonella",
+   "slug": "mazziotto-antonella",
    "num": "10",
    "pos": "FWD",
    "gp": 9,
@@ -922,6 +937,7 @@
   },
   {
    "name": "Breech, Ellie",
+   "slug": "breech-ellie",
    "num": "0",
    "pos": "GK",
    "gp": 3,
@@ -942,6 +958,7 @@
   },
   {
    "name": "Hernandez, Sophia",
+   "slug": "hernandez-sophia",
    "num": "28",
    "pos": "MID",
    "gp": 6,
@@ -957,6 +974,7 @@
   },
   {
    "name": "Martin Esteban, Amor Leigh",
+   "slug": "martin-esteban-amor-leigh",
    "num": "18",
    "pos": "GK",
    "gp": 2,
@@ -977,6 +995,7 @@
   },
   {
    "name": "Smith, Mackenzie",
+   "slug": "smith-mackenzie",
    "num": "27",
    "pos": "DEF",
    "gp": 3,
@@ -992,6 +1011,7 @@
   },
   {
    "name": "Miller, Madie",
+   "slug": "miller-madie",
    "num": "14",
    "pos": "FWD",
    "gp": 5,
@@ -1007,6 +1027,7 @@
   },
   {
    "name": "Harris, Mackenzie",
+   "slug": "harris-mackenzie",
    "num": "22",
    "pos": "DEF",
    "gp": 4,
@@ -1022,8 +1043,9 @@
   },
   {
    "name": "Soltz, Lilly",
+   "slug": "soltz-lilly",
    "num": "23",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 2,
    "starts": 0,
    "min": 57,
@@ -1037,8 +1059,9 @@
   },
   {
    "name": "Richards, Avery",
+   "slug": "richards-avery",
    "num": "25",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 2,
    "starts": 0,
    "min": 44,
@@ -1052,6 +1075,7 @@
   },
   {
    "name": "Eva-Buckner, Kennedy",
+   "slug": "eva-buckner-kennedy",
    "num": "24",
    "pos": "FWD",
    "gp": 1,
@@ -1067,6 +1091,7 @@
   },
   {
    "name": "TEAM",
+   "slug": "team",
    "num": "TM",
    "pos": null,
    "gp": 1,

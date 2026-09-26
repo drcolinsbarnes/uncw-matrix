@@ -632,6 +632,7 @@
  "roster": [
   {
    "name": "Lepley, Hayden",
+   "slug": "lepley-hayden",
    "num": "16",
    "pos": "DEF",
    "gp": 10,
@@ -647,6 +648,7 @@
   },
   {
    "name": "Moore, Regan",
+   "slug": "moore-regan",
    "num": "3",
    "pos": "DEF",
    "gp": 10,
@@ -662,6 +664,7 @@
   },
   {
    "name": "Rollins, Maggie",
+   "slug": "rollins-maggie",
    "num": "20",
    "pos": "DEF",
    "gp": 9,
@@ -677,6 +680,7 @@
   },
   {
    "name": "Bachman, Anna",
+   "slug": "bachman-anna",
    "num": "15",
    "pos": "DEF",
    "gp": 10,
@@ -692,6 +696,7 @@
   },
   {
    "name": "Bori, Olivia",
+   "slug": "bori-olivia",
    "num": "7",
    "pos": "FWD",
    "gp": 10,
@@ -707,6 +712,7 @@
   },
   {
    "name": "Gilbert, Ashley",
+   "slug": "gilbert-ashley",
    "num": "2",
    "pos": "DEF",
    "gp": 10,
@@ -722,6 +728,7 @@
   },
   {
    "name": "Karipidis, Maria",
+   "slug": "karipidis-maria",
    "num": "10",
    "pos": "MID",
    "gp": 10,
@@ -737,6 +744,7 @@
   },
   {
    "name": "Henton, Kelsie",
+   "slug": "henton-kelsie",
    "num": "4",
    "pos": "FWD",
    "gp": 10,
@@ -752,6 +760,7 @@
   },
   {
    "name": "Rapani, Marianna",
+   "slug": "rapani-marianna",
    "num": "18",
    "pos": "MID",
    "gp": 9,
@@ -767,6 +776,7 @@
   },
   {
    "name": "Nutzman, Payton",
+   "slug": "nutzman-payton",
    "num": "9",
    "pos": "MID",
    "gp": 10,
@@ -782,6 +792,7 @@
   },
   {
    "name": "Bernard, Ariel",
+   "slug": "bernard-ariel",
    "num": "1",
    "pos": "GK",
    "gp": 6,
@@ -802,6 +813,7 @@
   },
   {
    "name": "Elliott, Soleil",
+   "slug": "elliott-soleil",
    "num": "28",
    "pos": "DEF",
    "gp": 7,
@@ -817,6 +829,7 @@
   },
   {
    "name": "Parker, Avery",
+   "slug": "parker-avery",
    "num": "26",
    "pos": "GK",
    "gp": 5,
@@ -837,6 +850,7 @@
   },
   {
    "name": "Rutkowski, Emily",
+   "slug": "rutkowski-emily",
    "num": "11",
    "pos": "FWD",
    "gp": 9,
@@ -852,6 +866,7 @@
   },
   {
    "name": "Moynihan, Addie",
+   "slug": "moynihan-addie",
    "num": "13",
    "pos": "MID",
    "gp": 10,
@@ -867,6 +882,7 @@
   },
   {
    "name": "Dell, Karlie",
+   "slug": "dell-karlie",
    "num": "33",
    "pos": "FWD",
    "gp": 10,
@@ -882,6 +898,7 @@
   },
   {
    "name": "Bivins, Lily",
+   "slug": "bivins-lily",
    "num": "24",
    "pos": "MID",
    "gp": 10,
@@ -897,6 +914,7 @@
   },
   {
    "name": "Michaelson, Zibby",
+   "slug": "michaelson-zibby",
    "num": "8",
    "pos": "FWD",
    "gp": 5,
@@ -912,6 +930,7 @@
   },
   {
    "name": "Buhler, Maya",
+   "slug": "buhler-maya",
    "num": "5",
    "pos": "MID",
    "gp": 6,
@@ -927,6 +946,7 @@
   },
   {
    "name": "Michaelson, Elizabeth",
+   "slug": "michaelson-elizabeth",
    "num": "8",
    "pos": "FWD",
    "gp": 5,
@@ -942,6 +962,7 @@
   },
   {
    "name": "Bolton, Ariel",
+   "slug": "bolton-ariel",
    "num": "23",
    "pos": "MID",
    "gp": 8,
@@ -957,8 +978,9 @@
   },
   {
    "name": "Savarese, Mia",
+   "slug": "savarese-mia",
    "num": "99",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 4,
    "starts": 0,
    "min": 123,
@@ -972,6 +994,7 @@
   },
   {
    "name": "Kreul, Peyton",
+   "slug": "kreul-peyton",
    "num": "12",
    "pos": "DEF",
    "gp": 7,
@@ -987,6 +1010,7 @@
   },
   {
    "name": "Mesa, Kiki",
+   "slug": "mesa-kiki",
    "num": "25",
    "pos": "MID",
    "gp": 6,
@@ -1002,6 +1026,7 @@
   },
   {
    "name": "Reitz, Sam",
+   "slug": "reitz-sam",
    "num": "30",
    "pos": "mid",
    "gp": 5,
@@ -1017,6 +1042,7 @@
   },
   {
    "name": "DeSantis, Bella",
+   "slug": "desantis-bella",
    "num": "41",
    "pos": "FWD",
    "gp": 3,
@@ -1032,8 +1058,9 @@
   },
   {
    "name": "Pugliese, Francesca",
+   "slug": "pugliese-francesca",
    "num": "19",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 4,
    "starts": 0,
    "min": 65,
@@ -1047,6 +1074,7 @@
   },
   {
    "name": "DeSantis, Isabella",
+   "slug": "desantis-isabella",
    "num": "41",
    "pos": "fwd",
    "gp": 2,
@@ -1062,6 +1090,7 @@
   },
   {
    "name": "Ronga, Valentina",
+   "slug": "ronga-valentina",
    "num": "0",
    "pos": "GK",
    "gp": 3,
@@ -1082,6 +1111,7 @@
   },
   {
    "name": "Densmore, Peyton",
+   "slug": "densmore-peyton",
    "num": "22",
    "pos": "MID",
    "gp": 3,
@@ -1097,8 +1127,9 @@
   },
   {
    "name": "Gionta, Leah",
+   "slug": "gionta-leah",
    "num": "14",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 2,
    "starts": 0,
    "min": 11,
@@ -1112,6 +1143,7 @@
   },
   {
    "name": "TEAM",
+   "slug": "team",
    "num": "TM",
    "pos": null,
    "gp": 1,

@@ -632,6 +632,7 @@
  "roster": [
   {
    "name": "Solomon, Anna",
+   "slug": "solomon-anna",
    "num": "1",
    "pos": "GK",
    "gp": 10,
@@ -652,6 +653,7 @@
   },
   {
    "name": "Gardner, Brooke",
+   "slug": "gardner-brooke",
    "num": "15",
    "pos": "DEF",
    "gp": 10,
@@ -667,6 +669,7 @@
   },
   {
    "name": "Fletcher, Kennedy",
+   "slug": "fletcher-kennedy",
    "num": "10",
    "pos": "DEF",
    "gp": 9,
@@ -682,6 +685,7 @@
   },
   {
    "name": "Oka, Julia",
+   "slug": "oka-julia",
    "num": "6",
    "pos": "FWD",
    "gp": 10,
@@ -697,6 +701,7 @@
   },
   {
    "name": "Pickelle, Kori",
+   "slug": "pickelle-kori",
    "num": "14",
    "pos": "DEF",
    "gp": 10,
@@ -712,6 +717,7 @@
   },
   {
    "name": "Davidson, Shannon",
+   "slug": "davidson-shannon",
    "num": "11",
    "pos": "MID",
    "gp": 10,
@@ -727,6 +733,7 @@
   },
   {
    "name": "Park, Rylan",
+   "slug": "park-rylan",
    "num": "16",
    "pos": "MID",
    "gp": 10,
@@ -742,6 +749,7 @@
   },
   {
    "name": "Dever, Tatym",
+   "slug": "dever-tatym",
    "num": "20",
    "pos": "DEF",
    "gp": 10,
@@ -757,6 +765,7 @@
   },
   {
    "name": "Bellini, Sophie",
+   "slug": "bellini-sophie",
    "num": "9",
    "pos": "FWD",
    "gp": 10,
@@ -772,6 +781,7 @@
   },
   {
    "name": "Stoddard, Maddie",
+   "slug": "stoddard-maddie",
    "num": "8",
    "pos": "FWD",
    "gp": 9,
@@ -787,6 +797,7 @@
   },
   {
    "name": "Kennel, Reese",
+   "slug": "kennel-reese",
    "num": "7",
    "pos": "DEF",
    "gp": 9,
@@ -802,6 +813,7 @@
   },
   {
    "name": "Clem, Reese",
+   "slug": "clem-reese",
    "num": "4",
    "pos": "FWD",
    "gp": 10,
@@ -817,6 +829,7 @@
   },
   {
    "name": "David, Jastel",
+   "slug": "david-jastel",
    "num": "21",
    "pos": "FWD",
    "gp": 10,
@@ -832,6 +845,7 @@
   },
   {
    "name": "Peregrina, Nevaeh",
+   "slug": "peregrina-nevaeh",
    "num": "3",
    "pos": "MID",
    "gp": 10,
@@ -847,6 +861,7 @@
   },
   {
    "name": "Callaway, Katie",
+   "slug": "callaway-katie",
    "num": "23",
    "pos": "MID",
    "gp": 9,
@@ -862,6 +877,7 @@
   },
   {
    "name": "Blaylock, Callie",
+   "slug": "blaylock-callie",
    "num": "2",
    "pos": "DEF",
    "gp": 8,
@@ -877,6 +893,7 @@
   },
   {
    "name": "Affleck, Abby",
+   "slug": "affleck-abby",
    "num": "12",
    "pos": "FWD",
    "gp": 3,
@@ -892,6 +909,7 @@
   },
   {
    "name": "Martinez, Ava",
+   "slug": "martinez-ava",
    "num": "17",
    "pos": "MID",
    "gp": 7,
@@ -907,6 +925,7 @@
   },
   {
    "name": "Affleck, Abigail",
+   "slug": "affleck-abigail",
    "num": "12",
    "pos": "FWD",
    "gp": 4,
@@ -922,6 +941,7 @@
   },
   {
    "name": "Yapi, Emmanuella",
+   "slug": "yapi-emmanuella",
    "num": "26",
    "pos": "FWD",
    "gp": 5,
@@ -937,6 +957,7 @@
   },
   {
    "name": "Avery, Mia",
+   "slug": "avery-mia",
    "num": "5",
    "pos": "FWD",
    "gp": 5,
@@ -952,8 +973,9 @@
   },
   {
    "name": "Lockerby, Addison",
+   "slug": "lockerby-addison",
    "num": "28",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 2,
    "starts": 0,
    "min": 22,
@@ -967,6 +989,7 @@
   },
   {
    "name": "Dean, Bre'Elle",
+   "slug": "dean-bre-elle",
    "num": "22",
    "pos": "DEF",
    "gp": 3,
@@ -982,6 +1005,7 @@
   },
   {
    "name": "Chin, Kaella",
+   "slug": "chin-kaella",
    "num": "19",
    "pos": "DEF",
    "gp": 2,

@@ -632,6 +632,7 @@
  "roster": [
   {
    "name": "McKeon, Emmy",
+   "slug": "mckeon-emmy",
    "num": "1",
    "pos": "GK",
    "gp": 10,
@@ -652,6 +653,7 @@
   },
   {
    "name": "Kehres, Gisele",
+   "slug": "kehres-gisele",
    "num": "3",
    "pos": "DEF",
    "gp": 10,
@@ -667,6 +669,7 @@
   },
   {
    "name": "Backhaus, Lina",
+   "slug": "backhaus-lina",
    "num": "4",
    "pos": "DEF",
    "gp": 9,
@@ -682,6 +685,7 @@
   },
   {
    "name": "Barela, Paisley",
+   "slug": "barela-paisley",
    "num": "21",
    "pos": "FWD",
    "gp": 10,
@@ -697,6 +701,7 @@
   },
   {
    "name": "Dominguez, Zylee",
+   "slug": "dominguez-zylee",
    "num": "6",
    "pos": "FWD",
    "gp": 9,
@@ -712,6 +717,7 @@
   },
   {
    "name": "Rossman, Olivia",
+   "slug": "rossman-olivia",
    "num": "9",
    "pos": "FWD",
    "gp": 10,
@@ -727,6 +733,7 @@
   },
   {
    "name": "Valentine, Mikaela",
+   "slug": "valentine-mikaela",
    "num": "28",
    "pos": "DEF",
    "gp": 8,
@@ -742,6 +749,7 @@
   },
   {
    "name": "Diaz, Jasmine",
+   "slug": "diaz-jasmine",
    "num": "10",
    "pos": "MID",
    "gp": 8,
@@ -757,6 +765,7 @@
   },
   {
    "name": "Thompson, Tiana",
+   "slug": "thompson-tiana",
    "num": "2",
    "pos": "MID",
    "gp": 10,
@@ -772,6 +781,7 @@
   },
   {
    "name": "Dillow, Isabella",
+   "slug": "dillow-isabella",
    "num": "13",
    "pos": "FWD",
    "gp": 7,
@@ -787,6 +797,7 @@
   },
   {
    "name": "Stormberg, Madison",
+   "slug": "stormberg-madison",
    "num": "99",
    "pos": "fwd",
    "gp": 10,
@@ -802,6 +813,7 @@
   },
   {
    "name": "Alexis, Katya",
+   "slug": "alexis-katya",
    "num": "5",
    "pos": "DEF",
    "gp": 6,
@@ -817,6 +829,7 @@
   },
   {
    "name": "Smith, Emma",
+   "slug": "smith-emma",
    "num": "12",
    "pos": "MID",
    "gp": 10,
@@ -832,6 +845,7 @@
   },
   {
    "name": "Alamo, Isabella",
+   "slug": "alamo-isabella",
    "num": "7",
    "pos": "FWD",
    "gp": 7,
@@ -847,6 +861,7 @@
   },
   {
    "name": "Breath, Rylan",
+   "slug": "breath-rylan",
    "num": "25",
    "pos": "def",
    "gp": 10,
@@ -862,6 +877,7 @@
   },
   {
    "name": "Remy, Ella",
+   "slug": "remy-ella",
    "num": "31",
    "pos": "fwd",
    "gp": 7,
@@ -877,6 +893,7 @@
   },
   {
    "name": "Reyna, Elena",
+   "slug": "reyna-elena",
    "num": "17",
    "pos": "mid",
    "gp": 9,
@@ -892,6 +909,7 @@
   },
   {
    "name": "Sisson, Shea",
+   "slug": "sisson-shea",
    "num": "26",
    "pos": "mid",
    "gp": 10,
@@ -907,6 +925,7 @@
   },
   {
    "name": "Peyrucain, Taylor",
+   "slug": "peyrucain-taylor",
    "num": "19",
    "pos": "def",
    "gp": 5,
@@ -922,6 +941,7 @@
   },
   {
    "name": "Wersching, Cami",
+   "slug": "wersching-cami",
    "num": "8",
    "pos": "mid",
    "gp": 8,
@@ -937,6 +957,7 @@
   },
   {
    "name": "Sanchez, Iliana",
+   "slug": "sanchez-iliana",
    "num": "15",
    "pos": "fwd",
    "gp": 9,
@@ -952,6 +973,7 @@
   },
   {
    "name": "Lambert, Madi",
+   "slug": "lambert-madi",
    "num": "20",
    "pos": "MID",
    "gp": 6,
@@ -967,6 +989,7 @@
   },
   {
    "name": "Sperber, Holland",
+   "slug": "sperber-holland",
    "num": "27",
    "pos": "fwd",
    "gp": 5,
@@ -982,8 +1005,9 @@
   },
   {
    "name": "Marker, Jessica",
+   "slug": "marker-jessica",
    "num": "16",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 4,
    "starts": 1,
    "min": 45,
@@ -997,8 +1021,9 @@
   },
   {
    "name": "Read, Grace",
+   "slug": "read-grace",
    "num": "14",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 4,
    "starts": 1,
    "min": 41,
@@ -1012,8 +1037,9 @@
   },
   {
    "name": "Staton, Patty",
+   "slug": "staton-patty",
    "num": "0",
-   "pos": "gk",
+   "pos": "GK",
    "gp": 2,
    "starts": 0,
    "min": 33,
@@ -1032,6 +1058,7 @@
   },
   {
    "name": "Desjardins, Karianne",
+   "slug": "desjardins-karianne",
    "num": "29",
    "pos": "fwd",
    "gp": 3,
@@ -1047,6 +1074,7 @@
   },
   {
    "name": "Amidei, Gianna",
+   "slug": "amidei-gianna",
    "num": "24",
    "pos": "DEF",
    "gp": 3,

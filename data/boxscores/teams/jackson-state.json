@@ -512,7 +512,8 @@
  "roster": [
   {
    "name": "Farmer, Kianah",
-   "num": "00",
+   "slug": "farmer-kianah",
+   "num": "3",
    "pos": "GK",
    "gp": 7,
    "starts": 7,
@@ -532,6 +533,7 @@
   },
   {
    "name": "Hawthorn-Harper, Ryanne",
+   "slug": "hawthorn-harper-ryanne",
    "num": "7",
    "pos": "MID",
    "gp": 7,
@@ -547,6 +549,7 @@
   },
   {
    "name": "Singleton, Amayah",
+   "slug": "singleton-amayah",
    "num": "21",
    "pos": "DEF",
    "gp": 7,
@@ -562,6 +565,7 @@
   },
   {
    "name": "Wilson, Asia",
+   "slug": "wilson-asia",
    "num": "4",
    "pos": "DEF",
    "gp": 7,
@@ -577,6 +581,7 @@
   },
   {
    "name": "Sturkey, Makayla",
+   "slug": "sturkey-makayla",
    "num": "28",
    "pos": "DEF",
    "gp": 7,
@@ -592,6 +597,7 @@
   },
   {
    "name": "Gomez, Kyla",
+   "slug": "gomez-kyla",
    "num": "15",
    "pos": null,
    "gp": 6,
@@ -607,6 +613,7 @@
   },
   {
    "name": "Portis, Sarah",
+   "slug": "portis-sarah",
    "num": "2",
    "pos": "DEF",
    "gp": 5,
@@ -622,6 +629,7 @@
   },
   {
    "name": "Nuestro, Malayah",
+   "slug": "nuestro-malayah",
    "num": "13",
    "pos": "MID",
    "gp": 6,
@@ -637,6 +645,7 @@
   },
   {
    "name": "Tablado, Dezire Kaila",
+   "slug": "tablado-dezire-kaila",
    "num": "23",
    "pos": null,
    "gp": 5,
@@ -652,6 +661,7 @@
   },
   {
    "name": "Sheffield, Elon",
+   "slug": "sheffield-elon",
    "num": "14",
    "pos": "FWD",
    "gp": 6,
@@ -667,6 +677,7 @@
   },
   {
    "name": "Osborn, Taylor",
+   "slug": "osborn-taylor",
    "num": "1",
    "pos": "GK",
    "gp": 3,
@@ -687,6 +698,7 @@
   },
   {
    "name": "Rai, Heena",
+   "slug": "rai-heena",
    "num": "29",
    "pos": null,
    "gp": 7,
@@ -702,8 +714,9 @@
   },
   {
    "name": "Portillo, Nahomy",
+   "slug": "portillo-nahomy",
    "num": "9",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 6,
    "starts": 3,
    "min": 257,
@@ -717,6 +730,7 @@
   },
   {
    "name": "Ortega, Mia",
+   "slug": "ortega-mia",
    "num": "11",
    "pos": "fwd",
    "gp": 7,
@@ -732,8 +746,9 @@
   },
   {
    "name": "Antonio-Lopez, Karime",
+   "slug": "antonio-lopez-karime",
    "num": "10",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 6,
    "starts": 2,
    "min": 200,
@@ -747,6 +762,7 @@
   },
   {
    "name": "Morris, Maeve",
+   "slug": "morris-maeve",
    "num": "22",
    "pos": "fwd",
    "gp": 6,
@@ -762,6 +778,7 @@
   },
   {
    "name": "Olaco, Josetiarainnah",
+   "slug": "olaco-josetiarainnah",
    "num": "6",
    "pos": null,
    "gp": 7,
@@ -777,6 +794,7 @@
   },
   {
    "name": "Wilson, India",
+   "slug": "wilson-india",
    "num": "27",
    "pos": "fwd",
    "gp": 5,
@@ -792,6 +810,7 @@
   },
   {
    "name": "Tablado, Kaila",
+   "slug": "tablado-kaila",
    "num": "23",
    "pos": null,
    "gp": 2,
@@ -807,6 +826,7 @@
   },
   {
    "name": "Kammertons, Nina",
+   "slug": "kammertons-nina",
    "num": "17",
    "pos": "fwd",
    "gp": 5,
@@ -822,6 +842,7 @@
   },
   {
    "name": "Kmiec, Cora",
+   "slug": "kmiec-cora",
    "num": "25",
    "pos": "def",
    "gp": 5,
@@ -837,6 +858,7 @@
   },
   {
    "name": "Nia Leslie",
+   "slug": "nia-leslie",
    "num": "17",
    "pos": "D",
    "gp": 1,
@@ -852,6 +874,7 @@
   },
   {
    "name": "Aliyah Anderson",
+   "slug": "aliyah-anderson",
    "num": "24",
    "pos": "F",
    "gp": 1,
@@ -867,6 +890,7 @@
   },
   {
    "name": "Bella Medrano",
+   "slug": "bella-medrano",
    "num": "00",
    "pos": "GK",
    "gp": 1,
@@ -887,6 +911,7 @@
   },
   {
    "name": "Gracie Kelly",
+   "slug": "gracie-kelly",
    "num": "27",
    "pos": "D",
    "gp": 1,
@@ -902,6 +927,7 @@
   },
   {
    "name": "Katy Gregson",
+   "slug": "katy-gregson",
    "num": "6",
    "pos": "D",
    "gp": 1,
@@ -917,6 +943,7 @@
   },
   {
    "name": "Mikayla Abrenica",
+   "slug": "mikayla-abrenica",
    "num": "3",
    "pos": "M",
    "gp": 1,
@@ -932,6 +959,7 @@
   },
   {
    "name": "Shelby Hollywood",
+   "slug": "shelby-hollywood",
    "num": "10",
    "pos": "F",
    "gp": 1,
@@ -947,6 +975,7 @@
   },
   {
    "name": "Mirza, Akeelah",
+   "slug": "mirza-akeelah",
    "num": "12",
    "pos": "fwd",
    "gp": 6,
@@ -962,6 +991,7 @@
   },
   {
    "name": "Jenna Verplancke",
+   "slug": "jenna-verplancke",
    "num": "5",
    "pos": "M",
    "gp": 1,
@@ -977,6 +1007,7 @@
   },
   {
    "name": "Charlise Smith",
+   "slug": "charlise-smith",
    "num": "15",
    "pos": "D",
    "gp": 1,
@@ -992,6 +1023,7 @@
   },
   {
    "name": "Baylie Simon",
+   "slug": "baylie-simon",
    "num": "35",
    "pos": "D",
    "gp": 1,
@@ -1007,6 +1039,7 @@
   },
   {
    "name": "Addison Briscoe",
+   "slug": "addison-briscoe",
    "num": "2",
    "pos": "F",
    "gp": 1,
@@ -1022,6 +1055,7 @@
   },
   {
    "name": "Calvo, Naima",
+   "slug": "calvo-naima",
    "num": "24",
    "pos": "def",
    "gp": 4,
@@ -1037,6 +1071,7 @@
   },
   {
    "name": "Audrey Coppinger",
+   "slug": "audrey-coppinger",
    "num": "7",
    "pos": "d",
    "gp": 1,
@@ -1052,6 +1087,7 @@
   },
   {
    "name": "McKenzie Glass",
+   "slug": "mckenzie-glass",
    "num": "4",
    "pos": "f",
    "gp": 1,
@@ -1067,6 +1103,7 @@
   },
   {
    "name": "Amelia Miller",
+   "slug": "amelia-miller",
    "num": "14",
    "pos": "m",
    "gp": 1,
@@ -1082,6 +1119,7 @@
   },
   {
    "name": "Anderson, Laila",
+   "slug": "anderson-laila",
    "num": "18",
    "pos": "def",
    "gp": 2,
@@ -1097,6 +1135,7 @@
   },
   {
    "name": "Sophia Saludares",
+   "slug": "sophia-saludares",
    "num": "9",
    "pos": "m",
    "gp": 1,
@@ -1112,6 +1151,7 @@
   },
   {
    "name": "Thompson, Samiah",
+   "slug": "thompson-samiah",
    "num": "5",
    "pos": "def",
    "gp": 4,
@@ -1127,6 +1167,7 @@
   },
   {
    "name": "Raelin Miller",
+   "slug": "raelin-miller",
    "num": "13",
    "pos": "f",
    "gp": 1,
@@ -1142,6 +1183,7 @@
   },
   {
    "name": "Raegan Hollis",
+   "slug": "raegan-hollis",
    "num": "12",
    "pos": "f",
    "gp": 1,
@@ -1157,6 +1199,7 @@
   },
   {
    "name": "Emma Taylor",
+   "slug": "emma-taylor",
    "num": "16",
    "pos": "m",
    "gp": 1,
@@ -1172,6 +1215,7 @@
   },
   {
    "name": "Chloe Nugent",
+   "slug": "chloe-nugent",
    "num": "11",
    "pos": "d",
    "gp": 1,
@@ -1187,6 +1231,7 @@
   },
   {
    "name": "Burnett, Mariah",
+   "slug": "burnett-mariah",
    "num": "26",
    "pos": "def",
    "gp": 1,
@@ -1202,6 +1247,7 @@
   },
   {
    "name": "Stella Sa",
+   "slug": "stella-sa",
    "num": "25",
    "pos": "md",
    "gp": 1,
@@ -1217,6 +1263,7 @@
   },
   {
    "name": "Kammertoens, Nina",
+   "slug": "kammertoens-nina",
    "num": "17",
    "pos": "FWD",
    "gp": 1,
@@ -1232,6 +1279,7 @@
   },
   {
    "name": "Reyes Fazio, Nataline",
+   "slug": "reyes-fazio-nataline",
    "num": "16",
    "pos": "MID",
    "gp": 1,
@@ -1247,6 +1295,7 @@
   },
   {
    "name": "DiPaola, Alana",
+   "slug": "dipaola-alana",
    "num": "19",
    "pos": "mid",
    "gp": 1,
@@ -1262,6 +1311,7 @@
   },
   {
    "name": "Hunter, Myla",
+   "slug": "hunter-myla",
    "num": "8",
    "pos": "mid",
    "gp": 1,

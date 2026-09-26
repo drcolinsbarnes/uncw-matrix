@@ -512,6 +512,7 @@
  "roster": [
   {
    "name": "Restrepo, Valery",
+   "slug": "restrepo-valery",
    "num": "1",
    "pos": "GK",
    "gp": 8,
@@ -532,6 +533,7 @@
   },
   {
    "name": "Oliver, Madeline",
+   "slug": "oliver-madeline",
    "num": "18",
    "pos": "DEF",
    "gp": 7,
@@ -547,6 +549,7 @@
   },
   {
    "name": "Gellert, Mona",
+   "slug": "gellert-mona",
    "num": "19",
    "pos": "DEF",
    "gp": 8,
@@ -562,6 +565,7 @@
   },
   {
    "name": "Tanida, Yuzu",
+   "slug": "tanida-yuzu",
    "num": "20",
    "pos": "MID",
    "gp": 8,
@@ -577,6 +581,7 @@
   },
   {
    "name": "Barreto, Mariana",
+   "slug": "barreto-mariana",
    "num": "21",
    "pos": "FWD",
    "gp": 8,
@@ -592,6 +597,7 @@
   },
   {
    "name": "Clarke, Kiara",
+   "slug": "clarke-kiara",
    "num": "3",
    "pos": "DEF",
    "gp": 7,
@@ -607,6 +613,7 @@
   },
   {
    "name": "Brewer, Roxy",
+   "slug": "brewer-roxy",
    "num": "17",
    "pos": "MID",
    "gp": 6,
@@ -622,6 +629,7 @@
   },
   {
    "name": "Maxwell, Maya",
+   "slug": "maxwell-maya",
    "num": "15",
    "pos": "MID",
    "gp": 8,
@@ -637,6 +645,7 @@
   },
   {
    "name": "Hart, Kelsi",
+   "slug": "hart-kelsi",
    "num": "14",
    "pos": "MID",
    "gp": 7,
@@ -652,6 +661,7 @@
   },
   {
    "name": "Kitzinger, Adria",
+   "slug": "kitzinger-adria",
    "num": "22",
    "pos": "FWD",
    "gp": 8,
@@ -667,6 +677,7 @@
   },
   {
    "name": "Kappmeier, Finja",
+   "slug": "kappmeier-finja",
    "num": "16",
    "pos": "MID",
    "gp": 8,
@@ -682,6 +693,7 @@
   },
   {
    "name": "Burton, Brooke",
+   "slug": "burton-brooke",
    "num": "8",
    "pos": "MID",
    "gp": 4,
@@ -697,6 +709,7 @@
   },
   {
    "name": "Miyazaki, Yuna",
+   "slug": "miyazaki-yuna",
    "num": "12",
    "pos": "DEF",
    "gp": 5,
@@ -712,6 +725,7 @@
   },
   {
    "name": "Friborg, Olivia",
+   "slug": "friborg-olivia",
    "num": "5",
    "pos": "DEF",
    "gp": 6,
@@ -727,6 +741,7 @@
   },
   {
    "name": "Ballinas, Natalia",
+   "slug": "ballinas-natalia",
    "num": "6",
    "pos": "def",
    "gp": 5,
@@ -742,6 +757,7 @@
   },
   {
    "name": "Lucia Dogliani, Maria",
+   "slug": "lucia-dogliani-maria",
    "num": "10",
    "pos": "mid",
    "gp": 5,
@@ -757,6 +773,7 @@
   },
   {
    "name": "Dogliani, Maria Lucia",
+   "slug": "dogliani-maria-lucia",
    "num": "10",
    "pos": "MID",
    "gp": 3,
@@ -772,8 +789,9 @@
   },
   {
    "name": "Garcia, Barbara",
+   "slug": "garcia-barbara",
    "num": "11",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 6,
    "starts": 1,
    "min": 154,
@@ -787,6 +805,7 @@
   },
   {
    "name": "Zorrilla, Valentina",
+   "slug": "zorrilla-valentina",
    "num": "24",
    "pos": "mid",
    "gp": 4,
@@ -802,6 +821,7 @@
   },
   {
    "name": "Gonzague, Zaniya",
+   "slug": "gonzague-zaniya",
    "num": "2",
    "pos": "def",
    "gp": 4,
@@ -817,6 +837,7 @@
   },
   {
    "name": "Decombe, Yasmine",
+   "slug": "decombe-yasmine",
    "num": "4",
    "pos": "def",
    "gp": 3,
@@ -832,6 +853,7 @@
   },
   {
    "name": "Omeze, Chiamaka",
+   "slug": "omeze-chiamaka",
    "num": "9",
    "pos": "fwd",
    "gp": 4,
@@ -847,6 +869,7 @@
   },
   {
    "name": "Frejd Bark, Tuva",
+   "slug": "frejd-bark-tuva",
    "num": "23",
    "pos": "fwd",
    "gp": 3,
@@ -862,6 +885,7 @@
   },
   {
    "name": "Bacher, Anja",
+   "slug": "bacher-anja",
    "num": "7",
    "pos": "mid",
    "gp": 2,
@@ -877,6 +901,7 @@
   },
   {
    "name": "Mills, Mya",
+   "slug": "mills-mya",
    "num": "13",
    "pos": "mid",
    "gp": 1,
@@ -892,6 +917,7 @@
   },
   {
    "name": "Molina, Leyla",
+   "slug": "molina-leyla",
    "num": "25",
    "pos": "mid",
    "gp": 1,
@@ -907,8 +933,9 @@
   },
   {
    "name": "Sigurdardottir, Rut",
+   "slug": "sigurdardottir-rut",
    "num": "26",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 2,
    "starts": 0,
    "min": 15,
@@ -922,6 +949,7 @@
   },
   {
    "name": "TM TEAM",
+   "slug": "tm-team",
    "num": "TM",
    "pos": null,
    "gp": 1,

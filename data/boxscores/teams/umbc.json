@@ -692,6 +692,7 @@
  "roster": [
   {
    "name": "Codd, Amara",
+   "slug": "codd-amara",
    "num": "0",
    "pos": "GK",
    "gp": 11,
@@ -712,6 +713,7 @@
   },
   {
    "name": "Nardone, Olivia",
+   "slug": "nardone-olivia",
    "num": "26",
    "pos": "DEF",
    "gp": 11,
@@ -727,6 +729,7 @@
   },
   {
    "name": "Ahmed, Hailey",
+   "slug": "ahmed-hailey",
    "num": "3",
    "pos": "DEF",
    "gp": 11,
@@ -742,6 +745,7 @@
   },
   {
    "name": "Brossman, Zoe",
+   "slug": "brossman-zoe",
    "num": "8",
    "pos": "MID",
    "gp": 11,
@@ -757,6 +761,7 @@
   },
   {
    "name": "Clagett, Brooke",
+   "slug": "clagett-brooke",
    "num": "17",
    "pos": "FWD",
    "gp": 11,
@@ -772,6 +777,7 @@
   },
   {
    "name": "Hiney, Emily",
+   "slug": "hiney-emily",
    "num": "9",
    "pos": "MID",
    "gp": 11,
@@ -787,6 +793,7 @@
   },
   {
    "name": "Casper, Reagan",
+   "slug": "casper-reagan",
    "num": "28",
    "pos": "DEF",
    "gp": 11,
@@ -802,6 +809,7 @@
   },
   {
    "name": "Stainton, Rian",
+   "slug": "stainton-rian",
    "num": "5",
    "pos": "MID",
    "gp": 11,
@@ -817,6 +825,7 @@
   },
   {
    "name": "Mink, Cami",
+   "slug": "mink-cami",
    "num": "27",
    "pos": "DEF",
    "gp": 7,
@@ -832,6 +841,7 @@
   },
   {
    "name": "Proctor, Delainey",
+   "slug": "proctor-delainey",
    "num": "6",
    "pos": "mid",
    "gp": 11,
@@ -847,6 +857,7 @@
   },
   {
    "name": "Schenning, Payton",
+   "slug": "schenning-payton",
    "num": "4",
    "pos": "fwd",
    "gp": 11,
@@ -862,6 +873,7 @@
   },
   {
    "name": "Schupansky, Emma",
+   "slug": "schupansky-emma",
    "num": "18",
    "pos": "mid",
    "gp": 11,
@@ -877,6 +889,7 @@
   },
   {
    "name": "Price, Cece",
+   "slug": "price-cece",
    "num": "34",
    "pos": "FWD",
    "gp": 10,
@@ -892,6 +905,7 @@
   },
   {
    "name": "Rubin, Regan",
+   "slug": "rubin-regan",
    "num": "11",
    "pos": "MID",
    "gp": 11,
@@ -907,6 +921,7 @@
   },
   {
    "name": "Mink, Cameron",
+   "slug": "mink-cameron",
    "num": "27",
    "pos": "DEF",
    "gp": 4,
@@ -922,8 +937,9 @@
   },
   {
    "name": "Larson, Gabby",
+   "slug": "larson-gabby",
    "num": "2",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 6,
    "starts": 2,
    "min": 321,
@@ -937,6 +953,7 @@
   },
   {
    "name": "Kolega, Kristiana",
+   "slug": "kolega-kristiana",
    "num": "10",
    "pos": "mid",
    "gp": 11,
@@ -952,6 +969,7 @@
   },
   {
    "name": "Sarver, Bryce",
+   "slug": "sarver-bryce",
    "num": "20",
    "pos": "DEF",
    "gp": 7,
@@ -967,6 +985,7 @@
   },
   {
    "name": "Dunbar, Grace",
+   "slug": "dunbar-grace",
    "num": "13",
    "pos": "fwd",
    "gp": 11,
@@ -982,6 +1001,7 @@
   },
   {
    "name": "Hudson, Nia",
+   "slug": "hudson-nia",
    "num": "7",
    "pos": "fwd",
    "gp": 10,
@@ -997,6 +1017,7 @@
   },
   {
    "name": "Foster, Payton",
+   "slug": "foster-payton",
    "num": "12",
    "pos": "fwd",
    "gp": 11,
@@ -1012,6 +1033,7 @@
   },
   {
    "name": "Clagett, Lexi",
+   "slug": "clagett-lexi",
    "num": "31",
    "pos": "mid",
    "gp": 8,
@@ -1027,6 +1049,7 @@
   },
   {
    "name": "James, Jorda",
+   "slug": "james-jorda",
    "num": "14",
    "pos": "fwd",
    "gp": 6,
@@ -1042,6 +1065,7 @@
   },
   {
    "name": "Besser, Marley",
+   "slug": "besser-marley",
    "num": "15",
    "pos": "def",
    "gp": 5,
@@ -1057,6 +1081,7 @@
   },
   {
    "name": "Lamb, Justine",
+   "slug": "lamb-justine",
    "num": "16",
    "pos": "def",
    "gp": 4,
@@ -1072,6 +1097,7 @@
   },
   {
    "name": "Fredericks, Riley",
+   "slug": "fredericks-riley",
    "num": "19",
    "pos": "mid",
    "gp": 4,
@@ -1087,8 +1113,9 @@
   },
   {
    "name": "Whittle, Avery",
+   "slug": "whittle-avery",
    "num": "33",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 2,
    "starts": 0,
    "min": 16,
@@ -1102,6 +1129,7 @@
   },
   {
    "name": "Jawhar, Leen",
+   "slug": "jawhar-leen",
    "num": "36",
    "pos": "fwd",
    "gp": 2,

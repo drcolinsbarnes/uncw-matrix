@@ -572,6 +572,7 @@
  "roster": [
   {
    "name": "Prell, Ansleigh",
+   "slug": "prell-ansleigh",
    "num": "22",
    "pos": "DEF",
    "gp": 9,
@@ -587,6 +588,7 @@
   },
   {
    "name": "Neil, Cerys",
+   "slug": "neil-cerys",
    "num": "24",
    "pos": "DEF",
    "gp": 9,
@@ -602,6 +604,7 @@
   },
   {
    "name": "Budion, McKayla",
+   "slug": "budion-mckayla",
    "num": "25",
    "pos": "FWD",
    "gp": 9,
@@ -617,6 +620,7 @@
   },
   {
    "name": "Mello, Addison",
+   "slug": "mello-addison",
    "num": "26",
    "pos": "MID",
    "gp": 9,
@@ -632,6 +636,7 @@
   },
   {
    "name": "Hunter, Juliana",
+   "slug": "hunter-juliana",
    "num": "23",
    "pos": "MID",
    "gp": 9,
@@ -647,6 +652,7 @@
   },
   {
    "name": "Ford, Tamia",
+   "slug": "ford-tamia",
    "num": "32",
    "pos": "FWD",
    "gp": 9,
@@ -662,6 +668,7 @@
   },
   {
    "name": "Protiva, Emily",
+   "slug": "protiva-emily",
    "num": "1",
    "pos": "GK",
    "gp": 7,
@@ -682,6 +689,7 @@
   },
   {
    "name": "Smith, Franny",
+   "slug": "smith-franny",
    "num": "8",
    "pos": "FWD",
    "gp": 9,
@@ -697,6 +705,7 @@
   },
   {
    "name": "Miller, Emma",
+   "slug": "miller-emma",
    "num": "11",
    "pos": "MID",
    "gp": 9,
@@ -712,6 +721,7 @@
   },
   {
    "name": "Acevedo, Grace",
+   "slug": "acevedo-grace",
    "num": "33",
    "pos": "FWD",
    "gp": 7,
@@ -727,6 +737,7 @@
   },
   {
    "name": "Hwang, Shion",
+   "slug": "hwang-shion",
    "num": "12",
    "pos": "MID",
    "gp": 9,
@@ -742,8 +753,9 @@
   },
   {
    "name": "Rainge, Averee",
+   "slug": "rainge-averee",
    "num": "30",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 8,
    "starts": 2,
    "min": 323,
@@ -757,6 +769,7 @@
   },
   {
    "name": "Miller, Avery",
+   "slug": "miller-avery",
    "num": "21",
    "pos": "MID",
    "gp": 7,
@@ -772,6 +785,7 @@
   },
   {
    "name": "Kreusling, Ava",
+   "slug": "kreusling-ava",
    "num": "99",
    "pos": "GK",
    "gp": 4,
@@ -792,6 +806,7 @@
   },
   {
    "name": "Cheatham, Madeline",
+   "slug": "cheatham-madeline",
    "num": "7",
    "pos": "mid",
    "gp": 9,
@@ -807,6 +822,7 @@
   },
   {
    "name": "Coleman, Erin",
+   "slug": "coleman-erin",
    "num": "16",
    "pos": "DEF",
    "gp": 5,
@@ -822,6 +838,7 @@
   },
   {
    "name": "Hester, Aubrey",
+   "slug": "hester-aubrey",
    "num": "20",
    "pos": "def",
    "gp": 5,
@@ -837,6 +854,7 @@
   },
   {
    "name": "Potter, Olivia",
+   "slug": "potter-olivia",
    "num": "31",
    "pos": "MID",
    "gp": 4,
@@ -852,6 +870,7 @@
   },
   {
    "name": "Elizarraraz, Ava",
+   "slug": "elizarraraz-ava",
    "num": "9",
    "pos": "fwd",
    "gp": 8,
@@ -867,6 +886,7 @@
   },
   {
    "name": "Katz, Mika",
+   "slug": "katz-mika",
    "num": "4",
    "pos": "def",
    "gp": 6,
@@ -882,6 +902,7 @@
   },
   {
    "name": "Silva, Charlie",
+   "slug": "silva-charlie",
    "num": "10",
    "pos": "fwd",
    "gp": 4,
@@ -897,8 +918,9 @@
   },
   {
    "name": "Griffin, OMaira",
+   "slug": "griffin-omaira",
    "num": "28",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 4,
    "starts": 2,
    "min": 144,
@@ -912,6 +934,7 @@
   },
   {
    "name": "Stout, Maya",
+   "slug": "stout-maya",
    "num": "2",
    "pos": "FWD",
    "gp": 5,
@@ -927,8 +950,9 @@
   },
   {
    "name": "Griffin, O'Maira",
+   "slug": "griffin-o-maira",
    "num": "28",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 2,
    "starts": 1,
    "min": 82,
@@ -942,6 +966,7 @@
   },
   {
    "name": "Jackson, Rachel",
+   "slug": "jackson-rachel",
    "num": "19",
    "pos": "fwd",
    "gp": 4,
@@ -957,6 +982,7 @@
   },
   {
    "name": "Griggs, Ellarose",
+   "slug": "griggs-ellarose",
    "num": "5",
    "pos": "fwd",
    "gp": 3,
@@ -972,6 +998,7 @@
   },
   {
    "name": "Gallo, Madison",
+   "slug": "gallo-madison",
    "num": "13",
    "pos": "fwd",
    "gp": 2,
@@ -987,6 +1014,7 @@
   },
   {
    "name": "Simon, Kennedy",
+   "slug": "simon-kennedy",
    "num": "14",
    "pos": "DEF",
    "gp": 1,

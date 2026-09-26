@@ -452,6 +452,7 @@
  "roster": [
   {
    "name": "Estrada, Argentina",
+   "slug": "estrada-argentina",
    "num": "3",
    "pos": "DEF",
    "gp": 7,
@@ -467,6 +468,7 @@
   },
   {
    "name": "Gray, Georgia",
+   "slug": "gray-georgia",
    "num": "6",
    "pos": "DEF",
    "gp": 7,
@@ -482,6 +484,7 @@
   },
   {
    "name": "McGruder, Logan",
+   "slug": "mcgruder-logan",
    "num": "1",
    "pos": "GK",
    "gp": 7,
@@ -502,6 +505,7 @@
   },
   {
    "name": "Entremont, Lauren",
+   "slug": "entremont-lauren",
    "num": "8",
    "pos": "DEF",
    "gp": 7,
@@ -517,6 +521,7 @@
   },
   {
    "name": "Jefcoat, Ella",
+   "slug": "jefcoat-ella",
    "num": "13",
    "pos": "DEF",
    "gp": 7,
@@ -532,6 +537,7 @@
   },
   {
    "name": "Taylor, Lorilee",
+   "slug": "taylor-lorilee",
    "num": "14",
    "pos": "FWD",
    "gp": 7,
@@ -547,6 +553,7 @@
   },
   {
    "name": "Bynes, Ava",
+   "slug": "bynes-ava",
    "num": "29",
    "pos": "FWD",
    "gp": 7,
@@ -562,6 +569,7 @@
   },
   {
    "name": "Wartes, Vail",
+   "slug": "wartes-vail",
    "num": "10",
    "pos": "MID",
    "gp": 7,
@@ -577,6 +585,7 @@
   },
   {
    "name": "Stringfellow, Ashton",
+   "slug": "stringfellow-ashton",
    "num": "17",
    "pos": "DEF",
    "gp": 7,
@@ -592,6 +601,7 @@
   },
   {
    "name": "Smith, Ryan",
+   "slug": "smith-ryan",
    "num": "15",
    "pos": "MID",
    "gp": 7,
@@ -607,6 +617,7 @@
   },
   {
    "name": "Kikuchi, Maiko",
+   "slug": "kikuchi-maiko",
    "num": "7",
    "pos": "MID",
    "gp": 7,
@@ -622,6 +633,7 @@
   },
   {
    "name": "Werema, Zara",
+   "slug": "werema-zara",
    "num": "9",
    "pos": "FWD",
    "gp": 7,
@@ -637,6 +649,7 @@
   },
   {
    "name": "Tribolet, Olivia",
+   "slug": "tribolet-olivia",
    "num": "12",
    "pos": "FWD",
    "gp": 6,
@@ -652,6 +665,7 @@
   },
   {
    "name": "Quick, Shaelynn",
+   "slug": "quick-shaelynn",
    "num": "16",
    "pos": "DEF",
    "gp": 5,
@@ -667,6 +681,7 @@
   },
   {
    "name": "Edwards, Ameera",
+   "slug": "edwards-ameera",
    "num": "21",
    "pos": "FWD",
    "gp": 7,
@@ -682,6 +697,7 @@
   },
   {
    "name": "Navarro, Alessia",
+   "slug": "navarro-alessia",
    "num": "11",
    "pos": "MID",
    "gp": 7,
@@ -697,6 +713,7 @@
   },
   {
    "name": "Aldrette, Avery",
+   "slug": "aldrette-avery",
    "num": "30",
    "pos": "MID",
    "gp": 6,
@@ -712,6 +729,7 @@
   },
   {
    "name": "Rodriguez, Leslie",
+   "slug": "rodriguez-leslie",
    "num": "20",
    "pos": "MID",
    "gp": 5,
@@ -727,8 +745,9 @@
   },
   {
    "name": "D\u00e4hne, Jenni",
+   "slug": "d-hne-jenni",
    "num": "00",
-   "pos": "gk",
+   "pos": "GK",
    "gp": 2,
    "starts": 0,
    "min": 61,
@@ -747,6 +766,7 @@
   },
   {
    "name": "Loeman, Oliwia",
+   "slug": "loeman-oliwia",
    "num": "28",
    "pos": "FWD",
    "gp": 3,
@@ -762,6 +782,7 @@
   },
   {
    "name": "Castro, Jimena",
+   "slug": "castro-jimena",
    "num": "18",
    "pos": "mid",
    "gp": 1,
@@ -777,8 +798,9 @@
   },
   {
    "name": "Sanchez-Millan, Hellen",
+   "slug": "sanchez-millan-hellen",
    "num": "26",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 2,
    "starts": 0,
    "min": 28,
@@ -792,6 +814,7 @@
   },
   {
    "name": "Johnson, Laylah",
+   "slug": "johnson-laylah",
    "num": "25",
    "pos": "fwd",
    "gp": 1,
@@ -807,6 +830,7 @@
   },
   {
    "name": "Martinkovic, Hailey",
+   "slug": "martinkovic-hailey",
    "num": "24",
    "pos": "DEF",
    "gp": 1,
@@ -822,6 +846,7 @@
   },
   {
    "name": "Flores Fuculo, Eduarda",
+   "slug": "flores-fuculo-eduarda",
    "num": "4",
    "pos": "def",
    "gp": 1,
@@ -837,6 +862,7 @@
   },
   {
    "name": "Siders, Addie",
+   "slug": "siders-addie",
    "num": "5",
    "pos": "def",
    "gp": 1,
@@ -852,6 +878,7 @@
   },
   {
    "name": "TEAM",
+   "slug": "team",
    "num": "TM",
    "pos": null,
    "gp": 1,

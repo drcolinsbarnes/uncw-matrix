@@ -752,6 +752,7 @@
  "roster": [
   {
    "name": "Barrow, Ali",
+   "slug": "barrow-ali",
    "num": "6",
    "pos": "DEF",
    "gp": 11,
@@ -767,6 +768,7 @@
   },
   {
    "name": "Toms, Lauren",
+   "slug": "toms-lauren",
    "num": "3",
    "pos": "DEF",
    "gp": 11,
@@ -782,6 +784,7 @@
   },
   {
    "name": "Bonner, Helen",
+   "slug": "bonner-helen",
    "num": "21",
    "pos": "DEF",
    "gp": 11,
@@ -797,6 +800,7 @@
   },
   {
    "name": "Stramrood, Natasha",
+   "slug": "stramrood-natasha",
    "num": "0",
    "pos": "GK",
    "gp": 10,
@@ -817,6 +821,7 @@
   },
   {
    "name": "Black, Jessica",
+   "slug": "black-jessica",
    "num": "14",
    "pos": "MID",
    "gp": 11,
@@ -832,6 +837,7 @@
   },
   {
    "name": "Swan, Ande",
+   "slug": "swan-ande",
    "num": "13",
    "pos": "MID",
    "gp": 11,
@@ -847,6 +853,7 @@
   },
   {
    "name": "Cosenza, Chiara",
+   "slug": "cosenza-chiara",
    "num": "20",
    "pos": "FWD",
    "gp": 11,
@@ -862,6 +869,7 @@
   },
   {
    "name": "Adlam, Kayana",
+   "slug": "adlam-kayana",
    "num": "7",
    "pos": "FWD",
    "gp": 11,
@@ -877,6 +885,7 @@
   },
   {
    "name": "Jones, Stella",
+   "slug": "jones-stella",
    "num": "5",
    "pos": "MID",
    "gp": 11,
@@ -892,6 +901,7 @@
   },
   {
    "name": "Emerson, Lizzie",
+   "slug": "emerson-lizzie",
    "num": "24",
    "pos": "MID",
    "gp": 12,
@@ -907,6 +917,7 @@
   },
   {
    "name": "Mulholland, Hannah",
+   "slug": "mulholland-hannah",
    "num": "9",
    "pos": "DEF",
    "gp": 12,
@@ -922,6 +933,7 @@
   },
   {
    "name": "Ryan, Sophia",
+   "slug": "ryan-sophia",
    "num": "10",
    "pos": "MID",
    "gp": 12,
@@ -937,6 +949,7 @@
   },
   {
    "name": "Sidorsky, Emmalea",
+   "slug": "sidorsky-emmalea",
    "num": "4",
    "pos": "DEF",
    "gp": 11,
@@ -952,6 +965,7 @@
   },
   {
    "name": "Graziano, Faith",
+   "slug": "graziano-faith",
    "num": "15",
    "pos": "mid",
    "gp": 12,
@@ -967,6 +981,7 @@
   },
   {
    "name": "Katsari-Hoefer, Katia",
+   "slug": "katsari-hoefer-katia",
    "num": "11",
    "pos": "mid",
    "gp": 12,
@@ -982,6 +997,7 @@
   },
   {
    "name": "Gonzales, Sona",
+   "slug": "gonzales-sona",
    "num": "2",
    "pos": "fwd",
    "gp": 11,
@@ -997,6 +1013,7 @@
   },
   {
    "name": "Pritchard, Margaret",
+   "slug": "pritchard-margaret",
    "num": "12",
    "pos": "mid",
    "gp": 6,
@@ -1012,6 +1029,7 @@
   },
   {
    "name": "Pritchard, Margo",
+   "slug": "pritchard-margo",
    "num": "12",
    "pos": "MID",
    "gp": 6,
@@ -1027,6 +1045,7 @@
   },
   {
    "name": "Grundy, Sofia",
+   "slug": "grundy-sofia",
    "num": "27",
    "pos": "def",
    "gp": 8,
@@ -1042,8 +1061,9 @@
   },
   {
    "name": "Harding, Malia",
+   "slug": "harding-malia",
    "num": "17",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 4,
    "starts": 1,
    "min": 156,
@@ -1057,6 +1077,7 @@
   },
   {
    "name": "Best, Shea",
+   "slug": "best-shea",
    "num": "1",
    "pos": "GK",
    "gp": 3,
@@ -1077,6 +1098,7 @@
   },
   {
    "name": "Gaines, Lucy",
+   "slug": "gaines-lucy",
    "num": "25",
    "pos": "def",
    "gp": 7,
@@ -1092,6 +1114,7 @@
   },
   {
    "name": "Williams, ClaraJane",
+   "slug": "williams-clarajane",
    "num": "16",
    "pos": "def",
    "gp": 5,
@@ -1107,6 +1130,7 @@
   },
   {
    "name": "Morrow, Mackenzie",
+   "slug": "morrow-mackenzie",
    "num": "8",
    "pos": "mid",
    "gp": 9,
@@ -1122,6 +1146,7 @@
   },
   {
    "name": "Ambrozy, Jane",
+   "slug": "ambrozy-jane",
    "num": "22",
    "pos": "DEF",
    "gp": 2,
@@ -1137,6 +1162,7 @@
   },
   {
    "name": "DeBono, Mary Kate",
+   "slug": "debono-mary-kate",
    "num": "18",
    "pos": "MID",
    "gp": 2,
@@ -1152,6 +1178,7 @@
   },
   {
    "name": "Donoghue, Alex",
+   "slug": "donoghue-alex",
    "num": "19",
    "pos": "MID",
    "gp": 2,
@@ -1167,6 +1194,7 @@
   },
   {
    "name": "Fetterman, Lizzie",
+   "slug": "fetterman-lizzie",
    "num": "28",
    "pos": "MID",
    "gp": 2,
@@ -1182,8 +1210,9 @@
   },
   {
    "name": "Tordai, Cadence",
+   "slug": "tordai-cadence",
    "num": "29",
-   "pos": "gk",
+   "pos": "GK",
    "gp": 2,
    "starts": 0,
    "min": 43,
@@ -1202,6 +1231,7 @@
   },
   {
    "name": "Whitworth, Madison",
+   "slug": "whitworth-madison",
    "num": "23",
    "pos": "fwd",
    "gp": 1,
@@ -1217,6 +1247,7 @@
   },
   {
    "name": "Morada, Lauren",
+   "slug": "morada-lauren",
    "num": "30",
    "pos": "gk",
    "gp": 1,
@@ -1237,6 +1268,7 @@
   },
   {
    "name": "TEAM",
+   "slug": "team",
    "num": "TM",
    "pos": null,
    "gp": 1,

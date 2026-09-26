@@ -512,6 +512,7 @@
  "roster": [
   {
    "name": "Warren, Emma",
+   "slug": "warren-emma",
    "num": "28",
    "pos": "DEF",
    "gp": 8,
@@ -527,6 +528,7 @@
   },
   {
    "name": "Mills, Abigail",
+   "slug": "mills-abigail",
    "num": "4",
    "pos": "DEF",
    "gp": 8,
@@ -542,6 +544,7 @@
   },
   {
    "name": "Perreault, Juliette",
+   "slug": "perreault-juliette",
    "num": "6",
    "pos": "MID",
    "gp": 8,
@@ -557,6 +560,7 @@
   },
   {
    "name": "Kling, Sophia",
+   "slug": "kling-sophia",
    "num": "30",
    "pos": "GK",
    "gp": 8,
@@ -577,6 +581,7 @@
   },
   {
    "name": "Lovell, Emma",
+   "slug": "lovell-emma",
    "num": "20",
    "pos": null,
    "gp": 7,
@@ -592,6 +597,7 @@
   },
   {
    "name": "Gardner, Madeline",
+   "slug": "gardner-madeline",
    "num": "9",
    "pos": "FWD",
    "gp": 7,
@@ -607,6 +613,7 @@
   },
   {
    "name": "Stowell, Eleni",
+   "slug": "stowell-eleni",
    "num": "16",
    "pos": "MID",
    "gp": 8,
@@ -622,6 +629,7 @@
   },
   {
    "name": "Weir, Della",
+   "slug": "weir-della",
    "num": "23",
    "pos": "FWD",
    "gp": 8,
@@ -637,6 +645,7 @@
   },
   {
    "name": "Hawley, Kate",
+   "slug": "hawley-kate",
    "num": "22",
    "pos": "FWD",
    "gp": 8,
@@ -652,6 +661,7 @@
   },
   {
    "name": "Yaacoub, Farrah",
+   "slug": "yaacoub-farrah",
    "num": "17",
    "pos": "MID",
    "gp": 8,
@@ -667,6 +677,7 @@
   },
   {
    "name": "Bough, Aubrey",
+   "slug": "bough-aubrey",
    "num": "21",
    "pos": "MID",
    "gp": 8,
@@ -682,6 +693,7 @@
   },
   {
    "name": "Hall, Ella",
+   "slug": "hall-ella",
    "num": "27",
    "pos": "mid",
    "gp": 8,
@@ -697,6 +709,7 @@
   },
   {
    "name": "Ballinger, Abby",
+   "slug": "ballinger-abby",
    "num": "33",
    "pos": "DEF",
    "gp": 8,
@@ -712,6 +725,7 @@
   },
   {
    "name": "McGuire, Mollyana",
+   "slug": "mcguire-mollyana",
    "num": "12",
    "pos": "FWD",
    "gp": 8,
@@ -727,6 +741,7 @@
   },
   {
    "name": "Blouin, \u00c9l\u00e9onore",
+   "slug": "blouin-l-onore",
    "num": "26",
    "pos": "mid",
    "gp": 4,
@@ -742,6 +757,7 @@
   },
   {
    "name": "Blouin, Eleonore",
+   "slug": "blouin-eleonore",
    "num": "26",
    "pos": "mid",
    "gp": 4,
@@ -757,6 +773,7 @@
   },
   {
    "name": "Farrell, Leah",
+   "slug": "farrell-leah",
    "num": "2",
    "pos": "def",
    "gp": 5,
@@ -772,6 +789,7 @@
   },
   {
    "name": "Kingsbury, Reese",
+   "slug": "kingsbury-reese",
    "num": "8",
    "pos": "mid",
    "gp": 7,
@@ -787,6 +805,7 @@
   },
   {
    "name": "Sommeling, Elizabeth",
+   "slug": "sommeling-elizabeth",
    "num": "14",
    "pos": "mid",
    "gp": 6,
@@ -802,6 +821,7 @@
   },
   {
    "name": "Figueiredo, Katelyn",
+   "slug": "figueiredo-katelyn",
    "num": "18",
    "pos": "mid",
    "gp": 7,
@@ -817,8 +837,9 @@
   },
   {
    "name": "Slusser, Sydney",
+   "slug": "slusser-sydney",
    "num": "00",
-   "pos": "gk",
+   "pos": "GK",
    "gp": 2,
    "starts": 1,
    "min": 90,
@@ -837,6 +858,7 @@
   },
   {
    "name": "Moore, Ava",
+   "slug": "moore-ava",
    "num": "7",
    "pos": null,
    "gp": 4,
@@ -852,6 +874,7 @@
   },
   {
    "name": "Fay, Erin",
+   "slug": "fay-erin",
    "num": "25",
    "pos": "fwd",
    "gp": 3,
@@ -867,6 +890,7 @@
   },
   {
    "name": "Ivaska, Kendra",
+   "slug": "ivaska-kendra",
    "num": "5",
    "pos": "def",
    "gp": 4,
@@ -882,6 +906,7 @@
   },
   {
    "name": "Kennedy, Bridget",
+   "slug": "kennedy-bridget",
    "num": "3",
    "pos": "DEF",
    "gp": 1,
@@ -897,6 +922,7 @@
   },
   {
    "name": "Flynn, Cara",
+   "slug": "flynn-cara",
    "num": "11",
    "pos": "mid",
    "gp": 1,
@@ -912,6 +938,7 @@
   },
   {
    "name": "Sandhu, Shaan",
+   "slug": "sandhu-shaan",
    "num": "15",
    "pos": "MID",
    "gp": 1,
@@ -927,6 +954,7 @@
   },
   {
    "name": "Angelone, Rosie",
+   "slug": "angelone-rosie",
    "num": "10",
    "pos": "def",
    "gp": 1,

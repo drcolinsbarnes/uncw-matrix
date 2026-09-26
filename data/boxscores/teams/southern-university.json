@@ -452,6 +452,7 @@
  "roster": [
   {
    "name": "Simmons, Kensley",
+   "slug": "simmons-kensley",
    "num": "25",
    "pos": "MID",
    "gp": 7,
@@ -467,6 +468,7 @@
   },
   {
    "name": "Johnson, Francesca",
+   "slug": "johnson-francesca",
    "num": "2",
    "pos": "DEF",
    "gp": 7,
@@ -482,6 +484,7 @@
   },
   {
    "name": "De Freitas, Marcella",
+   "slug": "de-freitas-marcella",
    "num": "9",
    "pos": "DEF",
    "gp": 7,
@@ -497,6 +500,7 @@
   },
   {
    "name": "Johnson, Gia",
+   "slug": "johnson-gia",
    "num": "6",
    "pos": null,
    "gp": 7,
@@ -512,6 +516,7 @@
   },
   {
    "name": "Walters, Shania",
+   "slug": "walters-shania",
    "num": "16",
    "pos": "DEF",
    "gp": 6,
@@ -527,6 +532,7 @@
   },
   {
    "name": "Whitten, Sydney",
+   "slug": "whitten-sydney",
    "num": "1",
    "pos": "GK",
    "gp": 7,
@@ -547,6 +553,7 @@
   },
   {
    "name": "Pinto, Dajonae",
+   "slug": "pinto-dajonae",
    "num": "10",
    "pos": null,
    "gp": 7,
@@ -562,6 +569,7 @@
   },
   {
    "name": "Letcher, Kyndell",
+   "slug": "letcher-kyndell",
    "num": "20",
    "pos": "fwd",
    "gp": 7,
@@ -577,6 +585,7 @@
   },
   {
    "name": "Carcamo-Alvarado, Alba",
+   "slug": "carcamo-alvarado-alba",
    "num": "7",
    "pos": "FWD",
    "gp": 7,
@@ -592,6 +601,7 @@
   },
   {
    "name": "Pittman, Keilyn",
+   "slug": "pittman-keilyn",
    "num": "29",
    "pos": "FWD",
    "gp": 7,
@@ -607,7 +617,8 @@
   },
   {
    "name": "Wooldridge, Sidney",
-   "num": "0",
+   "slug": "wooldridge-sidney",
+   "num": "00",
    "pos": "gk",
    "gp": 6,
    "starts": 0,
@@ -627,6 +638,7 @@
   },
   {
    "name": "Howard, Dasia",
+   "slug": "howard-dasia",
    "num": "8",
    "pos": "def",
    "gp": 7,
@@ -642,6 +654,7 @@
   },
   {
    "name": "Atkins, Brooke",
+   "slug": "atkins-brooke",
    "num": "26",
    "pos": "fwd",
    "gp": 6,
@@ -657,6 +670,7 @@
   },
   {
    "name": "Remanente-Bailey, Makayla",
+   "slug": "remanente-bailey-makayla",
    "num": "3",
    "pos": null,
    "gp": 7,
@@ -672,6 +686,7 @@
   },
   {
    "name": "Blake-Jackson, Jazmyne",
+   "slug": "blake-jackson-jazmyne",
    "num": "5",
    "pos": "DEF",
    "gp": 3,
@@ -687,6 +702,7 @@
   },
   {
    "name": "Blaauw, Keisha",
+   "slug": "blaauw-keisha",
    "num": "15",
    "pos": "DEF",
    "gp": 3,
@@ -702,6 +718,7 @@
   },
   {
    "name": "Henderson, Dayla",
+   "slug": "henderson-dayla",
    "num": "13",
    "pos": "DEF",
    "gp": 5,
@@ -717,6 +734,7 @@
   },
   {
    "name": "Blake-Jackson, Jazmyn",
+   "slug": "blake-jackson-jazmyn",
    "num": "5",
    "pos": "DEF",
    "gp": 3,
@@ -732,6 +750,7 @@
   },
   {
    "name": "Omardin, Jamila",
+   "slug": "omardin-jamila",
    "num": "27",
    "pos": null,
    "gp": 7,
@@ -747,6 +766,7 @@
   },
   {
    "name": "Shannon, Jazmyne",
+   "slug": "shannon-jazmyne",
    "num": "24",
    "pos": "fwd",
    "gp": 5,
@@ -762,6 +782,7 @@
   },
   {
    "name": "Bolden, Janiah",
+   "slug": "bolden-janiah",
    "num": "23",
    "pos": "fwd",
    "gp": 7,
@@ -777,6 +798,7 @@
   },
   {
    "name": "Rainey, Jaci",
+   "slug": "rainey-jaci",
    "num": "21",
    "pos": "fwd",
    "gp": 7,
@@ -792,6 +814,7 @@
   },
   {
    "name": "Burrell, Uriah",
+   "slug": "burrell-uriah",
    "num": "12",
    "pos": "def",
    "gp": 4,
@@ -807,6 +830,7 @@
   },
   {
    "name": "Berry, J'Lea",
+   "slug": "berry-j-lea",
    "num": "17",
    "pos": "FWD",
    "gp": 5,
@@ -822,6 +846,7 @@
   },
   {
    "name": "Atis, Sagine",
+   "slug": "atis-sagine",
    "num": "22",
    "pos": null,
    "gp": 5,
@@ -837,8 +862,9 @@
   },
   {
    "name": "Howard, Desirae",
+   "slug": "howard-desirae",
    "num": "28",
-   "pos": "mid",
+   "pos": "MID",
    "gp": 4,
    "starts": 0,
    "min": 39,
@@ -852,6 +878,7 @@
   },
   {
    "name": "Stinson, Elon",
+   "slug": "stinson-elon",
    "num": "14",
    "pos": "fwd",
    "gp": 1,
@@ -867,6 +894,7 @@
   },
   {
    "name": "TM TEAM",
+   "slug": "tm-team",
    "num": "TM",
    "pos": null,
    "gp": 1,

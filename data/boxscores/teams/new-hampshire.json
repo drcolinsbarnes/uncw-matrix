@@ -572,6 +572,7 @@
  "roster": [
   {
    "name": "Mitza, Riley",
+   "slug": "mitza-riley",
    "num": "7",
    "pos": "FWD",
    "gp": 9,
@@ -587,6 +588,7 @@
   },
   {
    "name": "Beasley, Abby",
+   "slug": "beasley-abby",
    "num": "33",
    "pos": "DEF",
    "gp": 9,
@@ -602,6 +604,7 @@
   },
   {
    "name": "Ciri, Nina",
+   "slug": "ciri-nina",
    "num": "9",
    "pos": "DEF",
    "gp": 9,
@@ -617,6 +620,7 @@
   },
   {
    "name": "Zeepvat, Sonja",
+   "slug": "zeepvat-sonja",
    "num": "00",
    "pos": "GK",
    "gp": 9,
@@ -637,6 +641,7 @@
   },
   {
    "name": "Lenhard, Lindsay",
+   "slug": "lenhard-lindsay",
    "num": "12",
    "pos": "FWD",
    "gp": 9,
@@ -652,6 +657,7 @@
   },
   {
    "name": "Clarke, Amber",
+   "slug": "clarke-amber",
    "num": "19",
    "pos": "FWD",
    "gp": 9,
@@ -667,6 +673,7 @@
   },
   {
    "name": "Finn, Elizabeth",
+   "slug": "finn-elizabeth",
    "num": "42",
    "pos": "MID",
    "gp": 8,
@@ -682,7 +689,8 @@
   },
   {
    "name": "Zibinskas, Natalie",
-   "num": "27",
+   "slug": "zibinskas-natalie",
+   "num": "36",
    "pos": "FWD",
    "gp": 9,
    "starts": 9,
@@ -697,6 +705,7 @@
   },
   {
    "name": "Caulton, Greta",
+   "slug": "caulton-greta",
    "num": "17",
    "pos": "FWD",
    "gp": 9,
@@ -712,6 +721,7 @@
   },
   {
    "name": "Davis, Addison",
+   "slug": "davis-addison",
    "num": "23",
    "pos": "DEF",
    "gp": 8,
@@ -727,6 +737,7 @@
   },
   {
    "name": "Vano, Jules",
+   "slug": "vano-jules",
    "num": "8",
    "pos": "FWD",
    "gp": 9,
@@ -742,6 +753,7 @@
   },
   {
    "name": "VanBuskirk, Ava",
+   "slug": "vanbuskirk-ava",
    "num": "5",
    "pos": "FWD",
    "gp": 9,
@@ -757,7 +769,8 @@
   },
   {
    "name": "Tufts, Molly",
-   "num": "14",
+   "slug": "tufts-molly",
+   "num": "35",
    "pos": "DEF",
    "gp": 5,
    "starts": 5,
@@ -772,6 +785,7 @@
   },
   {
    "name": "Gimmel, Alyssa",
+   "slug": "gimmel-alyssa",
    "num": "29",
    "pos": "fwd",
    "gp": 8,
@@ -787,6 +801,7 @@
   },
   {
    "name": "Donati, Madison",
+   "slug": "donati-madison",
    "num": "21",
    "pos": "fwd",
    "gp": 8,
@@ -802,6 +817,7 @@
   },
   {
    "name": "Wojcik, Amelia",
+   "slug": "wojcik-amelia",
    "num": "10",
    "pos": "mid",
    "gp": 9,
@@ -817,6 +833,7 @@
   },
   {
    "name": "Siwicki, Olivia",
+   "slug": "siwicki-olivia",
    "num": "4",
    "pos": "DEF",
    "gp": 5,
@@ -832,6 +849,7 @@
   },
   {
    "name": "Lytle, Dulce",
+   "slug": "lytle-dulce",
    "num": "28",
    "pos": "fwd",
    "gp": 8,
@@ -847,6 +865,7 @@
   },
   {
    "name": "Deluhery, Angel",
+   "slug": "deluhery-angel",
    "num": "6",
    "pos": "mid",
    "gp": 7,
@@ -862,6 +881,7 @@
   },
   {
    "name": "Santos, Paige",
+   "slug": "santos-paige",
    "num": "34",
    "pos": "mid",
    "gp": 4,
@@ -877,6 +897,7 @@
   },
   {
    "name": "Cohen, Caroline",
+   "slug": "cohen-caroline",
    "num": "32",
    "pos": "GK",
    "gp": 1,
@@ -897,6 +918,7 @@
   },
   {
    "name": "Kucal, Emma",
+   "slug": "kucal-emma",
    "num": "3",
    "pos": "fwd",
    "gp": 3,
@@ -912,8 +934,9 @@
   },
   {
    "name": "Restic, Riley",
+   "slug": "restic-riley",
    "num": "2",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 2,
    "starts": 0,
    "min": 13,
@@ -927,6 +950,7 @@
   },
   {
    "name": "Haarala, Summer",
+   "slug": "haarala-summer",
    "num": "18",
    "pos": "FWD",
    "gp": 3,
@@ -942,6 +966,7 @@
   },
   {
    "name": "TEAM",
+   "slug": "team",
    "num": "TM",
    "pos": null,
    "gp": 1,

@@ -632,6 +632,7 @@
  "roster": [
   {
    "name": "Sofonia, Summer",
+   "slug": "sofonia-summer",
    "num": "2",
    "pos": "DEF",
    "gp": 10,
@@ -647,6 +648,7 @@
   },
   {
    "name": "Wilson, Kaeda",
+   "slug": "wilson-kaeda",
    "num": "28",
    "pos": "DEF",
    "gp": 10,
@@ -662,6 +664,7 @@
   },
   {
    "name": "Winder, Capriel",
+   "slug": "winder-capriel",
    "num": "41",
    "pos": "DEF",
    "gp": 10,
@@ -677,6 +680,7 @@
   },
   {
    "name": "Nystrom, Ivy",
+   "slug": "nystrom-ivy",
    "num": "1",
    "pos": "GK",
    "gp": 8,
@@ -697,6 +701,7 @@
   },
   {
    "name": "Emmetsberger, Lila",
+   "slug": "emmetsberger-lila",
    "num": "4",
    "pos": "DEF",
    "gp": 8,
@@ -712,6 +717,7 @@
   },
   {
    "name": "Lopez, Mia",
+   "slug": "lopez-mia",
    "num": "12",
    "pos": "MID",
    "gp": 10,
@@ -727,6 +733,7 @@
   },
   {
    "name": "Hirai, Kunie",
+   "slug": "hirai-kunie",
    "num": "13",
    "pos": "FWD",
    "gp": 10,
@@ -742,6 +749,7 @@
   },
   {
    "name": "Reitz, Rachel",
+   "slug": "reitz-rachel",
    "num": "24",
    "pos": "MID",
    "gp": 10,
@@ -757,6 +765,7 @@
   },
   {
    "name": "Hendrix, Ellie",
+   "slug": "hendrix-ellie",
    "num": "5",
    "pos": "FWD",
    "gp": 10,
@@ -772,6 +781,7 @@
   },
   {
    "name": "Diamond, Summer",
+   "slug": "diamond-summer",
    "num": "14",
    "pos": "MID",
    "gp": 10,
@@ -787,6 +797,7 @@
   },
   {
    "name": "Miller, Austin",
+   "slug": "miller-austin",
    "num": "19",
    "pos": "MID",
    "gp": 10,
@@ -802,6 +813,7 @@
   },
   {
    "name": "Christian, Kate",
+   "slug": "christian-kate",
    "num": "9",
    "pos": "FWD",
    "gp": 10,
@@ -817,6 +829,7 @@
   },
   {
    "name": "Barrera, Hadli",
+   "slug": "barrera-hadli",
    "num": "25",
    "pos": null,
    "gp": 10,
@@ -832,6 +845,7 @@
   },
   {
    "name": "Yoneda, Kei",
+   "slug": "yoneda-kei",
    "num": "26",
    "pos": "MID",
    "gp": 10,
@@ -847,6 +861,7 @@
   },
   {
    "name": "Sellers, Samantha",
+   "slug": "sellers-samantha",
    "num": "10",
    "pos": "FWD",
    "gp": 10,
@@ -862,6 +877,7 @@
   },
   {
    "name": "Mullenmeister, Mia",
+   "slug": "mullenmeister-mia",
    "num": "3",
    "pos": "FWD",
    "gp": 10,
@@ -877,6 +893,7 @@
   },
   {
    "name": "Sellers, Solena",
+   "slug": "sellers-solena",
    "num": "6",
    "pos": "FWD",
    "gp": 10,
@@ -892,6 +909,7 @@
   },
   {
    "name": "Grashoff, Allee",
+   "slug": "grashoff-allee",
    "num": "0",
    "pos": "GK",
    "gp": 3,
@@ -912,6 +930,7 @@
   },
   {
    "name": "Winder, Talia",
+   "slug": "winder-talia",
    "num": "15",
    "pos": "DEF",
    "gp": 7,
@@ -927,6 +946,7 @@
   },
   {
    "name": "Espinoza, Victoria",
+   "slug": "espinoza-victoria",
    "num": "21",
    "pos": "DEF",
    "gp": 9,
@@ -942,8 +962,9 @@
   },
   {
    "name": "Vigil, Kasie",
+   "slug": "vigil-kasie",
    "num": "7",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 6,
    "starts": 0,
    "min": 81,
@@ -957,6 +978,7 @@
   },
   {
    "name": "Barrera, Bentli",
+   "slug": "barrera-bentli",
    "num": "23",
    "pos": "def",
    "gp": 3,
@@ -972,6 +994,7 @@
   },
   {
    "name": "Newton, Kya",
+   "slug": "newton-kya",
    "num": "22",
    "pos": null,
    "gp": 6,
@@ -987,6 +1010,7 @@
   },
   {
    "name": "Alcala, Valeria",
+   "slug": "alcala-valeria",
    "num": "30",
    "pos": "MID",
    "gp": 3,
@@ -1002,6 +1026,7 @@
   },
   {
    "name": "Thomas, Tatum",
+   "slug": "thomas-tatum",
    "num": "16",
    "pos": "fwd",
    "gp": 2,
@@ -1017,6 +1042,7 @@
   },
   {
    "name": "Masters, Shay",
+   "slug": "masters-shay",
    "num": "18",
    "pos": "gk",
    "gp": 1,
@@ -1037,6 +1063,7 @@
   },
   {
    "name": "Hironaka, Abby",
+   "slug": "hironaka-abby",
    "num": "11",
    "pos": "fwd",
    "gp": 2,
@@ -1052,6 +1079,7 @@
   },
   {
    "name": "Sorensen, Belle",
+   "slug": "sorensen-belle",
    "num": "20",
    "pos": "fwd",
    "gp": 1,
@@ -1067,6 +1095,7 @@
   },
   {
    "name": "De Vore, Ayla",
+   "slug": "de-vore-ayla",
    "num": "17",
    "pos": "def",
    "gp": 1,
