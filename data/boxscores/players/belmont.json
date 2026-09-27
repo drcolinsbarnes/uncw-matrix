@@ -4,15 +4,15 @@
  "season": 2026,
  "players": [
   {
-   "name": "Baker, Anna",
-   "slug": "baker-anna",
-   "num": "13",
+   "name": "Baumgardner, Corinne",
+   "slug": "baumgardner-corinne",
+   "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
+    "gp": 7,
+    "starts": 0,
+    "min": 155,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -24,10 +24,10 @@
     {
      "date": "2026-08-12",
      "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "DEF",
-     "num": "13",
-     "min": 90,
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -35,27 +35,7 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Baumgardner, Corinne",
-   "slug": "baumgardner-corinne",
-   "num": "21",
-   "pos": "DEF",
-   "totals": {
-    "gp": 6,
-    "starts": 0,
-    "min": 144,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -154,9 +134,9 @@
    "num": "12",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 98,
+    "min": 118,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -166,6 +146,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "def",
+     "num": "12",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-20",
      "opponent": "UT Chattanooga",
@@ -244,41 +239,6 @@
    ]
   },
   {
-   "name": "Bibee, Halle",
-   "slug": "bibee-halle",
-   "num": "17",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 60,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "DEF",
-     "num": "17",
-     "min": 60,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Carter, Kennedy",
    "slug": "carter-kennedy",
    "num": "24",
@@ -314,16 +274,16 @@
    ]
   },
   {
-   "name": "Childs, Kayla",
-   "slug": "childs-kayla",
-   "num": "8",
-   "pos": "FWD",
+   "name": "Churchill, Makira",
+   "slug": "churchill-makira",
+   "num": "9",
+   "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 58,
-    "sh": 0,
-    "sog": 0,
+    "gp": 8,
+    "starts": 7,
+    "min": 666,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -335,37 +295,17 @@
      "date": "2026-08-12",
      "opponent": "Tennessee Tech",
      "start": true,
-     "pos": "FWD",
-     "num": "8",
-     "min": 58,
-     "sh": 0,
+     "pos": "DEF",
+     "num": "9",
+     "min": 79,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Churchill, Makira",
-   "slug": "churchill-makira",
-   "num": "9",
-   "pos": "DEF",
-   "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 587,
-    "sh": 1,
-    "sog": 1,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -474,84 +414,14 @@
    ]
   },
   {
-   "name": "Cotteleer, Iris",
-   "slug": "cotteleer-iris",
-   "num": "19",
-   "pos": "mid",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 2,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": false,
-     "pos": "mid",
-     "num": "19",
-     "min": 2,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Dade, Kennedy",
-   "slug": "dade-kennedy",
-   "num": "28",
-   "pos": "def",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 25,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": false,
-     "pos": "def",
-     "num": "28",
-     "min": 25,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Downs, Teagan",
    "slug": "downs-teagan",
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 347,
+    "gp": 8,
+    "starts": 4,
+    "min": 400,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -561,6 +431,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -674,11 +559,11 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 352,
-    "sh": 11,
-    "sog": 4,
+    "gp": 8,
+    "starts": 8,
+    "min": 410,
+    "sh": 12,
+    "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 3,
@@ -686,6 +571,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -799,9 +699,9 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 114,
+    "min": 142,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -811,6 +711,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -909,9 +824,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 630,
+    "gp": 8,
+    "starts": 8,
+    "min": 720,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -920,12 +835,32 @@
     "yc": 0,
     "rc": 0,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 13,
-     "saves": 32
+     "saves": 33
     }
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -1069,84 +1004,14 @@
    ]
   },
   {
-   "name": "Griffith, Hadley",
-   "slug": "griffith-hadley",
-   "num": "12",
-   "pos": "fwd",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 13,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": false,
-     "pos": "fwd",
-     "num": "12",
-     "min": 13,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Ham, Sophie",
-   "slug": "ham-sophie",
-   "num": "7",
-   "pos": "def",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 19,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": false,
-     "pos": "def",
-     "num": "7",
-     "min": 19,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Hnatek, Katelyn",
    "slug": "hnatek-katelyn",
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 437,
+    "gp": 8,
+    "starts": 8,
+    "min": 527,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1156,6 +1021,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -1264,84 +1144,14 @@
    ]
   },
   {
-   "name": "Howard, Natalie",
-   "slug": "howard-natalie",
-   "num": "25",
-   "pos": "FWD",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 78,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "FWD",
-     "num": "25",
-     "min": 78,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Johannsdottir, Briet",
-   "slug": "johannsdottir-briet",
-   "num": "22",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "DEF",
-     "num": "22",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Johnson, Lydia",
    "slug": "johnson-lydia",
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 196,
+    "min": 207,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1351,6 +1161,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -1459,18 +1284,18 @@
    ]
   },
   {
-   "name": "Kawashima, Mayo",
-   "slug": "kawashima-mayo",
-   "num": "10",
+   "name": "Koltz, Meredith",
+   "slug": "koltz-meredith",
+   "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 88,
-    "sh": 0,
-    "sog": 0,
+    "gp": 8,
+    "starts": 7,
+    "min": 341,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0
@@ -1480,37 +1305,17 @@
      "date": "2026-08-12",
      "opponent": "Tennessee Tech",
      "start": true,
-     "pos": "MID",
-     "num": "10",
-     "min": 88,
-     "sh": 0,
-     "sog": 0,
+     "pos": "",
+     "num": "13",
+     "min": 50,
+     "sh": 3,
+     "sog": 2,
      "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Koltz, Meredith",
-   "slug": "koltz-meredith",
-   "num": "13",
-   "pos": "MID",
-   "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 291,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
-    "a": 1,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -1619,94 +1424,14 @@
    ]
   },
   {
-   "name": "Lott, Phoebe",
-   "slug": "lott-phoebe",
-   "num": "26",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 79,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "MID",
-     "num": "26",
-     "min": 79,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "McNamee, Laila",
-   "slug": "mcnamee-laila",
-   "num": "1",
-   "pos": "GK",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0,
-    "goalie": {
-     "gp": 1,
-     "ga": 0,
-     "saves": 5
-    }
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "GK",
-     "num": "1",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0,
-     "goalie": {
-      "min": "90:00",
-      "ga": 0,
-      "saves": 5
-     }
-    }
-   ]
-  },
-  {
    "name": "Meadors, Ava",
    "slug": "meadors-ava",
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 321,
+    "min": 364,
     "sh": 5,
     "sog": 4,
     "g": 0,
@@ -1716,6 +1441,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -1824,49 +1564,14 @@
    ]
   },
   {
-   "name": "Melin, Ebba",
-   "slug": "melin-ebba",
-   "num": "14",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "DEF",
-     "num": "14",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Miller, Megan",
    "slug": "miller-megan",
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 620,
+    "gp": 8,
+    "starts": 8,
+    "min": 696,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1876,6 +1581,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -1989,9 +1709,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 161,
+    "min": 193,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2001,6 +1721,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "",
+     "num": "4",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -2177,11 +1912,11 @@
    "name": "Pringle, Caroline",
    "slug": "pringle-caroline",
    "num": "25",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 13,
+    "min": 30,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2191,6 +1926,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-20",
      "opponent": "UT Chattanooga",
@@ -2229,9 +1979,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 280,
+    "min": 317,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2241,6 +1991,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "",
+     "num": "22",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -2339,10 +2104,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 397,
-    "sh": 12,
+    "gp": 8,
+    "starts": 8,
+    "min": 452,
+    "sh": 14,
     "sog": 7,
     "g": 3,
     "a": 1,
@@ -2351,6 +2116,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 55,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -2539,51 +2319,16 @@
    ]
   },
   {
-   "name": "Soutuyo, Tori",
-   "slug": "soutuyo-tori",
-   "num": "31",
-   "pos": null,
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 84,
-    "sh": 1,
-    "sog": 1,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "",
-     "num": "31",
-     "min": 84,
-     "sh": 1,
-     "sog": 1,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Tabor, Lillie",
    "slug": "tabor-lillie",
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 596,
-    "sh": 0,
-    "sog": 0,
+    "gp": 8,
+    "starts": 8,
+    "min": 675,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 1,
@@ -2591,6 +2336,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 79,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -2704,11 +2464,11 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 217,
-    "sh": 4,
-    "sog": 3,
+    "min": 256,
+    "sh": 5,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -2716,6 +2476,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 39,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -2814,9 +2589,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 456,
+    "gp": 8,
+    "starts": 8,
+    "min": 511,
     "sh": 5,
     "sog": 4,
     "g": 1,
@@ -2826,6 +2601,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -2934,50 +2724,15 @@
    ]
   },
   {
-   "name": "Wade, Delaney",
-   "slug": "wade-delaney",
-   "num": "18",
-   "pos": "def",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 21,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": false,
-     "pos": "def",
-     "num": "18",
-     "min": 21,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Whittington, Laken",
    "slug": "whittington-laken",
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 440,
-    "sh": 14,
+    "gp": 8,
+    "starts": 8,
+    "min": 507,
+    "sh": 16,
     "sog": 3,
     "g": 1,
     "a": 1,
@@ -2986,6 +2741,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-12",
+     "opponent": "Tennessee Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 67,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-16",
      "opponent": "Samford",
@@ -3084,76 +2854,6 @@
      "num": "10",
      "min": 67,
      "sh": 3,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Williams, Presley",
-   "slug": "williams-presley",
-   "num": "24",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 74,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": true,
-     "pos": "MID",
-     "num": "24",
-     "min": 74,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Wood, Ashley",
-   "slug": "wood-ashley",
-   "num": "3",
-   "pos": "fwd",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 29,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-12",
-     "opponent": "Tennessee Tech",
-     "start": false,
-     "pos": "fwd",
-     "num": "3",
-     "min": 29,
-     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,

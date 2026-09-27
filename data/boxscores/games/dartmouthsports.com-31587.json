@@ -12,16 +12,6 @@
   "2"
  ],
  "away": {
-  "name": "Dartmouth",
-  "abbr": "DAR",
-  "winner": false,
-  "periods": [
-   1,
-   0
-  ],
-  "total": 1
- },
- "home": {
   "name": "Arizona St.",
   "abbr": "ASU",
   "winner": false,
@@ -31,32 +21,18 @@
   ],
   "total": 1
  },
+ "home": {
+  "name": "Dartmouth",
+  "abbr": "DAR",
+  "winner": false,
+  "periods": [
+   1,
+   0
+  ],
+  "total": 1
+ },
  "team_stats": {
   "away": {
-   "shots": 4,
-   "shots_on_goal": 3,
-   "shots_by_period": [
-    2,
-    2
-   ],
-   "saves": 4,
-   "saves_by_period": [
-    2,
-    2
-   ],
-   "corner_kicks": 0,
-   "corner_kicks_by_period": [
-    0,
-    0
-   ],
-   "fouls": 7,
-   "fouls_by_period": [
-    6,
-    1
-   ],
-   "offsides": 0
-  },
-  "home": {
    "shots": 18,
    "shots_on_goal": 5,
    "shots_by_period": [
@@ -79,11 +55,35 @@
     7
    ],
    "offsides": 3
+  },
+  "home": {
+   "shots": 4,
+   "shots_on_goal": 3,
+   "shots_by_period": [
+    2,
+    2
+   ],
+   "saves": 4,
+   "saves_by_period": [
+    2,
+    2
+   ],
+   "corner_kicks": 0,
+   "corner_kicks_by_period": [
+    0,
+    0
+   ],
+   "fouls": 7,
+   "fouls_by_period": [
+    6,
+    1
+   ],
+   "offsides": 0
   }
  },
  "players": [
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "GK",
    "num": "30",
@@ -98,7 +98,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "4",
@@ -113,7 +113,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "6",
@@ -128,7 +128,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "8",
@@ -143,7 +143,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "10",
@@ -158,7 +158,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "11",
@@ -173,7 +173,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "13",
@@ -188,7 +188,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "15",
@@ -203,7 +203,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "19",
@@ -218,7 +218,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "20",
@@ -233,7 +233,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "26",
@@ -248,7 +248,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "FWD",
    "num": "12",
@@ -263,7 +263,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "MID",
    "num": "14",
@@ -278,7 +278,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "FWD",
    "num": "23",
@@ -293,7 +293,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "MID",
    "num": "29",
@@ -308,7 +308,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "GK",
    "num": "1",
@@ -323,7 +323,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "3",
@@ -338,7 +338,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "4",
@@ -353,7 +353,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "5",
@@ -368,7 +368,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "6",
@@ -383,7 +383,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "13",
@@ -398,7 +398,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "18",
@@ -413,7 +413,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "19",
@@ -428,7 +428,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "23",
@@ -443,7 +443,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "24",
@@ -458,7 +458,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "29",
@@ -473,7 +473,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "DEF",
    "num": "2",
@@ -488,7 +488,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "FWD",
    "num": "9",
@@ -503,7 +503,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "DEF",
    "num": "12",
@@ -518,7 +518,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "MID",
    "num": "15",
@@ -533,7 +533,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "FWD",
    "num": "17",
@@ -548,7 +548,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "MID",
    "num": "26",
@@ -565,7 +565,7 @@
  ],
  "goalies": [
   {
-   "team": "away",
+   "team": "home",
    "pos": "GK",
    "num": "30",
    "name": "Goebel, Ola",
@@ -574,7 +574,7 @@
    "saves": 4
   },
   {
-   "team": "home",
+   "team": "away",
    "pos": "GK",
    "num": "1",
    "name": "Zorn, Kennedy",
@@ -617,658 +617,658 @@
   {
    "period": 1,
    "clock": "00:00",
-   "team": "home",
+   "team": "away",
    "type": "gk",
    "text": "Zorn, Kennedy at goalie for Arizona St."
   },
   {
    "period": 1,
    "clock": "00:00",
-   "team": "away",
+   "team": "home",
    "type": "gk",
    "text": "Goebel, Ola at goalie for Dartmouth"
   },
   {
    "period": 1,
    "clock": "00:52",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Ennis, Emmie for Kettles, Ella."
   },
   {
    "period": 1,
    "clock": "05:38",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [05:38]."
   },
   {
    "period": 1,
    "clock": "06:22",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [06:22]."
   },
   {
    "period": 1,
    "clock": "07:22",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU DeMark, Gator, out top."
   },
   {
    "period": 1,
    "clock": "13:35",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [13:35]."
   },
   {
    "period": 1,
    "clock": "14:27",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [14:27]."
   },
   {
    "period": 1,
    "clock": "15:07",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Angus, Mya."
   },
   {
    "period": 1,
    "clock": "15:14",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Marcisz, Peyton."
   },
   {
    "period": 1,
    "clock": "15:22",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Lathrop, Stephanie."
   },
   {
    "period": 1,
    "clock": "16:06",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Angus, Mya, bottom center, saved by Goebel, Ola."
   },
   {
    "period": 1,
    "clock": "17:13",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Ihrfelt, Lykke."
   },
   {
    "period": 1,
    "clock": "18:49",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Hayashi, Miki."
   },
   {
    "period": 1,
    "clock": "21:40",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Cagungun, Michal for Udebhulu, Natasha."
   },
   {
    "period": 1,
    "clock": "22:43",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Cagungun, Michal."
   },
   {
    "period": 1,
    "clock": "24:33",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [24:33]."
   },
   {
    "period": 1,
    "clock": "25:21",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Fazackerley, Lucy."
   },
   {
    "period": 1,
    "clock": "26:08",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Lauterborn, Lourdes."
   },
   {
    "period": 1,
    "clock": "27:04",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Arizona St.."
   },
   {
    "period": 1,
    "clock": "27:54",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Kettles, Ella for Hayashi, Miki."
   },
   {
    "period": 1,
    "clock": "27:54",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Willard, Ava for Bergen, Sierra."
   },
   {
    "period": 1,
    "clock": "27:54",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Blundell, Kierra for Puccinelli, Bela."
   },
   {
    "period": 1,
    "clock": "29:08",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [29:08]."
   },
   {
    "period": 1,
    "clock": "31:31",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Marcisz, Peyton."
   },
   {
    "period": 1,
    "clock": "32:05",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by DAR Rose, Madison, bottom center, saved by Zorn, Kennedy."
   },
   {
    "period": 1,
    "clock": "32:44",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Whinney, Jenna for Angus, Mya."
   },
   {
    "period": 1,
    "clock": "32:44",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Balmer, May for Marcisz, Peyton."
   },
   {
    "period": 1,
    "clock": "32:44",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Medley, Amy for Ennis, Emmie."
   },
   {
    "period": 1,
    "clock": "32:44",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Theobald, Maeve for Frimpomaa, Emmanuella."
   },
   {
    "period": 1,
    "clock": "34:47",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Blundell, Kierra, bottom center, saved by Goebel, Ola."
   },
   {
    "period": 1,
    "clock": "36:05",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Willard, Ava."
   },
   {
    "period": 1,
    "clock": "36:47",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Fazackerley, Lucy."
   },
   {
    "period": 1,
    "clock": "37:27",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Valverde, Frankie for Lathrop, Stephanie."
   },
   {
    "period": 1,
    "clock": "40:10",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Valverde, Frankie."
   },
   {
    "period": 1,
    "clock": "0",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Medley, Amy"
   },
   {
    "period": 1,
    "clock": "41:34",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "DAR Madison Rose PENALTY KICK GOAL."
   },
   {
    "period": 1,
    "clock": "41:34",
-   "team": "home",
+   "team": "away",
    "type": "yellow",
    "text": "Yellow card on ASU TEAM."
   },
   {
    "period": 1,
    "clock": "42:25",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Blundell, Kierra."
   },
   {
    "period": 1,
    "clock": "43:21",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Arizona St.."
   },
   {
    "period": 1,
    "clock": "44:06",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Theobald, Maeve."
   },
   {
    "period": 1,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "End of period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "Start of 2nd period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "FOR DAR: , #30 Goebel, Ola, #4 Lauterborn, Lourdes, #6 Leschly, Anna, #8 Ryan, Kate, #10 Ihrfelt, Lykke, #11 Rose, Madison, #13 Young, Nadia, #14 Valverde, Frankie, #12 Theobald, Maeve, #19 Frimpomaa, Emmanuella, #26 Davidson, Ellie."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "FOR ASU: , #1 Zorn, Kennedy, #3 Angus, Mya, #19 Bergen, Sierra, #5 Fazackerley, Lucy, #23 Ennis, Emmie, #26 Kettles, Ella, #18 Madon, Maja, #6 Marcisz, Peyton, #12 Medley, Amy, #24 Drotzmann, Natalie, #9 Blundell, Kierra."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Angus, Mya for Whinney, Jenna."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Bergen, Sierra for DeMark, Gator."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Ennis, Emmie for Balmer, May."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Marcisz, Peyton for Willard, Ava."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Frimpomaa, Emmanuella for Cagungun, Michal."
   },
   {
    "period": 2,
    "clock": "45:44",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Madon, Maja."
   },
   {
    "period": 2,
    "clock": "46:37",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by DAR Young, Nadia, bottom center, saved by Zorn, Kennedy."
   },
   {
    "period": 2,
    "clock": "51:17",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Madon, Maja."
   },
   {
    "period": 2,
    "clock": "51:40",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Bergen, Sierra."
   },
   {
    "period": 2,
    "clock": "53:32",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Blundell, Kierra, bottom center, saved by Goebel, Ola."
   },
   {
    "period": 2,
    "clock": "54:10",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Bergen, Sierra."
   },
   {
    "period": 2,
    "clock": "54:45",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [54:45]."
   },
   {
    "period": 2,
    "clock": "55:29",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Cagungun, Michal for Frimpomaa, Emmanuella."
   },
   {
    "period": 2,
    "clock": "57:47",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [57:47]."
   },
   {
    "period": 2,
    "clock": "58:01",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Puccinelli, Bela for Bergen, Sierra."
   },
   {
    "period": 2,
    "clock": "58:44",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Puccinelli, Bela, out right."
   },
   {
    "period": 2,
    "clock": "58:53",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Marcisz, Peyton."
   },
   {
    "period": 2,
    "clock": "60:48",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Lathrop, Stephanie for Rose, Madison."
   },
   {
    "period": 2,
    "clock": "60:48",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Ball, Addison for Valverde, Frankie."
   },
   {
    "period": 2,
    "clock": "61:05",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Ennis, Emmie."
   },
   {
    "period": 2,
    "clock": "61:34",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Willard, Ava for Angus, Mya."
   },
   {
    "period": 2,
    "clock": "62:37",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Blundell, Kierra."
   },
   {
    "period": 2,
    "clock": "65:22",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Madon, Maja."
   },
   {
    "period": 2,
    "clock": "66:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Angus, Mya for Ennis, Emmie."
   },
   {
    "period": 2,
    "clock": "66:43",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Lathrop, Stephanie."
   },
   {
    "period": 2,
    "clock": "68:38",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Frimpomaa, Emmanuella for Theobald, Maeve."
   },
   {
    "period": 2,
    "clock": "69:33",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Puccinelli, Bela."
   },
   {
    "period": 2,
    "clock": "70:14",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Ennis, Emmie for Medley, Amy."
   },
   {
    "period": 2,
    "clock": "71:04",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Madon, Maja, bottom center, saved by Goebel, Ola."
   },
   {
    "period": 2,
    "clock": "73:56",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Bergen, Sierra for Madon, Maja."
   },
   {
    "period": 2,
    "clock": "73:56",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Valverde, Frankie for Lathrop, Stephanie."
   },
   {
    "period": 2,
    "clock": "74:01",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Rose, Madison for Lauterborn, Lourdes."
   },
   {
    "period": 2,
    "clock": "75:53",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Kettles, Ella, out right."
   },
   {
    "period": 2,
    "clock": "76:07",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Lauterborn, Lourdes for Ball, Addison."
   },
   {
    "period": 2,
    "clock": "76:35",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Blundell, Kierra."
   },
   {
    "period": 2,
    "clock": "80:08",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by DAR Cagungun, Michal, out left."
   },
   {
    "period": 2,
    "clock": "80:32",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "ASU substitution: Madon, Maja for Puccinelli, Bela."
   },
   {
    "period": 2,
    "clock": "80:32",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Theobald, Maeve for Cagungun, Michal."
   },
   {
    "period": 2,
    "clock": "81:10",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Arizona St.."
   },
   {
    "period": 2,
    "clock": "81:10",
-   "team": "home",
+   "team": "away",
    "type": "yellow",
    "text": "Yellow card on ASU TEAM."
   },
   {
    "period": 2,
    "clock": "83:14",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Blundell, Kierra, out top."
   },
   {
    "period": 2,
    "clock": "83:32",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Ball, Addison for Rose, Madison."
   },
   {
    "period": 2,
    "clock": "83:32",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "DAR substitution: Cagungun, Michal for Valverde, Frankie."
   },
   {
    "period": 2,
    "clock": "85:05",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Bergen, Sierra, out top."
   },
   {
    "period": 2,
    "clock": "87:37",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by ASU Madon, Maja, out top."
   },
   {
    "period": 2,
    "clock": "88:46",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow card on DAR Lauterborn, Lourdes."
   },
   {
    "period": 2,
    "clock": "89:34",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Bergen, Sierra."
   },
   {
    "period": 2,
    "clock": "89:59",
-   "team": "home",
+   "team": "away",
    "type": "goal",
    "text": "GOAL by ASU Blundell, Kierra Assist by Bergen, Sierra and Kettles, Ella."
   },
   {
    "period": 2,
    "clock": "90:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "End of period [90:00]."
   }
@@ -1279,5 +1279,6 @@
  },
  "home_team": "Dartmouth",
  "away_team": "Arizona State",
- "scrape_score": "1-1"
+ "scrape_score": "1-1",
+ "_home_away_reconciled": true
 }

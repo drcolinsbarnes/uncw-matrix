@@ -8,16 +8,6 @@
  "stadium": "Eagle Field",
  "attendance": 105,
  "away": {
-  "name": "South Carolina St.",
-  "abbr": "SCS",
-  "winner": false,
-  "periods": [
-   0,
-   0
-  ],
-  "total": 0
- },
- "home": {
   "name": "Winthrop",
   "abbr": "WIN",
   "winner": true,
@@ -27,13 +17,23 @@
   ],
   "total": 3
  },
+ "home": {
+  "name": "South Carolina St.",
+  "abbr": "SCS",
+  "winner": false,
+  "periods": [
+   0,
+   0
+  ],
+  "total": 0
+ },
  "periods": [
   "1",
   "2"
  ],
  "players": [
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "GK",
    "num": "0",
@@ -48,7 +48,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "2",
@@ -63,7 +63,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "4",
@@ -78,7 +78,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "6",
@@ -93,7 +93,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "7",
@@ -108,7 +108,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "10",
@@ -123,7 +123,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "12",
@@ -138,7 +138,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "15",
@@ -153,7 +153,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "17",
@@ -168,7 +168,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "22",
@@ -183,7 +183,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "26",
@@ -198,7 +198,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "fwd",
    "num": "3",
@@ -213,7 +213,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "def",
    "num": "9",
@@ -228,7 +228,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "mid",
    "num": "13",
@@ -243,7 +243,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "def",
    "num": "16",
@@ -258,7 +258,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "mid",
    "num": "19",
@@ -273,7 +273,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "fwd",
    "num": "21",
@@ -288,7 +288,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "GK",
    "num": "1",
@@ -303,7 +303,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "4",
@@ -318,7 +318,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "7",
@@ -333,7 +333,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "9",
@@ -348,7 +348,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "10",
@@ -363,7 +363,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "11",
@@ -378,7 +378,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "12",
@@ -393,7 +393,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "15",
@@ -408,7 +408,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "18",
@@ -423,7 +423,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "",
    "num": "19",
@@ -438,7 +438,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "23",
@@ -453,7 +453,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "mid",
    "num": "2",
@@ -468,7 +468,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "def",
    "num": "3",
@@ -483,7 +483,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "fwd",
    "num": "13",
@@ -498,7 +498,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "mid",
    "num": "16",
@@ -513,7 +513,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "def",
    "num": "25",
@@ -528,7 +528,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "mid",
    "num": "26",
@@ -545,7 +545,7 @@
  ],
  "goalies": [
   {
-   "team": "away",
+   "team": "home",
    "pos": "GK",
    "num": "0",
    "name": "Gittings, Jada",
@@ -554,7 +554,7 @@
    "saves": 9
   },
   {
-   "team": "home",
+   "team": "away",
    "pos": "GK",
    "num": "1",
    "name": "Ruffalo, Mia",
@@ -565,30 +565,6 @@
  ],
  "team_stats": {
   "away": {
-   "shots": 7,
-   "shots_on_goal": 2,
-   "shots_by_period": [
-    2,
-    5
-   ],
-   "saves": 9,
-   "saves_by_period": [
-    6,
-    3
-   ],
-   "corner_kicks": 1,
-   "corner_kicks_by_period": [
-    0,
-    1
-   ],
-   "fouls": 2,
-   "fouls_by_period": [
-    1,
-    1
-   ],
-   "offsides": 1
-  },
-  "home": {
    "shots": 20,
    "shots_on_goal": 12,
    "shots_by_period": [
@@ -608,6 +584,30 @@
    "fouls": 4,
    "fouls_by_period": [
     3,
+    1
+   ],
+   "offsides": 1
+  },
+  "home": {
+   "shots": 7,
+   "shots_on_goal": 2,
+   "shots_by_period": [
+    2,
+    5
+   ],
+   "saves": 9,
+   "saves_by_period": [
+    6,
+    3
+   ],
+   "corner_kicks": 1,
+   "corner_kicks_by_period": [
+    0,
+    1
+   ],
+   "fouls": 2,
+   "fouls_by_period": [
+    1,
     1
    ],
    "offsides": 1
@@ -653,567 +653,567 @@
   {
    "period": 1,
    "clock": "00:00",
-   "team": "home",
+   "team": "away",
    "type": "gk",
    "text": "Ruffalo, Mia at goalie for Winthrop"
   },
   {
    "period": 1,
    "clock": "00:00",
-   "team": "away",
+   "team": "home",
    "type": "gk",
    "text": "Gittings, Jada at goalie for South Carolina St."
   },
   {
    "period": 1,
    "clock": "00:22",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Zulueta, Stephanie for Husaker, Violet."
   },
   {
    "period": 1,
    "clock": "00:22",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Earman, Aubrey for Smith, Gracie."
   },
   {
    "period": 1,
    "clock": "04:43",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN McIntosh, Cordelia, bottom left, saved by Gittings, Jada."
   },
   {
    "period": 1,
    "clock": "05:22",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Silber, Mia."
   },
   {
    "period": 1,
    "clock": "06:50",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [06:50]."
   },
   {
    "period": 1,
    "clock": "08:59",
-   "team": "home",
+   "team": "away",
    "type": "goal",
    "text": "GOAL by WIN Avila-Gutierrez, Monssi Assist by Steen, Amalie."
   },
   {
    "period": 1,
    "clock": "09:52",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [09:52]."
   },
   {
    "period": 1,
    "clock": "10:22",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Earman, Aubrey, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 1,
    "clock": "12:24",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Balliet, Sophia."
   },
   {
    "period": 1,
    "clock": "17:36",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Jenkins, Kyndall for Ferguson, Liya."
   },
   {
    "period": 1,
    "clock": "18:17",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Balliet, Sophia."
   },
   {
    "period": 1,
    "clock": "18:59",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Balliet, Sophia, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 1,
    "clock": "19:17",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Kulig, Kinsie for McIntosh, Cordelia."
   },
   {
    "period": 1,
    "clock": "20:25",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Ross, Ashley for Zulueta, Stephanie."
   },
   {
    "period": 1,
    "clock": "20:25",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Guy-Williams, Denive for Silver, Aaliyah."
   },
   {
    "period": 1,
    "clock": "24:57",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Kulig, Kinsie, out top."
   },
   {
    "period": 1,
    "clock": "26:04",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Listrom, Sarah for Campbell, Taryn."
   },
   {
    "period": 1,
    "clock": "26:07",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [26:07]."
   },
   {
    "period": 1,
    "clock": "28:03",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Ross, Ashley, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 1,
    "clock": "32:24",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Milliron, Emma for Steen, Amalie."
   },
   {
    "period": 1,
    "clock": "32:24",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Ritter, Jessika for Celce, Cameron."
   },
   {
    "period": 1,
    "clock": "32:24",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Philyaw, Ava for Tomes, Eiliyah."
   },
   {
    "period": 1,
    "clock": "34:29",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Winthrop."
   },
   {
    "period": 1,
    "clock": "36:12",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Balliet, Sophia, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 1,
    "clock": "37:14",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Ross, Ashley, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 1,
    "clock": "38:19",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Guy-Williams, Denive, out top."
   },
   {
    "period": 1,
    "clock": "38:35",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Moore, Jaelyn for Santana-Goulbourne, Kelis."
   },
   {
    "period": 1,
    "clock": "40:30",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Coleman, Victoria, out left."
   },
   {
    "period": 1,
    "clock": "40:53",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Tindall, Ayla for Coleman, Victoria."
   },
   {
    "period": 1,
    "clock": "41:14",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Ross, Ashley, out top."
   },
   {
    "period": 1,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "End of period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "Start of 2nd period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "FOR SCS: , #0 Gittings, Jada, #3 Tindall, Ayla, #17 Santana-Goulbourne, Kelis, #6 Coleman, Vanessa, #13 Listrom, Sarah, #16 Jenkins, Kyndall, #21 Guy-Williams, Denive, #15 Johnson, Kamora, #9 Moore, Jaelyn, #2 Coleman, Victoria, #12 Silver, Aaliyah."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "FOR WIN: , #1 Ruffalo, Mia, #4 Silber, Mia, #7 Balliet, Sophia, #16 Zulueta, Stephanie, #10 Avila-Gutierrez, Monssi, #11 Bowers, Lila, #2 Kulig, Kinsie, #15 Stanley, Shea, #9 Steen, Amalie, #25 Ritter, Jessika, #19 Celce, Cameron."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Zulueta, Stephanie for Milliron, Emma."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Steen, Amalie for Ross, Ashley."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Celce, Cameron for Earman, Aubrey."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Santana-Goulbourne, Kelis for Wood, Jenai."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Coleman, Victoria for Sullivan, Emmi."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Silver, Aaliyah for Philyaw, Ava."
   },
   {
    "period": 2,
    "clock": "46:39",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Stanley, Shea."
   },
   {
    "period": 2,
    "clock": "47:09",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Campbell, Taryn for Moore, Jaelyn."
   },
   {
    "period": 2,
    "clock": "47:39",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Tomes, Eiliyah for Jenkins, Kyndall."
   },
   {
    "period": 2,
    "clock": "48:13",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Silver, Aaliyah, bottom center, saved by Ruffalo, Mia."
   },
   {
    "period": 2,
    "clock": "53:48",
-   "team": "away",
+   "team": "home",
    "type": "offside",
    "text": "Offside against South Carolina St.."
   },
   {
    "period": 2,
    "clock": "54:22",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Coleman, Victoria."
   },
   {
    "period": 2,
    "clock": "55:04",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Tindall, Ayla, bottom center, saved by Ruffalo, Mia."
   },
   {
    "period": 2,
    "clock": "55:55",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Ross, Ashley for Avila-Gutierrez, Monssi."
   },
   {
    "period": 2,
    "clock": "58:06",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Sullivan, Emmi for Campbell, Taryn."
   },
   {
    "period": 2,
    "clock": "60:01",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Kulig, Kinsie, top right, saved by Gittings, Jada."
   },
   {
    "period": 2,
    "clock": "62:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Milliron, Emma for Steen, Amalie."
   },
   {
    "period": 2,
    "clock": "62:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: unknown player for Celce, Cameron."
   },
   {
    "period": 2,
    "clock": "62:53",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Earman, Aubrey for unknown player."
   },
   {
    "period": 2,
    "clock": "63:15",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Silver, Aaliyah, out left."
   },
   {
    "period": 2,
    "clock": "64:56",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Earman, Aubrey, out top."
   },
   {
    "period": 2,
    "clock": "65:07",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Jenkins, Kyndall for Coleman, Victoria."
   },
   {
    "period": 2,
    "clock": "66:53",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Silber, Mia, out left."
   },
   {
    "period": 2,
    "clock": "67:05",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Moore, Jaelyn for Silver, Aaliyah."
   },
   {
    "period": 2,
    "clock": "67:50",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Silber, Mia."
   },
   {
    "period": 2,
    "clock": "69:11",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by SCS Tindall, Ayla."
   },
   {
    "period": 2,
    "clock": "69:31",
-   "team": "away",
+   "team": "home",
    "type": "corner",
    "text": "Corner kick [69:31]."
   },
   {
    "period": 2,
    "clock": "70:26",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Celce, Cameron for Ross, Ashley."
   },
   {
    "period": 2,
    "clock": "70:51",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Kulig, Kinsie, out right."
   },
   {
    "period": 2,
    "clock": "71:04",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [71:04]."
   },
   {
    "period": 2,
    "clock": "72:29",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Avila-Gutierrez, Monssi for Stanley, Shea."
   },
   {
    "period": 2,
    "clock": "72:29",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Silver, Aaliyah for Tindall, Ayla."
   },
   {
    "period": 2,
    "clock": "75:04",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "WIN substitution: Ross, Ashley for Balliet, Sophia."
   },
   {
    "period": 2,
    "clock": "76:00",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Ross, Ashley, out top."
   },
   {
    "period": 2,
    "clock": "76:51",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Silber, Mia, out left."
   },
   {
    "period": 2,
    "clock": "77:55",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Campbell, Taryn for Tomes, Eiliyah."
   },
   {
    "period": 2,
    "clock": "78:47",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Ross, Ashley, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 2,
    "clock": "80:07",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Tindall, Ayla for Moore, Jaelyn."
   },
   {
    "period": 2,
    "clock": "80:18",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Listrom, Sarah."
   },
   {
    "period": 2,
    "clock": "82:36",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by WIN Earman, Aubrey, bottom center, saved by Gittings, Jada."
   },
   {
    "period": 2,
    "clock": "82:47",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow card on SCS Coleman, Vanessa."
   },
   {
    "period": 2,
    "clock": "82:47",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "WIN Monssi Avila-Gutierrez PENALTY KICK GOAL."
   },
   {
    "period": 2,
    "clock": "84:47",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "SCS substitution: Wood, Jenai for Coleman, Vanessa."
   },
   {
    "period": 2,
    "clock": "87:53",
-   "team": "home",
+   "team": "away",
    "type": "goal",
    "text": "GOAL by WIN Avila-Gutierrez, Monssi Assist by Celce, Cameron."
   },
   {
    "period": 2,
    "clock": "90:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "End of period [90:00]."
   }
@@ -1224,5 +1224,6 @@
  },
  "home_team": "South Carolina State",
  "away_team": "Winthrop",
- "scrape_score": "0-3"
+ "scrape_score": "0-3",
+ "_home_away_reconciled": true
 }

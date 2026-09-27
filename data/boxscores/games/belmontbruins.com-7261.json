@@ -8,8 +8,8 @@
  "stadium": "E.S. Rose Park",
  "attendance": 131,
  "away": {
-  "name": "Tennessee Tech",
-  "abbr": "TEN",
+  "name": "Belmont",
+  "abbr": "BEL",
   "winner": false,
   "periods": [
    0,
@@ -18,8 +18,8 @@
   "total": 0
  },
  "home": {
-  "name": "Belmont",
-  "abbr": "BEL",
+  "name": "Tennessee Tech",
+  "abbr": "TEN",
   "winner": false,
   "periods": [
    0,
@@ -33,7 +33,7 @@
  ],
  "players": [
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "GK",
    "num": "1",
@@ -48,7 +48,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "8",
@@ -63,7 +63,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "10",
@@ -78,7 +78,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "13",
@@ -93,7 +93,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "14",
@@ -108,7 +108,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "17",
@@ -123,7 +123,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "DEF",
    "num": "22",
@@ -138,7 +138,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "24",
@@ -153,7 +153,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FWD",
    "num": "25",
@@ -168,7 +168,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "MID",
    "num": "26",
@@ -183,7 +183,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "",
    "num": "31",
@@ -198,7 +198,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "fwd",
    "num": "3",
@@ -213,7 +213,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "def",
    "num": "7",
@@ -228,7 +228,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "fwd",
    "num": "12",
@@ -243,7 +243,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "def",
    "num": "18",
@@ -258,7 +258,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "mid",
    "num": "19",
@@ -273,7 +273,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "def",
    "num": "28",
@@ -288,7 +288,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "GK",
    "num": "0",
@@ -303,7 +303,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "9",
@@ -318,7 +318,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "10",
@@ -333,7 +333,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "11",
@@ -348,7 +348,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "",
    "num": "13",
@@ -363,7 +363,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "14",
@@ -378,7 +378,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "",
    "num": "15",
@@ -393,7 +393,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "FWD",
    "num": "16",
@@ -408,7 +408,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "MID",
    "num": "20",
@@ -423,7 +423,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "23",
@@ -438,7 +438,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "DEF",
    "num": "26",
@@ -453,7 +453,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "fwd",
    "num": "3",
@@ -468,7 +468,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "",
    "num": "4",
@@ -483,7 +483,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "mid",
    "num": "6",
@@ -498,7 +498,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "mid",
    "num": "7",
@@ -513,7 +513,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "fwd",
    "num": "8",
@@ -528,7 +528,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "def",
    "num": "12",
@@ -543,7 +543,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "def",
    "num": "21",
@@ -558,7 +558,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "",
    "num": "22",
@@ -573,7 +573,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "mid",
    "num": "25",
@@ -590,7 +590,7 @@
  ],
  "goalies": [
   {
-   "team": "away",
+   "team": "home",
    "pos": "GK",
    "num": "1",
    "name": "McNamee, Laila",
@@ -599,7 +599,7 @@
    "saves": 5
   },
   {
-   "team": "home",
+   "team": "away",
    "pos": "GK",
    "num": "0",
    "name": "Genie, Greta",
@@ -610,30 +610,6 @@
  ],
  "team_stats": {
   "away": {
-   "shots": 1,
-   "shots_on_goal": 1,
-   "shots_by_period": [
-    1,
-    0
-   ],
-   "saves": 5,
-   "saves_by_period": [
-    1,
-    4
-   ],
-   "corner_kicks": 1,
-   "corner_kicks_by_period": [
-    0,
-    1
-   ],
-   "fouls": 7,
-   "fouls_by_period": [
-    2,
-    5
-   ],
-   "offsides": 1
-  },
-  "home": {
    "shots": 12,
    "shots_on_goal": 5,
    "shots_by_period": [
@@ -656,6 +632,30 @@
     2
    ],
    "offsides": 3
+  },
+  "home": {
+   "shots": 1,
+   "shots_on_goal": 1,
+   "shots_by_period": [
+    1,
+    0
+   ],
+   "saves": 5,
+   "saves_by_period": [
+    1,
+    4
+   ],
+   "corner_kicks": 1,
+   "corner_kicks_by_period": [
+    0,
+    1
+   ],
+   "fouls": 7,
+   "fouls_by_period": [
+    2,
+    5
+   ],
+   "offsides": 1
   }
  },
  "goals": [],
@@ -664,637 +664,637 @@
   {
    "period": 1,
    "clock": "00:00",
-   "team": "home",
+   "team": "away",
    "type": "gk",
    "text": "Genie, Greta at goalie for Belmont"
   },
   {
    "period": 1,
    "clock": "00:00",
-   "team": "away",
+   "team": "home",
    "type": "gk",
    "text": "McNamee, Laila at goalie for Tennessee Tech"
   },
   {
    "period": 1,
    "clock": "00:33",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Elliott, Kaitlyn."
   },
   {
    "period": 1,
    "clock": "07:10",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Koltz, Meredith, bottom right, saved by McNamee, Laila."
   },
   {
    "period": 1,
    "clock": "13:58",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Melin, Ebba."
   },
   {
    "period": 1,
    "clock": "15:30",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Ross, Reagan, out left."
   },
   {
    "period": 1,
    "clock": "20:23",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Koltz, Meredith, out right."
   },
   {
    "period": 1,
    "clock": "27:13",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Rickard, Kaiya for Downs, Teagan."
   },
   {
    "period": 1,
    "clock": "27:13",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Wood, Ashley for Childs, Kayla."
   },
   {
    "period": 1,
    "clock": "28:10",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Koltz, Meredith."
   },
   {
    "period": 1,
    "clock": "28:44",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by TEN Soutuyo, Tori, bottom center, saved by Genie, Greta."
   },
   {
    "period": 1,
    "clock": "29:47",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Meadors, Ava for Elliott, Kaitlyn."
   },
   {
    "period": 1,
    "clock": "29:47",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Patterson, Banin for Koltz, Meredith."
   },
   {
    "period": 1,
    "clock": "29:47",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Towsen, Wagoner for Virtel, Kate."
   },
   {
    "period": 1,
    "clock": "30:57",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [30:57]."
   },
   {
    "period": 1,
    "clock": "31:28",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Churchill, Makira, left woodwork."
   },
   {
    "period": 1,
    "clock": "33:08",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Baumgardner, Corinne for Whittington, Laken."
   },
   {
    "period": 1,
    "clock": "33:08",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Johnson, Lydia for Ross, Reagan."
   },
   {
    "period": 1,
    "clock": "33:08",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Gawrych, Maggie for Tabor, Lillie."
   },
   {
    "period": 1,
    "clock": "33:08",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Wade, Delaney for Williams, Presley."
   },
   {
    "period": 1,
    "clock": "36:49",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Ham, Sophie for Bibee, Halle."
   },
   {
    "period": 1,
    "clock": "36:49",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Griffith, Hadley for Howard, Natalie."
   },
   {
    "period": 1,
    "clock": "39:33",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Ham, Sophie."
   },
   {
    "period": 1,
    "clock": "42:57",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Cotteleer, Iris for Kawashima, Mayo."
   },
   {
    "period": 1,
    "clock": "42:57",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Dade, Kennedy for Soutuyo, Tori."
   },
   {
    "period": 1,
    "clock": "43:58",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Belmont."
   },
   {
    "period": 1,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "End of period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "Start of 2nd period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "FOR TEN: , #1 McNamee, Laila, #31 Soutuyo, Tori, #10 Kawashima, Mayo, #13 Baker, Anna, #14 Melin, Ebba, #25 Howard, Natalie, #17 Bibee, Halle, #22 Johannsdottir, Briet, #8 Childs, Kayla, #24 Williams, Presley, #26 Lott, Phoebe."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "FOR BEL: , #0 Genie, Greta, #9 Churchill, Makira, #20 Virtel, Kate, #8 Meadors, Ava, #10 Whittington, Laken, #23 Tabor, Lillie, #15 Hnatek, Katelyn, #16 Ross, Reagan, #11 Elliott, Kaitlyn, #13 Koltz, Meredith, #26 Miller, Megan."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Virtel, Kate for Baumgardner, Corinne."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Whittington, Laken for Patterson, Banin."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Tabor, Lillie for Rickard, Kaiya."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Ross, Reagan for Johnson, Lydia."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Elliott, Kaitlyn for Towsen, Wagoner."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Koltz, Meredith for Gawrych, Maggie."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Soutuyo, Tori for Wood, Ashley."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Kawashima, Mayo for Cotteleer, Iris."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Howard, Natalie for Ham, Sophie."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Bibee, Halle for Dade, Kennedy."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Childs, Kayla for Wade, Delaney."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Williams, Presley for Griffith, Hadley."
   },
   {
    "period": 2,
    "clock": "45:22",
-   "team": "away",
+   "team": "home",
    "type": "corner",
    "text": "Corner kick [45:22]."
   },
   {
    "period": 2,
    "clock": "48:59",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Koltz, Meredith, bottom right, saved by McNamee, Laila."
   },
   {
    "period": 2,
    "clock": "49:55",
-   "team": "away",
+   "team": "home",
    "type": "offside",
    "text": "Offside against Tennessee Tech."
   },
   {
    "period": 2,
    "clock": "54:53",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Meadors, Ava."
   },
   {
    "period": 2,
    "clock": "55:29",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Ross, Reagan, out top right."
   },
   {
    "period": 2,
    "clock": "56:12",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Dade, Kennedy for Lott, Phoebe."
   },
   {
    "period": 2,
    "clock": "56:24",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Whittington, Laken, out right."
   },
   {
    "period": 2,
    "clock": "56:54",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Melin, Ebba."
   },
   {
    "period": 2,
    "clock": "60:44",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Towsen, Wagoner for Ross, Reagan."
   },
   {
    "period": 2,
    "clock": "62:04",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [62:04]."
   },
   {
    "period": 2,
    "clock": "62:45",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Belmont."
   },
   {
    "period": 2,
    "clock": "64:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Patterson, Banin for Virtel, Kate."
   },
   {
    "period": 2,
    "clock": "64:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Downs, Teagan for Meadors, Ava."
   },
   {
    "period": 2,
    "clock": "64:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Rickard, Kaiya for Elliott, Kaitlyn."
   },
   {
    "period": 2,
    "clock": "64:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Pringle, Caroline for Koltz, Meredith."
   },
   {
    "period": 2,
    "clock": "64:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Gawrych, Maggie for Miller, Megan."
   },
   {
    "period": 2,
    "clock": "66:11",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Ham, Sophie for Bibee, Halle."
   },
   {
    "period": 2,
    "clock": "66:37",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Rickard, Kaiya."
   },
   {
    "period": 2,
    "clock": "67:57",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Lott, Phoebe for Soutuyo, Tori."
   },
   {
    "period": 2,
    "clock": "67:57",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Melin, Ebba."
   },
   {
    "period": 2,
    "clock": "69:09",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Bernsen, Kennedy for Whittington, Laken."
   },
   {
    "period": 2,
    "clock": "71:45",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Soutuyo, Tori for Howard, Natalie."
   },
   {
    "period": 2,
    "clock": "72:33",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Lott, Phoebe."
   },
   {
    "period": 2,
    "clock": "73:28",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Belmont."
   },
   {
    "period": 2,
    "clock": "74:22",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Wade, Delaney for Dade, Kennedy."
   },
   {
    "period": 2,
    "clock": "74:43",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Howard, Natalie for Childs, Kayla."
   },
   {
    "period": 2,
    "clock": "75:14",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Ham, Sophie."
   },
   {
    "period": 2,
    "clock": "75:59",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [75:59]."
   },
   {
    "period": 2,
    "clock": "76:38",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Churchill, Makira, out top."
   },
   {
    "period": 2,
    "clock": "77:17",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Wood, Ashley for Ham, Sophie."
   },
   {
    "period": 2,
    "clock": "78:12",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Miller, Megan for Churchill, Makira."
   },
   {
    "period": 2,
    "clock": "78:12",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Griffith, Hadley for Williams, Presley."
   },
   {
    "period": 2,
    "clock": "81:20",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Whittington, Laken for Patterson, Banin."
   },
   {
    "period": 2,
    "clock": "81:20",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Elliott, Kaitlyn for Pringle, Caroline."
   },
   {
    "period": 2,
    "clock": "81:20",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Meadors, Ava for Gawrych, Maggie."
   },
   {
    "period": 2,
    "clock": "81:43",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [81:43]."
   },
   {
    "period": 2,
    "clock": "83:10",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Towsen, Wagoner, top, saved by McNamee, Laila."
   },
   {
    "period": 2,
    "clock": "83:41",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Williams, Presley for Griffith, Hadley."
   },
   {
    "period": 2,
    "clock": "84:03",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Ross, Reagan for Towsen, Wagoner."
   },
   {
    "period": 2,
    "clock": "84:03",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "BEL substitution: Virtel, Kate for Rickard, Kaiya."
   },
   {
    "period": 2,
    "clock": "84:03",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Dade, Kennedy for Wade, Delaney."
   },
   {
    "period": 2,
    "clock": "84:10",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Wood, Ashley."
   },
   {
    "period": 2,
    "clock": "84:44",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Whittington, Laken, out right."
   },
   {
    "period": 2,
    "clock": "86:14",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Elliott, Kaitlyn, bottom right, saved by McNamee, Laila."
   },
   {
    "period": 2,
    "clock": "87:27",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by BEL Tabor, Lillie, bottom left, saved by McNamee, Laila."
   },
   {
    "period": 2,
    "clock": "87:34",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [87:34]."
   },
   {
    "period": 2,
    "clock": "87:59",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick [87:59]."
   },
   {
    "period": 2,
    "clock": "89:33",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "TEN substitution: Bibee, Halle for Howard, Natalie."
   },
   {
    "period": 2,
    "clock": "90:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "End of period [90:00]."
   }
@@ -1305,5 +1305,6 @@
  },
  "home_team": "Tennessee Tech",
  "away_team": "Belmont",
- "scrape_score": "0-0"
+ "scrape_score": "0-0",
+ "_home_away_reconciled": true
 }

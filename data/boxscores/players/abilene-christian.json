@@ -114,6 +114,111 @@
    ]
   },
   {
+   "name": "Addison Briscoe",
+   "slug": "addison-briscoe",
+   "num": "2",
+   "pos": "F",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 53,
+    "sh": 2,
+    "sog": 1,
+    "g": 1,
+    "a": 1,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "F",
+     "num": "2",
+     "min": 53,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Aliyah Anderson",
+   "slug": "aliyah-anderson",
+   "num": "24",
+   "pos": "F",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 74,
+    "sh": 1,
+    "sog": 1,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "F",
+     "num": "24",
+     "min": 74,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Amelia Miller",
+   "slug": "amelia-miller",
+   "num": "14",
+   "pos": "m",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 28,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 1,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": false,
+     "pos": "m",
+     "num": "14",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
    "name": "Anderson, Aliyah",
    "slug": "anderson-aliyah",
    "num": "24",
@@ -209,15 +314,15 @@
    ]
   },
   {
-   "name": "Antonio-Lopez, Karime",
-   "slug": "antonio-lopez-karime",
-   "num": "10",
-   "pos": "m",
+   "name": "Audrey Coppinger",
+   "slug": "audrey-coppinger",
+   "num": "7",
+   "pos": "d",
    "totals": {
     "gp": 1,
     "starts": 0,
-    "min": 60,
-    "sh": 1,
+    "min": 42,
+    "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -230,9 +335,44 @@
      "date": "2026-08-15",
      "opponent": "Jackson State",
      "start": false,
-     "pos": "m",
-     "num": "10",
-     "min": 60,
+     "pos": "d",
+     "num": "7",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Baylie Simon",
+   "slug": "baylie-simon",
+   "num": "35",
+   "pos": "D",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 55,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "D",
+     "num": "35",
+     "min": 55,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -240,6 +380,51 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Bella Medrano",
+   "slug": "bella-medrano",
+   "num": "00",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 68,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "goalie": {
+     "gp": 1,
+     "ga": 1,
+     "saves": 4
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -348,6 +533,76 @@
      "g": 1,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Charlise Smith",
+   "slug": "charlise-smith",
+   "num": "15",
+   "pos": "D",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 59,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "D",
+     "num": "15",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Chloe Nugent",
+   "slug": "chloe-nugent",
+   "num": "11",
+   "pos": "d",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 8,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": false,
+     "pos": "d",
+     "num": "11",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -509,61 +764,16 @@
    ]
   },
   {
-   "name": "Farmer, Kianah",
-   "slug": "farmer-kianah",
-   "num": "3",
-   "pos": "D",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 45,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0,
-    "goalie": {
-     "gp": 1,
-     "ga": 3,
-     "saves": 6
-    }
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "D",
-     "num": "3",
-     "min": 45,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0,
-     "goalie": {
-      "min": "45:00",
-      "ga": 3,
-      "saves": 6
-     }
-    }
-   ]
-  },
-  {
-   "name": "Fultz, Kamyia",
-   "slug": "fultz-kamyia",
-   "num": "0",
-   "pos": "d",
+   "name": "Emma Taylor",
+   "slug": "emma-taylor",
+   "num": "16",
+   "pos": "m",
    "totals": {
     "gp": 1,
     "starts": 0,
-    "min": 45,
-    "sh": 0,
-    "sog": 0,
+    "min": 15,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -575,11 +785,11 @@
      "date": "2026-08-15",
      "opponent": "Jackson State",
      "start": false,
-     "pos": "d",
-     "num": "0",
-     "min": 45,
-     "sh": 0,
-     "sog": 0,
+     "pos": "m",
+     "num": "16",
+     "min": 15,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -704,6 +914,41 @@
    ]
   },
   {
+   "name": "Gracie Kelly",
+   "slug": "gracie-kelly",
+   "num": "27",
+   "pos": "D",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 68,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "D",
+     "num": "27",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
    "name": "Gregson, Katy",
    "slug": "gregson-katy",
    "num": "6",
@@ -728,41 +973,6 @@
      "pos": "DEF",
      "num": "6",
      "min": 81,
-     "sh": 1,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Hawthorn-Harper, Ryanne",
-   "slug": "hawthorn-harper-ryanne",
-   "num": "7",
-   "pos": "M",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 79,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "M",
-     "num": "7",
-     "min": 79,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -979,16 +1189,16 @@
    ]
   },
   {
-   "name": "Hunter, Myla",
-   "slug": "hunter-myla",
-   "num": "8",
-   "pos": "m",
+   "name": "Jenna Verplancke",
+   "slug": "jenna-verplancke",
+   "num": "5",
+   "pos": "M",
    "totals": {
     "gp": 1,
-    "starts": 0,
-    "min": 12,
-    "sh": 0,
-    "sog": 0,
+    "starts": 1,
+    "min": 62,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -999,12 +1209,12 @@
     {
      "date": "2026-08-15",
      "opponent": "Jackson State",
-     "start": false,
-     "pos": "m",
-     "num": "8",
-     "min": 12,
-     "sh": 0,
-     "sog": 0,
+     "start": true,
+     "pos": "M",
+     "num": "5",
+     "min": 62,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1159,14 +1369,14 @@
    ]
   },
   {
-   "name": "Kammertons, Nina",
-   "slug": "kammertons-nina",
-   "num": "17",
-   "pos": "f",
+   "name": "Katy Gregson",
+   "slug": "katy-gregson",
+   "num": "6",
+   "pos": "D",
    "totals": {
     "gp": 1,
-    "starts": 0,
-    "min": 27,
+    "starts": 1,
+    "min": 68,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1179,10 +1389,10 @@
     {
      "date": "2026-08-15",
      "opponent": "Jackson State",
-     "start": false,
-     "pos": "f",
-     "num": "17",
-     "min": 27,
+     "start": true,
+     "pos": "D",
+     "num": "6",
+     "min": 68,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -1293,41 +1503,6 @@
      "pos": "DEF",
      "num": "27",
      "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Kmiec, Cora",
-   "slug": "kmiec-cora",
-   "num": "25",
-   "pos": "D",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 45,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "D",
-     "num": "25",
-     "min": 45,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1529,6 +1704,41 @@
    ]
   },
   {
+   "name": "McKenzie Glass",
+   "slug": "mckenzie-glass",
+   "num": "4",
+   "pos": "f",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 37,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": false,
+     "pos": "f",
+     "num": "4",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
    "name": "Medrano, Bella",
    "slug": "medrano-bella",
    "num": "00",
@@ -1670,6 +1880,41 @@
       "ga": 1,
       "saves": 9
      }
+    }
+   ]
+  },
+  {
+   "name": "Mikayla Abrenica",
+   "slug": "mikayla-abrenica",
+   "num": "3",
+   "pos": "M",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 68,
+    "sh": 4,
+    "sog": 2,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": true,
+     "pos": "M",
+     "num": "3",
+     "min": 68,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1894,16 +2139,16 @@
    ]
   },
   {
-   "name": "Nuestro, Malayah",
-   "slug": "nuestro-malayah",
-   "num": "13",
-   "pos": "M",
+   "name": "Nia Leslie",
+   "slug": "nia-leslie",
+   "num": "17",
+   "pos": "D",
    "totals": {
     "gp": 1,
     "starts": 1,
-    "min": 75,
-    "sh": 0,
-    "sog": 0,
+    "min": 85,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -1915,11 +2160,11 @@
      "date": "2026-08-15",
      "opponent": "Jackson State",
      "start": true,
-     "pos": "M",
-     "num": "13",
-     "min": 75,
-     "sh": 0,
-     "sog": 0,
+     "pos": "D",
+     "num": "17",
+     "min": 85,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1964,17 +2209,52 @@
    ]
   },
   {
-   "name": "Olaco, Josetiarainnah",
-   "slug": "olaco-josetiarainnah",
-   "num": "6",
-   "pos": "fm",
+   "name": "Raegan Hollis",
+   "slug": "raegan-hollis",
+   "num": "12",
+   "pos": "f",
    "totals": {
     "gp": 1,
     "starts": 0,
-    "min": 63,
-    "sh": 2,
+    "min": 17,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": false,
+     "pos": "f",
+     "num": "12",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Raelin Miller",
+   "slug": "raelin-miller",
+   "num": "13",
+   "pos": "f",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 20,
+    "sh": 1,
     "sog": 1,
-    "g": 1,
+    "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
@@ -1985,116 +2265,11 @@
      "date": "2026-08-15",
      "opponent": "Jackson State",
      "start": false,
-     "pos": "fm",
-     "num": "6",
-     "min": 63,
-     "sh": 2,
+     "pos": "f",
+     "num": "13",
+     "min": 20,
+     "sh": 1,
      "sog": 1,
-     "g": 1,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Ortega, Mia",
-   "slug": "ortega-mia",
-   "num": "11",
-   "pos": "F",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 42,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "F",
-     "num": "11",
-     "min": 42,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Portillo, Nahomy",
-   "slug": "portillo-nahomy",
-   "num": "9",
-   "pos": "m",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 69,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": false,
-     "pos": "m",
-     "num": "9",
-     "min": 69,
-     "sh": 4,
-     "sog": 2,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Rai, Heena",
-   "slug": "rai-heena",
-   "num": "29",
-   "pos": "md",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 45,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": false,
-     "pos": "md",
-     "num": "29",
-     "min": 45,
-     "sh": 0,
-     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2279,16 +2454,16 @@
    ]
   },
   {
-   "name": "Sheffield, Elon",
-   "slug": "sheffield-elon",
-   "num": "14",
+   "name": "Shelby Hollywood",
+   "slug": "shelby-hollywood",
+   "num": "10",
    "pos": "F",
    "totals": {
     "gp": 1,
     "starts": 1,
-    "min": 66,
-    "sh": 3,
-    "sog": 2,
+    "min": 68,
+    "sh": 0,
+    "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -2301,10 +2476,10 @@
      "opponent": "Jackson State",
      "start": true,
      "pos": "F",
-     "num": "14",
-     "min": 66,
-     "sh": 3,
-     "sog": 2,
+     "num": "10",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2402,41 +2577,6 @@
      "sog": 3,
      "g": 1,
      "a": 1,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Singleton, Amayah",
-   "slug": "singleton-amayah",
-   "num": "21",
-   "pos": "D",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "D",
-     "num": "21",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0
@@ -2554,48 +2694,13 @@
    ]
   },
   {
-   "name": "Sturkey, Makayla",
-   "slug": "sturkey-makayla",
-   "num": "28",
-   "pos": "D",
+   "name": "Sophia Saludares",
+   "slug": "sophia-saludares",
+   "num": "9",
+   "pos": "m",
    "totals": {
     "gp": 1,
-    "starts": 1,
-    "min": 52,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "D",
-     "num": "28",
-     "min": 52,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Tablado, Dezire Kaila",
-   "slug": "tablado-dezire-kaila",
-   "num": "23",
-   "pos": "FM",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
+    "starts": 0,
     "min": 21,
     "sh": 0,
     "sog": 0,
@@ -2609,10 +2714,45 @@
     {
      "date": "2026-08-15",
      "opponent": "Jackson State",
-     "start": true,
-     "pos": "FM",
-     "num": "23",
+     "start": false,
+     "pos": "m",
+     "num": "9",
      "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Stella Sa",
+   "slug": "stella-sa",
+   "num": "25",
+   "pos": "md",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 5,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0
+   },
+   "matches": [
+    {
+     "date": "2026-08-15",
+     "opponent": "Jackson State",
+     "start": false,
+     "pos": "md",
+     "num": "25",
+     "min": 5,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2838,76 +2978,6 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Wilson, Asia",
-   "slug": "wilson-asia",
-   "num": "4",
-   "pos": "D",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "D",
-     "num": "4",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Wilson, India",
-   "slug": "wilson-india",
-   "num": "27",
-   "pos": "F",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 58,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-15",
-     "opponent": "Jackson State",
-     "start": true,
-     "pos": "F",
-     "num": "27",
-     "min": 58,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
      "yc": 0,
      "rc": 0
     }

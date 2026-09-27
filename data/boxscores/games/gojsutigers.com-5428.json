@@ -8,16 +8,6 @@
  "stadium": "Messmer Stadium",
  "attendance": 57,
  "away": {
-  "name": "Jackson St.",
-  "abbr": "JACKSON",
-  "winner": false,
-  "periods": [
-   0,
-   1
-  ],
-  "total": 1
- },
- "home": {
   "name": "Abilene Christian",
   "abbr": "ABILENE",
   "winner": true,
@@ -27,13 +17,23 @@
   ],
   "total": 3
  },
+ "home": {
+  "name": "Jackson St.",
+  "abbr": "JACKSON",
+  "winner": false,
+  "periods": [
+   0,
+   1
+  ],
+  "total": 1
+ },
  "periods": [
   "1",
   "2"
  ],
  "players": [
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "D",
    "num": "3",
@@ -48,7 +48,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "D",
    "num": "4",
@@ -63,7 +63,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "M",
    "num": "7",
@@ -78,7 +78,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "F",
    "num": "11",
@@ -93,7 +93,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "M",
    "num": "13",
@@ -108,7 +108,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "F",
    "num": "14",
@@ -123,7 +123,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "D",
    "num": "21",
@@ -138,7 +138,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "FM",
    "num": "23",
@@ -153,7 +153,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "D",
    "num": "25",
@@ -168,7 +168,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "F",
    "num": "27",
@@ -183,7 +183,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": true,
    "pos": "D",
    "num": "28",
@@ -198,7 +198,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "d",
    "num": "0",
@@ -213,7 +213,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "fm",
    "num": "6",
@@ -228,7 +228,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "m",
    "num": "8",
@@ -243,7 +243,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "m",
    "num": "9",
@@ -258,7 +258,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "m",
    "num": "10",
@@ -273,7 +273,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "f",
    "num": "17",
@@ -288,7 +288,7 @@
    "rc": 0
   },
   {
-   "team": "away",
+   "team": "home",
    "start": false,
    "pos": "md",
    "num": "29",
@@ -303,7 +303,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "GK",
    "num": "00",
@@ -318,7 +318,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "F",
    "num": "2",
@@ -333,7 +333,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "M",
    "num": "3",
@@ -348,7 +348,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "M",
    "num": "5",
@@ -363,7 +363,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "D",
    "num": "6",
@@ -378,7 +378,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "F",
    "num": "10",
@@ -393,7 +393,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "D",
    "num": "15",
@@ -408,7 +408,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "D",
    "num": "17",
@@ -423,7 +423,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "F",
    "num": "24",
@@ -438,7 +438,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "D",
    "num": "27",
@@ -453,7 +453,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": true,
    "pos": "D",
    "num": "35",
@@ -468,7 +468,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "f",
    "num": "4",
@@ -483,7 +483,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "d",
    "num": "7",
@@ -498,7 +498,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "m",
    "num": "9",
@@ -513,7 +513,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "d",
    "num": "11",
@@ -528,7 +528,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "f",
    "num": "12",
@@ -543,7 +543,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "f",
    "num": "13",
@@ -558,7 +558,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "m",
    "num": "14",
@@ -573,7 +573,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "m",
    "num": "16",
@@ -588,7 +588,7 @@
    "rc": 0
   },
   {
-   "team": "home",
+   "team": "away",
    "start": false,
    "pos": "md",
    "num": "25",
@@ -605,7 +605,7 @@
  ],
  "goalies": [
   {
-   "team": "away",
+   "team": "home",
    "pos": "GK",
    "num": "3",
    "name": "Farmer, Kianah",
@@ -614,7 +614,7 @@
    "saves": 6
   },
   {
-   "team": "home",
+   "team": "away",
    "pos": "GK",
    "num": "00",
    "name": "Bella Medrano",
@@ -625,30 +625,6 @@
  ],
  "team_stats": {
   "away": {
-   "shots": 12,
-   "shots_on_goal": 5,
-   "shots_by_period": [
-    5,
-    7
-   ],
-   "saves": 6,
-   "saves_by_period": [
-    3,
-    3
-   ],
-   "corner_kicks": 3,
-   "corner_kicks_by_period": [
-    1,
-    2
-   ],
-   "fouls": 11,
-   "fouls_by_period": [
-    6,
-    5
-   ],
-   "offsides": 0
-  },
-  "home": {
    "shots": 14,
    "shots_on_goal": 9,
    "shots_by_period": [
@@ -671,6 +647,30 @@
     9
    ],
    "offsides": 5
+  },
+  "home": {
+   "shots": 12,
+   "shots_on_goal": 5,
+   "shots_by_period": [
+    5,
+    7
+   ],
+   "saves": 6,
+   "saves_by_period": [
+    3,
+    3
+   ],
+   "corner_kicks": 3,
+   "corner_kicks_by_period": [
+    1,
+    2
+   ],
+   "fouls": 11,
+   "fouls_by_period": [
+    6,
+    5
+   ],
+   "offsides": 0
   }
  },
  "goals": [
@@ -761,700 +761,700 @@
   {
    "period": 1,
    "clock": "0:00",
-   "team": "away",
+   "team": "home",
    "type": "gk",
    "text": "Kianah Farmer at goalie for Jackson St.."
   },
   {
    "period": 1,
    "clock": "0:00",
-   "team": "home",
+   "team": "away",
    "type": "gk",
    "text": "Bella Medrano at goalie for Abilene Christian."
   },
   {
    "period": 1,
    "clock": "1:41",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Mikayla Abrenica, Save (by goalie) Kianah Farmer."
   },
   {
    "period": 1,
    "clock": "4:03",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick by Abilene Christian Baylie Simon [4:03]."
   },
   {
    "period": 1,
    "clock": "4:47",
-   "team": "home",
+   "team": "away",
    "type": "corner",
    "text": "Corner kick by Abilene Christian Mikayla Abrenica [4:47]."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 1,
    "clock": "7:23",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Elon Sheffield, Save (by goalie) Bella Medrano."
   },
   {
    "period": 1,
    "clock": "8:26",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Elon Sheffield, Blocked."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 1,
    "clock": "11:46",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Abilene Christian."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 1,
    "clock": "14:24",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Baylie Simon, Blocked."
   },
   {
    "period": 1,
    "clock": "15:33",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Nia Leslie, Save (by goalie) Kianah Farmer."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 1,
    "clock": "19:14",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Elon Sheffield, Save (by goalie) Bella Medrano."
   },
   {
    "period": 1,
    "clock": "21:25",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Nahomy Portillo for Kaila Tablado."
   },
   {
    "period": 1,
    "clock": "23:24",
-   "team": "home",
+   "team": "away",
    "type": "goal",
    "text": "GOAL by Abilene Christian Addison Briscoe (FIRST GOAL)"
   },
   {
    "period": 1,
    "clock": "23:24",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "For Abilene Christian: #3 Mikayla Abrenica, #4 McKenzie Glass, #17 Nia Leslie."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 1,
    "clock": "26:50",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Josetiarainnah Olaco for Mia Ortega."
   },
   {
    "period": 1,
    "clock": "26:51",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Nina Kammertoens for Kaila Tablado."
   },
   {
    "period": 1,
    "clock": "28:12",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Nahomy Portillo, Save (by goalie) Bella Medrano."
   },
   {
    "period": 1,
    "clock": "29:20",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Abilene Christian."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 1,
    "clock": "29:58",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow card on Jackson St. Nahomy Portillo."
   },
   {
    "period": 1,
    "clock": "30:15",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Mikayla Abrenica, High."
   },
   {
    "period": 1,
    "clock": "30:27",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Karime Antonio-Lopez for Malayah Nuestro."
   },
   {
    "period": 1,
    "clock": "31:27",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Josetiarainnah Olaco, Wide Right."
   },
   {
    "period": 1,
    "clock": "31:35",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Raelin Miller for Mikayla Abrenica."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 1,
    "clock": "33:30",
-   "team": "away",
+   "team": "home",
    "type": "corner",
    "text": "Corner kick by Jackson St. Karime Antonio-Lopez [33:30]."
   },
   {
    "period": 1,
    "clock": "34:18",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Audrey Coppinger for Katy Gregson."
   },
   {
    "period": 1,
    "clock": "35:24",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Raelin Miller, Save (by goalie) Kianah Farmer."
   },
   {
    "period": 1,
    "clock": "36:46",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Abilene Christian."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 1,
    "clock": "39:53",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Sophia Saludares for Nia Leslie."
   },
   {
    "period": 1,
    "clock": "39:53",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Stella Sa for Charlise Smith."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 1,
    "clock": "42:40",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Emma Taylor for Addison Briscoe."
   },
   {
    "period": 1,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 1,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "End of period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "Start of 2nd period [45:00]."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "For Abilene Christian: #2 Addison Briscoe, #3 Mikayla Abrenica, #5 Jenna Verplancke, #6 Katy Gregson, #7 Audrey Coppinger, #10 Shelby Hollywood, #14 Amelia Miller, #17 Nia Leslie, #27 Gracie Kelly, #35 Baylie Simon, #00 Bella Medrano."
   },
   {
    "period": 2,
    "clock": "45:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "For Jackson St.: #0 Kamyia Fultz, #4 Asia Wilson, #6 Josetiarainnah Olaco, #7 Ryanne Hawthorn-Harper, #9 Nahomy Portillo, #10 Karime Antonio-Lopez, #13 Malayah Nuestro, #14 Elon Sheffield, #21 Amayah Singleton, #28 Makayla Sturkey, #29 Heena Rai."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "50:37",
-   "team": "away",
+   "team": "home",
    "type": "goal",
    "text": "GOAL by Jackson St. Josetiarainnah Olaco"
   },
   {
    "period": 2,
    "clock": "51:14",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Addison Briscoe, Wide."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 2,
    "clock": "52:25",
-   "team": "away",
+   "team": "home",
    "type": "red",
    "text": "Red card on Jackson St. Makayla Sturkey."
   },
   {
    "period": 2,
    "clock": "52:25",
-   "team": "home",
+   "team": "away",
    "type": "other",
    "text": "Abilene Christian Mikayla Abrenica PENALTY KICK GOAL, goal number 0 for season."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "53:58",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Karime Antonio-Lopez, High."
   },
   {
    "period": 2,
    "clock": "54:38",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Charlise Smith for Baylie Simon."
   },
   {
    "period": 2,
    "clock": "56:06",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Katy Gregson, Wide."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "57:03",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Abilene Christian."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "57:42",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Nahomy Portillo, Save (by goalie) Bella Medrano."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "60:39",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Sophia Saludares for Audrey Coppinger."
   },
   {
    "period": 2,
    "clock": "60:49",
-   "team": "away",
+   "team": "home",
    "type": "corner",
    "text": "Corner kick by Jackson St. Karime Antonio-Lopez [60:49]."
   },
   {
    "period": 2,
    "clock": "61:16",
-   "team": "away",
+   "team": "home",
    "type": "corner",
    "text": "Corner kick by Jackson St. Nahomy Portillo [61:16]."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "64:44",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Jenna Verplancke, Save (by goalie) Kianah Farmer."
   },
   {
    "period": 2,
    "clock": "65:30",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Nahomy Portillo, Wide Right."
   },
   {
    "period": 2,
    "clock": "65:41",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Mia Ortega for Elon Sheffield."
   },
   {
    "period": 2,
    "clock": "66:15",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Chloe Nugent for Mikayla Abrenica."
   },
   {
    "period": 2,
    "clock": "69:29",
-   "team": "home",
+   "team": "away",
    "type": "goal",
    "text": "GOAL by Abilene Christian Aliyah Anderson, Assist by Addison Briscoe and Amelia Miller"
   },
   {
    "period": 2,
    "clock": "72:15",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Nina Kammertoens, Blocked."
   },
   {
    "period": 2,
    "clock": "72:52",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Raegan Hollis for Amelia Miller."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "73:28",
-   "team": "home",
+   "team": "away",
    "type": "yellow",
    "text": "Yellow card on Abilene Christian Chloe Nugent."
   },
   {
    "period": 2,
    "clock": "74:20",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow card on Jackson St. Team."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow Card - Head Coach"
   },
   {
    "period": 2,
    "clock": "74:26",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Audrey Coppinger for Chloe Nugent."
   },
   {
    "period": 2,
    "clock": "74:26",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Mikayla Abrenica for Aliyah Anderson."
   },
   {
    "period": 2,
    "clock": "74:26",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: McKenzie Glass for Addison Briscoe."
   },
   {
    "period": 2,
    "clock": "75:33",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Ryanne Hawthorn-Harper, High."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "home",
+   "team": "away",
    "type": "foul",
    "text": "Foul on Abilene Christian."
   },
   {
    "period": 2,
    "clock": "76:46",
-   "team": "away",
+   "team": "home",
    "type": "shot",
    "text": "Shot by Jackson St. Nahomy Portillo, Wide Right."
   },
   {
    "period": 2,
    "clock": "77:00",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Emma Taylor for Sophia Saludares."
   },
   {
    "period": 2,
    "clock": "77:00",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: India Wilson for Kaila Tablado."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 2,
    "clock": "78:02",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow card on Jackson St. Ryanne Hawthorn-Harper."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 2,
    "clock": "78:30",
-   "team": "away",
+   "team": "home",
    "type": "yellow",
    "text": "Yellow card on Jackson St. Elon Sheffield."
   },
   {
    "period": 2,
    "clock": "78:30",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Myla Hunter for Ryanne Hawthorn-Harper."
   },
   {
    "period": 2,
    "clock": "78:30",
-   "team": "away",
+   "team": "home",
    "type": "red",
    "text": "Red card on Jackson St. Ryanne Hawthorn-Harper."
   },
   {
    "period": 2,
    "clock": "78:43",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian McKenzie Glass, Save (by goalie) Kianah Farmer."
   },
   {
    "period": 2,
    "clock": "80:01",
-   "team": "home",
+   "team": "away",
    "type": "offside",
    "text": "Offside against Abilene Christian."
   },
   {
    "period": 2,
    "clock": "80:53",
-   "team": "away",
+   "team": "home",
    "type": "sub",
    "text": "Jackson St. substitution: Nina Kammertoens for Mia Ortega."
   },
   {
    "period": 2,
    "clock": "82:41",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Emma Taylor, Save (by goalie) Kianah Farmer."
   },
   {
    "period": 2,
    "clock": "83:06",
-   "team": "home",
+   "team": "away",
    "type": "sub",
    "text": "Abilene Christian substitution: Raelin Miller for Jenna Verplancke."
   },
   {
    "period": 2,
    "clock": "84:43",
-   "team": "home",
+   "team": "away",
    "type": "shot",
    "text": "Shot by Abilene Christian Mikayla Abrenica, Wide Right."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 2,
    "clock": "--",
-   "team": "away",
+   "team": "home",
    "type": "foul",
    "text": "Foul on Jackson St.."
   },
   {
    "period": 2,
    "clock": "90:00",
-   "team": "away",
+   "team": "home",
    "type": "other",
    "text": "End of period [90:00]."
   }
@@ -1465,5 +1465,6 @@
  },
  "home_team": "Jackson State",
  "away_team": "Abilene Christian",
- "scrape_score": "1-3"
+ "scrape_score": "1-3",
+ "_home_away_reconciled": true
 }

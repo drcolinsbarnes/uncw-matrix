@@ -44,10 +44,10 @@
    "num": "42",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 29,
-    "sh": 1,
+    "min": 42,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -68,6 +68,21 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "42",
+     "min": 13,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -107,7 +122,7 @@
    "name": "Adeniyi, Damilola",
    "slug": "adeniyi-damilola",
    "num": "42",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -159,9 +174,9 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 702,
+    "gp": 9,
+    "starts": 9,
+    "min": 783,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -179,6 +194,21 @@
      "num": "2",
      "min": 90,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 81,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -294,84 +324,14 @@
    ]
   },
   {
-   "name": "Beliveau, Nelly",
-   "slug": "beliveau-nelly",
-   "num": "12",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 71,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 3,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "MID",
-     "num": "12",
-     "min": 71,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 3,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Bell, Ava",
-   "slug": "bell-ava",
-   "num": "24",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 80,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "MID",
-     "num": "24",
-     "min": 80,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Betancourt, Michelle",
    "slug": "betancourt-michelle",
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 131,
+    "min": 178,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -393,6 +353,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "MID",
+     "num": "18",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -464,18 +439,33 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 17,
-    "sh": 0,
-    "sog": 0,
+    "min": 31,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 0,
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "32",
+     "min": 14,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-30",
      "opponent": "Alabama A&M",
@@ -494,49 +484,14 @@
    ]
   },
   {
-   "name": "Boulter, Aoife",
-   "slug": "boulter-aoife",
-   "num": "18",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 2,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "MID",
-     "num": "18",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 2,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Briggs, Josie",
    "slug": "briggs-josie",
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 2,
-    "min": 142,
+    "min": 151,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -553,6 +508,21 @@
      "pos": "DEF",
      "num": "15",
      "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 9,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -594,138 +564,38 @@
    ]
   },
   {
-   "name": "Brown, Claire",
-   "slug": "brown-claire",
-   "num": "26",
-   "pos": null,
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 52,
-    "sh": 2,
-    "sog": 1,
-    "g": 0,
-    "a": 0,
-    "fouls": 3,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "",
-     "num": "26",
-     "min": 52,
-     "sh": 2,
-     "sog": 1,
-     "g": 0,
-     "a": 0,
-     "fouls": 3,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Carmona, Valentina",
-   "slug": "carmona-valentina",
-   "num": "11",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 34,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "DEF",
-     "num": "11",
-     "min": 34,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Caron, Mahee-Lee",
-   "slug": "caron-mahee-lee",
-   "num": "0",
-   "pos": "GK",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 45,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0,
-    "goalie": {
-     "gp": 1,
-     "ga": 3,
-     "saves": 3
-    }
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "GK",
-     "num": "0",
-     "min": 45,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0,
-     "goalie": {
-      "min": "45:00",
-      "ga": 3,
-      "saves": 3
-     }
-    }
-   ]
-  },
-  {
    "name": "Cofie, Scarlett",
    "slug": "cofie-scarlett",
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 37,
+    "gp": 4,
+    "starts": 1,
+    "min": 69,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-30",
      "opponent": "Alabama A&M",
@@ -768,111 +638,6 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Conkling, Ashton",
-   "slug": "conkling-ashton",
-   "num": "23",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 3,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "MID",
-     "num": "23",
-     "min": 3,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Cunniff, Mary Kate",
-   "slug": "cunniff-mary-kate",
-   "num": "17",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 31,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "MID",
-     "num": "17",
-     "min": 31,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Darago, Karley",
-   "slug": "darago-karley",
-   "num": "13",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 45,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 2,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "MID",
-     "num": "13",
-     "min": 45,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 2,
      "yc": 0,
      "rc": 0
     }
@@ -964,12 +729,12 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 572,
-    "sh": 14,
-    "sog": 7,
-    "g": 3,
+    "gp": 9,
+    "starts": 9,
+    "min": 612,
+    "sh": 15,
+    "sog": 8,
+    "g": 4,
     "a": 1,
     "fouls": 7,
     "yc": 0,
@@ -988,6 +753,21 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 40,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -1199,54 +979,19 @@
    ]
   },
   {
-   "name": "Gelinas, Mya",
-   "slug": "gelinas-mya",
-   "num": "8",
-   "pos": "FWD",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 26,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "FWD",
-     "num": "8",
-     "min": 26,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Gonzalez, Veronica",
    "slug": "gonzalez-veronica",
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 624,
+    "gp": 9,
+    "starts": 9,
+    "min": 714,
     "sh": 1,
     "sog": 1,
     "g": 0,
-    "a": 0,
-    "fouls": 3,
+    "a": 1,
+    "fouls": 4,
     "yc": 1,
     "rc": 0
    },
@@ -1264,6 +1009,21 @@
      "a": 0,
      "fouls": 1,
      "yc": 1,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
      "rc": 0
     },
     {
@@ -1379,12 +1139,12 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 6,
-    "min": 489,
-    "sh": 1,
-    "sog": 1,
-    "g": 0,
+    "min": 535,
+    "sh": 3,
+    "sog": 3,
+    "g": 2,
     "a": 0,
     "fouls": 3,
     "yc": 0,
@@ -1401,6 +1161,21 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "",
+     "num": "16",
+     "min": 46,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1519,13 +1294,13 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 479,
+    "min": 515,
     "sh": 5,
     "sog": 1,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 4,
     "yc": 1,
     "rc": 0
@@ -1543,6 +1318,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -1644,41 +1434,6 @@
      "num": "17",
      "min": 55,
      "sh": 1,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Hammes, Natalie",
-   "slug": "hammes-natalie",
-   "num": "2",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 19,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "DEF",
-     "num": "2",
-     "min": 19,
-     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1819,14 +1574,14 @@
    "num": "88",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 543,
-    "sh": 7,
-    "sog": 2,
-    "g": 0,
+    "gp": 9,
+    "starts": 9,
+    "min": 566,
+    "sh": 9,
+    "sog": 3,
+    "g": 1,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0
    },
@@ -1843,6 +1598,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "88",
+     "min": 23,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     },
@@ -1954,98 +1724,18 @@
    ]
   },
   {
-   "name": "Hunt, Sammy",
-   "slug": "hunt-sammy",
-   "num": "4",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "DEF",
-     "num": "4",
-     "min": 90,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Johns, Lillian",
-   "slug": "johns-lillian",
-   "num": "30",
-   "pos": "GK",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 44,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0,
-    "goalie": {
-     "gp": 1,
-     "ga": 2,
-     "saves": 0
-    }
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "GK",
-     "num": "30",
-     "min": 44,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0,
-     "goalie": {
-      "min": "45:00",
-      "ga": 2,
-      "saves": 0
-     }
-    }
-   ]
-  },
-  {
    "name": "Katamoto, Nao",
    "slug": "katamoto-nao",
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 628,
-    "sh": 17,
+    "gp": 9,
+    "starts": 9,
+    "min": 685,
+    "sh": 18,
     "sog": 8,
     "g": 1,
-    "a": 4,
+    "a": 7,
     "fouls": 7,
     "yc": 0,
     "rc": 0
@@ -2063,6 +1753,21 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 3,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -2179,12 +1884,12 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 5,
-    "min": 283,
-    "sh": 6,
-    "sog": 1,
-    "g": 0,
+    "min": 326,
+    "sh": 8,
+    "sog": 2,
+    "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 0,
@@ -2203,6 +1908,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "14",
+     "min": 43,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -2272,7 +1992,7 @@
    "name": "Knorr, Dior",
    "slug": "knorr-dior-2",
    "num": "14",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2324,14 +2044,14 @@
    "num": "5",
    "pos": null,
    "totals": {
-    "gp": 3,
-    "starts": 2,
-    "min": 220,
+    "gp": 4,
+    "starts": 3,
+    "min": 310,
     "sh": 1,
     "sog": 0,
     "g": 0,
-    "a": 0,
-    "fouls": 0,
+    "a": 1,
+    "fouls": 1,
     "yc": 0,
     "rc": 0
    },
@@ -2348,6 +2068,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     },
@@ -2373,76 +2108,6 @@
      "pos": "",
      "num": "5",
      "min": 40,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Matthews, Ali",
-   "slug": "matthews-ali",
-   "num": "25",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 75,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "DEF",
-     "num": "25",
-     "min": 75,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "McMurtrey, Callie",
-   "slug": "mcmurtrey-callie",
-   "num": "21",
-   "pos": "FWD",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 58,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "FWD",
-     "num": "21",
-     "min": 58,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2569,9 +2234,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 571,
+    "gp": 8,
+    "starts": 8,
+    "min": 661,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2580,9 +2245,9 @@
     "yc": 0,
     "rc": 0,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 4,
-     "saves": 22
+     "saves": 23
     }
    },
    "matches": [
@@ -2604,6 +2269,26 @@
       "min": "90:00",
       "ga": 1,
       "saves": 3
+     }
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
      }
     },
     {
@@ -2729,89 +2414,19 @@
    ]
   },
   {
-   "name": "Moran, Rita",
-   "slug": "moran-rita",
-   "num": "3",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 54,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 1,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "DEF",
-     "num": "3",
-     "min": 54,
-     "sh": 1,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 1,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Murray, Sarah Bella",
-   "slug": "murray-sarah-bella",
-   "num": "6",
-   "pos": "FWD",
-   "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 29,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": false,
-     "pos": "FWD",
-     "num": "6",
-     "min": 29,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Nadda, Dana",
    "slug": "nadda-dana",
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 364,
-    "sh": 5,
-    "sog": 2,
+    "gp": 9,
+    "starts": 7,
+    "min": 414,
+    "sh": 6,
+    "sog": 3,
     "g": 2,
-    "a": 1,
-    "fouls": 4,
+    "a": 2,
+    "fouls": 5,
     "yc": 0,
     "rc": 0
    },
@@ -2828,6 +2443,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     },
@@ -2944,14 +2574,14 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 142,
-    "sh": 8,
+    "min": 182,
+    "sh": 9,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0
    },
@@ -2968,6 +2598,21 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "24",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     },
@@ -3049,86 +2694,16 @@
    ]
   },
   {
-   "name": "Rios, Perla",
-   "slug": "rios-perla",
-   "num": "20",
-   "pos": "DEF",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 29,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "DEF",
-     "num": "20",
-     "min": 29,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Schilling, Abigail",
-   "slug": "schilling-abigail",
-   "num": "16",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 39,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "MID",
-     "num": "16",
-     "min": 39,
-     "sh": 0,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
    "name": "Soto, Londyn",
    "slug": "soto-londyn",
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 240,
-    "sh": 0,
-    "sog": 0,
+    "min": 259,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 1,
@@ -3145,6 +2720,21 @@
      "min": 9,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 19,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3259,15 +2849,15 @@
    ]
   },
   {
-   "name": "Steenhold, Rikkie",
-   "slug": "steenhold-rikkie",
-   "num": "9",
-   "pos": "DEF",
+   "name": "Soucy, Reagan",
+   "slug": "soucy-reagan",
+   "num": "25",
+   "pos": "FWD",
    "totals": {
     "gp": 1,
     "starts": 0,
-    "min": 19,
-    "sh": 1,
+    "min": 3,
+    "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -3280,49 +2870,14 @@
      "date": "2026-08-16",
      "opponent": "Western Illinois",
      "start": false,
-     "pos": "DEF",
-     "num": "9",
-     "min": 19,
-     "sh": 1,
-     "sog": 0,
-     "g": 0,
-     "a": 0,
-     "fouls": 0,
-     "yc": 0,
-     "rc": 0
-    }
-   ]
-  },
-  {
-   "name": "Stickelmaier, Madeline",
-   "slug": "stickelmaier-madeline",
-   "num": "7",
-   "pos": "MID",
-   "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 56,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 0,
-    "fouls": 1,
-    "yc": 0,
-    "rc": 0
-   },
-   "matches": [
-    {
-     "date": "2026-08-16",
-     "opponent": "Western Illinois",
-     "start": true,
-     "pos": "MID",
-     "num": "7",
-     "min": 56,
+     "pos": "FWD",
+     "num": "25",
+     "min": 3,
      "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
-     "fouls": 1,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -3334,9 +2889,9 @@
    "num": "19",
    "pos": null,
    "totals": {
-    "gp": 4,
-    "starts": 0,
-    "min": 74,
+    "gp": 5,
+    "starts": 1,
+    "min": 98,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -3346,6 +2901,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-30",
      "opponent": "Alabama A&M",
@@ -3414,9 +2984,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 73,
+    "min": 88,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3433,6 +3003,21 @@
      "pos": "FWD",
      "num": "3",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 15,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3509,9 +3094,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 186,
+    "min": 244,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3528,6 +3113,21 @@
      "pos": "DEF",
      "num": "8",
      "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "DEF",
+     "num": "8",
+     "min": 58,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3649,10 +3249,10 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 163,
-    "sh": 7,
+    "min": 179,
+    "sh": 8,
     "sog": 4,
     "g": 3,
     "a": 1,
@@ -3673,6 +3273,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 16,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     },
@@ -3789,9 +3404,9 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 436,
+    "gp": 8,
+    "starts": 5,
+    "min": 490,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3801,6 +3416,21 @@
     "rc": 0
    },
    "matches": [
+    {
+     "date": "2026-08-16",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "FWD",
+     "num": "29",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
     {
      "date": "2026-08-20",
      "opponent": "Auburn",
