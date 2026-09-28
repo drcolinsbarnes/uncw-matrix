@@ -18,7 +18,10 @@
     "a": 2,
     "fouls": 6,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 57.1,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -188,7 +191,10 @@
     "a": 0,
     "fouls": 4,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -343,7 +349,10 @@
     "a": 0,
     "fouls": 7,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -498,7 +507,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 2,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -657,7 +669,7 @@
    "name": "Brooks, Natalie",
    "slug": "brooks-natalie",
    "num": "12",
-   "pos": "F",
+   "pos": "FWD",
    "totals": {
     "gp": 10,
     "starts": 9,
@@ -668,7 +680,10 @@
     "a": 0,
     "fouls": 11,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 57.1,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -838,7 +853,10 @@
     "a": 0,
     "fouls": 4,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 53.3,
+    "shots_saved": 11,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -1008,7 +1026,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1178,7 +1199,10 @@
     "a": 1,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1333,7 +1357,10 @@
     "a": 1,
     "fouls": 4,
     "yc": 2,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 37.5,
+    "shots_saved": 6,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1492,7 +1519,7 @@
    "name": "Harris, Juju",
    "slug": "harris-juju",
    "num": "19",
-   "pos": "F",
+   "pos": "FWD",
    "totals": {
     "gp": 10,
     "starts": 10,
@@ -1503,7 +1530,10 @@
     "a": 2,
     "fouls": 9,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 7,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1674,10 +1704,14 @@
     "fouls": 0,
     "yc": 0,
     "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
     "goalie": {
      "gp": 3,
      "ga": 1,
-     "saves": 0
+     "saves": 0,
+     "save_pct": 0.0
     }
    },
    "matches": [
@@ -1758,7 +1792,10 @@
     "a": 0,
     "fouls": 4,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1913,7 +1950,10 @@
     "a": 1,
     "fouls": 5,
     "yc": 0,
-    "rc": 1
+    "rc": 1,
+    "shot_pct": 100.0,
+    "shots_saved": 2,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -2068,7 +2108,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -2103,7 +2146,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2273,7 +2319,10 @@
     "a": 3,
     "fouls": 5,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2443,7 +2492,10 @@
     "a": 1,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2569,10 +2621,14 @@
     "fouls": 1,
     "yc": 1,
     "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
     "goalie": {
      "gp": 10,
      "ga": 5,
-     "saves": 23
+     "saves": 23,
+     "save_pct": 82.1
     }
    },
    "matches": [
@@ -2793,7 +2849,10 @@
     "a": 0,
     "fouls": 4,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2963,7 +3022,10 @@
     "a": 1,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3043,7 +3105,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3138,7 +3203,10 @@
     "a": 0,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 71.4,
+    "shots_saved": 5,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3308,7 +3376,10 @@
     "a": 1,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 16.7,
+    "shots_saved": 1,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3467,7 +3538,7 @@
    "name": "Tobia, Jenna",
    "slug": "tobia-jenna",
    "num": "8",
-   "pos": "F",
+   "pos": "FWD",
    "totals": {
     "gp": 10,
     "starts": 2,
@@ -3478,7 +3549,10 @@
     "a": 0,
     "fouls": 4,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3648,7 +3722,10 @@
     "a": 1,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {

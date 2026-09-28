@@ -18,7 +18,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -53,7 +56,10 @@
     "a": 1,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -178,7 +184,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -228,7 +237,10 @@
     "a": 1,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 28.6,
+    "shots_saved": 2,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -368,7 +380,10 @@
     "a": 1,
     "fouls": 6,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 34.8,
+    "shots_saved": 7,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -538,7 +553,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -697,7 +715,7 @@
    "name": "Dolan, Reese",
    "slug": "dolan-reese",
    "num": "30",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -709,10 +727,14 @@
     "fouls": 0,
     "yc": 0,
     "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
     "goalie": {
      "gp": 2,
      "ga": 1,
-     "saves": 3
+     "saves": 3,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -773,7 +795,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -823,7 +848,10 @@
     "a": 2,
     "fouls": 3,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -993,7 +1021,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 36.4,
+    "shots_saved": 3,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1163,7 +1194,10 @@
     "a": 2,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 6,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1333,7 +1367,10 @@
     "a": 0,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -1368,7 +1405,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1403,7 +1443,10 @@
     "a": 0,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 42.9,
+    "shots_saved": 2,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1574,10 +1617,14 @@
     "fouls": 0,
     "yc": 0,
     "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
     "goalie": {
      "gp": 10,
      "ga": 13,
-     "saves": 37
+     "saves": 37,
+     "save_pct": 74.0
     }
    },
    "matches": [
@@ -1798,7 +1845,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -1863,7 +1913,10 @@
     "a": 2,
     "fouls": 5,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 6,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2018,7 +2071,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 23.1,
+    "shots_saved": 1,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2143,7 +2199,10 @@
     "a": 3,
     "fouls": 5,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2313,7 +2372,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2483,7 +2545,10 @@
     "a": 0,
     "fouls": 5,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2653,7 +2718,10 @@
     "a": 3,
     "fouls": 7,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 43.3,
+    "shots_saved": 12,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -2823,7 +2891,10 @@
     "a": 1,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2963,7 +3034,10 @@
     "a": 1,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 57.1,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3133,7 +3207,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -3168,7 +3245,10 @@
     "a": 2,
     "fouls": 14,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 28.6,
+    "shots_saved": 4,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3338,7 +3418,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -3388,7 +3471,10 @@
     "a": 1,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {

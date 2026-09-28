@@ -705,11 +705,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 11,
     "ga": 15,
-    "saves": 37
-   }
+    "saves": 37,
+    "save_pct": 71.2
+   },
+   "no": 1,
+   "gk_save_pct": 71.2
   },
   {
    "name": "McCullough, Natalie",
@@ -725,7 +731,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 2,
+   "gk_save_pct": null
   },
   {
    "name": "Hutchinson, Nicole",
@@ -741,7 +752,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 3,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Gourdine, Bailey",
@@ -757,7 +773,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 4,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Krug, Magdalena",
@@ -773,7 +794,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 14.3,
+   "shots_saved": 0,
+   "shots_off_target": 6,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Kaufman, Summer",
@@ -789,7 +815,12 @@
    "a": 2,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 35.3,
+   "shots_saved": 6,
+   "shots_off_target": 11,
+   "no": 6,
+   "gk_save_pct": null
   },
   {
    "name": "Ogimoto, Rina",
@@ -805,7 +836,12 @@
    "a": 1,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 40.0,
+   "shots_saved": 2,
+   "shots_off_target": 6,
+   "no": 7,
+   "gk_save_pct": null
   },
   {
    "name": "Barr, Avery",
@@ -821,7 +857,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 0,
+   "shots_off_target": 2,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Winther, Cornelia",
@@ -837,7 +878,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 9,
+   "shots_off_target": 5,
+   "no": 9,
+   "gk_save_pct": null
   },
   {
    "name": "Greulich, Merle",
@@ -853,7 +899,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 35.7,
+   "shots_saved": 4,
+   "shots_off_target": 9,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Bass, Madison",
@@ -869,7 +920,12 @@
    "a": 1,
    "fouls": 3,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 5,
+   "shots_off_target": 7,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Oka, Azumi",
@@ -885,7 +941,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 2,
+   "no": 12,
+   "gk_save_pct": null
   },
   {
    "name": "Patik, Bianca",
@@ -901,7 +962,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 42.9,
+   "shots_saved": 3,
+   "shots_off_target": 4,
+   "no": 13,
+   "gk_save_pct": null
   },
   {
    "name": "Smith, Laney",
@@ -917,7 +983,12 @@
    "a": 2,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 53.8,
+   "shots_saved": 4,
+   "shots_off_target": 6,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Cover, Abby",
@@ -933,7 +1004,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 0,
+   "shots_off_target": 0,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "Hasan, Mia",
@@ -949,7 +1025,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 2,
+   "shots_off_target": 3,
+   "no": 16,
+   "gk_save_pct": null
   },
   {
    "name": "Smith , Laney",
@@ -965,7 +1046,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 45.5,
+   "shots_saved": 3,
+   "shots_off_target": 6,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Parkes, Bryanna",
@@ -981,7 +1067,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 2,
+   "shots_off_target": 0,
+   "no": 18,
+   "gk_save_pct": null
   },
   {
    "name": "Nelson, Caidy",
@@ -997,7 +1088,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Granack, Campbell",
@@ -1013,7 +1109,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 4,
+   "shots_off_target": 0,
+   "no": 20,
+   "gk_save_pct": null
   },
   {
    "name": "Perry, Ryder",
@@ -1029,13 +1130,18 @@
    "a": 0,
    "fouls": 0,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 21,
+   "gk_save_pct": null
   },
   {
    "name": "Robell, Cara",
    "slug": "robell-cara",
    "num": "1",
-   "pos": "gk",
+   "pos": "GK",
    "gp": 2,
    "starts": 0,
    "min": 90,
@@ -1046,11 +1152,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 2,
     "ga": 3,
-    "saves": 7
-   }
+    "saves": 7,
+    "save_pct": 70.0
+   },
+   "no": 22,
+   "gk_save_pct": 70.0
   },
   {
    "name": "Esse, Claire",
@@ -1066,7 +1178,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 23,
+   "gk_save_pct": null
   },
   {
    "name": "Morrison, Averie",
@@ -1082,7 +1199,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 24,
+   "gk_save_pct": null
   },
   {
    "name": "Racioppi, Olivia",
@@ -1098,7 +1220,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 25,
+   "gk_save_pct": null
   },
   {
    "name": "Gayer, Mairead",
@@ -1114,7 +1241,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 26,
+   "gk_save_pct": null
   }
  ]
 }

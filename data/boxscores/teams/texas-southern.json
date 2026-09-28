@@ -584,7 +584,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 2,
+   "shots_off_target": 2,
+   "no": 1,
+   "gk_save_pct": null
   },
   {
    "name": "Muldrew, Savannah",
@@ -600,7 +605,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 54.5,
+   "shots_saved": 5,
+   "shots_off_target": 5,
+   "no": 2,
+   "gk_save_pct": null
   },
   {
    "name": "Gonzalez, Gabby",
@@ -616,7 +626,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 4,
+   "shots_off_target": 0,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Gomez, Juliette",
@@ -632,7 +647,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 4,
+   "shots_off_target": 2,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Coverdale, Ava",
@@ -648,7 +668,12 @@
    "a": 1,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 44.4,
+   "shots_saved": 6,
+   "shots_off_target": 10,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Audu, Alicia",
@@ -665,11 +690,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 6,
     "ga": 17,
-    "saves": 38
-   }
+    "saves": 38,
+    "save_pct": 69.1
+   },
+   "no": 6,
+   "gk_save_pct": 69.1
   },
   {
    "name": "Oduor, Maggie",
@@ -685,7 +716,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 7,
+   "gk_save_pct": null
   },
   {
    "name": "Butler, Kaia",
@@ -701,7 +737,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Miller, Bianca",
@@ -717,7 +758,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 9,
+   "gk_save_pct": null
   },
   {
    "name": "Coulibaly, Kinifoh",
@@ -733,7 +779,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Smith, Lucy",
@@ -749,7 +800,12 @@
    "a": 0,
    "fouls": 3,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Valdez, Alyssa",
@@ -765,7 +821,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 2,
-   "rc": 1
+   "rc": 1,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 12,
+   "gk_save_pct": null
   },
   {
    "name": "Bastidas, Alessandra",
@@ -782,11 +843,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 4,
     "ga": 9,
-    "saves": 34
-   }
+    "saves": 34,
+    "save_pct": 79.1
+   },
+   "no": 13,
+   "gk_save_pct": 79.1
   },
   {
    "name": "Smith, Lucyna",
@@ -802,7 +869,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Boah, Maya",
@@ -818,13 +890,18 @@
    "a": 0,
    "fouls": 1,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "Caffey, Jiselle",
    "slug": "caffey-jiselle",
    "num": "7",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 3,
    "min": 293,
@@ -834,7 +911,12 @@
    "a": 1,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 75.0,
+   "shots_saved": 5,
+   "shots_off_target": 2,
+   "no": 16,
+   "gk_save_pct": null
   },
   {
    "name": "Flores, McKayla",
@@ -850,7 +932,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Guzman , Ilena",
@@ -866,7 +953,12 @@
    "a": 2,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 2,
+   "shots_off_target": 2,
+   "no": 18,
+   "gk_save_pct": null
   },
   {
    "name": "Aiken, Alana",
@@ -882,7 +974,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 0,
+   "shots_off_target": 0,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Salado, Raegan",
@@ -898,13 +995,18 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 20,
+   "gk_save_pct": null
   },
   {
    "name": "Johnson, Emery",
    "slug": "johnson-emery",
    "num": "21",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 0,
    "min": 123,
@@ -914,7 +1016,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 21,
+   "gk_save_pct": null
   },
   {
    "name": "Singleton, Naiya",
@@ -930,7 +1037,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 22,
+   "gk_save_pct": null
   },
   {
    "name": "Kelder, Tess",
@@ -946,7 +1058,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 23,
+   "gk_save_pct": null
   },
   {
    "name": "Boah, Kaira",
@@ -962,7 +1079,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 24,
+   "gk_save_pct": null
   },
   {
    "name": "Guzman, Ilena",
@@ -978,13 +1100,18 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 25,
+   "gk_save_pct": null
   },
   {
    "name": "Poole, Alauna",
    "slug": "poole-alauna",
    "num": "23",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 53,
@@ -994,7 +1121,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 26,
+   "gk_save_pct": null
   }
  ]
 }

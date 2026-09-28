@@ -584,7 +584,12 @@
    "a": 3,
    "fouls": 2,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 55.6,
+   "shots_saved": 4,
+   "shots_off_target": 4,
+   "no": 1,
+   "gk_save_pct": null
   },
   {
    "name": "Leshnick, Jasmine",
@@ -600,7 +605,12 @@
    "a": 1,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 52.0,
+   "shots_saved": 10,
+   "shots_off_target": 12,
+   "no": 2,
+   "gk_save_pct": null
   },
   {
    "name": "Rayhill, Anna",
@@ -616,7 +626,12 @@
    "a": 3,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 31.6,
+   "shots_saved": 4,
+   "shots_off_target": 13,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "K\u00f6nig, Amy",
@@ -632,7 +647,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 20.0,
+   "shots_saved": 1,
+   "shots_off_target": 4,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Van Den Einde, Anya",
@@ -648,7 +668,12 @@
    "a": 1,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Huleatt, Brooke",
@@ -664,7 +689,12 @@
    "a": 5,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 68.6,
+   "shots_saved": 18,
+   "shots_off_target": 11,
+   "no": 6,
+   "gk_save_pct": null
   },
   {
    "name": "Ruffien, Lou",
@@ -680,7 +710,12 @@
    "a": 0,
    "fouls": 3,
    "yc": 2,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 2,
+   "shots_off_target": 6,
+   "no": 7,
+   "gk_save_pct": null
   },
   {
    "name": "Long, Susie",
@@ -696,7 +731,12 @@
    "a": 2,
    "fouls": 0,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Miller, Danicka",
@@ -712,7 +752,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 9,
+   "gk_save_pct": null
   },
   {
    "name": "Kristinsd\u00f3ttir, \u00d3l\u00f6f",
@@ -728,7 +773,12 @@
    "a": 3,
    "fouls": 4,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 8,
+   "shots_off_target": 7,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Vana, Molly",
@@ -744,7 +794,12 @@
    "a": 2,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 46.4,
+   "shots_saved": 10,
+   "shots_off_target": 15,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Bidun, Nicole",
@@ -761,11 +816,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 8,
     "ga": 5,
-    "saves": 15
-   }
+    "saves": 15,
+    "save_pct": 75.0
+   },
+   "no": 12,
+   "gk_save_pct": 75.0
   },
   {
    "name": "Busby, Olivia",
@@ -782,11 +843,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 8,
     "ga": 6,
-    "saves": 13
-   }
+    "saves": 13,
+    "save_pct": 68.4
+   },
+   "no": 13,
+   "gk_save_pct": 68.4
   },
   {
    "name": "Lloyd, Sarah",
@@ -802,7 +869,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Santos L\u00f3pez, Elsa",
@@ -818,7 +890,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "Reinaldo, Camila",
@@ -834,7 +911,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 0,
+   "shots_off_target": 3,
+   "no": 16,
+   "gk_save_pct": null
   },
   {
    "name": "Santos Lopez, Elsa",
@@ -850,7 +932,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Belfon, Kennedy",
@@ -866,7 +953,12 @@
    "a": 1,
    "fouls": 3,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 16.7,
+   "shots_saved": 1,
+   "shots_off_target": 5,
+   "no": 18,
+   "gk_save_pct": null
   },
   {
    "name": "Gordon, Erin",
@@ -882,7 +974,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Chadwick, Phoebe",
@@ -898,7 +995,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 20,
+   "gk_save_pct": null
   },
   {
    "name": "Kessenger, Claire",
@@ -914,7 +1016,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 21,
+   "gk_save_pct": null
   },
   {
    "name": "Eftekhari, Hannah",
@@ -930,7 +1037,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 22,
+   "gk_save_pct": null
   },
   {
    "name": "Muniz, Lauren",
@@ -946,7 +1058,12 @@
    "a": 1,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 23,
+   "gk_save_pct": null
   },
   {
    "name": "Studebaker, Caroline",
@@ -962,7 +1079,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 24,
+   "gk_save_pct": null
   },
   {
    "name": "Fleishman, Sophie",
@@ -979,11 +1101,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 1,
     "ga": 0,
-    "saves": 0
-   }
+    "saves": 0,
+    "save_pct": null
+   },
+   "no": 25,
+   "gk_save_pct": null
   }
  ]
 }

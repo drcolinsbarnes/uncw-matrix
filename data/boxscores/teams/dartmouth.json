@@ -524,7 +524,12 @@
    "a": 0,
    "fouls": 8,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 1,
+   "gk_save_pct": null
   },
   {
    "name": "Goebel, Ola",
@@ -541,11 +546,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 8,
     "ga": 3,
-    "saves": 30
-   }
+    "saves": 30,
+    "save_pct": 90.9
+   },
+   "no": 2,
+   "gk_save_pct": 90.9
   },
   {
    "name": "Leschly, Anna",
@@ -561,7 +572,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Ryan, Kate",
@@ -577,7 +593,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Young, Nadia",
@@ -593,7 +614,12 @@
    "a": 1,
    "fouls": 11,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 3,
+   "shots_off_target": 5,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Ihrfelt, Lykke",
@@ -609,7 +635,12 @@
    "a": 0,
    "fouls": 9,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 6,
+   "gk_save_pct": null
   },
   {
    "name": "Frimpomaa, Emmanuella",
@@ -625,7 +656,12 @@
    "a": 0,
    "fouls": 6,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 58.3,
+   "shots_saved": 5,
+   "shots_off_target": 5,
+   "no": 7,
+   "gk_save_pct": null
   },
   {
    "name": "Theobald, Maeve",
@@ -641,7 +677,12 @@
    "a": 1,
    "fouls": 5,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 40.0,
+   "shots_saved": 2,
+   "shots_off_target": 3,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Lauterborn, Lourdes",
@@ -657,7 +698,12 @@
    "a": 0,
    "fouls": 4,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 2,
+   "shots_off_target": 1,
+   "no": 9,
+   "gk_save_pct": null
   },
   {
    "name": "Cagungun, Michal",
@@ -673,7 +719,12 @@
    "a": 1,
    "fouls": 7,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 3,
+   "shots_off_target": 8,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Lathrop, Stephanie",
@@ -689,7 +740,12 @@
    "a": 0,
    "fouls": 6,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 6.2,
+   "shots_saved": 0,
+   "shots_off_target": 15,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Rose, Madison",
@@ -705,7 +761,12 @@
    "a": 1,
    "fouls": 3,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 75.0,
+   "shots_saved": 4,
+   "shots_off_target": 2,
+   "no": 12,
+   "gk_save_pct": null
   },
   {
    "name": "Valverde, Frankie",
@@ -721,7 +782,12 @@
    "a": 1,
    "fouls": 5,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 2,
+   "shots_off_target": 2,
+   "no": 13,
+   "gk_save_pct": null
   },
   {
    "name": "Ball, Addison",
@@ -737,7 +803,12 @@
    "a": 0,
    "fouls": 5,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 3,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Loparco, Emma",
@@ -753,7 +824,12 @@
    "a": 0,
    "fouls": 4,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "Udebhulu, Tasha",
@@ -769,7 +845,12 @@
    "a": 1,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 6,
+   "no": 16,
+   "gk_save_pct": null
   },
   {
    "name": "Schotte, Klara",
@@ -785,7 +866,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Gominiak, Anna",
@@ -801,7 +887,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 18,
+   "gk_save_pct": null
   },
   {
    "name": "Udebhulu, Natasha",
@@ -817,7 +908,12 @@
    "a": 0,
    "fouls": 5,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 3,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Schotte, Klara Eva",
@@ -833,7 +929,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 20,
+   "gk_save_pct": null
   }
  ]
 }

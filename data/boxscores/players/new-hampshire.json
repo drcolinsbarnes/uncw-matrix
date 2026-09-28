@@ -18,7 +18,10 @@
     "a": 0,
     "fouls": 1,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 2,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -173,7 +176,10 @@
     "a": 1,
     "fouls": 4,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 2,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -328,7 +334,10 @@
     "a": 0,
     "fouls": 3,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -483,7 +492,10 @@
     "a": 0,
     "fouls": 5,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -639,10 +651,14 @@
     "fouls": 0,
     "yc": 0,
     "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
     "goalie": {
      "gp": 1,
      "ga": 1,
-     "saves": 2
+     "saves": 2,
+     "save_pct": 66.7
     }
    },
    "matches": [
@@ -683,7 +699,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -823,7 +842,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -937,7 +959,7 @@
    "name": "Donati, Madison",
    "slug": "donati-madison",
    "num": "21",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 8,
     "starts": 1,
@@ -948,7 +970,10 @@
     "a": 1,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 2,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1088,7 +1113,10 @@
     "a": 3,
     "fouls": 4,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 37.5,
+    "shots_saved": 8,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -1217,7 +1245,7 @@
    "name": "Gimmel, Alyssa",
    "slug": "gimmel-alyssa",
    "num": "29",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 8,
     "starts": 1,
@@ -1228,7 +1256,10 @@
     "a": 1,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 1,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1368,7 +1399,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -1433,7 +1467,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -1498,7 +1535,10 @@
     "a": 2,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 41.7,
+    "shots_saved": 5,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1653,7 +1693,10 @@
     "a": 1,
     "fouls": 0,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1793,7 +1836,10 @@
     "a": 0,
     "fouls": 3,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1948,7 +1994,10 @@
     "a": 0,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -1998,7 +2047,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -2078,7 +2130,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -2173,7 +2228,10 @@
     "a": 0,
     "fouls": 0,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
    },
    "matches": [
     {
@@ -2208,7 +2266,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -2303,7 +2364,10 @@
     "a": 0,
     "fouls": 2,
     "yc": 1,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 1,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2458,7 +2522,10 @@
     "a": 0,
     "fouls": 7,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 16.7,
+    "shots_saved": 1,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2613,7 +2680,10 @@
     "a": 0,
     "fouls": 1,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2769,10 +2839,14 @@
     "fouls": 0,
     "yc": 0,
     "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
     "goalie": {
      "gp": 9,
      "ga": 14,
-     "saves": 41
+     "saves": 41,
+     "save_pct": 74.5
     }
    },
    "matches": [
@@ -2973,7 +3047,10 @@
     "a": 0,
     "fouls": 3,
     "yc": 0,
-    "rc": 0
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 4,
+    "shots_off_target": 4
    },
    "matches": [
     {

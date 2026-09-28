@@ -584,7 +584,12 @@
    "a": 1,
    "fouls": 4,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 1,
+   "gk_save_pct": null
   },
   {
    "name": "Navola, Elizabeth",
@@ -601,11 +606,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 9,
     "ga": 11,
-    "saves": 38
-   }
+    "saves": 38,
+    "save_pct": 77.6
+   },
+   "no": 2,
+   "gk_save_pct": 77.6
   },
   {
    "name": "Washington, Layla",
@@ -621,7 +632,12 @@
    "a": 1,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Grier, Julia",
@@ -637,7 +653,12 @@
    "a": 1,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 52.9,
+   "shots_saved": 9,
+   "shots_off_target": 8,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "DeMars, Carson",
@@ -653,7 +674,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 4,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Grier, Mary Liese",
@@ -669,7 +695,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 6,
+   "gk_save_pct": null
   },
   {
    "name": "Lake, Maya",
@@ -685,7 +716,12 @@
    "a": 3,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 90.9,
+   "shots_saved": 8,
+   "shots_off_target": 1,
+   "no": 7,
+   "gk_save_pct": null
   },
   {
    "name": "Andrews, Annie",
@@ -701,7 +737,12 @@
    "a": 3,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 70.0,
+   "shots_saved": 4,
+   "shots_off_target": 3,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Jahromi, Ella",
@@ -717,7 +758,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 4,
+   "shots_off_target": 4,
+   "no": 9,
+   "gk_save_pct": null
   },
   {
    "name": "Minor, Delaney",
@@ -733,7 +779,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 2,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Tarafdar, Satya",
@@ -749,7 +800,12 @@
    "a": 0,
    "fouls": 4,
    "yc": 0,
-   "rc": 1
+   "rc": 1,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Moody, Brooke",
@@ -765,7 +821,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 2,
+   "shots_off_target": 3,
+   "no": 12,
+   "gk_save_pct": null
   },
   {
    "name": "Watt, Addison",
@@ -781,7 +842,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 13,
+   "gk_save_pct": null
   },
   {
    "name": "Valdes, Emma",
@@ -797,7 +863,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Drummond, Bella",
@@ -813,7 +884,12 @@
    "a": 1,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "High, McKinley",
@@ -829,7 +905,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 16,
+   "gk_save_pct": null
   },
   {
    "name": "Smolenski, Madeline",
@@ -845,7 +926,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Dovy, Betty",
@@ -861,7 +947,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 18,
+   "gk_save_pct": null
   },
   {
    "name": "Kelly, Lola Grace",
@@ -877,7 +968,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Schuman, Ivy Rae",
@@ -893,13 +989,18 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 20,
+   "gk_save_pct": null
   },
   {
    "name": "Cundiff, Colleen",
    "slug": "cundiff-colleen",
    "num": "1",
-   "pos": "gk",
+   "pos": "GK",
    "gp": 2,
    "starts": 0,
    "min": 78,
@@ -910,11 +1011,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 2,
     "ga": 2,
-    "saves": 4
-   }
+    "saves": 4,
+    "save_pct": 66.7
+   },
+   "no": 21,
+   "gk_save_pct": 66.7
   },
   {
    "name": "Schuman, Ivy",
@@ -930,7 +1037,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 22,
+   "gk_save_pct": null
   },
   {
    "name": "Behl, Sylvie",
@@ -946,7 +1058,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 23,
+   "gk_save_pct": null
   },
   {
    "name": "Simas, Charlotte",
@@ -962,7 +1079,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 24,
+   "gk_save_pct": null
   }
  ]
 }

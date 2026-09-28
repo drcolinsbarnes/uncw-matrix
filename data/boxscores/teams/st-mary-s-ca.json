@@ -644,7 +644,12 @@
    "a": 0,
    "fouls": 6,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 23.1,
+   "shots_saved": 2,
+   "shots_off_target": 10,
+   "no": 1,
+   "gk_save_pct": null
   },
   {
    "name": "Emperador, Anna",
@@ -660,7 +665,12 @@
    "a": 0,
    "fouls": 3,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 2,
+   "gk_save_pct": null
   },
   {
    "name": "Vaughn, Ashlyn",
@@ -676,7 +686,12 @@
    "a": 0,
    "fouls": 13,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 44.7,
+   "shots_saved": 10,
+   "shots_off_target": 21,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Schexnayder, Aleiyah",
@@ -692,7 +707,12 @@
    "a": 0,
    "fouls": 5,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 20.0,
+   "shots_saved": 1,
+   "shots_off_target": 4,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Lucas, Maddie",
@@ -708,7 +728,12 @@
    "a": 0,
    "fouls": 12,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 2,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Gunter, Faith",
@@ -724,7 +749,12 @@
    "a": 2,
    "fouls": 3,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 6,
+   "gk_save_pct": null
   },
   {
    "name": "Holden, Brittany",
@@ -740,7 +770,12 @@
    "a": 1,
    "fouls": 9,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 45.5,
+   "shots_saved": 5,
+   "shots_off_target": 6,
+   "no": 7,
+   "gk_save_pct": null
   },
   {
    "name": "Maikai, Zoe",
@@ -756,7 +791,12 @@
    "a": 1,
    "fouls": 9,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 41.7,
+   "shots_saved": 4,
+   "shots_off_target": 7,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Plachy, Kate",
@@ -773,11 +813,17 @@
    "fouls": 0,
    "yc": 1,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 6,
     "ga": 3,
-    "saves": 16
-   }
+    "saves": 16,
+    "save_pct": 84.2
+   },
+   "no": 9,
+   "gk_save_pct": 84.2
   },
   {
    "name": "Smith, Brooklyn",
@@ -793,7 +839,12 @@
    "a": 1,
    "fouls": 5,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 72.7,
+   "shots_saved": 7,
+   "shots_off_target": 3,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Chatterton, Lexi",
@@ -809,7 +860,12 @@
    "a": 2,
    "fouls": 8,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Souvanaphong, Soraya",
@@ -826,11 +882,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 5,
     "ga": 0,
-    "saves": 10
-   }
+    "saves": 10,
+    "save_pct": 100.0
+   },
+   "no": 12,
+   "gk_save_pct": 100.0
   },
   {
    "name": "Mejia, Natalie",
@@ -846,7 +908,12 @@
    "a": 0,
    "fouls": 3,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 2,
+   "shots_off_target": 0,
+   "no": 13,
+   "gk_save_pct": null
   },
   {
    "name": "Casado, Madison",
@@ -862,7 +929,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Fairbanks, Brooke",
@@ -878,7 +950,12 @@
    "a": 0,
    "fouls": 7,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 42.9,
+   "shots_saved": 2,
+   "shots_off_target": 4,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "Jurasek, Brianna",
@@ -894,7 +971,12 @@
    "a": 2,
    "fouls": 5,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 3,
+   "shots_off_target": 6,
+   "no": 16,
+   "gk_save_pct": null
   },
   {
    "name": "Correa, Penelope",
@@ -910,7 +992,12 @@
    "a": 2,
    "fouls": 6,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 3,
+   "shots_off_target": 4,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Schwarze, Savannah",
@@ -926,7 +1013,12 @@
    "a": 3,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 3,
+   "no": 18,
+   "gk_save_pct": null
   },
   {
    "name": "Vega, Elizabeth",
@@ -942,7 +1034,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Hoovel, Maren",
@@ -958,7 +1055,12 @@
    "a": 0,
    "fouls": 2,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 20,
+   "gk_save_pct": null
   },
   {
    "name": "Ow, Marissa",
@@ -974,7 +1076,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 21,
+   "gk_save_pct": null
   },
   {
    "name": "Aguilar, Alinah",
@@ -990,7 +1097,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 22,
+   "gk_save_pct": null
   },
   {
    "name": "Farnum, Taylor",
@@ -1006,7 +1118,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 23,
+   "gk_save_pct": null
   },
   {
    "name": "Boyden, Annie",
@@ -1022,7 +1139,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 24,
+   "gk_save_pct": null
   }
  ]
 }

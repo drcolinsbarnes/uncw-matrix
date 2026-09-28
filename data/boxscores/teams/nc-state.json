@@ -704,7 +704,12 @@
    "a": 2,
    "fouls": 8,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 28.6,
+   "shots_saved": 2,
+   "shots_off_target": 5,
+   "no": 1,
+   "gk_save_pct": null
   },
   {
    "name": "Mohr, Alex",
@@ -720,7 +725,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 2,
+   "gk_save_pct": null
   },
   {
    "name": "Aoki, Yuna",
@@ -736,7 +746,12 @@
    "a": 2,
    "fouls": 4,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 36.4,
+   "shots_saved": 1,
+   "shots_off_target": 7,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Montgomery, Carly",
@@ -752,7 +767,12 @@
    "a": 2,
    "fouls": 2,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 0,
+   "shots_off_target": 6,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Bordeleau, Jade",
@@ -768,7 +788,12 @@
    "a": 1,
    "fouls": 13,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 14,
+   "shots_off_target": 26,
+   "no": 5,
+   "gk_save_pct": null
   },
   {
    "name": "Nakata, Mana",
@@ -784,7 +809,12 @@
    "a": 3,
    "fouls": 2,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 9,
+   "shots_off_target": 20,
+   "no": 6,
+   "gk_save_pct": null
   },
   {
    "name": "Pickels, Riley",
@@ -801,11 +831,17 @@
    "fouls": 0,
    "yc": 1,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 9,
     "ga": 9,
-    "saves": 19
-   }
+    "saves": 19,
+    "save_pct": 67.9
+   },
+   "no": 7,
+   "gk_save_pct": 67.9
   },
   {
    "name": "Roberts, Erica",
@@ -821,7 +857,12 @@
    "a": 1,
    "fouls": 6,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 30.2,
+   "shots_saved": 8,
+   "shots_off_target": 30,
+   "no": 8,
+   "gk_save_pct": null
   },
   {
    "name": "Wong, Emily",
@@ -837,7 +878,12 @@
    "a": 2,
    "fouls": 6,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 9,
+   "gk_save_pct": null
   },
   {
    "name": "Casteen, Madison",
@@ -853,7 +899,12 @@
    "a": 1,
    "fouls": 3,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 45.0,
+   "shots_saved": 7,
+   "shots_off_target": 11,
+   "no": 10,
+   "gk_save_pct": null
   },
   {
    "name": "Duda, Daisy",
@@ -869,7 +920,12 @@
    "a": 3,
    "fouls": 6,
    "yc": 1,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 3,
+   "shots_off_target": 5,
+   "no": 11,
+   "gk_save_pct": null
   },
   {
    "name": "Richter, Katie",
@@ -885,7 +941,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 60.9,
+   "shots_saved": 13,
+   "shots_off_target": 9,
+   "no": 12,
+   "gk_save_pct": null
   },
   {
    "name": "Leijdekker, Fien",
@@ -901,7 +962,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 22.2,
+   "shots_saved": 1,
+   "shots_off_target": 7,
+   "no": 13,
+   "gk_save_pct": null
   },
   {
    "name": "Olou, Rosalie",
@@ -917,7 +983,12 @@
    "a": 0,
    "fouls": 3,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 14,
+   "gk_save_pct": null
   },
   {
    "name": "Mazziotto, Antonella",
@@ -933,7 +1004,12 @@
    "a": 1,
    "fouls": 4,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 42.9,
+   "shots_saved": 5,
+   "shots_off_target": 8,
+   "no": 15,
+   "gk_save_pct": null
   },
   {
    "name": "Breech, Ellie",
@@ -950,11 +1026,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 3,
     "ga": 1,
-    "saves": 11
-   }
+    "saves": 11,
+    "save_pct": 91.7
+   },
+   "no": 16,
+   "gk_save_pct": 91.7
   },
   {
    "name": "Hernandez, Sophia",
@@ -970,7 +1052,12 @@
    "a": 0,
    "fouls": 1,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 17,
+   "gk_save_pct": null
   },
   {
    "name": "Martin Esteban, Amor Leigh",
@@ -987,11 +1074,17 @@
    "fouls": 0,
    "yc": 0,
    "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
    "goalie": {
     "gp": 2,
     "ga": 1,
-    "saves": 2
-   }
+    "saves": 2,
+    "save_pct": 66.7
+   },
+   "no": 18,
+   "gk_save_pct": 66.7
   },
   {
    "name": "Smith, Mackenzie",
@@ -1007,7 +1100,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 19,
+   "gk_save_pct": null
   },
   {
    "name": "Miller, Madie",
@@ -1023,7 +1121,12 @@
    "a": 1,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 20,
+   "gk_save_pct": null
   },
   {
    "name": "Harris, Mackenzie",
@@ -1039,7 +1142,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 21,
+   "gk_save_pct": null
   },
   {
    "name": "Soltz, Lilly",
@@ -1055,7 +1163,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 22,
+   "gk_save_pct": null
   },
   {
    "name": "Richards, Avery",
@@ -1071,7 +1184,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 23,
+   "gk_save_pct": null
   },
   {
    "name": "Eva-Buckner, Kennedy",
@@ -1087,7 +1205,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 24,
+   "gk_save_pct": null
   },
   {
    "name": "TEAM",
@@ -1103,7 +1226,12 @@
    "a": 0,
    "fouls": 0,
    "yc": 0,
-   "rc": 0
+   "rc": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 25,
+   "gk_save_pct": null
   }
  ]
 }
