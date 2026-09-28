@@ -18,6 +18,7 @@
    "offsides": 28,
    "yc": 2,
    "rc": 0,
+   "pk_g": 1,
    "goals": 13,
    "shot_pct": 43.8,
    "shots_saved": 44,
@@ -33,6 +34,7 @@
    "offsides": 25,
    "yc": 9,
    "rc": 0,
+   "pk_g": 2,
    "goals": 19,
    "shot_pct": 36.0,
    "shots_saved": 12,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "stanley-ella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 1
+ }
 }

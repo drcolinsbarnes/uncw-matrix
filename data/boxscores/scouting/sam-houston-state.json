@@ -18,6 +18,7 @@
    "offsides": 5,
    "yc": 11,
    "rc": 0,
+   "pk_g": 1,
    "goals": 10,
    "shot_pct": 44.8,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 22,
    "yc": 9,
    "rc": 0,
+   "pk_g": 1,
    "goals": 17,
    "shot_pct": 45.1,
    "shots_saved": 48,
@@ -969,5 +971,14 @@
    "recent_games": 3,
    "slug": "villatoro-kelsey"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 2,
+  "free_kick": 1,
+  "throw_in": 0,
+  "run_of_play": 2,
+  "unknown": 4,
+  "categorized": 6
+ }
 }

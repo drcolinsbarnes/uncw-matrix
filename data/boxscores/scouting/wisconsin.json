@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 3,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 41.5,
    "shots_saved": 38,
@@ -33,6 +34,7 @@
    "offsides": 19,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 35.7,
    "shots_saved": 18,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "truab-izy"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

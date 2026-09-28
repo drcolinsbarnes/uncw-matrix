@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 9,
    "shot_pct": 33.7,
    "shots_saved": 20,
@@ -33,6 +34,7 @@
    "offsides": 49,
    "yc": 2,
    "rc": 0,
+   "pk_g": 1,
    "goals": 43,
    "shot_pct": 52.0,
    "shots_saved": 90,
@@ -987,5 +989,14 @@
    "recent_games": 3,
    "slug": "karsonovich-madeline"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 1
+ }
 }

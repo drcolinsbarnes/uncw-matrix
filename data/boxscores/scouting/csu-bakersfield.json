@@ -18,6 +18,7 @@
    "offsides": 8,
    "yc": 14,
    "rc": 0,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 44.6,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 21,
    "yc": 12,
    "rc": 1,
+   "pk_g": 2,
    "goals": 25,
    "shot_pct": 48.8,
    "shots_saved": 77,
@@ -992,5 +994,14 @@
    "recent_games": 3,
    "slug": "tapia-tania"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 4,
+  "categorized": 0
+ }
 }

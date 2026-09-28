@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 8,
    "rc": 1,
+   "pk_g": 2,
    "goals": 21,
    "shot_pct": 43.2,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 16,
    "yc": 7,
    "rc": 1,
+   "pk_g": 1,
    "goals": 5,
    "shot_pct": 47.6,
    "shots_saved": 34,
@@ -988,5 +990,14 @@
    "recent_games": 3,
    "slug": "demartino-riley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 2
+ }
 }

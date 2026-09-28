@@ -18,6 +18,7 @@
    "offsides": 0,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 40.0,
    "shots_saved": 1,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 1,
    "rc": 0,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 33.3,
    "shots_saved": 2,
@@ -736,5 +738,14 @@
    "recent_games": 3,
    "slug": "yuen-sam"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

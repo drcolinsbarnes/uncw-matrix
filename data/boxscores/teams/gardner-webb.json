@@ -970,7 +970,7 @@
    "name": "McCauley, Aine",
    "slug": "mccauley-aine",
    "num": "77",
-   "pos": "MID",
+   "pos": "DEF",
    "gp": 5,
    "starts": 5,
    "min": 385,
@@ -1124,7 +1124,7 @@
    "name": "Franklin, Landry",
    "slug": "franklin-landry",
    "num": "29",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 9,
    "starts": 1,
    "min": 264,
@@ -1168,7 +1168,7 @@
    "name": "Allred, Ila",
    "slug": "allred-ila",
    "num": "13",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 1,
    "min": 257,
@@ -1638,5 +1638,14 @@
    "no": 38,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

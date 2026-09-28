@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 50.9,
    "shots_saved": 42,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 7,
    "rc": 0,
+   "pk_g": 1,
    "goals": 13,
    "shot_pct": 39.3,
    "shots_saved": 22,
@@ -1026,5 +1028,14 @@
    "recent_games": 3,
    "slug": "walls-isabella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

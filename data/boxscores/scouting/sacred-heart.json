@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 6,
    "rc": 0,
+   "pk_g": 2,
    "goals": 17,
    "shot_pct": 53.3,
    "shots_saved": 55,
@@ -33,6 +34,7 @@
    "offsides": 2,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 36.6,
    "shots_saved": 25,
@@ -931,5 +933,14 @@
    "recent_games": 3,
    "slug": "richards-maclaren"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 14,
+  "categorized": 3
+ }
 }

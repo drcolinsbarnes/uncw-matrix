@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 13,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 25.0,
    "shots_saved": 20,
@@ -33,6 +34,7 @@
    "offsides": 16,
    "yc": 14,
    "rc": 0,
+   "pk_g": 3,
    "goals": 14,
    "shot_pct": 50.0,
    "shots_saved": 49,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "valente-tommi-rose"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

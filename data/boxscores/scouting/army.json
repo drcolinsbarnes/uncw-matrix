@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 2,
    "rc": 0,
+   "pk_g": 2,
    "goals": 16,
    "shot_pct": 44.6,
    "shots_saved": 38,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 4,
    "rc": 0,
+   "pk_g": 2,
    "goals": 21,
    "shot_pct": 44.4,
    "shots_saved": 54,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "morrell-makaela"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 13,
+  "categorized": 3
+ }
 }

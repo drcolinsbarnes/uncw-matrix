@@ -1110,7 +1110,7 @@
    "name": "Perone, Fiorella",
    "slug": "perone-fiorella",
    "num": "13",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 3,
    "min": 430,
@@ -1308,7 +1308,7 @@
    "name": "Allstadt Huge-Jensen, Ava",
    "slug": "allstadt-huge-jensen-ava",
    "num": "3",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 0,
    "min": 121,
@@ -1398,5 +1398,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

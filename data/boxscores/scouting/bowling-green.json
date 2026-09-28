@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 41.3,
    "shots_saved": 43,
@@ -33,6 +34,7 @@
    "offsides": 14,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 42.6,
    "shots_saved": 20,
@@ -1040,5 +1042,14 @@
    "recent_games": 3,
    "slug": "tsaprailis-alexis"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 9,
+  "categorized": 0
+ }
 }

@@ -1134,7 +1134,7 @@
    "name": "Adam, Makenna",
    "slug": "adam-makenna",
    "num": "19",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 3,
    "min": 420,
@@ -2392,5 +2392,14 @@
    "no": 65,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

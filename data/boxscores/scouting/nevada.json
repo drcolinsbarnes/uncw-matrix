@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 17,
    "rc": 0,
+   "pk_g": 0,
    "goals": 20,
    "shot_pct": 47.1,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 12,
    "rc": 0,
+   "pk_g": 0,
    "goals": 24,
    "shot_pct": 51.4,
    "shots_saved": 51,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "yuba-reika"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

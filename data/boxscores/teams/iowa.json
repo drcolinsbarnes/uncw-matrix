@@ -1286,7 +1286,7 @@
    "name": "Larouche, Lea",
    "slug": "larouche-lea",
    "num": "11",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 1,
    "min": 100,
@@ -1398,5 +1398,14 @@
    "no": 24,
    "gk_save_pct": 100.0
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 1
+ }
 }

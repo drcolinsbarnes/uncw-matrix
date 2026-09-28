@@ -1006,7 +1006,7 @@
    "name": "Bratheim, Aslaug",
    "slug": "bratheim-aslaug",
    "num": "13",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 6,
    "starts": 2,
    "min": 224,
@@ -1238,7 +1238,7 @@
    "name": "Meneghisse dos Santos, Diana",
    "slug": "meneghisse-dos-santos-diana",
    "num": "3",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 50,
@@ -1322,5 +1322,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

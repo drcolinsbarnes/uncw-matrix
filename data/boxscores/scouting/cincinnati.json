@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 42.2,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 25,
    "yc": 3,
    "rc": 0,
+   "pk_g": 1,
    "goals": 10,
    "shot_pct": 44.9,
    "shots_saved": 30,
@@ -921,5 +923,14 @@
    "recent_games": 3,
    "slug": "cochran-molly"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 9,
+  "categorized": 0
+ }
 }

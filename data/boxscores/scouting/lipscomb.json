@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 42.6,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 20,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 41.7,
    "shots_saved": 20,
@@ -1059,5 +1061,14 @@
    "recent_games": 3,
    "slug": "whitecavage-kinsley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 1
+ }
 }

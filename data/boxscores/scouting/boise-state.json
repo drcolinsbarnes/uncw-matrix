@@ -18,6 +18,7 @@
    "offsides": 35,
    "yc": 12,
    "rc": 0,
+   "pk_g": 0,
    "goals": 22,
    "shot_pct": 52.6,
    "shots_saved": 69,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 39.5,
    "shots_saved": 26,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "slocum-kaitlyn"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 0
+ }
 }

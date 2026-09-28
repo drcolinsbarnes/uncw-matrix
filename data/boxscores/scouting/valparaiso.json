@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 44.9,
    "shots_saved": 43,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 7,
    "rc": 1,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 42.7,
    "shots_saved": 47,
@@ -973,5 +975,14 @@
    "recent_games": 3,
    "slug": "thomas-alyssa"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

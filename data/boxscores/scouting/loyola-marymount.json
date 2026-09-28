@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 47.6,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 24,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 9,
    "shot_pct": 40.2,
    "shots_saved": 40,
@@ -945,5 +947,14 @@
    "recent_games": 3,
    "slug": "person-taylor"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

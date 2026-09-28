@@ -1026,7 +1026,7 @@
    "name": "Penniston-John, Natalie",
    "slug": "penniston-john-natalie",
    "num": "20",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 0,
    "min": 121,
@@ -1154,5 +1154,14 @@
    "no": 23,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

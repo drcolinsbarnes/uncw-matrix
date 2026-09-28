@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 18,
    "shot_pct": 41.0,
    "shots_saved": 41,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 10,
    "rc": 1,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 42.9,
    "shots_saved": 19,
@@ -1045,5 +1047,14 @@
    "recent_games": 3,
    "slug": "westwood-lauren"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 1
+ }
 }

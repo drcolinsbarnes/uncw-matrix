@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 50.0,
    "shots_saved": 43,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 49.6,
    "shots_saved": 55,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "yepes-taylor"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

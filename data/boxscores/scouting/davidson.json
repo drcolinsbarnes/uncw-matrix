@@ -18,6 +18,7 @@
    "offsides": 10,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 46.1,
    "shots_saved": 50,
@@ -33,6 +34,7 @@
    "offsides": 9,
    "yc": 1,
    "rc": 0,
+   "pk_g": 1,
    "goals": 17,
    "shot_pct": 43.0,
    "shots_saved": 48,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "mann-annaliese"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 13,
+  "categorized": 2
+ }
 }

@@ -1342,7 +1342,7 @@
    "name": "Soltz, Lilly",
    "slug": "soltz-lilly",
    "num": "23",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 57,
@@ -1426,5 +1426,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 30,
+  "categorized": 0
+ }
 }

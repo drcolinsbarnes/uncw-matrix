@@ -986,7 +986,7 @@
    "name": "Colchico, Jules",
    "slug": "colchico-jules",
    "num": "11",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 10,
    "starts": 3,
    "min": 491,
@@ -1330,5 +1330,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

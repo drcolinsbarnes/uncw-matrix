@@ -18,6 +18,7 @@
    "offsides": 13,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 43.3,
    "shots_saved": 42,
@@ -33,6 +34,7 @@
    "offsides": 21,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 5,
    "shot_pct": 36.4,
    "shots_saved": 34,
@@ -992,5 +994,14 @@
    "recent_games": 3,
    "slug": "schexnayder-aleiyah"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 1
+ }
 }

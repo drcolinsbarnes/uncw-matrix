@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 16,
    "rc": 2,
+   "pk_g": 3,
    "goals": 13,
    "shot_pct": 43.8,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 12,
    "rc": 2,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 44.2,
    "shots_saved": 38,
@@ -1016,5 +1018,14 @@
    "recent_games": 3,
    "slug": "latino-luciana"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 4
+ }
 }

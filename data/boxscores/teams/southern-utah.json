@@ -932,7 +932,7 @@
    "name": "Buczyna, Madeline",
    "slug": "buczyna-madeline",
    "num": "2",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 0,
    "min": 209,
@@ -1114,7 +1114,7 @@
    "name": "Luts, Stella",
    "slug": "luts-stella",
    "num": "23",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 44,
@@ -1176,5 +1176,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

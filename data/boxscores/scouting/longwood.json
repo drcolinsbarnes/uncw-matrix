@@ -18,6 +18,7 @@
    "offsides": 20,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 39.4,
    "shots_saved": 35,
@@ -33,6 +34,7 @@
    "offsides": 29,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 51.8,
    "shots_saved": 45,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "wayland-berni"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

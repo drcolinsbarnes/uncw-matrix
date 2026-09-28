@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 7,
    "rc": 2,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 49.1,
    "shots_saved": 21,
@@ -33,6 +34,7 @@
    "offsides": 23,
    "yc": 9,
    "rc": 1,
+   "pk_g": 0,
    "goals": 38,
    "shot_pct": 55.4,
    "shots_saved": 80,
@@ -916,5 +918,14 @@
    "recent_games": 3,
    "slug": "thorst-simone-nygaard"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

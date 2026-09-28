@@ -948,7 +948,7 @@
    "name": "Powers, Riley",
    "slug": "powers-riley",
    "num": "2",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 10,
    "starts": 9,
    "min": 580,
@@ -1234,7 +1234,7 @@
    "name": "Peral, Ines",
    "slug": "peral-ines",
    "num": "27",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 2,
    "min": 138,
@@ -1306,7 +1306,7 @@
    "name": "Passante, Mersades",
    "slug": "passante-mersades",
    "num": "10",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 1,
    "min": 101,
@@ -1440,5 +1440,14 @@
    "no": 29,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

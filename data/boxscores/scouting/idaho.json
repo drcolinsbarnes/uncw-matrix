@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 43.0,
    "shots_saved": 54,
@@ -33,6 +34,7 @@
    "offsides": 3,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 30.8,
    "shots_saved": 19,
@@ -1035,5 +1037,14 @@
    "recent_games": 3,
    "slug": "whitehead-georgia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 0
+ }
 }

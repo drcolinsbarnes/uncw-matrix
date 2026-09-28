@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 22,
    "shot_pct": 40.3,
    "shots_saved": 28,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 36.2,
    "shots_saved": 32,
@@ -1035,5 +1037,14 @@
    "recent_games": 3,
    "slug": "grain-kayla"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 1
+ }
 }

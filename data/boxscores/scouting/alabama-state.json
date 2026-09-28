@@ -18,6 +18,7 @@
    "offsides": 8,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 39.3,
    "shots_saved": 19,
@@ -33,6 +34,7 @@
    "offsides": 25,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 31,
    "shot_pct": 39.2,
    "shots_saved": 34,
@@ -869,5 +871,14 @@
    "recent_games": 3,
    "slug": "sterling-tyra"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

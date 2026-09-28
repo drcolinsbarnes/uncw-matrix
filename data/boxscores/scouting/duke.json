@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 3,
    "rc": 1,
+   "pk_g": 3,
    "goals": 29,
    "shot_pct": 43.2,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 3,
    "yc": 11,
    "rc": 0,
+   "pk_g": 1,
    "goals": 8,
    "shot_pct": 50.0,
    "shots_saved": 17,
@@ -1045,5 +1047,14 @@
    "recent_games": 3,
    "slug": "travers-jocelyn"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 5,
+  "corner_kick": 0,
+  "free_kick": 1,
+  "throw_in": 0,
+  "run_of_play": 6,
+  "unknown": 16,
+  "categorized": 12
+ }
 }

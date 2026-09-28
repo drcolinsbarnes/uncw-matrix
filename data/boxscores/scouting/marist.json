@@ -18,6 +18,7 @@
    "offsides": 7,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 49.6,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 8,
    "rc": 1,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 39.0,
    "shots_saved": 32,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "oliveira-julia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 8,
+  "categorized": 1
+ }
 }

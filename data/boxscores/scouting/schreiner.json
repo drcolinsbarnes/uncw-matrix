@@ -18,6 +18,7 @@
    "offsides": 4,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 0,
    "shot_pct": 50.0,
    "shots_saved": 1,
@@ -33,6 +34,7 @@
    "offsides": 3,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 60.0,
    "shots_saved": 15,
@@ -679,5 +681,14 @@
    "General pattern worth watching for: heavier, earlier rotation in non-conference/early-season games (building fitness, auditioning depth) and tighter, later substitution once conference play and close games start mattering more."
   ]
  },
- "form_trends": []
+ "form_trends": [],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 0,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 10,
    "rc": 0,
+   "pk_g": 2,
    "goals": 21,
    "shot_pct": 37.6,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 31,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 45.4,
    "shots_saved": 53,
@@ -1049,5 +1051,14 @@
    "recent_games": 3,
    "slug": "kim-kira"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 1,
+  "run_of_play": 9,
+  "unknown": 8,
+  "categorized": 13
+ }
 }

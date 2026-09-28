@@ -18,6 +18,7 @@
    "offsides": 39,
    "yc": 8,
    "rc": 0,
+   "pk_g": 4,
    "goals": 45,
    "shot_pct": 47.1,
    "shots_saved": 92,
@@ -33,6 +34,7 @@
    "offsides": 20,
    "yc": 15,
    "rc": 1,
+   "pk_g": 1,
    "goals": 5,
    "shot_pct": 40.4,
    "shots_saved": 31,
@@ -1139,5 +1141,14 @@
    "recent_games": 3,
    "slug": "feldman-addison"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 4,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 37,
+  "categorized": 4
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 40.8,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 20,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 37.3,
    "shots_saved": 24,
@@ -1007,5 +1009,14 @@
    "recent_games": 3,
    "slug": "may-peyton"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 0
+ }
 }

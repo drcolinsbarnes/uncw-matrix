@@ -18,6 +18,7 @@
    "offsides": 16,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 44.7,
    "shots_saved": 28,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 2,
    "rc": 0,
+   "pk_g": 1,
    "goals": 17,
    "shot_pct": 44.3,
    "shots_saved": 57,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "freeman-elsa"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 16,
    "yc": 7,
    "rc": 0,
+   "pk_g": 1,
    "goals": 9,
    "shot_pct": 39.3,
    "shots_saved": 26,
@@ -33,6 +34,7 @@
    "offsides": 32,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 26,
    "shot_pct": 63.6,
    "shots_saved": 58,
@@ -931,5 +933,14 @@
    "recent_games": 3,
    "slug": "kissi-imani"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 1
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 46.8,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 6,
    "rc": 1,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 45.9,
    "shots_saved": 26,
@@ -955,5 +957,14 @@
    "recent_games": 3,
    "slug": "whitaker-jessica"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

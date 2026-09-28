@@ -1058,7 +1058,7 @@
    "name": "Commerford, Sadie",
    "slug": "commerford-sadie",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 10,
    "starts": 4,
    "min": 476,
@@ -1302,5 +1302,14 @@
    "no": 23,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

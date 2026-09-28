@@ -18,6 +18,7 @@
    "offsides": 41,
    "yc": 9,
    "rc": 0,
+   "pk_g": 2,
    "goals": 19,
    "shot_pct": 47.9,
    "shots_saved": 61,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 6,
    "rc": 2,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 29.1,
    "shots_saved": 26,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "sharrer-maddie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 2
+ }
 }

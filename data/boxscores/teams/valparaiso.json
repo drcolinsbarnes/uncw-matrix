@@ -1314,7 +1314,7 @@
    "name": "Coleman, Tatum",
    "slug": "coleman-tatum",
    "num": "11",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 1,
    "min": 85,
@@ -1376,5 +1376,14 @@
    "no": 23,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

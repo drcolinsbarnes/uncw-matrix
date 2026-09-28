@@ -18,6 +18,7 @@
    "offsides": 6,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 43.9,
    "shots_saved": 15,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 2,
    "rc": 0,
+   "pk_g": 1,
    "goals": 19,
    "shot_pct": 38.2,
    "shots_saved": 31,
@@ -822,5 +824,14 @@
    "recent_games": 3,
    "slug": "wilson-sofield-megan"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

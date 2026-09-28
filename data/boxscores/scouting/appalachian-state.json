@@ -18,6 +18,7 @@
    "offsides": 10,
    "yc": 7,
    "rc": 0,
+   "pk_g": 1,
    "goals": 18,
    "shot_pct": 38.6,
    "shots_saved": 41,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 50.0,
    "shots_saved": 32,
@@ -992,5 +994,14 @@
    "recent_games": 3,
    "slug": "williams-maddie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 1
+ }
 }

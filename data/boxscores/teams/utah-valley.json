@@ -1066,7 +1066,7 @@
    "name": "Stewart, Isabella",
    "slug": "stewart-isabella",
    "num": "20",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 5,
    "min": 491,
@@ -1470,5 +1470,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 21,
+  "categorized": 0
+ }
 }

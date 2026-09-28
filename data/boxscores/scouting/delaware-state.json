@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 48.3,
    "shots_saved": 26,
@@ -33,6 +34,7 @@
    "offsides": 68,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 29,
    "shot_pct": 56.2,
    "shots_saved": 57,
@@ -931,5 +933,14 @@
    "recent_games": 3,
    "slug": "surowiec-trinity"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

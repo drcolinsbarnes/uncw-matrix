@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 6,
    "shot_pct": 38.6,
    "shots_saved": 33,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 40.7,
    "shots_saved": 25,
@@ -931,5 +933,14 @@
    "recent_games": 3,
    "slug": "williams-sydney"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 1
+ }
 }

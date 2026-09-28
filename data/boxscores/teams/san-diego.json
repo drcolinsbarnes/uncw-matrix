@@ -1080,7 +1080,7 @@
    "name": "O'Callaghan, Maquena",
    "slug": "o-callaghan-maquena",
    "num": "12",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 10,
    "starts": 5,
    "min": 358,
@@ -1328,7 +1328,7 @@
    "name": "Vermilyea, Hailey",
    "slug": "vermilyea-hailey",
    "num": "9",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 56,
@@ -1368,5 +1368,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 2,
+  "unknown": 1,
+  "categorized": 3
+ }
 }

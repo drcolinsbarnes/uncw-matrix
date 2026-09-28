@@ -1168,7 +1168,7 @@
    "name": "Harlan, Sophie",
    "slug": "harlan-sophie",
    "num": "8",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 2,
    "starts": 1,
    "min": 126,
@@ -1212,7 +1212,7 @@
    "name": "Price, Elle",
    "slug": "price-elle",
    "num": "15",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 95,
@@ -1330,5 +1330,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 30,
+  "categorized": 1
+ }
 }

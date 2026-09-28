@@ -884,7 +884,7 @@
    "name": "Chrapek, Gianna",
    "slug": "chrapek-gianna",
    "num": "23",
-   "pos": "MID",
+   "pos": "DEF",
    "gp": 11,
    "starts": 11,
    "min": 904,
@@ -1154,7 +1154,7 @@
    "name": "Yousefi, Isabella",
    "slug": "yousefi-isabella",
    "num": "13",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 11,
    "starts": 4,
    "min": 380,
@@ -1376,5 +1376,14 @@
    "no": 23,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 2
+ }
 }

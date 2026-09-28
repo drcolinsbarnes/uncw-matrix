@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 20,
    "rc": 0,
+   "pk_g": 1,
    "goals": 18,
    "shot_pct": 39.7,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 19,
    "yc": 13,
    "rc": 1,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 45.6,
    "shots_saved": 42,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "travassos-luiza"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 1
+ }
 }

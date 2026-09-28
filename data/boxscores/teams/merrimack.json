@@ -992,7 +992,7 @@
    "name": "Ryan, Fallon",
    "slug": "ryan-fallon",
    "num": "7",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 10,
    "starts": 3,
    "min": 414,
@@ -1456,5 +1456,14 @@
    "no": 30,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

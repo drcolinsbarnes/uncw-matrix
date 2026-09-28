@@ -538,7 +538,7 @@
    "name": "Mack, Addison",
    "slug": "mack-addison",
    "num": "12",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 50,
@@ -600,5 +600,14 @@
    "no": 18,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

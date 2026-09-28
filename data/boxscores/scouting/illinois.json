@@ -18,6 +18,7 @@
    "offsides": 28,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 38.0,
    "shots_saved": 21,
@@ -33,6 +34,7 @@
    "offsides": 23,
    "yc": 8,
    "rc": 0,
+   "pk_g": 2,
    "goals": 7,
    "shot_pct": 52.7,
    "shots_saved": 41,
@@ -964,5 +966,14 @@
    "recent_games": 3,
    "slug": "white-alyssa"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

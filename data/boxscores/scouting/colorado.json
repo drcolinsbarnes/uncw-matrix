@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 9,
    "rc": 0,
+   "pk_g": 4,
    "goals": 28,
    "shot_pct": 55.7,
    "shots_saved": 79,
@@ -33,6 +34,7 @@
    "offsides": 14,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 9,
    "shot_pct": 43.8,
    "shots_saved": 37,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "swierenga-caley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 4,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 24,
+  "categorized": 4
+ }
 }

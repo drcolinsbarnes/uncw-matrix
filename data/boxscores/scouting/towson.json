@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 35.6,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 7,
    "rc": 1,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 50.5,
    "shots_saved": 40,
@@ -1049,5 +1051,14 @@
    "recent_games": 3,
    "slug": "rubio-emely"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

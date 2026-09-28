@@ -18,6 +18,7 @@
    "offsides": 17,
    "yc": 8,
    "rc": 0,
+   "pk_g": 2,
    "goals": 10,
    "shot_pct": 45.0,
    "shots_saved": 35,
@@ -33,6 +34,7 @@
    "offsides": 9,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 1,
    "shot_pct": 31.0,
    "shots_saved": 12,
@@ -936,5 +938,14 @@
    "recent_games": 3,
    "slug": "proia-nicole"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 2
+ }
 }

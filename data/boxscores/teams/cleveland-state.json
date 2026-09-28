@@ -1218,7 +1218,7 @@
    "name": "Atkins, Shanti",
    "slug": "atkins-shanti",
    "num": "12",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 1,
    "min": 127,
@@ -1236,5 +1236,14 @@
    "no": 20,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

@@ -1012,7 +1012,7 @@
    "name": "Murillo, Laila",
    "slug": "murillo-laila",
    "num": "25",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 4,
    "starts": 4,
    "min": 260,
@@ -2060,5 +2060,14 @@
    "no": 60,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 1
+ }
 }

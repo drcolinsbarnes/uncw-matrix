@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 6,
    "rc": 1,
+   "pk_g": 1,
    "goals": 21,
    "shot_pct": 55.8,
    "shots_saved": 42,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 13,
    "rc": 0,
+   "pk_g": 2,
    "goals": 11,
    "shot_pct": 43.3,
    "shots_saved": 47,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "roark-nevaeh"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 1
+ }
 }

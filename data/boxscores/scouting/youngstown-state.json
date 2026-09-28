@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 10,
    "shot_pct": 36.8,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 22,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 20,
    "shot_pct": 34.3,
    "shots_saved": 49,
@@ -1025,5 +1027,14 @@
    "recent_games": 3,
    "slug": "zuchowski-elena"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 1
+ }
 }

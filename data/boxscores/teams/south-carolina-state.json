@@ -1374,7 +1374,7 @@
    "name": "Tindall , Ayla",
    "slug": "tindall-ayla",
    "num": "3",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 2,
    "min": 202,
@@ -1512,7 +1512,7 @@
    "name": "Solomon, Semhar",
    "slug": "solomon-semhar-2",
    "num": "8",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 6,
    "starts": 0,
    "min": 73,
@@ -1628,7 +1628,7 @@
    "name": "Strozier, Zariah",
    "slug": "strozier-zariah-2",
    "num": "5",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 0,
    "min": 37,
@@ -1650,7 +1650,7 @@
    "name": "Solomon , Semhar",
    "slug": "solomon-semhar",
    "num": "8",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 1,
    "min": 31,
@@ -1756,5 +1756,14 @@
    "no": 40,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 1,
+  "categorized": 0
+ }
 }

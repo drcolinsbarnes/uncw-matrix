@@ -1176,7 +1176,7 @@
    "name": "Morgan, Emily",
    "slug": "morgan-emily",
    "num": "20",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 5,
    "min": 283,
@@ -1358,7 +1358,7 @@
    "name": "Hines, Lindsay",
    "slug": "hines-lindsay",
    "num": "21",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 20,
@@ -1398,5 +1398,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 9,
+  "categorized": 1
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 9,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 52.6,
    "shots_saved": 35,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 45.8,
    "shots_saved": 62,
@@ -907,5 +909,14 @@
    "recent_games": 3,
    "slug": "pinho-magno-julia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

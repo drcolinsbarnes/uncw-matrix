@@ -18,6 +18,7 @@
    "offsides": 16,
    "yc": 18,
    "rc": 0,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 42.3,
    "shots_saved": 56,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 42.2,
    "shots_saved": 49,
@@ -1044,5 +1046,14 @@
    "recent_games": 3,
    "slug": "seymour-payton"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

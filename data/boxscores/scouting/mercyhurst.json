@@ -18,6 +18,7 @@
    "offsides": 20,
    "yc": 13,
    "rc": 1,
+   "pk_g": 1,
    "goals": 10,
    "shot_pct": 56.3,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 26,
    "yc": 5,
    "rc": 0,
+   "pk_g": 2,
    "goals": 34,
    "shot_pct": 50.9,
    "shots_saved": 75,
@@ -1006,5 +1008,14 @@
    "recent_games": 3,
    "slug": "taylor-molly"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 1
+ }
 }

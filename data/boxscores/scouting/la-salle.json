@@ -18,6 +18,7 @@
    "offsides": 9,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 20,
    "shot_pct": 45.9,
    "shots_saved": 58,
@@ -33,6 +34,7 @@
    "offsides": 17,
    "yc": 8,
    "rc": 1,
+   "pk_g": 0,
    "goals": 26,
    "shot_pct": 42.0,
    "shots_saved": 34,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "lebsack-halah"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 18,
+  "categorized": 0
+ }
 }

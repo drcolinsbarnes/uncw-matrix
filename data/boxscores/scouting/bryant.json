@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 46.9,
    "shots_saved": 24,
@@ -33,6 +34,7 @@
    "offsides": 14,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 39.6,
    "shots_saved": 27,
@@ -912,5 +914,14 @@
    "recent_games": 3,
    "slug": "vaillant-whitney"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

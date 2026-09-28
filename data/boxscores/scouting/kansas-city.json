@@ -18,6 +18,7 @@
    "offsides": 13,
    "yc": 14,
    "rc": 1,
+   "pk_g": 2,
    "goals": 5,
    "shot_pct": 37.4,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 23,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 44.8,
    "shots_saved": 61,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "smith-kinsley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 2,
+  "unknown": 1,
+  "categorized": 4
+ }
 }

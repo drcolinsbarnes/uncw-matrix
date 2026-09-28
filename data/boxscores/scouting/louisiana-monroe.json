@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 12,
    "rc": 0,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 54.9,
    "shots_saved": 45,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 16,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 52.4,
    "shots_saved": 58,
@@ -1063,5 +1065,14 @@
    "recent_games": 3,
    "slug": "stefan-bernadett"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

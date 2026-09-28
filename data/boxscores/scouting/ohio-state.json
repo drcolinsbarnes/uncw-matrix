@@ -18,6 +18,7 @@
    "offsides": 31,
    "yc": 3,
    "rc": 0,
+   "pk_g": 2,
    "goals": 19,
    "shot_pct": 40.6,
    "shots_saved": 44,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 12,
    "rc": 1,
+   "pk_g": 1,
    "goals": 4,
    "shot_pct": 34.3,
    "shots_saved": 33,
@@ -997,5 +999,14 @@
    "recent_games": 3,
    "slug": "tumilty-callie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 16,
+  "categorized": 3
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 37.5,
    "shots_saved": 54,
@@ -33,6 +34,7 @@
    "offsides": 5,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 13,
    "shot_pct": 33.6,
    "shots_saved": 27,
@@ -1087,5 +1089,14 @@
    "recent_games": 3,
    "slug": "zailski-katie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

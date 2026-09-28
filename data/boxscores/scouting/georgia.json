@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 10,
    "rc": 1,
+   "pk_g": 1,
    "goals": 19,
    "shot_pct": 35.3,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 21,
    "yc": 9,
    "rc": 0,
+   "pk_g": 1,
    "goals": 12,
    "shot_pct": 37.4,
    "shots_saved": 31,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "staude-kiera"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 2,
+  "unknown": 15,
+  "categorized": 4
+ }
 }

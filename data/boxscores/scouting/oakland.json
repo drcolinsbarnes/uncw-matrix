@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 41.4,
    "shots_saved": 20,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 40.8,
    "shots_saved": 36,
@@ -893,5 +895,14 @@
    "recent_games": 3,
    "slug": "cameron-adalyn"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 13,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 54.4,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 49.6,
    "shots_saved": 56,
@@ -940,5 +942,14 @@
    "recent_games": 3,
    "slug": "plowright-heather"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

@@ -1124,7 +1124,7 @@
    "name": "Gissendanner, Bella",
    "slug": "gissendanner-bella",
    "num": "25",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 3,
    "min": 202,
@@ -1526,7 +1526,7 @@
    "name": "Miller, Kahvayli",
    "slug": "miller-kahvayli",
    "num": "18",
-   "pos": "def",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 31,
@@ -1654,5 +1654,14 @@
    "no": 39,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 0
+ }
 }

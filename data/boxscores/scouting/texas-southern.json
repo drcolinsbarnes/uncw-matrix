@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 7,
    "rc": 1,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 54.7,
    "shots_saved": 39,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 5,
    "rc": 1,
+   "pk_g": 2,
    "goals": 26,
    "shot_pct": 55.7,
    "shots_saved": 77,
@@ -1016,5 +1018,14 @@
    "recent_games": 3,
    "slug": "valdez-alyssa"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

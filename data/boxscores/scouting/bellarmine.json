@@ -18,6 +18,7 @@
    "offsides": 20,
    "yc": 9,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 60.5,
    "shots_saved": 38,
@@ -33,6 +34,7 @@
    "offsides": 22,
    "yc": 3,
    "rc": 0,
+   "pk_g": 1,
    "goals": 18,
    "shot_pct": 43.7,
    "shots_saved": 44,
@@ -1002,5 +1004,14 @@
    "recent_games": 3,
    "slug": "severance-brynn"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 1
+ }
 }

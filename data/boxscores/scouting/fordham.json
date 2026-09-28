@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 47.2,
    "shots_saved": 39,
@@ -33,6 +34,7 @@
    "offsides": 41,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 22,
    "shot_pct": 48.0,
    "shots_saved": 39,
@@ -997,5 +999,14 @@
    "recent_games": 3,
    "slug": "simonin-salma"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

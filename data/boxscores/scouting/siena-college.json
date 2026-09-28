@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 51.7,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 50.9,
    "shots_saved": 45,
@@ -997,5 +999,14 @@
    "recent_games": 3,
    "slug": "neary-briana"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

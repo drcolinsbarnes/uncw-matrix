@@ -18,6 +18,7 @@
    "offsides": 7,
    "yc": 10,
    "rc": 1,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 43.8,
    "shots_saved": 17,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 6,
    "shot_pct": 50.7,
    "shots_saved": 29,
@@ -832,5 +834,14 @@
    "recent_games": 3,
    "slug": "espana-candela"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 4,
+  "categorized": 0
+ }
 }

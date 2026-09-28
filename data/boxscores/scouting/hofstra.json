@@ -18,6 +18,7 @@
    "offsides": 16,
    "yc": 13,
    "rc": 2,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 40.6,
    "shots_saved": 32,
@@ -33,6 +34,7 @@
    "offsides": 24,
    "yc": 12,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 33.9,
    "shots_saved": 27,
@@ -992,5 +994,14 @@
    "recent_games": 3,
    "slug": "tiemersma-daniek"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

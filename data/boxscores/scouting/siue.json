@@ -18,6 +18,7 @@
    "offsides": 8,
    "yc": 11,
    "rc": 1,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 55.3,
    "shots_saved": 41,
@@ -33,6 +34,7 @@
    "offsides": 37,
    "yc": 9,
    "rc": 0,
+   "pk_g": 1,
    "goals": 19,
    "shot_pct": 59.6,
    "shots_saved": 34,
@@ -964,5 +966,14 @@
    "recent_games": 3,
    "slug": "molinari-ashley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

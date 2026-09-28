@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 18,
    "rc": 0,
+   "pk_g": 1,
    "goals": 36,
    "shot_pct": 55.3,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 9,
    "rc": 2,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 40.9,
    "shots_saved": 26,
@@ -1092,5 +1094,14 @@
    "recent_games": 3,
    "slug": "dendis-lexi"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 33,
+  "categorized": 1
+ }
 }

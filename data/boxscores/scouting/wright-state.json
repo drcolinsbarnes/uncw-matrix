@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 8,
    "rc": 0,
+   "pk_g": 3,
    "goals": 17,
    "shot_pct": 50.0,
    "shots_saved": 32,
@@ -33,6 +34,7 @@
    "offsides": 52,
    "yc": 10,
    "rc": 0,
+   "pk_g": 2,
    "goals": 22,
    "shot_pct": 48.3,
    "shots_saved": 62,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "dunlevy-ruby"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 3
+ }
 }

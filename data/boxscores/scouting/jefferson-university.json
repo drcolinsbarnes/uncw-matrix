@@ -18,6 +18,7 @@
    "offsides": 4,
    "yc": 1,
    "rc": 0,
+   "pk_g": 0,
    "goals": 1,
    "shot_pct": 40.0,
    "shots_saved": 1,
@@ -33,6 +34,7 @@
    "offsides": 7,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 2,
    "shot_pct": 40.0,
    "shots_saved": 4,
@@ -699,5 +701,14 @@
    "recent_games": 3,
    "slug": "lesko-kyra"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 1,
+  "categorized": 0
+ }
 }

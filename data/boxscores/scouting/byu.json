@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 34.1,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 12,
    "rc": 1,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 37.8,
    "shots_saved": 24,
@@ -1058,5 +1060,14 @@
    "recent_games": 3,
    "slug": "woods-bella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 0
+ }
 }

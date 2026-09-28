@@ -1248,7 +1248,7 @@
    "name": "Kazandjian, Lisa",
    "slug": "kazandjian-lisa",
    "num": "19",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 3,
    "min": 238,
@@ -1602,5 +1602,14 @@
    "no": 33,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 19,
    "shot_pct": 41.6,
    "shots_saved": 63,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 6,
    "rc": 1,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 37.1,
    "shots_saved": 34,
@@ -1049,5 +1051,14 @@
    "recent_games": 3,
    "slug": "patterson-ava"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 18,
+  "categorized": 1
+ }
 }

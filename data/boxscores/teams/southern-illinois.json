@@ -1350,7 +1350,7 @@
    "name": "Knorr, Dior",
    "slug": "knorr-dior-2",
    "num": "14",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 68,
@@ -1466,7 +1466,7 @@
    "name": "Adeniyi, Damilola",
    "slug": "adeniyi-damilola",
    "num": "42",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 5,
@@ -1528,5 +1528,14 @@
    "no": 33,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 1
+ }
 }

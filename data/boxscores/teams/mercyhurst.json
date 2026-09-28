@@ -1046,7 +1046,7 @@
    "name": "Popowski, Jenna",
    "slug": "popowski-jenna",
    "num": "4",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 12,
    "starts": 4,
    "min": 716,
@@ -1498,7 +1498,7 @@
    "name": "Moroz, Julia",
    "slug": "moroz-julia",
    "num": "14",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 15,
@@ -1538,5 +1538,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 1
+ }
 }

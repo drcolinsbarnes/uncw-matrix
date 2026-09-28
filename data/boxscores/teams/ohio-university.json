@@ -866,7 +866,7 @@
    "name": "Francis, Camille",
    "slug": "francis-camille",
    "num": "23",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 2,
    "min": 361,
@@ -1114,7 +1114,7 @@
    "name": "Berish, Eve",
    "slug": "berish-eve",
    "num": "3",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 72,
@@ -1220,5 +1220,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

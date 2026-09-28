@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 11,
    "rc": 0,
+   "pk_g": 3,
    "goals": 28,
    "shot_pct": 46.1,
    "shots_saved": 61,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 33.7,
    "shots_saved": 30,
@@ -1182,5 +1184,14 @@
    "recent_games": 3,
    "slug": "shannon-ava"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 24,
+  "categorized": 3
+ }
 }

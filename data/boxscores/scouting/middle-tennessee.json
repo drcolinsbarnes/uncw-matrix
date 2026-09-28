@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 7,
    "rc": 0,
+   "pk_g": 3,
    "goals": 22,
    "shot_pct": 54.9,
    "shots_saved": 67,
@@ -33,6 +34,7 @@
    "offsides": 21,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 10,
    "shot_pct": 42.1,
    "shots_saved": 30,
@@ -1082,5 +1084,14 @@
    "recent_games": 3,
    "slug": "stenehjem-mya"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 3
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 14,
    "rc": 0,
+   "pk_g": 2,
    "goals": 22,
    "shot_pct": 55.8,
    "shots_saved": 55,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 48.0,
    "shots_saved": 31,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "passaro-carly"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 2
+ }
 }

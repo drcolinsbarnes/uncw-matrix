@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 45.6,
    "shots_saved": 56,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 9,
    "rc": 1,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 39.3,
    "shots_saved": 36,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "wilson-dannique"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

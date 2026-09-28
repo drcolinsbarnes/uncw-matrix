@@ -1154,7 +1154,7 @@
    "name": "Hsu, Jadyn",
    "slug": "hsu-jadyn",
    "num": "28",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 5,
    "min": 275,
@@ -1282,5 +1282,14 @@
    "no": 19,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

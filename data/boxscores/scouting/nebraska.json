@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 13,
    "rc": 0,
+   "pk_g": 2,
    "goals": 13,
    "shot_pct": 38.5,
    "shots_saved": 52,
@@ -33,6 +34,7 @@
    "offsides": 32,
    "yc": 11,
    "rc": 1,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 44.9,
    "shots_saved": 51,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "sees-jo"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 2
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 3,
    "rc": 0,
+   "pk_g": 1,
    "goals": 19,
    "shot_pct": 52.3,
    "shots_saved": 37,
@@ -33,6 +34,7 @@
    "offsides": 27,
    "yc": 8,
    "rc": 1,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 53.2,
    "shots_saved": 57,
@@ -973,5 +975,14 @@
    "recent_games": 3,
    "slug": "burr-bella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 2
+ }
 }

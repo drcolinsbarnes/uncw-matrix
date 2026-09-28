@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 19,
    "shot_pct": 49.3,
    "shots_saved": 51,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 18,
    "shot_pct": 44.2,
    "shots_saved": 47,
@@ -1016,5 +1018,14 @@
    "recent_games": 3,
    "slug": "bryant-peyton"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 0
+ }
 }

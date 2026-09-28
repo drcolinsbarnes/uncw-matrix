@@ -18,6 +18,7 @@
    "offsides": 32,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 15,
    "shot_pct": 47.5,
    "shots_saved": 61,
@@ -33,6 +34,7 @@
    "offsides": 22,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 41.7,
    "shots_saved": 54,
@@ -1063,5 +1065,14 @@
    "recent_games": 3,
    "slug": "wineka-ella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

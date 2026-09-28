@@ -1006,7 +1006,7 @@
    "name": "Viccars, Brooke",
    "slug": "viccars-brooke",
    "num": "7",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 4,
    "min": 291,
@@ -1250,5 +1250,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

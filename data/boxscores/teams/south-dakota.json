@@ -992,7 +992,7 @@
    "name": "Pollmiller, Brooklynn",
    "slug": "pollmiller-brooklynn",
    "num": "16",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 3,
    "min": 453,
@@ -1278,7 +1278,7 @@
    "name": "Nygren, Elsa",
    "slug": "nygren-elsa",
    "num": "22",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 25,
@@ -1328,7 +1328,7 @@
    "name": "Martin, Makenna",
    "slug": "martin-makenna",
    "num": "25",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 20,
@@ -1350,7 +1350,7 @@
    "name": "Payton, Kate",
    "slug": "payton-kate",
    "num": "33",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 20,
@@ -1396,5 +1396,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

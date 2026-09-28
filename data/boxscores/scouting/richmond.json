@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 52.3,
    "shots_saved": 63,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 6,
    "shot_pct": 47.2,
    "shots_saved": 44,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "jackson-logan"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

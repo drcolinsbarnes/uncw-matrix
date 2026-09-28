@@ -18,6 +18,7 @@
    "offsides": 17,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 21,
    "shot_pct": 46.1,
    "shots_saved": 44,
@@ -33,6 +34,7 @@
    "offsides": 14,
    "yc": 14,
    "rc": 1,
+   "pk_g": 0,
    "goals": 25,
    "shot_pct": 44.8,
    "shots_saved": 62,
@@ -1049,5 +1051,14 @@
    "recent_games": 3,
    "slug": "rosito-cristina"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 0
+ }
 }

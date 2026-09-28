@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 31,
    "shot_pct": 41.0,
    "shots_saved": 51,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 37.8,
    "shots_saved": 20,
@@ -1163,5 +1165,14 @@
    "recent_games": 3,
    "slug": "peat-kiley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 28,
+  "categorized": 0
+ }
 }

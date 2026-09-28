@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 49.1,
    "shots_saved": 38,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 47.0,
    "shots_saved": 43,
@@ -1035,5 +1037,14 @@
    "recent_games": 3,
    "slug": "pilato-olivia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

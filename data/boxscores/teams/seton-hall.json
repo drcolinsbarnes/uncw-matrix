@@ -1024,7 +1024,7 @@
    "name": "Udowenko, Abby",
    "slug": "udowenko-abby",
    "num": "21",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 0,
    "min": 69,
@@ -1152,5 +1152,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 2
+ }
 }

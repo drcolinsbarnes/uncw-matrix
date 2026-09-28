@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 13,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 51.2,
    "shots_saved": 51,
@@ -33,6 +34,7 @@
    "offsides": 32,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 32,
    "shot_pct": 42.0,
    "shots_saved": 57,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "vendt-vivian"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

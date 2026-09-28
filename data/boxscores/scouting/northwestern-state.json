@@ -18,6 +18,7 @@
    "offsides": 23,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 41,
    "shot_pct": 52.1,
    "shots_saved": 47,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 6,
    "rc": 0,
+   "pk_g": 3,
    "goals": 34,
    "shot_pct": 53.9,
    "shots_saved": 48,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "pethel-emma"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 39,
+  "categorized": 1
+ }
 }

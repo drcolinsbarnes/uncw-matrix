@@ -1520,7 +1520,7 @@
    "name": "Somerville, Gracie",
    "slug": "somerville-gracie",
    "num": "7",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 39,
@@ -1588,5 +1588,14 @@
    "no": 29,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 3
+ }
 }

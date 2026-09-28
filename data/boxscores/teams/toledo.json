@@ -1168,7 +1168,7 @@
    "name": "Usher, Amya",
    "slug": "usher-amya",
    "num": "4",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 0,
    "min": 257,
@@ -1306,7 +1306,7 @@
    "name": "Costa, Kylie",
    "slug": "costa-kylie",
    "num": "16",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 16,
@@ -1368,5 +1368,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 2
+ }
 }

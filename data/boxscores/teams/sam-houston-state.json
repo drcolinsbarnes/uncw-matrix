@@ -1246,7 +1246,7 @@
    "name": "McCuistion, Gabriella",
    "slug": "mccuistion-gabriella",
    "num": "27",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 19,
@@ -1286,5 +1286,14 @@
    "no": 29,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 2,
+  "free_kick": 1,
+  "throw_in": 0,
+  "run_of_play": 2,
+  "unknown": 4,
+  "categorized": 6
+ }
 }

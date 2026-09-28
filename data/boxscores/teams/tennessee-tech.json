@@ -1226,7 +1226,7 @@
    "name": "Lizarralde Arano, Elena",
    "slug": "lizarralde-arano-elena",
    "num": "11",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 2,
    "min": 234,
@@ -1916,5 +1916,14 @@
    "no": 47,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 9,
+  "categorized": 0
+ }
 }

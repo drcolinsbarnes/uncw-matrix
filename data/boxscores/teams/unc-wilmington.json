@@ -1438,7 +1438,7 @@
    "name": "Hamilton, Reagan",
    "slug": "hamilton-reagan",
    "num": "2",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 58,
@@ -1620,7 +1620,7 @@
    "name": "Welsh, Isabelle",
    "slug": "welsh-isabelle",
    "num": "29",
-   "pos": "gk",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 9,
@@ -1682,5 +1682,14 @@
    "no": 33,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 21,
+  "categorized": 1
+ }
 }

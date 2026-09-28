@@ -1080,7 +1080,7 @@
    "name": "Bretz, Olivia",
    "slug": "bretz-olivia",
    "num": "20",
-   "pos": "DEF",
+   "pos": "FWD",
    "gp": 8,
    "starts": 0,
    "min": 358,
@@ -1274,5 +1274,14 @@
    "no": 22,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 1
+ }
 }

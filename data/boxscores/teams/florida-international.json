@@ -1020,7 +1020,7 @@
    "name": "Garcia, Barbara",
    "slug": "garcia-barbara",
    "num": "11",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 6,
    "starts": 1,
    "min": 154,
@@ -1218,7 +1218,7 @@
    "name": "Sigurdardottir, Rut",
    "slug": "sigurdardottir-rut",
    "num": "26",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 15,
@@ -1258,5 +1258,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 9,
+  "categorized": 0
+ }
 }

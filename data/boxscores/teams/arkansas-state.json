@@ -962,7 +962,7 @@
    "name": "Windsor, Kayla",
    "slug": "windsor-kayla",
    "num": "5",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 2,
    "min": 287,
@@ -984,7 +984,7 @@
    "name": "Crotwell, Anne",
    "slug": "crotwell-anne",
    "num": "2",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 3,
    "min": 277,
@@ -1562,7 +1562,7 @@
    "name": "Gudjonsdottir, Tinna",
    "slug": "gudjonsdottir-tinna",
    "num": "26",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 18,
@@ -1624,5 +1624,14 @@
    "no": 41,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

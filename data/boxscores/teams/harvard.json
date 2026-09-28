@@ -1262,7 +1262,7 @@
    "name": "Muniz, Lauren",
    "slug": "muniz-lauren",
    "num": "22",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 0,
    "min": 146,
@@ -1352,5 +1352,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 25,
+  "categorized": 3
+ }
 }

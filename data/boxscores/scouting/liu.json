@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 6,
    "rc": 1,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 55.1,
    "shots_saved": 51,
@@ -33,6 +34,7 @@
    "offsides": 21,
    "yc": 4,
    "rc": 0,
+   "pk_g": 2,
    "goals": 23,
    "shot_pct": 54.3,
    "shots_saved": 59,
@@ -959,5 +961,14 @@
    "recent_games": 3,
    "slug": "panagiotakopoulos-emma"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

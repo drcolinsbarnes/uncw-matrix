@@ -18,6 +18,7 @@
    "offsides": 10,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 50.8,
    "shots_saved": 47,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 7,
    "rc": 0,
+   "pk_g": 1,
    "goals": 21,
    "shot_pct": 45.8,
    "shots_saved": 49,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "nguyen-kaylee"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 7,
    "rc": 0,
+   "pk_g": 3,
    "goals": 29,
    "shot_pct": 49.2,
    "shots_saved": 64,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 11,
    "rc": 1,
+   "pk_g": 1,
    "goals": 14,
    "shot_pct": 38.6,
    "shots_saved": 35,
@@ -1035,5 +1037,14 @@
    "recent_games": 3,
    "slug": "k-nig-amy"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 25,
+  "categorized": 3
+ }
 }

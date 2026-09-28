@@ -1286,7 +1286,7 @@
    "name": "Nyondo, Lughano",
    "slug": "nyondo-lughano",
    "num": "12",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 0,
    "min": 47,
@@ -1420,5 +1420,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 37.3,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 17,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 39.1,
    "shots_saved": 42,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "van-meeteren-mali"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

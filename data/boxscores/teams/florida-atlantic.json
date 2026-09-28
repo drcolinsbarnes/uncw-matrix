@@ -1254,7 +1254,7 @@
    "name": "Markee, Sutton",
    "slug": "markee-sutton",
    "num": "14",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 4,
    "starts": 3,
    "min": 243,
@@ -1454,5 +1454,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 2
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 53.8,
    "shots_saved": 35,
@@ -33,6 +34,7 @@
    "offsides": 9,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 39.5,
    "shots_saved": 25,
@@ -988,5 +990,14 @@
    "recent_games": 3,
    "slug": "rose-nyah"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 1
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 9,
    "yc": 3,
    "rc": 0,
+   "pk_g": 1,
    "goals": 14,
    "shot_pct": 48.3,
    "shots_saved": 42,
@@ -33,6 +34,7 @@
    "offsides": 12,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 47.4,
    "shots_saved": 62,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "leseck-kayla"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 1
+ }
 }

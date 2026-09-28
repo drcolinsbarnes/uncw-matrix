@@ -18,6 +18,7 @@
    "offsides": 30,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 45.8,
    "shots_saved": 57,
@@ -33,6 +34,7 @@
    "offsides": 16,
    "yc": 1,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 51.2,
    "shots_saved": 54,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "yates-chloe"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 9,
+  "categorized": 1
+ }
 }

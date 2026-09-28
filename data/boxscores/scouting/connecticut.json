@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 11,
    "rc": 0,
+   "pk_g": 2,
    "goals": 10,
    "shot_pct": 50.4,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 2,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 47.6,
    "shots_saved": 22,
@@ -988,5 +990,14 @@
    "recent_games": 3,
    "slug": "shimkin-chloe"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 2
+ }
 }

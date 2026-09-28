@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 11,
    "rc": 0,
+   "pk_g": 2,
    "goals": 15,
    "shot_pct": 40.8,
    "shots_saved": 36,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 10,
    "rc": 0,
+   "pk_g": 2,
    "goals": 12,
    "shot_pct": 39.9,
    "shots_saved": 45,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "usher-amya"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 2
+ }
 }

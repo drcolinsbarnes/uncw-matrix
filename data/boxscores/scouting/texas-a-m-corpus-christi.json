@@ -18,6 +18,7 @@
    "offsides": 13,
    "yc": 8,
    "rc": 1,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 56.3,
    "shots_saved": 63,
@@ -33,6 +34,7 @@
    "offsides": 3,
    "yc": 13,
    "rc": 0,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 46.7,
    "shots_saved": 30,
@@ -1059,5 +1061,14 @@
    "recent_games": 3,
    "slug": "wilson-ashley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 0
+ }
 }

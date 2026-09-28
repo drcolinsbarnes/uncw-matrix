@@ -18,6 +18,7 @@
    "offsides": 7,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 33.9,
    "shots_saved": 32,
@@ -33,6 +34,7 @@
    "offsides": 32,
    "yc": 11,
    "rc": 0,
+   "pk_g": 1,
    "goals": 23,
    "shot_pct": 44.7,
    "shots_saved": 40,
@@ -1021,5 +1023,14 @@
    "recent_games": 3,
    "slug": "hogan-syleena"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

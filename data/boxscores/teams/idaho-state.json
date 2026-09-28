@@ -1144,7 +1144,7 @@
    "name": "Christensen, Kellie",
    "slug": "christensen-kellie",
    "num": "7",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 6,
    "starts": 0,
    "min": 115,
@@ -1256,5 +1256,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

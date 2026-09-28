@@ -18,6 +18,7 @@
    "offsides": 27,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 16,
    "shot_pct": 54.6,
    "shots_saved": 49,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 48.1,
    "shots_saved": 30,
@@ -1021,5 +1023,14 @@
    "recent_games": 3,
    "slug": "wetzel-peyton"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 15,
+  "categorized": 0
+ }
 }

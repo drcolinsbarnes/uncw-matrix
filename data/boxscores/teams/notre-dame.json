@@ -1202,7 +1202,7 @@
    "name": "Scott, Gianna",
    "slug": "scott-gianna",
    "num": "14",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 28,
@@ -1270,5 +1270,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 2
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 10,
    "yc": 16,
    "rc": 1,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 44.9,
    "shots_saved": 23,
@@ -33,6 +34,7 @@
    "offsides": 5,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 46.9,
    "shots_saved": 54,
@@ -964,5 +966,14 @@
    "recent_games": 3,
    "slug": "uhlig-felicitas"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

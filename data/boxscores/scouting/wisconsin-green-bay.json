@@ -18,6 +18,7 @@
    "offsides": 9,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 44.3,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 2,
    "shot_pct": 50.0,
    "shots_saved": 14,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "rogowski-ella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 32,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 42.2,
    "shots_saved": 38,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 9,
    "rc": 0,
+   "pk_g": 1,
    "goals": 13,
    "shot_pct": 39.8,
    "shots_saved": 34,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "stoft-emerson"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

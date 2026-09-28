@@ -18,6 +18,7 @@
    "offsides": 11,
    "yc": 11,
    "rc": 1,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 43.2,
    "shots_saved": 28,
@@ -33,6 +34,7 @@
    "offsides": 28,
    "yc": 8,
    "rc": 0,
+   "pk_g": 2,
    "goals": 22,
    "shot_pct": 57.6,
    "shots_saved": 61,
@@ -912,5 +914,14 @@
    "recent_games": 3,
    "slug": "palmer-laney"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

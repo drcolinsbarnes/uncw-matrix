@@ -786,7 +786,7 @@
    "name": "Frigon, Jericho",
    "slug": "frigon-jericho",
    "num": "21",
-   "pos": "MID",
+   "pos": "DEF",
    "gp": 9,
    "starts": 9,
    "min": 768,
@@ -1244,5 +1244,14 @@
    "no": 24,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

@@ -1136,7 +1136,7 @@
    "name": "Gordon Rodney, Anniyah",
    "slug": "gordon-rodney-anniyah",
    "num": "15",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 0,
    "min": 66,
@@ -1198,5 +1198,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 1
+ }
 }

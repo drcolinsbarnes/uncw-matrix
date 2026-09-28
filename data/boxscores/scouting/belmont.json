@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 50.5,
    "shots_saved": 43,
@@ -33,6 +34,7 @@
    "offsides": 7,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 46.3,
    "shots_saved": 36,
@@ -926,5 +928,14 @@
    "recent_games": 3,
    "slug": "towsen-wagoner"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 21,
    "shot_pct": 43.6,
    "shots_saved": 51,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 5,
    "rc": 1,
+   "pk_g": 0,
    "goals": 15,
    "shot_pct": 41.4,
    "shots_saved": 52,
@@ -1082,5 +1084,14 @@
    "recent_games": 3,
    "slug": "price-cece"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 31,
    "yc": 14,
    "rc": 0,
+   "pk_g": 1,
    "goals": 12,
    "shot_pct": 50.7,
    "shots_saved": 63,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 56.3,
    "shots_saved": 36,
@@ -1021,5 +1023,14 @@
    "recent_games": 3,
    "slug": "sylvester-mckenna"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 1
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 55.1,
    "shots_saved": 31,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 47.6,
    "shots_saved": 31,
@@ -893,5 +895,14 @@
    "recent_games": 3,
    "slug": "watkins-moriah"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

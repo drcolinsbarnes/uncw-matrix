@@ -18,6 +18,7 @@
    "offsides": 0,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 53.3,
    "shots_saved": 5,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 54.9,
    "shots_saved": 26,
@@ -766,5 +768,14 @@
    "recent_games": 3,
    "slug": "moseley-sadie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 3,
+  "categorized": 0
+ }
 }

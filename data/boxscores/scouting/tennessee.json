@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 12,
    "rc": 1,
+   "pk_g": 4,
    "goals": 22,
    "shot_pct": 45.1,
    "shots_saved": 42,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 7,
    "rc": 1,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 29.5,
    "shots_saved": 18,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "smith-bella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 4,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 18,
+  "categorized": 4
+ }
 }

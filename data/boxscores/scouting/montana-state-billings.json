@@ -18,6 +18,7 @@
    "offsides": 0,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 1,
    "shot_pct": 42.9,
    "shots_saved": 2,
@@ -33,6 +34,7 @@
    "offsides": 1,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 2,
    "shot_pct": 50.0,
    "shots_saved": 3,
@@ -682,5 +684,14 @@
    "recent_games": 3,
    "slug": "curtright-ava"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 1,
+  "categorized": 0
+ }
 }

@@ -842,7 +842,7 @@
    "name": "Atkins, Brooke",
    "slug": "atkins-brooke",
    "num": "26",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 2,
    "min": 214,
@@ -1128,7 +1128,7 @@
    "name": "Howard, Desirae",
    "slug": "howard-desirae",
    "num": "28",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 39,
@@ -1190,5 +1190,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 1,
+  "categorized": 0
+ }
 }

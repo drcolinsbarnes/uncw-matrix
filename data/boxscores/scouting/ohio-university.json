@@ -18,6 +18,7 @@
    "offsides": 17,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 14,
    "shot_pct": 51.1,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 7,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 47.4,
    "shots_saved": 39,
@@ -988,5 +990,14 @@
    "recent_games": 3,
    "slug": "robinson-kate"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

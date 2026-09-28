@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 11,
    "rc": 1,
+   "pk_g": 3,
    "goals": 12,
    "shot_pct": 55.0,
    "shots_saved": 43,
@@ -33,6 +34,7 @@
    "offsides": 21,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 52.8,
    "shots_saved": 47,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "team"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 3
+ }
 }

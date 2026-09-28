@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 13,
    "shot_pct": 38.0,
    "shots_saved": 28,
@@ -33,6 +34,7 @@
    "offsides": 17,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 35.2,
    "shots_saved": 34,
@@ -945,5 +947,14 @@
    "recent_games": 3,
    "slug": "udebhulu-tasha"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 1
+ }
 }

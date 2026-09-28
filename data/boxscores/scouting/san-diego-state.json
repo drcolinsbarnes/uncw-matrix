@@ -18,6 +18,7 @@
    "offsides": 17,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 20,
    "shot_pct": 45.8,
    "shots_saved": 35,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 11,
    "rc": 0,
+   "pk_g": 2,
    "goals": 3,
    "shot_pct": 38.7,
    "shots_saved": 21,
@@ -988,5 +990,14 @@
    "recent_games": 3,
    "slug": "nakamoto-alexyz"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 0
+ }
 }

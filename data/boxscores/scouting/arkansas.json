@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 22,
    "shot_pct": 46.0,
    "shots_saved": 53,
@@ -33,6 +34,7 @@
    "offsides": 12,
    "yc": 7,
    "rc": 0,
+   "pk_g": 2,
    "goals": 13,
    "shot_pct": 45.0,
    "shots_saved": 36,
@@ -1111,5 +1113,14 @@
    "recent_games": 3,
    "slug": "jones-sabrina"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 0
+ }
 }

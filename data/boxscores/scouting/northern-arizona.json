@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 7,
    "rc": 1,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 45.7,
    "shots_saved": 55,
@@ -33,6 +34,7 @@
    "offsides": 22,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 44.6,
    "shots_saved": 46,
@@ -959,5 +961,14 @@
    "recent_games": 3,
    "slug": "puels-kristen"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 9,
+  "categorized": 0
+ }
 }

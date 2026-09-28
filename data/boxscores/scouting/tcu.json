@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 37.9,
    "shots_saved": 23,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 46.7,
    "shots_saved": 31,
@@ -988,5 +990,14 @@
    "recent_games": 3,
    "slug": "patton-cameron"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 0
+ }
 }

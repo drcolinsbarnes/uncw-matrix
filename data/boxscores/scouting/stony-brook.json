@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 40.0,
    "shots_saved": 45,
@@ -33,6 +34,7 @@
    "offsides": 12,
    "yc": 17,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 34.1,
    "shots_saved": 48,
@@ -1016,5 +1018,14 @@
    "recent_games": 3,
    "slug": "oljemark-eela"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

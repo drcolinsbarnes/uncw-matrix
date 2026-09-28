@@ -18,6 +18,7 @@
    "offsides": 20,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 24,
    "shot_pct": 41.0,
    "shots_saved": 56,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 17,
    "rc": 3,
+   "pk_g": 2,
    "goals": 11,
    "shot_pct": 32.7,
    "shots_saved": 26,
@@ -1106,5 +1108,14 @@
    "recent_games": 3,
    "slug": "pearcy-lj"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 22,
+  "categorized": 0
+ }
 }

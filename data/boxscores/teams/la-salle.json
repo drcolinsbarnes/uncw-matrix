@@ -1154,7 +1154,7 @@
    "name": "Lebsack, Halah",
    "slug": "lebsack-halah",
    "num": "27",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 11,
    "starts": 5,
    "min": 405,
@@ -1396,7 +1396,7 @@
    "name": "Kay, Ireland",
    "slug": "kay-ireland",
    "num": "14",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 20,
@@ -1514,5 +1514,14 @@
    "no": 29,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 18,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 23,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 42.7,
    "shots_saved": 37,
@@ -33,6 +34,7 @@
    "offsides": 7,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 7,
    "shot_pct": 41.0,
    "shots_saved": 18,
@@ -1007,5 +1009,14 @@
    "recent_games": 3,
    "slug": "shuler-kyndal"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 15,
+  "categorized": 1
+ }
 }

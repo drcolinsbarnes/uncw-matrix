@@ -18,6 +18,7 @@
    "offsides": 16,
    "yc": 13,
    "rc": 0,
+   "pk_g": 1,
    "goals": 33,
    "shot_pct": 50.9,
    "shots_saved": 48,
@@ -33,6 +34,7 @@
    "offsides": 9,
    "yc": 11,
    "rc": 0,
+   "pk_g": 1,
    "goals": 12,
    "shot_pct": 44.3,
    "shots_saved": 27,
@@ -1111,5 +1113,14 @@
    "recent_games": 3,
    "slug": "truitt-katherine"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 30,
+  "categorized": 1
+ }
 }

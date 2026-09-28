@@ -932,7 +932,7 @@
    "name": "McCoy, Eva",
    "slug": "mccoy-eva",
    "num": "30",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 4,
    "min": 297,
@@ -1232,5 +1232,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

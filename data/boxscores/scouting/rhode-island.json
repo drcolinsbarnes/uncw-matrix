@@ -18,6 +18,7 @@
    "offsides": 10,
    "yc": 8,
    "rc": 2,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 40.3,
    "shots_saved": 42,
@@ -33,6 +34,7 @@
    "offsides": 42,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 51.7,
    "shots_saved": 58,
@@ -1049,5 +1051,14 @@
    "recent_games": 3,
    "slug": "rice-kaia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 9,
+  "categorized": 1
+ }
 }

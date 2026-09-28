@@ -1126,7 +1126,7 @@
    "name": "Black, Jessica",
    "slug": "black-jessica",
    "num": "14",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 12,
    "starts": 11,
    "min": 771,
@@ -1478,7 +1478,7 @@
    "name": "Harding, Malia",
    "slug": "harding-malia",
    "num": "17",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 1,
    "min": 156,
@@ -1594,7 +1594,7 @@
    "name": "DeBono, Mary Kate",
    "slug": "debono-mary-kate",
    "num": "18",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 2,
    "starts": 1,
    "min": 104,
@@ -1734,5 +1734,14 @@
    "no": 32,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 25,
+  "categorized": 0
+ }
 }

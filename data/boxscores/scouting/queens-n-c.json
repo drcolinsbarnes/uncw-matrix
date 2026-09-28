@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 50.8,
    "shots_saved": 25,
@@ -33,6 +34,7 @@
    "offsides": 27,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 23,
    "shot_pct": 50.0,
    "shots_saved": 69,
@@ -940,5 +942,14 @@
    "recent_games": 3,
    "slug": "prell-ansleigh"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

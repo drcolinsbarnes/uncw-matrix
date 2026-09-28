@@ -18,6 +18,7 @@
    "offsides": 20,
    "yc": 13,
    "rc": 0,
+   "pk_g": 2,
    "goals": 14,
    "shot_pct": 40.8,
    "shots_saved": 37,
@@ -33,6 +34,7 @@
    "offsides": 20,
    "yc": 7,
    "rc": 0,
+   "pk_g": 1,
    "goals": 20,
    "shot_pct": 49.7,
    "shots_saved": 75,
@@ -1030,5 +1032,14 @@
    "recent_games": 3,
    "slug": "valente-alex"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 1,
+  "run_of_play": 3,
+  "unknown": 7,
+  "categorized": 7
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 21,
    "shot_pct": 52.3,
    "shots_saved": 57,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 39.4,
    "shots_saved": 37,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "alamo-isabella"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 19,
+  "categorized": 0
+ }
 }

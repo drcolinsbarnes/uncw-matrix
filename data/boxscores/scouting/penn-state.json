@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 14,
    "shot_pct": 45.6,
    "shots_saved": 27,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 3,
    "shot_pct": 37.0,
    "shots_saved": 17,
@@ -960,5 +962,14 @@
    "recent_games": 3,
    "slug": "ring-kennedy"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

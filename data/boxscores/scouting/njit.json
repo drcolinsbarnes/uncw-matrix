@@ -18,6 +18,7 @@
    "offsides": 30,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 39.5,
    "shots_saved": 38,
@@ -33,6 +34,7 @@
    "offsides": 9,
    "yc": 6,
    "rc": 1,
+   "pk_g": 2,
    "goals": 17,
    "shot_pct": 43.4,
    "shots_saved": 52,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "westbrook-kennedy"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 0
+ }
 }

@@ -1364,7 +1364,7 @@
    "name": "Meyer, Siena",
    "slug": "meyer-siena",
    "num": "17",
-   "pos": "def",
+   "pos": "D",
    "gp": 2,
    "starts": 0,
    "min": 62,
@@ -1408,7 +1408,7 @@
    "name": "Araujo, Bela",
    "slug": "araujo-bela",
    "num": "33",
-   "pos": "def",
+   "pos": "D",
    "gp": 2,
    "starts": 0,
    "min": 3,
@@ -1426,5 +1426,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 2
+ }
 }

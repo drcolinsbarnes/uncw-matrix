@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 42.4,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 5,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 9,
    "shot_pct": 42.2,
    "shots_saved": 37,
@@ -978,5 +980,14 @@
    "recent_games": 3,
    "slug": "middleborn-journey"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

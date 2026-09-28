@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 7,
    "rc": 2,
+   "pk_g": 1,
    "goals": 22,
    "shot_pct": 44.4,
    "shots_saved": 37,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 12,
    "shot_pct": 40.0,
    "shots_saved": 28,
@@ -1040,5 +1042,14 @@
    "recent_games": 3,
    "slug": "powell-elizabeth"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 19,
+  "categorized": 1
+ }
 }

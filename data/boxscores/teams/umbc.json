@@ -1140,7 +1140,7 @@
    "name": "Schenning, Payton",
    "slug": "schenning-payton",
    "num": "4",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 12,
    "starts": 6,
    "min": 546,
@@ -1514,7 +1514,7 @@
    "name": "Whittle, Avery",
    "slug": "whittle-avery",
    "num": "33",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 16,
@@ -1554,5 +1554,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 0
+ }
 }

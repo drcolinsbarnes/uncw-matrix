@@ -1122,7 +1122,7 @@
    "name": "Tifft, Raina",
    "slug": "tifft-raina",
    "num": "30",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 9,
    "starts": 1,
    "min": 254,
@@ -1144,7 +1144,7 @@
    "name": "Robertson, Lydia",
    "slug": "robertson-lydia",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 9,
    "starts": 1,
    "min": 243,
@@ -1254,7 +1254,7 @@
    "name": "James, Hannah",
    "slug": "james-hannah",
    "num": "29",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 24,
@@ -1272,5 +1272,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 1
+ }
 }

@@ -896,7 +896,7 @@
    "name": "Lynn, Gracie",
    "slug": "lynn-gracie",
    "num": "11",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 4,
    "min": 391,
@@ -940,7 +940,7 @@
    "name": "Lynn, Reese",
    "slug": "lynn-reese",
    "num": "12",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 4,
    "min": 358,
@@ -1762,5 +1762,14 @@
    "no": 47,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

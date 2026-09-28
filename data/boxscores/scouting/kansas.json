@@ -18,6 +18,7 @@
    "offsides": 34,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 24,
    "shot_pct": 44.3,
    "shots_saved": 66,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 13,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 57.4,
    "shots_saved": 21,
@@ -1087,5 +1089,14 @@
    "recent_games": 3,
    "slug": "tobin-emily"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 23,
+  "categorized": 0
+ }
 }

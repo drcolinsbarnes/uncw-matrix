@@ -1210,7 +1210,7 @@
    "name": "Brill, Penny",
    "slug": "brill-penny",
    "num": "20",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 54,
@@ -1322,5 +1322,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 19,
+  "categorized": 1
+ }
 }

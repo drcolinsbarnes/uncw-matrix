@@ -1036,7 +1036,7 @@
    "name": "Miller, Avery",
    "slug": "miller-avery",
    "num": "21",
-   "pos": "MID",
+   "pos": "fwd",
    "gp": 8,
    "starts": 2,
    "min": 338,
@@ -1240,7 +1240,7 @@
    "name": "Silva, Charlie",
    "slug": "silva-charlie",
    "num": "10",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 1,
    "min": 164,
@@ -1412,5 +1412,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

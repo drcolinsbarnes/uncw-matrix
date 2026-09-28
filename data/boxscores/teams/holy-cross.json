@@ -1212,7 +1212,7 @@
    "name": "Quezada, Keilly",
    "slug": "quezada-keilly",
    "num": "30",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 1,
    "min": 131,
@@ -1300,7 +1300,7 @@
    "name": "Tighe, Allison",
    "slug": "tighe-allison",
    "num": "21",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 1,
    "min": 95,
@@ -1384,5 +1384,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 1
+ }
 }

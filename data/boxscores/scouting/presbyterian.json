@@ -18,6 +18,7 @@
    "offsides": 5,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 44.1,
    "shots_saved": 32,
@@ -33,6 +34,7 @@
    "offsides": 14,
    "yc": 6,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 49.4,
    "shots_saved": 32,
@@ -969,5 +971,14 @@
    "recent_games": 3,
    "slug": "stoner-sydney"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

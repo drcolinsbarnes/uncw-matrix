@@ -1140,7 +1140,7 @@
    "name": "Harris, Charli",
    "slug": "harris-charli",
    "num": "23",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 12,
    "starts": 5,
    "min": 571,
@@ -1294,7 +1294,7 @@
    "name": "Qosja, Stacey",
    "slug": "qosja-stacey",
    "num": "26",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 12,
    "starts": 2,
    "min": 366,
@@ -1404,7 +1404,7 @@
    "name": "Franco, Giulia",
    "slug": "franco-giulia",
    "num": "8",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 82,
@@ -1494,5 +1494,14 @@
    "no": 25,
    "gk_save_pct": 66.7
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 12,
    "yc": 11,
    "rc": 0,
+   "pk_g": 2,
    "goals": 16,
    "shot_pct": 43.5,
    "shots_saved": 31,
@@ -33,6 +34,7 @@
    "offsides": 30,
    "yc": 6,
    "rc": 2,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 51.0,
    "shots_saved": 41,
@@ -992,5 +994,14 @@
    "recent_games": 3,
    "slug": "woodson-olivia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 2
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 15,
    "shot_pct": 40.7,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 7,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 32.8,
    "shots_saved": 17,
@@ -1035,5 +1037,14 @@
    "recent_games": 3,
    "slug": "worrell-alexus"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 41.7,
    "shots_saved": 50,
@@ -33,6 +34,7 @@
    "offsides": 9,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 6,
    "shot_pct": 40.5,
    "shots_saved": 39,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "stanley-elle"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 11,
+  "categorized": 1
+ }
 }

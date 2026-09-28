@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 9,
    "rc": 1,
+   "pk_g": 0,
    "goals": 8,
    "shot_pct": 46.2,
    "shots_saved": 41,
@@ -33,6 +34,7 @@
    "offsides": 8,
    "yc": 7,
    "rc": 1,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 34.2,
    "shots_saved": 26,
@@ -1002,5 +1004,14 @@
    "recent_games": 3,
    "slug": "valenzuela-shadia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

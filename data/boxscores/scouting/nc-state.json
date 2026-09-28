@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 32,
    "shot_pct": 40.9,
    "shots_saved": 65,
@@ -33,6 +34,7 @@
    "offsides": 24,
    "yc": 13,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 54.3,
    "shots_saved": 33,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "symmes-mary-frances"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 30,
+  "categorized": 0
+ }
 }

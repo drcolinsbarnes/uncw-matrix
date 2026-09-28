@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 42.9,
    "shots_saved": 54,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 7,
    "rc": 0,
+   "pk_g": 2,
    "goals": 13,
    "shot_pct": 37.8,
    "shots_saved": 24,
@@ -1106,5 +1108,14 @@
    "recent_games": 3,
    "slug": "ward-madison"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 1
+ }
 }

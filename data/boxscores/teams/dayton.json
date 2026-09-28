@@ -1336,7 +1336,7 @@
    "name": "Russell, Mackenzie",
    "slug": "russell-mackenzie",
    "num": "27",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 2,
    "starts": 0,
    "min": 34,
@@ -1376,5 +1376,14 @@
    "no": 23,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 2,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 46.6,
    "shots_saved": 30,
@@ -33,6 +34,7 @@
    "offsides": 29,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 50.8,
    "shots_saved": 49,
@@ -931,5 +933,14 @@
    "recent_games": 3,
    "slug": "sims-indigo"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 4,
+  "categorized": 0
+ }
 }

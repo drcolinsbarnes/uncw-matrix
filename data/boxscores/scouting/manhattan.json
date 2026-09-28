@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 1,
    "rc": 1,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 41.8,
    "shots_saved": 36,
@@ -33,6 +34,7 @@
    "offsides": 6,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 4,
    "shot_pct": 38.2,
    "shots_saved": 22,
@@ -916,5 +918,14 @@
    "recent_games": 3,
    "slug": "heitman-madison"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

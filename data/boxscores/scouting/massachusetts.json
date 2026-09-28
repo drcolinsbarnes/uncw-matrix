@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 6,
    "rc": 0,
+   "pk_g": 3,
    "goals": 24,
    "shot_pct": 55.5,
    "shots_saved": 47,
@@ -33,6 +34,7 @@
    "offsides": 12,
    "yc": 2,
    "rc": 0,
+   "pk_g": 1,
    "goals": 10,
    "shot_pct": 46.0,
    "shots_saved": 48,
@@ -997,5 +999,14 @@
    "recent_games": 3,
    "slug": "skabeikis-sophie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 19,
+  "categorized": 3
+ }
 }

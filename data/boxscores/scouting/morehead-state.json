@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 11,
    "rc": 0,
+   "pk_g": 0,
    "goals": 11,
    "shot_pct": 38.9,
    "shots_saved": 26,
@@ -33,6 +34,7 @@
    "offsides": 20,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 43.8,
    "shots_saved": 50,
@@ -1035,5 +1037,14 @@
    "recent_games": 3,
    "slug": "repreza-hailey"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 10,
+  "categorized": 0
+ }
 }

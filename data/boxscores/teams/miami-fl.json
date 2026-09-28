@@ -1094,7 +1094,7 @@
    "name": "Melenhorst, Teegan",
    "slug": "melenhorst-teegan",
    "num": "12",
-   "pos": "F",
+   "pos": "FWD",
    "gp": 4,
    "starts": 3,
    "min": 219,
@@ -1762,5 +1762,14 @@
    "no": 47,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

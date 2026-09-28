@@ -1132,7 +1132,7 @@
    "name": "Roark, Nevaeh",
    "slug": "roark-nevaeh",
    "num": "21",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 1,
    "min": 197,
@@ -1354,5 +1354,14 @@
    "no": 22,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 1
+ }
 }

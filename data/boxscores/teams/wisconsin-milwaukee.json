@@ -1242,7 +1242,7 @@
    "name": "Beede, Dylan",
    "slug": "beede-dylan",
    "num": "17",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 1,
    "min": 196,
@@ -1264,7 +1264,7 @@
    "name": "Martinez, Keani",
    "slug": "martinez-keani",
    "num": "28",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 1,
    "min": 157,
@@ -1420,5 +1420,14 @@
    "no": 25,
    "gk_save_pct": 100.0
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 1
+ }
 }

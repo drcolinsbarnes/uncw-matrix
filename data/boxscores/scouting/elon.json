@@ -18,6 +18,7 @@
    "offsides": 16,
    "yc": 8,
    "rc": 0,
+   "pk_g": 0,
    "goals": 29,
    "shot_pct": 50.9,
    "shots_saved": 58,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 10,
    "rc": 0,
+   "pk_g": 0,
    "goals": 9,
    "shot_pct": 40.5,
    "shots_saved": 38,
@@ -1125,5 +1127,14 @@
    "recent_games": 3,
    "slug": "mccauley-lauren-2"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 27,
+  "categorized": 0
+ }
 }

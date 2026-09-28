@@ -940,7 +940,7 @@
    "name": "Barker, Ava",
    "slug": "barker-ava",
    "num": "3",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 4,
    "min": 355,
@@ -962,7 +962,7 @@
    "name": "DeLaurentiis, Lauren",
    "slug": "delaurentiis-lauren",
    "num": "17",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 4,
    "min": 288,
@@ -1570,5 +1570,14 @@
    "no": 38,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

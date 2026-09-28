@@ -1188,7 +1188,7 @@
    "name": "Bassa, Sydney",
    "slug": "bassa-sydney",
    "num": "24",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 6,
    "starts": 0,
    "min": 96,
@@ -1294,5 +1294,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 1,
+  "unknown": 22,
+  "categorized": 2
+ }
 }

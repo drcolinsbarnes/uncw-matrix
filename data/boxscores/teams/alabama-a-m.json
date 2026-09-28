@@ -888,7 +888,7 @@
    "name": "Washington, Jordyn",
    "slug": "washington-jordyn",
    "num": "81",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 3,
    "min": 283,
@@ -998,7 +998,7 @@
    "name": "Ward, Kyleigh",
    "slug": "ward-kyleigh",
    "num": "24",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 8,
    "starts": 3,
    "min": 199,
@@ -1320,5 +1320,14 @@
    "no": 30,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

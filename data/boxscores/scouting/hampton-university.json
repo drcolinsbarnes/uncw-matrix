@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 5,
    "shot_pct": 48.0,
    "shots_saved": 31,
@@ -33,6 +34,7 @@
    "offsides": 37,
    "yc": 5,
    "rc": 0,
+   "pk_g": 1,
    "goals": 25,
    "shot_pct": 53.9,
    "shots_saved": 65,
@@ -921,5 +923,14 @@
    "recent_games": 3,
    "slug": "sutton-jayda"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 19,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 2,
    "shot_pct": 48.3,
    "shots_saved": 26,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 4,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 44.4,
    "shots_saved": 34,
@@ -888,5 +890,14 @@
    "recent_games": 3,
    "slug": "kort-charley"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

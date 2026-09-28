@@ -1364,7 +1364,7 @@
    "name": "Conkling, Ashton",
    "slug": "conkling-ashton",
    "num": "23",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 6,
    "starts": 2,
    "min": 113,
@@ -1492,5 +1492,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

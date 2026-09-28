@@ -18,6 +18,7 @@
    "offsides": 26,
    "yc": 11,
    "rc": 0,
+   "pk_g": 1,
    "goals": 14,
    "shot_pct": 38.0,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 29,
    "yc": 11,
    "rc": 0,
+   "pk_g": 2,
    "goals": 10,
    "shot_pct": 40.4,
    "shots_saved": 45,
@@ -1106,5 +1108,14 @@
    "recent_games": 3,
    "slug": "marshall-makenna"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 2
+ }
 }

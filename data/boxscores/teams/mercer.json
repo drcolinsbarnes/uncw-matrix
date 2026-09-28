@@ -1336,7 +1336,7 @@
    "name": "Reitz, Sam",
    "slug": "reitz-sam",
    "num": "30",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 6,
    "starts": 1,
    "min": 144,
@@ -1380,7 +1380,7 @@
    "name": "Savarese, Mia",
    "slug": "savarese-mia",
    "num": "99",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 123,
@@ -1446,7 +1446,7 @@
    "name": "Pugliese, Francesca",
    "slug": "pugliese-francesca",
    "num": "19",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 0,
    "min": 65,
@@ -1580,5 +1580,14 @@
    "no": 32,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 1
+ }
 }

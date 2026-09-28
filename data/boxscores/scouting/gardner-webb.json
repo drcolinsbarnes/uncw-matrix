@@ -18,6 +18,7 @@
    "offsides": 10,
    "yc": 4,
    "rc": 1,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 49.5,
    "shots_saved": 36,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 16,
    "shot_pct": 48.9,
    "shots_saved": 52,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "williams-kylie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 1
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 24,
    "yc": 8,
    "rc": 2,
+   "pk_g": 4,
    "goals": 27,
    "shot_pct": 44.8,
    "shots_saved": 55,
@@ -33,6 +34,7 @@
    "offsides": 19,
    "yc": 15,
    "rc": 0,
+   "pk_g": 1,
    "goals": 11,
    "shot_pct": 32.1,
    "shots_saved": 39,
@@ -1120,5 +1122,14 @@
    "recent_games": 3,
    "slug": "thompson-paige"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 4,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 4
+ }
 }

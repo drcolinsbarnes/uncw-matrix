@@ -1336,7 +1336,7 @@
    "name": "Jacobson, Jenny",
    "slug": "jacobson-jenny",
    "num": "26",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 1,
    "min": 60,
@@ -1470,5 +1470,14 @@
    "no": 27,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 22,
+  "categorized": 0
+ }
 }

@@ -706,7 +706,7 @@
    "name": "Michael, Peyton",
    "slug": "michael-peyton",
    "num": "15",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 8,
    "starts": 8,
    "min": 644,
@@ -1110,5 +1110,14 @@
    "no": 21,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 8,
+  "categorized": 0
+ }
 }

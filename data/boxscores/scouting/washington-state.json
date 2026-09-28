@@ -18,6 +18,7 @@
    "offsides": 20,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 9,
    "shot_pct": 38.5,
    "shots_saved": 26,
@@ -33,6 +34,7 @@
    "offsides": 18,
    "yc": 11,
    "rc": 0,
+   "pk_g": 2,
    "goals": 10,
    "shot_pct": 42.6,
    "shots_saved": 48,
@@ -1002,5 +1004,14 @@
    "recent_games": 3,
    "slug": "widmor-emma"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 1
+ }
 }

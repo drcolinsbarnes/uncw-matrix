@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 1,
    "rc": 0,
+   "pk_g": 1,
    "goals": 28,
    "shot_pct": 52.7,
    "shots_saved": 41,
@@ -33,6 +34,7 @@
    "offsides": 13,
    "yc": 5,
    "rc": 0,
+   "pk_g": 0,
    "goals": 2,
    "shot_pct": 20.6,
    "shots_saved": 11,
@@ -1040,5 +1042,14 @@
    "recent_games": 3,
    "slug": "palmer-meredith"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 25,
+  "categorized": 2
+ }
 }

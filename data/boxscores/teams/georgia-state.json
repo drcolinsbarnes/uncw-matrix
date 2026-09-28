@@ -1190,7 +1190,7 @@
    "name": "Roe, Hannah",
    "slug": "roe-hannah",
    "num": "4",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 4,
    "starts": 2,
    "min": 124,
@@ -1406,5 +1406,14 @@
    "no": 28,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 16,
+  "categorized": 1
+ }
 }

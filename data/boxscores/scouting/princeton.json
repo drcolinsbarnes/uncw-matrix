@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 12,
    "rc": 0,
+   "pk_g": 2,
    "goals": 17,
    "shot_pct": 40.1,
    "shots_saved": 40,
@@ -33,6 +34,7 @@
    "offsides": 15,
    "yc": 6,
    "rc": 0,
+   "pk_g": 2,
    "goals": 16,
    "shot_pct": 42.7,
    "shots_saved": 22,
@@ -1021,5 +1023,14 @@
    "recent_games": 3,
    "slug": "mcelroy-blane"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 15,
+  "categorized": 2
+ }
 }

@@ -18,6 +18,7 @@
    "offsides": 14,
    "yc": 10,
    "rc": 0,
+   "pk_g": 3,
    "goals": 16,
    "shot_pct": 32.9,
    "shots_saved": 34,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 9,
    "rc": 0,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 50.0,
    "shots_saved": 52,
@@ -1082,5 +1084,14 @@
    "recent_games": 3,
    "slug": "wadsworth-maggie"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 3,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 12,
+  "categorized": 3
+ }
 }

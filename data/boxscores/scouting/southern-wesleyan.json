@@ -18,6 +18,7 @@
    "offsides": 1,
    "yc": 0,
    "rc": 0,
+   "pk_g": 0,
    "goals": 2,
    "shot_pct": 100.0,
    "shots_saved": 2,
@@ -33,6 +34,7 @@
    "offsides": 4,
    "yc": 0,
    "rc": 1,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 53.8,
    "shots_saved": 21,
@@ -713,5 +715,14 @@
    "recent_games": 3,
    "slug": "fernandez-lucia"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 2,
+  "categorized": 0
+ }
 }

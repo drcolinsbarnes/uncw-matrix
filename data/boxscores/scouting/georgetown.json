@@ -18,6 +18,7 @@
    "offsides": 22,
    "yc": 3,
    "rc": 0,
+   "pk_g": 0,
    "goals": 13,
    "shot_pct": 39.1,
    "shots_saved": 23,
@@ -33,6 +34,7 @@
    "offsides": 33,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 10,
    "shot_pct": 47.5,
    "shots_saved": 19,
@@ -950,5 +952,14 @@
    "recent_games": 3,
    "slug": "wiese-maya"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 6,
+  "categorized": 0
+ }
 }

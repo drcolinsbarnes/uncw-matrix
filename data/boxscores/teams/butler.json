@@ -874,7 +874,7 @@
    "name": "Gumm, Riley",
    "slug": "gumm-riley",
    "num": "13",
-   "pos": "MID",
+   "pos": "FWD",
    "gp": 9,
    "starts": 9,
    "min": 585,
@@ -1094,7 +1094,7 @@
    "name": "May, Elise",
    "slug": "may-elise",
    "num": "9",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 65,
@@ -1190,5 +1190,14 @@
    "no": 21,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 19,
+  "categorized": 1
+ }
 }

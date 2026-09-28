@@ -844,7 +844,7 @@
    "name": "Portillo, Nahomy",
    "slug": "portillo-nahomy",
    "num": "9",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 7,
    "starts": 3,
    "min": 326,
@@ -960,7 +960,7 @@
    "name": "Antonio-Lopez, Karime",
    "slug": "antonio-lopez-karime",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 7,
    "starts": 2,
    "min": 260,
@@ -1330,5 +1330,14 @@
    "no": 31,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

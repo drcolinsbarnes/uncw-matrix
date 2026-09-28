@@ -18,6 +18,7 @@
    "offsides": 25,
    "yc": 8,
    "rc": 0,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 45.7,
    "shots_saved": 49,
@@ -33,6 +34,7 @@
    "offsides": 11,
    "yc": 3,
    "rc": 0,
+   "pk_g": 3,
    "goals": 15,
    "shot_pct": 44.3,
    "shots_saved": 32,
@@ -1087,5 +1089,14 @@
    "recent_games": 3,
    "slug": "tyrakoski-morgan"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 1
+ }
 }

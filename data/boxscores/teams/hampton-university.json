@@ -1698,7 +1698,7 @@
    "name": "Dah-Zossu, Alvine",
    "slug": "dah-zossu-alvine",
    "num": "9",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 18,
@@ -1804,5 +1804,14 @@
    "no": 45,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

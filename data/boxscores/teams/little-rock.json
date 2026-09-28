@@ -1114,7 +1114,7 @@
    "name": "Schneider, Hannah",
    "slug": "schneider-hannah",
    "num": "21",
-   "pos": "F",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 37,
@@ -1132,5 +1132,14 @@
    "no": 22,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 7,
+  "categorized": 0
+ }
 }

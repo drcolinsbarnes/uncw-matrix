@@ -18,6 +18,7 @@
    "offsides": 21,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 37.0,
    "shots_saved": 23,
@@ -33,6 +34,7 @@
    "offsides": 10,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 6,
    "shot_pct": 41.0,
    "shots_saved": 26,
@@ -945,5 +947,14 @@
    "recent_games": 3,
    "slug": "gronlund-emma"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

@@ -1358,7 +1358,7 @@
    "name": "lundy, Molly Kate",
    "slug": "lundy-molly-kate",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 7,
    "starts": 1,
    "min": 130,
@@ -1420,5 +1420,14 @@
    "no": 25,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

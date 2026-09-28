@@ -18,6 +18,7 @@
    "offsides": 15,
    "yc": 9,
    "rc": 0,
+   "pk_g": 1,
    "goals": 21,
    "shot_pct": 45.7,
    "shots_saved": 53,
@@ -33,6 +34,7 @@
    "offsides": 3,
    "yc": 10,
    "rc": 0,
+   "pk_g": 1,
    "goals": 12,
    "shot_pct": 44.6,
    "shots_saved": 50,
@@ -1073,5 +1075,14 @@
    "recent_games": 3,
    "slug": "mateaki-mai"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 19,
+  "categorized": 1
+ }
 }

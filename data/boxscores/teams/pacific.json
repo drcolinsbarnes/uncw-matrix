@@ -992,7 +992,7 @@
    "name": "Valdez, Julie",
    "slug": "valdez-julie",
    "num": "14",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 10,
    "starts": 5,
    "min": 417,
@@ -1036,7 +1036,7 @@
    "name": "Garn, Whitney",
    "slug": "garn-whitney",
    "num": "5",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 10,
    "starts": 5,
    "min": 347,
@@ -1368,5 +1368,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

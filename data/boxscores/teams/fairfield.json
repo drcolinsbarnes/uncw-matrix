@@ -970,7 +970,7 @@
    "name": "Pisani, Ella",
    "slug": "pisani-ella",
    "num": "7",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 4,
    "min": 455,
@@ -1014,7 +1014,7 @@
    "name": "Stewart, Amelie",
    "slug": "stewart-amelie",
    "num": "8",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 10,
    "starts": 3,
    "min": 363,
@@ -1124,7 +1124,7 @@
    "name": "Benn, Kacie",
    "slug": "benn-kacie",
    "num": "33",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 8,
    "starts": 3,
    "min": 284,
@@ -1484,5 +1484,14 @@
    "no": 31,
    "gk_save_pct": 0.0
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 17,
+  "categorized": 0
+ }
 }

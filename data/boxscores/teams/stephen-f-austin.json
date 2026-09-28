@@ -1286,7 +1286,7 @@
    "name": "Hoang, Cassidy",
    "slug": "hoang-cassidy-2",
    "num": "11",
-   "pos": "MID",
+   "pos": "mid",
    "gp": 4,
    "starts": 1,
    "min": 174,
@@ -1448,5 +1448,14 @@
    "no": 26,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 20,
+  "categorized": 0
+ }
 }

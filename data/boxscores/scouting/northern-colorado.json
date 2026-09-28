@@ -18,6 +18,7 @@
    "offsides": 17,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 46.8,
    "shots_saved": 29,
@@ -33,6 +34,7 @@
    "offsides": 26,
    "yc": 6,
    "rc": 0,
+   "pk_g": 1,
    "goals": 18,
    "shot_pct": 50.8,
    "shots_saved": 47,
@@ -964,5 +966,14 @@
    "recent_games": 3,
    "slug": "wong-anneliese"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 5,
+  "categorized": 0
+ }
 }

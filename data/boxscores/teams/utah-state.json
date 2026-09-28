@@ -1328,7 +1328,7 @@
    "name": "Thomas, Tatum",
    "slug": "thomas-tatum",
    "num": "16",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 16,
@@ -1378,7 +1378,7 @@
    "name": "Hironaka, Abby",
    "slug": "hironaka-abby",
    "num": "11",
-   "pos": "FWD",
+   "pos": "fwd",
    "gp": 2,
    "starts": 0,
    "min": 6,
@@ -1440,5 +1440,14 @@
    "no": 29,
    "gk_save_pct": null
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 2,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 24,
+  "categorized": 2
+ }
 }

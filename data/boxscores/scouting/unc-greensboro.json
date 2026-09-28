@@ -18,6 +18,7 @@
    "offsides": 9,
    "yc": 2,
    "rc": 0,
+   "pk_g": 0,
    "goals": 17,
    "shot_pct": 45.0,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 12,
    "yc": 9,
    "rc": 1,
+   "pk_g": 0,
    "goals": 18,
    "shot_pct": 50.4,
    "shots_saved": 45,
@@ -1068,5 +1070,14 @@
    "recent_games": 3,
    "slug": "patik-bianca"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 0
+ }
 }

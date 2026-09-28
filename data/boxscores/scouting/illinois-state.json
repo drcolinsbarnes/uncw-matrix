@@ -18,6 +18,7 @@
    "offsides": 18,
    "yc": 7,
    "rc": 0,
+   "pk_g": 0,
    "goals": 14,
    "shot_pct": 45.5,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 2,
    "yc": 9,
    "rc": 1,
+   "pk_g": 0,
    "goals": 7,
    "shot_pct": 37.1,
    "shots_saved": 32,
@@ -1054,5 +1056,14 @@
    "recent_games": 3,
    "slug": "seymore-aniya"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 0,
+  "corner_kick": 0,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 14,
+  "categorized": 0
+ }
 }

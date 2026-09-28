@@ -18,6 +18,7 @@
    "offsides": 17,
    "yc": 4,
    "rc": 0,
+   "pk_g": 1,
    "goals": 15,
    "shot_pct": 46.6,
    "shots_saved": 46,
@@ -33,6 +34,7 @@
    "offsides": 12,
    "yc": 10,
    "rc": 1,
+   "pk_g": 1,
    "goals": 27,
    "shot_pct": 48.4,
    "shots_saved": 49,
@@ -1011,5 +1013,14 @@
    "recent_games": 3,
    "slug": "sherrill-morgan"
   }
- ]
+ ],
+ "goal_buildup": {
+  "penalty": 1,
+  "corner_kick": 1,
+  "free_kick": 0,
+  "throw_in": 0,
+  "run_of_play": 0,
+  "unknown": 13,
+  "categorized": 2
+ }
 }
