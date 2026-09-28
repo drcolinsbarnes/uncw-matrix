@@ -9,9 +9,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 302,
+    "gp": 7,
+    "starts": 3,
+    "min": 392,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -113,6 +113,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -122,9 +137,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 298,
+    "min": 314,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -241,6 +256,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -250,9 +280,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 588,
+    "gp": 8,
+    "starts": 8,
+    "min": 678,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -264,10 +294,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 14,
-     "saves": 28,
-     "save_pct": 66.7
+     "gp": 8,
+     "ga": 15,
+     "saves": 29,
+     "save_pct": 65.9
     }
    },
    "matches": [
@@ -410,6 +440,26 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -419,9 +469,9 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 144,
+    "min": 149,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -523,6 +573,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "mid",
+     "num": "22",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -581,19 +646,19 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 575,
-    "sh": 6,
+    "gp": 8,
+    "starts": 7,
+    "min": 649,
+    "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 2,
     "fouls": 0,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -700,6 +765,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 74,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -709,9 +789,9 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 131,
+    "min": 138,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -813,6 +893,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -822,10 +917,10 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 497,
-    "sh": 2,
+    "gp": 8,
+    "starts": 8,
+    "min": 582,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -834,7 +929,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -935,6 +1030,21 @@
      "num": "3",
      "min": 80,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 85,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1063,9 +1173,9 @@
    "num": "25",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 95,
+    "min": 99,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1152,6 +1262,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "def",
+     "num": "25",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1161,9 +1286,9 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 5,
-    "min": 312,
+    "min": 341,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -1280,6 +1405,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1289,19 +1429,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 393,
-    "sh": 2,
+    "gp": 8,
+    "starts": 7,
+    "min": 473,
+    "sh": 4,
     "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1408,6 +1548,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 80,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1417,19 +1572,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 581,
-    "sh": 0,
-    "sog": 0,
+    "gp": 8,
+    "starts": 8,
+    "min": 671,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1536,6 +1691,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1543,21 +1713,21 @@
    "name": "McCoy, Eva",
    "slug": "mccoy-eva",
    "num": "30",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 263,
-    "sh": 7,
-    "sog": 3,
+    "min": 297,
+    "sh": 9,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 3,
-    "shots_off_target": 4
+    "shot_pct": 44.4,
+    "shots_saved": 4,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1664,6 +1834,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "fwd",
+     "num": "30",
+     "min": 34,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1739,21 +1924,21 @@
    "name": "Mckay, Ava",
    "slug": "mckay-ava-2",
    "num": "9",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 4,
-    "starts": 2,
-    "min": 267,
-    "sh": 4,
-    "sog": 4,
+    "gp": 5,
+    "starts": 3,
+    "min": 338,
+    "sh": 8,
+    "sog": 7,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
-    "shots_saved": 1,
-    "shots_off_target": 0
+    "shot_pct": 87.5,
+    "shots_saved": 4,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1815,6 +2000,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 71,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1862,19 +2062,19 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 580,
-    "sh": 7,
+    "gp": 8,
+    "starts": 8,
+    "min": 661,
+    "sh": 9,
     "sog": 5,
     "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 71.4,
+    "shot_pct": 55.6,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1981,6 +2181,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 81,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2081,9 +2296,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 457,
+    "gp": 8,
+    "starts": 7,
+    "min": 524,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2200,6 +2415,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2258,9 +2488,9 @@
    "num": "14",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 103,
+    "min": 126,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2317,6 +2547,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": false,
+     "pos": "fwd",
+     "num": "14",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2326,9 +2571,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 2,
-    "min": 199,
+    "gp": 6,
+    "starts": 3,
+    "min": 278,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2415,6 +2660,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2473,9 +2733,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 493,
+    "gp": 8,
+    "starts": 8,
+    "min": 558,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2591,6 +2851,21 @@
      "a": 0,
      "fouls": 0,
      "yc": 1,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Queens (N.C.)",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0
     }
    ]

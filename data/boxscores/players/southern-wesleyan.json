@@ -4,14 +4,52 @@
  "season": 2026,
  "players": [
   {
+   "name": "Akerberg, Ella",
+   "slug": "akerberg-ella",
+   "num": "31",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 17,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": false,
+     "pos": "mid",
+     "num": "31",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
    "name": "Beasley, Ella",
    "slug": "beasley-ella",
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
+    "gp": 2,
+    "starts": 2,
+    "min": 180,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -38,6 +76,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -47,9 +100,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 45,
+    "min": 70,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -76,6 +129,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": false,
+     "pos": "def",
+     "num": "9",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -85,9 +153,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 24,
+    "min": 55,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -114,6 +182,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -123,9 +206,9 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 82,
+    "gp": 2,
+    "starts": 2,
+    "min": 172,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -152,6 +235,108 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Carabano Barbero, Ester",
+   "slug": "carabano-barbero-ester",
+   "num": "77",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 1,
+     "saves": 8,
+     "save_pct": 88.9
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "GK",
+     "num": "77",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 8
+     }
+    }
+   ]
+  },
+  {
+   "name": "Dalton, Alli",
+   "slug": "dalton-alli",
+   "num": "15",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 9,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -161,13 +346,13 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 73,
+    "gp": 2,
+    "starts": 2,
+    "min": 127,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
@@ -190,6 +375,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -199,9 +399,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
+    "gp": 2,
+    "starts": 2,
+    "min": 180,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -228,6 +428,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -237,19 +452,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 81,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
+    "gp": 2,
+    "starts": 2,
+    "min": 171,
+    "sh": 2,
+    "sog": 2,
+    "g": 2,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 0,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -266,6 +481,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -275,9 +505,9 @@
    "num": "14",
    "pos": null,
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 38,
+    "gp": 2,
+    "starts": 2,
+    "min": 95,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -297,6 +527,21 @@
      "pos": "",
      "num": "14",
      "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "",
+     "num": "14",
+     "min": 57,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -351,9 +596,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 62,
+    "gp": 2,
+    "starts": 2,
+    "min": 138,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -380,6 +625,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -387,11 +647,11 @@
    "name": "Mack, Addison",
    "slug": "mack-addison",
    "num": "12",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 31,
+    "min": 50,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -418,6 +678,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -427,19 +702,19 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 66,
-    "sh": 0,
-    "sog": 0,
+    "gp": 2,
+    "starts": 2,
+    "min": 156,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -456,6 +731,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -465,9 +755,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
+    "gp": 2,
+    "starts": 2,
+    "min": 180,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -494,6 +784,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -503,9 +808,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 74,
+    "gp": 2,
+    "starts": 2,
+    "min": 146,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -525,6 +830,21 @@
      "pos": "FWD",
      "num": "8",
      "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "South Carolina State",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 72,
      "sh": 0,
      "sog": 0,
      "g": 0,

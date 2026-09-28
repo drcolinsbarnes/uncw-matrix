@@ -9,19 +9,19 @@
    "num": "24",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 180,
-    "sh": 0,
+    "min": 208,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -143,6 +143,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 28,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -152,14 +167,14 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 686,
+    "gp": 11,
+    "starts": 11,
+    "min": 726,
     "sh": 9,
     "sog": 5,
     "g": 1,
-    "a": 1,
-    "fouls": 2,
+    "a": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 55.6,
@@ -316,6 +331,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "15",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -378,18 +408,18 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 840,
-    "sh": 4,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 918,
+    "sh": 5,
+    "sog": 3,
     "g": 2,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -542,6 +572,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 78,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -551,19 +596,19 @@
    "num": "34",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 738,
-    "sh": 16,
-    "sog": 6,
-    "g": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 810,
+    "sh": 18,
+    "sog": 7,
+    "g": 5,
     "a": 2,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 38.9,
     "shots_saved": 2,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -715,6 +760,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "FWD",
+     "num": "34",
+     "min": 72,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -724,19 +784,19 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 326,
-    "sh": 1,
+    "min": 368,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -873,6 +933,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "FWD",
+     "num": "13",
+     "min": 42,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -882,18 +957,18 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 184,
-    "sh": 2,
-    "sog": 0,
+    "min": 202,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -1046,6 +1121,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 18,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1055,9 +1145,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 745,
+    "gp": 11,
+    "starts": 11,
+    "min": 805,
     "sh": 9,
     "sog": 4,
     "g": 2,
@@ -1219,6 +1309,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 60,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1228,9 +1333,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1242,10 +1347,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 9,
-     "saves": 45,
-     "save_pct": 83.3
+     "gp": 9,
+     "ga": 11,
+     "saves": 48,
+     "save_pct": 81.4
     }
    },
    "matches": [
@@ -1408,6 +1513,26 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1417,9 +1542,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -1581,6 +1706,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1590,18 +1730,18 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 735,
-    "sh": 20,
-    "sog": 11,
+    "gp": 11,
+    "starts": 10,
+    "min": 792,
+    "sh": 21,
+    "sog": 12,
     "g": 2,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 55.0,
-    "shots_saved": 9,
+    "shot_pct": 57.1,
+    "shots_saved": 10,
     "shots_off_target": 9
    },
    "matches": [
@@ -1754,6 +1894,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 57,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1763,19 +1918,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 443,
-    "sh": 7,
-    "sog": 4,
-    "g": 1,
+    "gp": 8,
+    "starts": 7,
+    "min": 519,
+    "sh": 10,
+    "sog": 6,
+    "g": 3,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 60.0,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1882,6 +2037,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 76,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1891,19 +2061,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 460,
-    "sh": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 546,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 1,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2025,6 +2195,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 86,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2034,9 +2219,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 704,
+    "gp": 11,
+    "starts": 6,
+    "min": 794,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2198,6 +2383,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2274,11 +2474,11 @@
    "name": "Rhodes, Ashley",
    "slug": "rhodes-ashley",
    "num": "4",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 54,
+    "min": 58,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -2335,6 +2535,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2344,14 +2559,14 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 660,
+    "gp": 9,
+    "starts": 9,
+    "min": 721,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -2478,6 +2693,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2487,9 +2717,9 @@
    "num": "32",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 267,
+    "min": 296,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2606,6 +2836,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "MID",
+     "num": "32",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2613,11 +2858,11 @@
    "name": "Savage, Mia",
    "slug": "savage-mia",
    "num": "16",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 122,
+    "min": 138,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2674,6 +2919,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "DEF",
+     "num": "16",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2721,9 +2981,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 330,
+    "min": 383,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -2883,6 +3143,21 @@
      "g": 0,
      "a": 1,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "George Washington",
+     "start": false,
+     "pos": "MID",
+     "num": "3",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }

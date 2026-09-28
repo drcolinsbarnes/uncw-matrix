@@ -47,18 +47,18 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 163,
-    "sh": 3,
-    "sog": 1,
+    "gp": 5,
+    "starts": 5,
+    "min": 241,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -116,6 +116,21 @@
      "min": 34,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 78,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -198,9 +213,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 439,
+    "gp": 6,
+    "starts": 6,
+    "min": 502,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -280,6 +295,21 @@
      "pos": "DEF",
      "num": "28",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 63,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -379,9 +409,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 388,
+    "gp": 6,
+    "starts": 6,
+    "min": 478,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -468,6 +498,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -477,9 +522,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -566,6 +611,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -575,9 +635,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -589,10 +649,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
+     "gp": 6,
      "ga": 4,
-     "saves": 12,
-     "save_pct": 75.0
+     "saves": 19,
+     "save_pct": 82.6
     }
    },
    "matches": [
@@ -695,6 +755,26 @@
       "ga": 2,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 7
+     }
     }
    ]
   },
@@ -704,9 +784,9 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
-    "starts": 1,
-    "min": 307,
+    "gp": 6,
+    "starts": 2,
+    "min": 391,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -793,6 +873,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -802,19 +897,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 290,
-    "sh": 15,
-    "sog": 6,
+    "gp": 6,
+    "starts": 6,
+    "min": 358,
+    "sh": 17,
+    "sog": 7,
     "g": 1,
     "a": 0,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 5,
-    "shots_off_target": 9
+    "shot_pct": 41.2,
+    "shots_saved": 6,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -890,6 +985,21 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 68,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0
     }
    ]
@@ -983,9 +1093,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 347,
+    "gp": 6,
+    "starts": 6,
+    "min": 437,
     "sh": 14,
     "sog": 5,
     "g": 4,
@@ -1072,6 +1182,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1081,19 +1206,19 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 5,
-    "min": 394,
-    "sh": 2,
+    "min": 421,
+    "sh": 3,
     "sog": 2,
     "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 0,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1170,6 +1295,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 27,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1177,11 +1317,11 @@
    "name": "Peterson, JoHannah",
    "slug": "peterson-johannah",
    "num": "17",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 135,
+    "min": 167,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1253,6 +1393,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1262,18 +1417,18 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
-    "starts": 0,
-    "min": 213,
-    "sh": 9,
-    "sog": 5,
+    "gp": 6,
+    "starts": 1,
+    "min": 294,
+    "sh": 10,
+    "sog": 6,
     "g": 1,
     "a": 2,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 4,
+    "shot_pct": 60.0,
+    "shots_saved": 5,
     "shots_off_target": 4
    },
    "matches": [
@@ -1351,6 +1506,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 81,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1413,9 +1583,9 @@
    "num": "27",
    "pos": "def",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 21,
+    "min": 29,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1457,6 +1627,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": false,
+     "pos": "def",
+     "num": "27",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1466,9 +1651,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 77,
+    "min": 86,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -1555,6 +1740,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1602,9 +1802,9 @@
    "num": "32",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -1691,6 +1891,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "MID",
+     "num": "32",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1700,19 +1915,19 @@
    "num": "15",
    "pos": null,
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 391,
-    "sh": 16,
+    "gp": 6,
+    "starts": 6,
+    "min": 481,
+    "sh": 18,
     "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 31.2,
+    "shot_pct": 27.8,
     "shots_saved": 5,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1784,6 +1999,21 @@
      "min": 90,
      "sh": 2,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "FGCU",
+     "start": true,
+     "pos": "",
+     "num": "15",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

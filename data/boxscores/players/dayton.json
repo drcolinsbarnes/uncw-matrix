@@ -9,18 +9,18 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 394,
-    "sh": 8,
-    "sog": 3,
+    "min": 431,
+    "sh": 9,
+    "sog": 4,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 1,
     "shots_off_target": 5
    },
    "matches": [
@@ -173,6 +173,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -182,9 +197,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 495,
+    "gp": 7,
+    "starts": 7,
+    "min": 585,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -196,10 +211,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
+     "gp": 7,
      "ga": 8,
-     "saves": 20,
-     "save_pct": 71.4
+     "saves": 24,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -322,6 +337,26 @@
       "ga": 0,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 4
+     }
     }
    ]
   },
@@ -399,9 +434,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 134,
+    "min": 166,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -488,6 +523,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -497,19 +547,19 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 746,
-    "sh": 19,
-    "sog": 10,
+    "gp": 11,
+    "starts": 11,
+    "min": 825,
+    "sh": 21,
+    "sog": 11,
     "g": 1,
     "a": 3,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 52.6,
-    "shots_saved": 9,
-    "shots_off_target": 9
+    "shot_pct": 52.4,
+    "shots_saved": 10,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -661,6 +711,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 79,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -708,15 +773,15 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 699,
+    "gp": 9,
+    "starts": 9,
+    "min": 789,
     "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
@@ -842,6 +907,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -851,19 +931,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 663,
-    "sh": 15,
+    "gp": 11,
+    "starts": 11,
+    "min": 699,
+    "sh": 16,
     "sog": 7,
     "g": 2,
     "a": 2,
     "fouls": 5,
     "yc": 1,
-    "rc": 0,
-    "shot_pct": 46.7,
+    "rc": 1,
+    "shot_pct": 43.8,
     "shots_saved": 5,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -1015,6 +1095,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 36,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 1
     }
    ]
   },
@@ -1024,19 +1119,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 892,
-    "sh": 16,
-    "sog": 5,
+    "gp": 11,
+    "starts": 11,
+    "min": 982,
+    "sh": 19,
+    "sog": 6,
     "g": 1,
     "a": 1,
     "fouls": 10,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 31.2,
-    "shots_saved": 4,
-    "shots_off_target": 11
+    "shot_pct": 31.6,
+    "shots_saved": 5,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1183,6 +1278,21 @@
      "min": 90,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1513,9 +1623,9 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 217,
+    "min": 228,
     "sh": 4,
     "sog": 3,
     "g": 0,
@@ -1662,6 +1772,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1671,9 +1796,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 821,
+    "gp": 11,
+    "starts": 11,
+    "min": 911,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1835,6 +1960,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1957,9 +2097,9 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 484,
+    "gp": 11,
+    "starts": 9,
+    "min": 533,
     "sh": 11,
     "sog": 8,
     "g": 1,
@@ -2121,6 +2261,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2130,9 +2285,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 4,
-    "min": 422,
+    "gp": 10,
+    "starts": 5,
+    "min": 512,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -2279,6 +2434,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2286,7 +2456,7 @@
    "name": "Russell, Mackenzie",
    "slug": "russell-mackenzie",
    "num": "27",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2341,9 +2511,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 695,
+    "gp": 11,
+    "starts": 8,
+    "min": 757,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -2505,6 +2675,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2514,19 +2699,19 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
-    "sh": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
+    "sh": 5,
     "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2678,6 +2863,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2687,19 +2887,19 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 827,
-    "sh": 40,
+    "gp": 11,
+    "starts": 11,
+    "min": 917,
+    "sh": 42,
     "sog": 11,
     "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 27.5,
+    "shot_pct": 26.2,
     "shots_saved": 9,
-    "shots_off_target": 29
+    "shots_off_target": 31
    },
    "matches": [
     {
@@ -2845,6 +3045,21 @@
      "num": "26",
      "min": 90,
      "sh": 8,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Loyola Chicago",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 90,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,

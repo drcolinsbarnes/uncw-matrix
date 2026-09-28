@@ -47,19 +47,19 @@
    "num": "24",
    "pos": "def",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 119,
-    "sh": 4,
+    "min": 127,
+    "sh": 5,
     "sog": 3,
     "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -121,6 +121,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 8,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -130,19 +145,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 534,
-    "sh": 12,
-    "sog": 6,
-    "g": 3,
+    "gp": 11,
+    "starts": 8,
+    "min": 603,
+    "sh": 15,
+    "sog": 8,
+    "g": 4,
     "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
-    "shots_off_target": 6
+    "shot_pct": 53.3,
+    "shots_saved": 4,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -294,6 +309,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 69,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -301,7 +331,7 @@
    "name": "Bergero, Emily",
    "slug": "bergero-emily",
    "num": "0",
-   "pos": "GK",
+   "pos": "gk",
    "totals": {
     "gp": 2,
     "starts": 1,
@@ -372,18 +402,18 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 684,
-    "sh": 17,
-    "sog": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 726,
+    "sh": 21,
+    "sog": 10,
     "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 35.3,
-    "shots_saved": 4,
+    "shot_pct": 47.6,
+    "shots_saved": 8,
     "shots_off_target": 11
    },
    "matches": [
@@ -536,6 +566,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 42,
+     "sh": 4,
+     "sog": 4,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -545,9 +590,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 754,
+    "gp": 10,
+    "starts": 10,
+    "min": 844,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -559,10 +604,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 7,
-     "saves": 30,
-     "save_pct": 81.1
+     "gp": 10,
+     "ga": 9,
+     "saves": 36,
+     "save_pct": 80.0
     }
    },
    "matches": [
@@ -745,6 +790,26 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 6
+     }
     }
    ]
   },
@@ -754,9 +819,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 549,
+    "gp": 11,
+    "starts": 7,
+    "min": 617,
     "sh": 21,
     "sog": 13,
     "g": 4,
@@ -918,6 +983,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -927,19 +1007,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 818,
-    "sh": 16,
+    "gp": 11,
+    "starts": 11,
+    "min": 908,
+    "sh": 17,
     "sog": 7,
     "g": 0,
     "a": 5,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 43.8,
+    "shot_pct": 41.2,
     "shots_saved": 7,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1091,6 +1171,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1151,21 +1246,21 @@
    "name": "Garcia, Ashley",
    "slug": "garcia-ashley",
    "num": "26",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 419,
-    "sh": 3,
+    "min": 447,
+    "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1287,6 +1382,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 28,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1296,19 +1406,19 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 738,
-    "sh": 9,
-    "sog": 5,
-    "g": 2,
+    "gp": 11,
+    "starts": 10,
+    "min": 827,
+    "sh": 17,
+    "sog": 9,
+    "g": 3,
     "a": 7,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 3,
-    "shots_off_target": 4
+    "shot_pct": 52.9,
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1460,6 +1570,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 89,
+     "sh": 8,
+     "sog": 4,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1469,9 +1594,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 355,
+    "min": 374,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -1633,6 +1758,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1640,11 +1780,11 @@
    "name": "Livingston, Tess",
    "slug": "livingston-tess",
    "num": "3",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 411,
+    "min": 421,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -1772,6 +1912,21 @@
      "sh": 1,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1936,9 +2091,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 8,
-    "min": 546,
+    "min": 577,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -2070,6 +2225,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2079,19 +2249,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 307,
-    "sh": 9,
-    "sog": 2,
+    "min": 355,
+    "sh": 14,
+    "sog": 4,
     "g": 1,
     "a": 2,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 1,
-    "shots_off_target": 7
+    "shot_pct": 28.6,
+    "shots_saved": 3,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2198,6 +2368,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "",
+     "num": "21",
+     "min": 48,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2207,9 +2392,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 818,
+    "gp": 11,
+    "starts": 11,
+    "min": 908,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -2371,6 +2556,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2380,19 +2580,19 @@
    "num": "15",
    "pos": "def",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 381,
-    "sh": 8,
-    "sog": 2,
+    "gp": 11,
+    "starts": 4,
+    "min": 442,
+    "sh": 11,
+    "sog": 4,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 2,
-    "shots_off_target": 6
+    "shot_pct": 36.4,
+    "shots_saved": 4,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2544,6 +2744,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 61,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2602,19 +2817,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 356,
-    "sh": 9,
+    "gp": 8,
+    "starts": 5,
+    "min": 432,
+    "sh": 10,
     "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 77.8,
+    "shot_pct": 70.0,
     "shots_saved": 6,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2721,6 +2936,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2730,18 +2960,18 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 803,
-    "sh": 16,
-    "sog": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 874,
+    "sh": 18,
+    "sog": 8,
     "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 5,
+    "shot_pct": 44.4,
+    "shots_saved": 7,
     "shots_off_target": 10
    },
    "matches": [
@@ -2894,6 +3124,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 71,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2903,18 +3148,18 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
-    "starts": 4,
-    "min": 432,
-    "sh": 1,
-    "sog": 1,
+    "gp": 10,
+    "starts": 5,
+    "min": 491,
+    "sh": 3,
+    "sog": 3,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -3052,6 +3297,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 59,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3152,9 +3412,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 125,
+    "min": 129,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3286,6 +3546,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "",
+     "num": "10",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3295,9 +3570,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 5,
-    "min": 430,
+    "min": 467,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -3453,6 +3728,21 @@
      "num": "2",
      "min": 26,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "UC San Diego",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 37,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,

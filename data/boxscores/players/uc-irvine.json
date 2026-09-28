@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 675,
+    "gp": 9,
+    "starts": 9,
+    "min": 765,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -23,10 +23,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
+     "gp": 9,
      "ga": 15,
-     "saves": 21,
-     "save_pct": 58.3
+     "saves": 26,
+     "save_pct": 63.4
     }
    },
    "matches": [
@@ -189,6 +189,26 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -198,14 +218,14 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 500,
+    "gp": 9,
+    "starts": 7,
+    "min": 562,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -332,6 +352,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -341,14 +376,14 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 715,
+    "gp": 9,
+    "starts": 9,
+    "min": 805,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "shot_pct": 50.0,
@@ -475,6 +510,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -482,11 +532,11 @@
    "name": "Costello, Gianna",
    "slug": "costello-gianna",
    "num": "29",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 72,
+    "min": 82,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -558,6 +608,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "FWD",
+     "num": "29",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -567,9 +632,9 @@
    "num": "39",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 117,
+    "min": 142,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -701,6 +766,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "FWD",
+     "num": "39",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -710,19 +790,19 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 514,
-    "sh": 18,
+    "gp": 9,
+    "starts": 9,
+    "min": 579,
+    "sh": 20,
     "sog": 11,
     "g": 1,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 61.1,
+    "shot_pct": 55.0,
     "shots_saved": 10,
-    "shots_off_target": 7
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -844,6 +924,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 65,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -853,14 +948,14 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 233,
+    "min": 268,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -970,6 +1065,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "MID",
+     "num": "2",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }
@@ -1132,19 +1242,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 4,
-    "min": 398,
-    "sh": 3,
-    "sog": 2,
+    "gp": 9,
+    "starts": 5,
+    "min": 456,
+    "sh": 5,
+    "sog": 3,
     "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 60.0,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1266,6 +1376,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 58,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1275,9 +1400,9 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 97,
+    "min": 115,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -1349,6 +1474,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1358,19 +1498,19 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 411,
-    "sh": 1,
-    "sog": 0,
+    "gp": 9,
+    "starts": 8,
+    "min": 473,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1492,6 +1632,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 62,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1569,9 +1724,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 460,
+    "gp": 9,
+    "starts": 7,
+    "min": 539,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1703,6 +1858,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1712,19 +1882,19 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 24,
-    "sh": 0,
-    "sog": 0,
+    "min": 38,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1766,6 +1936,21 @@
      "min": 5,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "FWD",
+     "num": "30",
+     "min": 14,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1829,19 +2014,19 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 706,
-    "sh": 6,
+    "gp": 9,
+    "starts": 9,
+    "min": 791,
+    "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1961,6 +2146,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 85,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }
@@ -2198,18 +2398,18 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 3,
-    "min": 224,
-    "sh": 3,
-    "sog": 2,
-    "g": 1,
+    "min": 259,
+    "sh": 5,
+    "sog": 4,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 1,
+    "shot_pct": 80.0,
+    "shots_saved": 2,
     "shots_off_target": 1
    },
    "matches": [
@@ -2287,6 +2487,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 35,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2296,19 +2511,19 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 614,
-    "sh": 10,
+    "gp": 9,
+    "starts": 9,
+    "min": 693,
+    "sh": 11,
     "sog": 6,
     "g": 2,
-    "a": 1,
-    "fouls": 2,
+    "a": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 54.5,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2430,6 +2645,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 79,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2507,9 +2737,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 283,
+    "min": 303,
     "sh": 7,
     "sog": 4,
     "g": 0,
@@ -2635,6 +2865,21 @@
      "num": "16",
      "min": 25,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 20,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2786,9 +3031,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 128,
+    "min": 144,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2890,6 +3135,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2899,18 +3159,18 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
-    "starts": 1,
-    "min": 135,
-    "sh": 1,
-    "sog": 1,
+    "gp": 4,
+    "starts": 2,
+    "min": 192,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
-    "a": 1,
-    "fouls": 0,
+    "a": 2,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -2958,6 +3218,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 57,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2967,19 +3242,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 705,
-    "sh": 8,
-    "sog": 3,
-    "g": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 795,
+    "sh": 10,
+    "sog": 4,
+    "g": 2,
     "a": 1,
-    "fouls": 9,
+    "fouls": 11,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3099,6 +3374,21 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "CSU Bakersfield",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0
     }

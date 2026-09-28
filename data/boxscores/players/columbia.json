@@ -4,24 +4,62 @@
  "season": 2026,
  "players": [
   {
+   "name": "Akanyirige, Angel",
+   "slug": "akanyirige-angel",
+   "num": "20",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 22,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "FWD",
+     "num": "20",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
    "name": "Andrzejewski, Helena",
    "slug": "andrzejewski-helena",
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 388,
-    "sh": 3,
+    "min": 415,
+    "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -153,6 +191,21 @@
      "min": 12,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "DEF",
+     "num": "21",
+     "min": 27,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -348,14 +401,14 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 584,
+    "gp": 9,
+    "starts": 8,
+    "min": 662,
     "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 33.3,
@@ -482,6 +535,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -491,19 +559,19 @@
    "num": "35",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 318,
-    "sh": 3,
+    "gp": 9,
+    "starts": 4,
+    "min": 397,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -625,6 +693,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "DEF",
+     "num": "35",
+     "min": 79,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -634,19 +717,19 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 369,
-    "sh": 1,
+    "min": 410,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -783,6 +866,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -792,19 +890,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 497,
-    "sh": 15,
+    "gp": 9,
+    "starts": 7,
+    "min": 565,
+    "sh": 16,
     "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 26.7,
+    "shot_pct": 25.0,
     "shots_saved": 3,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -926,6 +1024,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 68,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -984,15 +1097,15 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 791,
+    "gp": 10,
+    "starts": 10,
+    "min": 881,
     "sh": 11,
     "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 2,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 27.3,
     "shots_saved": 3,
@@ -1133,6 +1246,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -1180,9 +1308,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 228,
+    "min": 237,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -1314,6 +1442,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1391,19 +1534,19 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 612,
-    "sh": 14,
+    "gp": 10,
+    "starts": 10,
+    "min": 679,
+    "sh": 15,
     "sog": 5,
     "g": 1,
     "a": 0,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 33.3,
     "shots_saved": 4,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1540,6 +1683,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 67,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1602,19 +1760,19 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 215,
-    "sh": 7,
+    "min": 235,
+    "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1736,6 +1894,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 20,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1745,14 +1918,14 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 487,
+    "gp": 8,
+    "starts": 7,
+    "min": 565,
     "sh": 8,
     "sog": 5,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "shot_pct": 62.5,
@@ -1864,6 +2037,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1873,9 +2061,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 765,
+    "gp": 10,
+    "starts": 10,
+    "min": 855,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1887,10 +2075,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 10,
-     "saves": 21,
-     "save_pct": 67.7
+     "gp": 10,
+     "ga": 14,
+     "saves": 27,
+     "save_pct": 65.9
     }
    },
    "matches": [
@@ -2073,6 +2261,26 @@
       "ga": 2,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 6
+     }
     }
    ]
   },
@@ -2082,14 +2290,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 542,
+    "gp": 9,
+    "starts": 9,
+    "min": 604,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
@@ -2216,6 +2424,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2225,9 +2448,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 689,
+    "gp": 10,
+    "starts": 9,
+    "min": 779,
     "sh": 11,
     "sog": 3,
     "g": 1,
@@ -2374,6 +2597,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2383,14 +2621,14 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 209,
+    "min": 219,
     "sh": 6,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 33.3,
@@ -2532,6 +2770,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "FWD",
+     "num": "13",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2654,9 +2907,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 473,
+    "gp": 8,
+    "starts": 6,
+    "min": 536,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2773,6 +3026,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2835,9 +3103,9 @@
    "num": "30",
    "pos": "mid",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 30,
+    "min": 36,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2909,6 +3177,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": false,
+     "pos": "MID",
+     "num": "30",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2956,14 +3239,14 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 731,
+    "gp": 10,
+    "starts": 10,
+    "min": 821,
     "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 2,
     "rc": 0,
     "shot_pct": 25.0,
@@ -3100,6 +3383,21 @@
      "min": 90,
      "sh": 2,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Brown",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 1,

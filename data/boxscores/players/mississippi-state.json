@@ -9,19 +9,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 294,
-    "sh": 5,
+    "gp": 7,
+    "starts": 3,
+    "min": 368,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -111,6 +111,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 74,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -273,9 +288,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 207,
+    "min": 233,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -377,6 +392,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": false,
+     "pos": "",
+     "num": "9",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -386,18 +416,18 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 461,
-    "sh": 8,
-    "sog": 3,
+    "gp": 7,
+    "starts": 7,
+    "min": 542,
+    "sh": 9,
+    "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 2,
+    "shot_pct": 44.4,
+    "shots_saved": 3,
     "shots_off_target": 5
    },
    "matches": [
@@ -490,6 +520,21 @@
      "fouls": 1,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 81,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -499,9 +544,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -513,10 +558,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
+     "gp": 7,
      "ga": 5,
-     "saves": 19,
-     "save_pct": 79.2
+     "saves": 24,
+     "save_pct": 82.8
     }
    },
    "matches": [
@@ -639,6 +684,26 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -648,14 +713,14 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 2,
-    "min": 197,
+    "min": 238,
     "sh": 4,
     "sog": 4,
     "g": 2,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
@@ -737,6 +802,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": false,
+     "pos": "FWD",
+     "num": "27",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -746,19 +826,19 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 515,
-    "sh": 15,
-    "sog": 7,
+    "gp": 7,
+    "starts": 7,
+    "min": 605,
+    "sh": 17,
+    "sog": 8,
     "g": 3,
     "a": 2,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 46.7,
-    "shots_saved": 4,
-    "shots_off_target": 8
+    "shot_pct": 47.1,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -850,6 +930,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -859,9 +954,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 86,
+    "min": 93,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -948,6 +1043,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -957,14 +1067,14 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 449,
+    "gp": 7,
+    "starts": 7,
+    "min": 539,
     "sh": 20,
     "sog": 9,
     "g": 3,
     "a": 0,
-    "fouls": 12,
+    "fouls": 19,
     "yc": 0,
     "rc": 0,
     "shot_pct": 45.0,
@@ -1059,6 +1169,21 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 7,
      "yc": 0,
      "rc": 0
     }
@@ -1251,19 +1376,19 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 418,
-    "sh": 9,
+    "gp": 7,
+    "starts": 7,
+    "min": 495,
+    "sh": 10,
     "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 9,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 40.0,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1355,6 +1480,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 77,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1364,19 +1504,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 300,
-    "sh": 8,
-    "sog": 4,
+    "gp": 5,
+    "starts": 5,
+    "min": 377,
+    "sh": 11,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
-    "shots_off_target": 4
+    "shot_pct": 45.5,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1438,6 +1578,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 77,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1445,16 +1600,16 @@
    "name": "Tappe, Chiara",
    "slug": "tappe-chiara",
    "num": "24",
-   "pos": "MID",
+   "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 532,
+    "gp": 7,
+    "starts": 7,
+    "min": 622,
     "sh": 9,
     "sog": 0,
     "g": 0,
     "a": 2,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 2,
     "rc": 0,
     "shot_pct": 0.0,
@@ -1551,6 +1706,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1613,14 +1783,14 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 0,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 75.0,
@@ -1717,6 +1887,21 @@
      "fouls": 4,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1726,19 +1911,19 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 347,
-    "sh": 0,
+    "gp": 5,
+    "starts": 5,
+    "min": 423,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1800,6 +1985,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1809,9 +2009,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 527,
+    "gp": 7,
+    "starts": 7,
+    "min": 605,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1906,6 +2106,21 @@
      "pos": "DEF",
      "num": "5",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 78,
      "sh": 0,
      "sog": 0,
      "g": 0,

@@ -9,10 +9,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 498,
-    "sh": 3,
+    "gp": 7,
+    "starts": 7,
+    "min": 588,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 2,
@@ -21,7 +21,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -113,6 +113,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -122,19 +137,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 624,
-    "sh": 31,
+    "gp": 8,
+    "starts": 8,
+    "min": 714,
+    "sh": 36,
     "sog": 20,
     "g": 8,
     "a": 4,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 64.5,
+    "shot_pct": 55.6,
     "shots_saved": 12,
-    "shots_off_target": 11
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -241,6 +256,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 90,
+     "sh": 5,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -288,19 +318,19 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 7,
-    "min": 484,
-    "sh": 1,
-    "sog": 0,
+    "min": 536,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -407,6 +437,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 52,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -416,19 +461,19 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 387,
-    "sh": 2,
+    "gp": 7,
+    "starts": 6,
+    "min": 477,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -520,6 +565,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -582,9 +642,9 @@
    "num": "28",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 311,
+    "gp": 7,
+    "starts": 4,
+    "min": 401,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -596,10 +656,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
+     "gp": 6,
      "ga": 11,
-     "saves": 12,
-     "save_pct": 52.2
+     "saves": 13,
+     "save_pct": 54.2
     }
    },
    "matches": [
@@ -717,6 +777,26 @@
       "ga": 1,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "GK",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -726,19 +806,19 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 402,
-    "sh": 9,
+    "gp": 8,
+    "starts": 7,
+    "min": 485,
+    "sh": 10,
     "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 50.0,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -845,6 +925,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 83,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -854,19 +949,19 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 331,
-    "sh": 12,
+    "gp": 6,
+    "starts": 5,
+    "min": 421,
+    "sh": 15,
     "sog": 5,
     "g": 3,
     "a": 0,
     "fouls": 3,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
-    "shot_pct": 41.7,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 7
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -943,6 +1038,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -1005,9 +1115,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 630,
+    "gp": 8,
+    "starts": 8,
+    "min": 675,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1124,6 +1234,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1133,19 +1258,19 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 380,
-    "sh": 1,
+    "gp": 6,
+    "starts": 6,
+    "min": 461,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1216,6 +1341,21 @@
      "num": "6",
      "min": 64,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 81,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1473,9 +1613,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 159,
+    "min": 177,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1577,6 +1717,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1639,9 +1794,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 445,
+    "gp": 6,
+    "starts": 6,
+    "min": 512,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1728,6 +1883,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1737,19 +1907,19 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 444,
-    "sh": 0,
+    "gp": 8,
+    "starts": 4,
+    "min": 534,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1850,6 +2020,21 @@
      "num": "3",
      "min": 64,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1994,9 +2179,9 @@
    "num": "2",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 66,
+    "min": 80,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2053,6 +2238,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2062,9 +2262,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 608,
+    "gp": 8,
+    "starts": 8,
+    "min": 698,
     "sh": 23,
     "sog": 14,
     "g": 5,
@@ -2170,6 +2370,21 @@
     {
      "date": "2026-09-20",
      "opponent": "North Carolina",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Alabama State",
      "start": true,
      "pos": "FWD",
      "num": "10",

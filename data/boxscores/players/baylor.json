@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -23,10 +23,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 10,
-     "saves": 32,
-     "save_pct": 76.2
+     "gp": 11,
+     "ga": 11,
+     "saves": 35,
+     "save_pct": 76.1
     }
    },
    "matches": [
@@ -229,6 +229,26 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 3
+     }
     }
    ]
   },
@@ -238,9 +258,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 559,
+    "min": 592,
     "sh": 13,
     "sog": 6,
     "g": 1,
@@ -402,6 +422,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -411,9 +446,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 855,
+    "gp": 11,
+    "starts": 11,
+    "min": 945,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -575,6 +610,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -584,19 +634,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 528,
-    "sh": 9,
-    "sog": 3,
+    "gp": 11,
+    "starts": 11,
+    "min": 585,
+    "sh": 11,
+    "sog": 4,
     "g": 2,
     "a": 3,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 6
+    "shot_pct": 36.4,
+    "shots_saved": 2,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -748,6 +798,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 57,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -757,18 +822,18 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 632,
-    "sh": 3,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 671,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -921,6 +986,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 39,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -930,9 +1010,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 73,
+    "min": 90,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -989,6 +1069,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "DEF",
+     "num": "12",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -998,19 +1093,19 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 830,
-    "sh": 19,
+    "gp": 11,
+    "starts": 11,
+    "min": 914,
+    "sh": 20,
     "sog": 5,
     "g": 1,
-    "a": 4,
+    "a": 6,
     "fouls": 13,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 26.3,
+    "shot_pct": 25.0,
     "shots_saved": 4,
-    "shots_off_target": 14
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -1162,6 +1257,21 @@
      "fouls": 1,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 84,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1171,9 +1281,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 848,
+    "gp": 11,
+    "starts": 11,
+    "min": 921,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -1335,6 +1445,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1344,19 +1469,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 654,
-    "sh": 31,
+    "gp": 11,
+    "starts": 7,
+    "min": 725,
+    "sh": 36,
     "sog": 13,
     "g": 4,
     "a": 3,
-    "fouls": 14,
+    "fouls": 15,
     "yc": 3,
     "rc": 0,
-    "shot_pct": 41.9,
+    "shot_pct": 36.1,
     "shots_saved": 9,
-    "shots_off_target": 18
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -1508,6 +1633,21 @@
      "fouls": 1,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 71,
+     "sh": 5,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1593,19 +1733,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 564,
-    "sh": 10,
+    "gp": 11,
+    "starts": 6,
+    "min": 626,
+    "sh": 11,
     "sog": 5,
     "g": 2,
     "a": 5,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1757,6 +1897,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 62,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1766,10 +1921,10 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 838,
-    "sh": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 905,
+    "sh": 7,
     "sog": 0,
     "g": 0,
     "a": 3,
@@ -1778,7 +1933,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1930,6 +2085,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 67,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1939,19 +2109,19 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 635,
-    "sh": 19,
-    "sog": 9,
-    "g": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 709,
+    "sh": 22,
+    "sog": 11,
+    "g": 5,
     "a": 2,
     "fouls": 8,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 47.4,
-    "shots_saved": 5,
-    "shots_off_target": 10
+    "shot_pct": 50.0,
+    "shots_saved": 6,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2103,6 +2273,21 @@
      "fouls": 2,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 74,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2112,19 +2297,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 184,
-    "sh": 5,
+    "min": 203,
+    "sh": 8,
     "sog": 4,
     "g": 0,
     "a": 2,
     "fouls": 2,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 80.0,
+    "shot_pct": 50.0,
     "shots_saved": 4,
-    "shots_off_target": 1
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2231,6 +2416,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 19,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2240,17 +2440,17 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 145,
-    "sh": 4,
-    "sog": 2,
-    "g": 2,
+    "min": 202,
+    "sh": 5,
+    "sog": 3,
+    "g": 3,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 60.0,
     "shots_saved": 0,
     "shots_off_target": 2
    },
@@ -2299,6 +2499,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 57,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2308,9 +2523,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 80,
+    "min": 103,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2397,6 +2612,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "DEF",
+     "num": "23",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2406,14 +2636,14 @@
    "num": "35",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 38,
+    "min": 46,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -2478,6 +2708,21 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "FWD",
+     "num": "35",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }
@@ -2587,9 +2832,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 881,
+    "gp": 11,
+    "starts": 11,
+    "min": 971,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2751,6 +2996,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2760,19 +3020,19 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 5,
-    "min": 523,
-    "sh": 12,
+    "min": 559,
+    "sh": 13,
     "sog": 8,
     "g": 4,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 61.5,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2922,6 +3182,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Cincinnati",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 36,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }

@@ -9,14 +9,14 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 4,
-    "min": 210,
+    "min": 217,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": null,
@@ -113,6 +113,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -122,9 +137,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 387,
+    "min": 416,
     "sh": 15,
     "sog": 6,
     "g": 2,
@@ -271,6 +286,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -280,9 +310,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 869,
+    "gp": 11,
+    "starts": 11,
+    "min": 959,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -294,10 +324,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 14,
-     "saves": 37,
-     "save_pct": 72.5
+     "gp": 11,
+     "ga": 15,
+     "saves": 42,
+     "save_pct": 73.7
     }
    },
    "matches": [
@@ -500,6 +530,26 @@
       "ga": 3,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
+     }
     }
    ]
   },
@@ -509,14 +559,14 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 551,
+    "gp": 11,
+    "starts": 7,
+    "min": 564,
     "sh": 8,
     "sog": 4,
     "g": 0,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
@@ -673,6 +723,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -682,18 +747,18 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 45,
-    "sh": 2,
-    "sog": 0,
+    "min": 111,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -741,6 +806,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 66,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -750,14 +830,14 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 635,
+    "gp": 11,
+    "starts": 10,
+    "min": 713,
     "sh": 16,
     "sog": 6,
     "g": 2,
     "a": 3,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 2,
     "rc": 0,
     "shot_pct": 37.5,
@@ -914,6 +994,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -976,9 +1071,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 4,
-    "min": 538,
+    "gp": 10,
+    "starts": 5,
+    "min": 628,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1119,6 +1214,21 @@
      "num": "3",
      "min": 90,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1297,9 +1407,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 661,
+    "gp": 10,
+    "starts": 8,
+    "min": 737,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1444,6 +1554,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -1628,14 +1753,14 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 811,
+    "gp": 11,
+    "starts": 11,
+    "min": 901,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
@@ -1792,6 +1917,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1801,14 +1941,14 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 4,
-    "min": 451,
+    "gp": 9,
+    "starts": 5,
+    "min": 526,
     "sh": 10,
     "sog": 6,
     "g": 1,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "shot_pct": 60.0,
@@ -1935,6 +2075,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1944,14 +2099,14 @@
    "num": "21",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 378,
+    "gp": 11,
+    "starts": 2,
+    "min": 461,
     "sh": 10,
     "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 2,
     "rc": 0,
     "shot_pct": 30.0,
@@ -2108,6 +2263,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2117,19 +2287,19 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 766,
-    "sh": 32,
-    "sog": 20,
-    "g": 5,
+    "gp": 10,
+    "starts": 10,
+    "min": 856,
+    "sh": 35,
+    "sog": 22,
+    "g": 7,
     "a": 2,
-    "fouls": 1,
-    "yc": 3,
+    "fouls": 2,
+    "yc": 4,
     "rc": 0,
-    "shot_pct": 62.5,
+    "shot_pct": 62.9,
     "shots_saved": 15,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2265,6 +2435,21 @@
      "a": 1,
      "fouls": 0,
      "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
      "rc": 0
     }
    ]
@@ -2531,14 +2716,14 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 828,
+    "gp": 11,
+    "starts": 11,
+    "min": 918,
     "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -2695,6 +2880,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2704,9 +2904,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 640,
+    "min": 663,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2868,6 +3068,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": false,
+     "pos": "DEF",
+     "num": "23",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2915,14 +3130,14 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 869,
+    "gp": 11,
+    "starts": 11,
+    "min": 959,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -3077,6 +3292,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Sam Houston State",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }

@@ -62,9 +62,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 46,
+    "min": 77,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -121,6 +121,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": false,
+     "pos": "DEF",
+     "num": "8",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -130,9 +145,9 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 309,
+    "min": 341,
     "sh": 8,
     "sog": 1,
     "g": 0,
@@ -294,6 +309,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -303,19 +333,19 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 668,
-    "sh": 17,
-    "sog": 4,
-    "g": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 753,
+    "sh": 19,
+    "sog": 5,
+    "g": 2,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 23.5,
+    "shot_pct": 26.3,
     "shots_saved": 3,
-    "shots_off_target": 13
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -437,6 +467,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 85,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -446,9 +491,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -460,10 +505,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
+     "gp": 11,
      "ga": 21,
-     "saves": 47,
-     "save_pct": 69.1
+     "saves": 50,
+     "save_pct": 70.4
     }
    },
    "matches": [
@@ -666,6 +711,26 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -803,18 +868,18 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 606,
-    "sh": 3,
-    "sog": 3,
+    "gp": 11,
+    "starts": 9,
+    "min": 632,
+    "sh": 4,
+    "sog": 4,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
-    "shots_saved": 3,
+    "shots_saved": 4,
     "shots_off_target": 0
    },
    "matches": [
@@ -967,6 +1032,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 26,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1104,19 +1184,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 592,
-    "sh": 7,
+    "min": 649,
+    "sh": 8,
     "sog": 4,
     "g": 2,
     "a": 2,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1253,6 +1333,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1262,9 +1357,9 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 68,
+    "min": 77,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1321,6 +1416,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1330,19 +1440,19 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 565,
-    "sh": 11,
+    "gp": 9,
+    "starts": 9,
+    "min": 638,
+    "sh": 12,
     "sog": 7,
     "g": 5,
     "a": 0,
-    "fouls": 4,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 63.6,
+    "shot_pct": 58.3,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1464,6 +1574,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 73,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1473,18 +1598,18 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 7,
-    "min": 429,
-    "sh": 12,
-    "sog": 4,
+    "min": 457,
+    "sh": 13,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 4,
+    "shot_pct": 38.5,
+    "shots_saved": 5,
     "shots_off_target": 8
    },
    "matches": [
@@ -1637,6 +1762,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": false,
+     "pos": "",
+     "num": "27",
+     "min": 28,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1699,19 +1839,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 881,
-    "sh": 14,
+    "gp": 11,
+    "starts": 11,
+    "min": 971,
+    "sh": 15,
     "sog": 6,
     "g": 1,
     "a": 1,
-    "fouls": 12,
+    "fouls": 13,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 40.0,
     "shots_saved": 5,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -1863,6 +2003,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1872,19 +2027,19 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 696,
-    "sh": 12,
+    "gp": 11,
+    "starts": 11,
+    "min": 755,
+    "sh": 13,
     "sog": 8,
     "g": 2,
     "a": 0,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 61.5,
     "shots_saved": 6,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2036,6 +2191,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 59,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2045,9 +2215,9 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 695,
+    "gp": 11,
+    "starts": 9,
+    "min": 778,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -2209,6 +2379,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2218,9 +2403,9 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 712,
+    "gp": 10,
+    "starts": 9,
+    "min": 802,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2367,6 +2552,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2489,9 +2689,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 215,
+    "min": 246,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2623,6 +2823,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": false,
+     "pos": "DEF",
+     "num": "33",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2632,9 +2847,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 884,
+    "gp": 11,
+    "starts": 11,
+    "min": 974,
     "sh": 7,
     "sog": 4,
     "g": 1,
@@ -2796,6 +3011,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2858,19 +3088,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 480,
-    "sh": 6,
-    "sog": 2,
-    "g": 1,
+    "gp": 10,
+    "starts": 9,
+    "min": 546,
+    "sh": 10,
+    "sog": 5,
+    "g": 2,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 4
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3007,6 +3237,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 66,
+     "sh": 4,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3016,9 +3261,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 723,
+    "gp": 11,
+    "starts": 10,
+    "min": 773,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3173,6 +3418,21 @@
      "pos": "",
      "num": "23",
      "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Lehigh",
+     "start": true,
+     "pos": "",
+     "num": "23",
+     "min": 50,
      "sh": 0,
      "sog": 0,
      "g": 0,

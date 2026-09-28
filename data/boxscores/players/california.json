@@ -9,9 +9,9 @@
    "num": "18",
    "pos": "GK",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 3,
-    "min": 270,
+    "min": 274,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -23,7 +23,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
+     "gp": 4,
      "ga": 7,
      "saves": 5,
      "save_pct": 41.7
@@ -89,6 +89,26 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "GK",
+     "num": "18",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "04:38",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -98,19 +118,19 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 0,
-    "min": 81,
-    "sh": 3,
+    "gp": 7,
+    "starts": 1,
+    "min": 138,
+    "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -202,6 +222,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -211,9 +246,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 643,
+    "min": 649,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -390,6 +425,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -399,14 +449,14 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 724,
+    "min": 767,
     "sh": 13,
     "sog": 7,
     "g": 1,
     "a": 0,
-    "fouls": 6,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "shot_pct": 53.8,
@@ -578,6 +628,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -587,9 +652,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 894,
+    "gp": 12,
+    "starts": 12,
+    "min": 963,
     "sh": 18,
     "sog": 7,
     "g": 2,
@@ -766,6 +831,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -775,9 +855,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 217,
+    "min": 240,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -924,6 +1004,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -933,13 +1028,13 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 229,
+    "gp": 9,
+    "starts": 4,
+    "min": 266,
     "sh": 1,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
@@ -1067,6 +1162,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1129,17 +1239,17 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 845,
-    "sh": 7,
-    "sog": 4,
-    "g": 0,
+    "min": 880,
+    "sh": 8,
+    "sog": 5,
+    "g": 1,
     "a": 0,
     "fouls": 11,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 62.5,
     "shots_saved": 4,
     "shots_off_target": 3
    },
@@ -1308,6 +1418,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 35,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1317,9 +1442,9 @@
    "num": "29",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 304,
+    "gp": 7,
+    "starts": 5,
+    "min": 379,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1421,6 +1546,59 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "DEF",
+     "num": "29",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Hair, Skye",
+   "slug": "hair-skye",
+   "num": "30",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 10,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "DEF",
+     "num": "30",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1430,9 +1608,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 866,
+    "min": 908,
     "sh": 12,
     "sog": 5,
     "g": 2,
@@ -1609,6 +1787,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "DEF",
+     "num": "26",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1618,9 +1811,9 @@
    "num": "2",
    "pos": null,
    "totals": {
-    "gp": 4,
-    "starts": 0,
-    "min": 63,
+    "gp": 5,
+    "starts": 1,
+    "min": 98,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -1692,6 +1885,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1739,14 +1947,14 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 839,
+    "min": 884,
     "sh": 12,
     "sog": 4,
     "g": 1,
-    "a": 2,
-    "fouls": 8,
+    "a": 3,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "shot_pct": 33.3,
@@ -1918,6 +2126,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1927,9 +2150,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 6,
-    "min": 551,
+    "min": 596,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2061,6 +2284,59 @@
      "fouls": 1,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "DEF",
+     "num": "12",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Luebbe Davidson, Hope",
+   "slug": "luebbe-davidson-hope",
+   "num": "15",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 10,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2070,15 +2346,15 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1074,
     "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 1,
     "fouls": 9,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 50.0,
     "shots_saved": 3,
@@ -2249,6 +2525,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -2258,9 +2549,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 515,
+    "min": 530,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2422,6 +2713,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "DEF",
+     "num": "20",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2431,14 +2737,14 @@
    "num": "21",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
-    "starts": 0,
-    "min": 107,
+    "gp": 8,
+    "starts": 1,
+    "min": 152,
     "sh": 2,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
@@ -2550,6 +2856,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2559,9 +2880,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 806,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2573,10 +2894,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
+     "gp": 9,
      "ga": 5,
-     "saves": 17,
-     "save_pct": 77.3
+     "saves": 18,
+     "save_pct": 78.3
     }
    },
    "matches": [
@@ -2739,6 +3060,26 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "85:22",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -2748,19 +3089,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 1,
-    "min": 134,
-    "sh": 2,
-    "sog": 0,
+    "gp": 9,
+    "starts": 2,
+    "min": 159,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2882,6 +3223,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 25,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2891,19 +3247,19 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 1,
-    "min": 308,
-    "sh": 5,
-    "sog": 1,
-    "g": 0,
+    "gp": 9,
+    "starts": 2,
+    "min": 354,
+    "sh": 7,
+    "sog": 2,
+    "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 28.6,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3025,6 +3381,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 46,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3034,19 +3405,19 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 475,
-    "sh": 10,
-    "sog": 2,
+    "gp": 12,
+    "starts": 8,
+    "min": 549,
+    "sh": 12,
+    "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 2,
-    "shots_off_target": 8
+    "shot_pct": 25.0,
+    "shots_saved": 3,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3213,6 +3584,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": true,
+     "pos": "MID",
+     "num": "34",
+     "min": 74,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3222,10 +3608,10 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 110,
-    "sh": 2,
+    "min": 130,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -3234,7 +3620,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3356,6 +3742,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "FWD",
+     "num": "6",
+     "min": 20,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3365,14 +3766,14 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 938,
+    "min": 997,
     "sh": 9,
     "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "shot_pct": 44.4,
@@ -3542,6 +3943,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Fresno State",
+     "start": false,
+     "pos": "",
+     "num": "24",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }

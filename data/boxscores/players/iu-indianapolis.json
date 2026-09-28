@@ -9,9 +9,9 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 13,
+    "min": 20,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -53,6 +53,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -62,18 +77,18 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 773,
-    "sh": 21,
-    "sog": 11,
-    "g": 2,
+    "gp": 11,
+    "starts": 10,
+    "min": 863,
+    "sh": 23,
+    "sog": 13,
+    "g": 3,
     "a": 4,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 52.4,
-    "shots_saved": 9,
+    "shot_pct": 56.5,
+    "shots_saved": 10,
     "shots_off_target": 10
    },
    "matches": [
@@ -222,6 +237,21 @@
      "sh": 3,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -378,19 +408,19 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 10,
-    "min": 532,
-    "sh": 7,
+    "min": 566,
+    "sh": 8,
     "sog": 5,
     "g": 2,
     "a": 3,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 71.4,
+    "shot_pct": 62.5,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -542,6 +572,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 34,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -551,19 +596,19 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 794,
-    "sh": 18,
+    "gp": 11,
+    "starts": 9,
+    "min": 877,
+    "sh": 21,
     "sog": 10,
     "g": 1,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 47.6,
     "shots_saved": 9,
-    "shots_off_target": 8
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -712,6 +757,59 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 83,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Cuson, Lauren",
+   "slug": "cuson-lauren",
+   "num": "22",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 5,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0
@@ -911,9 +1009,9 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 3,
-    "min": 151,
+    "min": 177,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -970,6 +1068,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "fwd",
+     "num": "4",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -979,9 +1092,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 34,
+    "min": 49,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1038,6 +1151,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1047,9 +1175,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 850,
+    "gp": 11,
+    "starts": 11,
+    "min": 936,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -1211,6 +1339,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1220,9 +1363,9 @@
    "num": "14",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 318,
+    "min": 326,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1354,6 +1497,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "def",
+     "num": "14",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1363,19 +1521,19 @@
    "num": "26",
    "pos": "def",
    "totals": {
-    "gp": 8,
-    "starts": 1,
-    "min": 198,
-    "sh": 0,
-    "sog": 0,
+    "gp": 9,
+    "starts": 2,
+    "min": 288,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1497,6 +1655,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1506,9 +1679,9 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 98,
+    "min": 124,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1580,6 +1753,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1589,19 +1777,19 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 579,
-    "sh": 22,
-    "sog": 11,
-    "g": 1,
+    "gp": 11,
+    "starts": 9,
+    "min": 621,
+    "sh": 26,
+    "sog": 14,
+    "g": 2,
     "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 10,
-    "shots_off_target": 11
+    "shot_pct": 53.8,
+    "shots_saved": 12,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1753,6 +1941,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 42,
+     "sh": 4,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1762,19 +1965,19 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 473,
-    "sh": 1,
-    "sog": 0,
+    "gp": 11,
+    "starts": 10,
+    "min": 535,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1926,6 +2129,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 62,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1935,9 +2153,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 10,
-    "min": 612,
+    "min": 649,
     "sh": 21,
     "sog": 12,
     "g": 4,
@@ -2099,6 +2317,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2248,12 +2481,12 @@
   {
    "name": "Oferosky, Isabel",
    "slug": "oferosky-isabel",
-   "num": "0",
+   "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 360,
+    "gp": 8,
+    "starts": 4,
+    "min": 450,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2265,10 +2498,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 6,
-     "saves": 21,
-     "save_pct": 77.8
+     "gp": 8,
+     "ga": 8,
+     "saves": 30,
+     "save_pct": 78.9
     }
    },
    "matches": [
@@ -2411,6 +2644,26 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 9
+     }
     }
    ]
   },
@@ -2420,9 +2673,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 705,
+    "gp": 11,
+    "starts": 11,
+    "min": 795,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -2577,6 +2830,21 @@
      "pos": "MID",
      "num": "8",
      "min": 51,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2855,13 +3123,13 @@
    "num": "17",
    "pos": "mid",
    "totals": {
-    "gp": 10,
-    "starts": 0,
-    "min": 385,
+    "gp": 11,
+    "starts": 1,
+    "min": 432,
     "sh": 15,
     "sog": 7,
     "g": 2,
-    "a": 3,
+    "a": 4,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
@@ -3019,6 +3287,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3028,19 +3311,19 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 567,
-    "sh": 8,
-    "sog": 2,
+    "gp": 11,
+    "starts": 8,
+    "min": 630,
+    "sh": 10,
+    "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
-    "shots_off_target": 6
+    "shot_pct": 30.0,
+    "shots_saved": 2,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3187,6 +3470,21 @@
      "min": 81,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 63,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3359,19 +3657,19 @@
    "num": "11",
    "pos": "def",
    "totals": {
-    "gp": 10,
-    "starts": 2,
-    "min": 539,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
-    "a": 1,
+    "gp": 11,
+    "starts": 3,
+    "min": 629,
+    "sh": 2,
+    "sog": 1,
+    "g": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 50.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3520,6 +3818,21 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0

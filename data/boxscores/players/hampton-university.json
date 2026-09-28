@@ -478,9 +478,9 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 7,
+    "min": 18,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -500,6 +500,21 @@
      "pos": "fwd",
      "num": "9",
      "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -705,17 +720,17 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 377,
-    "sh": 3,
-    "sog": 2,
-    "g": 0,
+    "gp": 9,
+    "starts": 6,
+    "min": 451,
+    "sh": 4,
+    "sog": 3,
+    "g": 1,
     "a": 1,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 75.0,
     "shots_saved": 2,
     "shots_off_target": 1
    },
@@ -839,6 +854,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "",
+     "num": "12",
+     "min": 74,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -848,14 +878,14 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 109,
+    "min": 118,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "shot_pct": 50.0,
@@ -982,6 +1012,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1059,9 +1104,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 651,
+    "gp": 9,
+    "starts": 9,
+    "min": 741,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -1193,6 +1238,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1240,9 +1300,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 1,
-    "min": 97,
+    "min": 102,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1254,10 +1314,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
+     "gp": 3,
      "ga": 1,
-     "saves": 5,
-     "save_pct": 83.3
+     "saves": 6,
+     "save_pct": 85.7
     }
    },
    "matches": [
@@ -1299,6 +1359,26 @@
       "min": "07:41",
       "ga": 0,
       "saves": 2
+     }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": false,
+     "pos": "GK",
+     "num": "00",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "05:26",
+      "ga": 0,
+      "saves": 1
      }
     }
    ]
@@ -1418,18 +1498,18 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 618,
-    "sh": 14,
-    "sog": 5,
+    "gp": 9,
+    "starts": 9,
+    "min": 699,
+    "sh": 15,
+    "sog": 6,
     "g": 2,
-    "a": 1,
-    "fouls": 5,
+    "a": 2,
+    "fouls": 7,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 3,
+    "shot_pct": 40.0,
+    "shots_saved": 4,
     "shots_off_target": 9
    },
    "matches": [
@@ -1550,6 +1630,21 @@
      "g": 1,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 81,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 2,
      "yc": 0,
      "rc": 0
     }
@@ -1879,14 +1974,14 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 393,
+    "gp": 9,
+    "starts": 6,
+    "min": 483,
     "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 20.0,
@@ -2007,6 +2102,21 @@
      "num": "31",
      "min": 65,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "FWD",
+     "num": "31",
+     "min": 90,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2248,9 +2358,9 @@
    "num": "37",
    "pos": "GK",
    "totals": {
-    "gp": 3,
-    "starts": 3,
-    "min": 263,
+    "gp": 4,
+    "starts": 4,
+    "min": 348,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2262,10 +2372,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
-     "ga": 13,
-     "saves": 23,
-     "save_pct": 63.9
+     "gp": 4,
+     "ga": 16,
+     "saves": 28,
+     "save_pct": 63.6
     }
    },
    "matches": [
@@ -2328,6 +2438,26 @@
       "ga": 4,
       "saves": 7
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "GK",
+     "num": "37",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "84:34",
+      "ga": 3,
+      "saves": 5
+     }
     }
    ]
   },
@@ -2375,14 +2505,14 @@
    "num": "19",
    "pos": null,
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 334,
+    "gp": 6,
+    "starts": 4,
+    "min": 424,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
@@ -2464,6 +2594,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2473,19 +2618,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 432,
-    "sh": 7,
-    "sog": 3,
+    "gp": 9,
+    "starts": 6,
+    "min": 522,
+    "sh": 9,
+    "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 44.4,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2607,6 +2752,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2616,19 +2776,19 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 309,
-    "sh": 2,
+    "gp": 5,
+    "starts": 4,
+    "min": 399,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2684,6 +2844,21 @@
      "num": "18",
      "min": 83,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2918,14 +3093,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 429,
+    "gp": 9,
+    "starts": 7,
+    "min": 508,
     "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "shot_pct": 50.0,
@@ -3047,6 +3222,21 @@
      "min": 68,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 1,
@@ -3280,9 +3470,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 580,
+    "gp": 9,
+    "starts": 9,
+    "min": 670,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3414,6 +3604,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3423,19 +3628,19 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 98,
-    "sh": 0,
-    "sog": 0,
+    "min": 114,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -3527,6 +3732,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 16,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3536,19 +3756,19 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 2,
-    "starts": 0,
-    "min": 79,
-    "sh": 0,
+    "gp": 3,
+    "starts": 1,
+    "min": 169,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3574,6 +3794,21 @@
      "num": "2",
      "min": 54,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Towson",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

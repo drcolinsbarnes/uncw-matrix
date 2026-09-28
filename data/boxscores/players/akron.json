@@ -9,9 +9,9 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 6,
-    "min": 347,
+    "min": 359,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -158,6 +158,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -167,9 +182,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 791,
+    "gp": 10,
+    "starts": 10,
+    "min": 881,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -316,6 +331,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -414,9 +444,9 @@
    "num": "33",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 691,
+    "gp": 10,
+    "starts": 10,
+    "min": 781,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -428,10 +458,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
+     "gp": 10,
      "ga": 10,
-     "saves": 33,
-     "save_pct": 76.7
+     "saves": 35,
+     "save_pct": 77.8
     }
    },
    "matches": [
@@ -614,6 +644,26 @@
       "ga": 1,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "GK",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -661,19 +711,19 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 6,
-    "min": 673,
-    "sh": 6,
+    "gp": 10,
+    "starts": 7,
+    "min": 760,
+    "sh": 7,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -810,6 +860,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 87,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -819,18 +884,18 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 454,
-    "sh": 8,
-    "sog": 7,
+    "gp": 10,
+    "starts": 8,
+    "min": 512,
+    "sh": 9,
+    "sog": 8,
     "g": 2,
-    "a": 1,
-    "fouls": 3,
+    "a": 2,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 87.5,
-    "shots_saved": 5,
+    "shot_pct": 88.9,
+    "shots_saved": 6,
     "shots_off_target": 1
    },
    "matches": [
@@ -968,6 +1033,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1075,9 +1155,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 336,
+    "gp": 10,
+    "starts": 6,
+    "min": 364,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1224,6 +1304,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1271,14 +1366,14 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 271,
+    "min": 292,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 33.3,
@@ -1420,6 +1515,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1429,18 +1539,18 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 2,
-    "min": 162,
-    "sh": 4,
-    "sog": 1,
-    "g": 0,
+    "min": 203,
+    "sh": 6,
+    "sog": 3,
+    "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -1488,6 +1598,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "DEF",
+     "num": "13",
+     "min": 41,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1497,9 +1622,9 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 324,
+    "gp": 10,
+    "starts": 3,
+    "min": 368,
     "sh": 13,
     "sog": 5,
     "g": 1,
@@ -1646,6 +1771,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1655,15 +1795,15 @@
    "num": "10",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 803,
+    "gp": 10,
+    "starts": 10,
+    "min": 893,
     "sh": 10,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 0,
-    "yc": 1,
+    "fouls": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 30.0,
     "shots_saved": 3,
@@ -1804,6 +1944,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -1813,9 +1968,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 279,
+    "min": 292,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -1962,6 +2117,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1971,14 +2141,14 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 292,
+    "min": 311,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
@@ -2105,6 +2275,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2114,14 +2299,14 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 725,
+    "gp": 10,
+    "starts": 10,
+    "min": 815,
     "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "shot_pct": 0.0,
@@ -2263,6 +2448,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2272,14 +2472,14 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 0,
-    "min": 87,
+    "gp": 5,
+    "starts": 1,
+    "min": 146,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "shot_pct": null,
@@ -2346,6 +2546,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2355,14 +2570,14 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 311,
+    "min": 351,
     "sh": 5,
     "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 1,
     "rc": 0,
     "shot_pct": 60.0,
@@ -2504,6 +2719,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2641,18 +2871,18 @@
    "num": "37",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 328,
-    "sh": 8,
-    "sog": 3,
+    "min": 365,
+    "sh": 9,
+    "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 2,
+    "shot_pct": 44.4,
+    "shots_saved": 3,
     "shots_off_target": 5
    },
    "matches": [
@@ -2790,6 +3020,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "FWD",
+     "num": "37",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2799,15 +3044,15 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 599,
+    "gp": 9,
+    "starts": 9,
+    "min": 686,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 2,
-    "fouls": 5,
-    "yc": 1,
+    "fouls": 6,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
@@ -2933,6 +3178,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "MID",
+     "num": "30",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -2942,14 +3202,14 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 495,
+    "gp": 10,
+    "starts": 9,
+    "min": 554,
     "sh": 12,
     "sog": 9,
     "g": 5,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 75.0,
@@ -3091,6 +3351,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3100,14 +3375,14 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 398,
+    "min": 423,
     "sh": 7,
     "sog": 5,
     "g": 1,
     "a": 2,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 1,
     "rc": 0,
     "shot_pct": 71.4,
@@ -3247,6 +3522,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Ohio University",
+     "start": false,
+     "pos": "MID",
+     "num": "2",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }

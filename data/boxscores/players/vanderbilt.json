@@ -78,13 +78,13 @@
    "num": "6",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 423,
+    "gp": 10,
+    "starts": 10,
+    "min": 486,
     "sh": 7,
     "sog": 3,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -227,6 +227,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -236,9 +251,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 231,
+    "gp": 5,
+    "starts": 4,
+    "min": 296,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -310,6 +325,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -319,9 +349,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 712,
+    "gp": 10,
+    "starts": 10,
+    "min": 802,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -468,6 +498,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -477,19 +522,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 576,
-    "sh": 9,
+    "gp": 10,
+    "starts": 10,
+    "min": 632,
+    "sh": 10,
     "sog": 4,
     "g": 2,
     "a": 4,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -626,6 +671,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 56,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -635,9 +695,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 675,
+    "gp": 9,
+    "starts": 8,
+    "min": 765,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -649,10 +709,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 5,
-     "saves": 19,
-     "save_pct": 79.2
+     "gp": 9,
+     "ga": 6,
+     "saves": 22,
+     "save_pct": 78.6
     }
    },
    "matches": [
@@ -815,6 +875,26 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 3
+     }
     }
    ]
   },
@@ -824,18 +904,18 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 85,
-    "sh": 7,
-    "sog": 4,
+    "gp": 4,
+    "starts": 1,
+    "min": 151,
+    "sh": 9,
+    "sog": 6,
     "g": 3,
-    "a": 0,
-    "fouls": 0,
+    "a": 2,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 1,
+    "shot_pct": 66.7,
+    "shots_saved": 3,
     "shots_off_target": 3
    },
    "matches": [
@@ -883,6 +963,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 66,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 2,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -892,19 +987,19 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 347,
-    "sh": 20,
-    "sog": 10,
-    "g": 2,
+    "min": 371,
+    "sh": 22,
+    "sog": 11,
+    "g": 3,
     "a": 1,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
     "shots_saved": 8,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -1039,6 +1134,21 @@
      "g": 0,
      "a": 1,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 24,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -1178,14 +1288,14 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 738,
+    "gp": 10,
+    "starts": 10,
+    "min": 828,
     "sh": 16,
     "sog": 8,
     "g": 4,
     "a": 3,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
@@ -1325,6 +1435,21 @@
      "g": 0,
      "a": 1,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
      "yc": 0,
      "rc": 0
     }
@@ -1517,9 +1642,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 746,
+    "gp": 10,
+    "starts": 10,
+    "min": 836,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -1666,6 +1791,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1675,19 +1815,19 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 733,
-    "sh": 3,
+    "gp": 10,
+    "starts": 10,
+    "min": 823,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1824,6 +1964,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1946,19 +2101,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 193,
-    "sh": 0,
+    "min": 211,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 3,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2078,6 +2233,21 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 18,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -2230,7 +2400,7 @@
    "name": "Ramirez, Ana",
    "slug": "ramirez-ana",
    "num": "23",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2285,9 +2455,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 298,
+    "min": 310,
     "sh": 3,
     "sog": 1,
     "g": 1,
@@ -2434,6 +2604,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2443,19 +2628,19 @@
    "num": "27",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 488,
-    "sh": 14,
+    "gp": 10,
+    "starts": 9,
+    "min": 569,
+    "sh": 15,
     "sog": 8,
     "g": 3,
-    "a": 5,
-    "fouls": 8,
+    "a": 6,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 53.3,
     "shots_saved": 5,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2592,6 +2777,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "",
+     "num": "27",
+     "min": 81,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2639,14 +2839,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 401,
+    "min": 423,
     "sh": 10,
     "sog": 4,
     "g": 2,
     "a": 4,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "shot_pct": 40.0,
@@ -2788,6 +2988,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2797,19 +3012,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 6,
-    "min": 634,
-    "sh": 4,
+    "min": 677,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2946,6 +3161,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 43,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2955,19 +3185,19 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 695,
-    "sh": 33,
-    "sog": 20,
-    "g": 9,
+    "gp": 10,
+    "starts": 10,
+    "min": 785,
+    "sh": 39,
+    "sog": 24,
+    "g": 11,
     "a": 4,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 60.6,
-    "shots_saved": 11,
-    "shots_off_target": 13
+    "shot_pct": 61.5,
+    "shots_saved": 13,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3102,6 +3332,21 @@
      "g": 1,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Tennessee",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 90,
+     "sh": 6,
+     "sog": 4,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }

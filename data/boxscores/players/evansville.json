@@ -9,9 +9,9 @@
    "num": "16",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -113,6 +113,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -122,9 +137,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 121,
+    "min": 134,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -226,6 +241,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -235,15 +265,15 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 440,
+    "gp": 7,
+    "starts": 6,
+    "min": 509,
     "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 20.0,
     "shots_saved": 1,
@@ -339,6 +369,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -348,9 +393,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 360,
+    "gp": 5,
+    "starts": 5,
+    "min": 450,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -362,10 +407,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
-     "ga": 6,
-     "saves": 17,
-     "save_pct": 73.9
+     "gp": 5,
+     "ga": 8,
+     "saves": 22,
+     "save_pct": 73.3
     }
    },
    "matches": [
@@ -447,6 +492,26 @@
       "min": "90:00",
       "ga": 2,
       "saves": 3
+     }
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 5
      }
     }
    ]
@@ -614,14 +679,52 @@
    ]
   },
   {
+   "name": "Duncan, Anna",
+   "slug": "duncan-anna",
+   "num": "25",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 9,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": false,
+     "pos": "def",
+     "num": "25",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
    "name": "Hamner, Ella",
    "slug": "hamner-ella",
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 431,
+    "gp": 7,
+    "starts": 7,
+    "min": 512,
     "sh": 8,
     "sog": 3,
     "g": 1,
@@ -723,6 +826,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -732,17 +850,17 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 403,
-    "sh": 8,
-    "sog": 6,
-    "g": 0,
+    "gp": 7,
+    "starts": 7,
+    "min": 476,
+    "sh": 9,
+    "sog": 7,
+    "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 77.8,
     "shots_saved": 6,
     "shots_off_target": 2
    },
@@ -836,6 +954,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 73,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -845,9 +978,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 347,
+    "gp": 7,
+    "starts": 5,
+    "min": 392,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -949,6 +1082,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -958,15 +1106,15 @@
    "num": "15",
    "pos": null,
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 330,
+    "min": 396,
     "sh": 2,
     "sog": 1,
     "g": 1,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "shot_pct": 50.0,
     "shots_saved": 0,
@@ -1062,6 +1210,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -1071,19 +1234,19 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 536,
-    "sh": 8,
+    "gp": 7,
+    "starts": 7,
+    "min": 626,
+    "sh": 9,
     "sog": 4,
     "g": 2,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.4,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1175,6 +1338,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1184,9 +1362,9 @@
    "num": "12",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 178,
+    "min": 198,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1281,6 +1459,21 @@
      "pos": "fwd",
      "num": "12",
      "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": false,
+     "pos": "fwd",
+     "num": "12",
+     "min": 20,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1384,9 +1577,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 352,
+    "gp": 7,
+    "starts": 7,
+    "min": 429,
     "sh": 10,
     "sog": 6,
     "g": 3,
@@ -1488,6 +1681,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1535,9 +1743,9 @@
    "num": "28",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -1624,6 +1832,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "MID",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1633,19 +1856,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 369,
-    "sh": 10,
-    "sog": 5,
+    "gp": 7,
+    "starts": 7,
+    "min": 443,
+    "sh": 12,
+    "sog": 6,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
-    "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_saved": 6,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1737,6 +1960,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 74,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1746,9 +1984,9 @@
    "num": "14",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 178,
+    "min": 191,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1850,6 +2088,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
+     "start": false,
+     "pos": "fwd",
+     "num": "14",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1859,9 +2112,9 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 501,
+    "gp": 7,
+    "starts": 7,
+    "min": 591,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1952,6 +2205,21 @@
     {
      "date": "2026-09-19",
      "opponent": "Southern Illinois",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-26",
+     "opponent": "Drake",
      "start": true,
      "pos": "FWD",
      "num": "6",

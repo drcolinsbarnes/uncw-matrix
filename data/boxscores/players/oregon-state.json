@@ -77,9 +77,9 @@
    "num": "22",
    "pos": null,
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 1,
-    "min": 111,
+    "min": 154,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -121,6 +121,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "",
+     "num": "22",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -130,9 +145,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 247,
+    "min": 253,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -234,6 +249,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "def",
+     "num": "16",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -281,19 +311,19 @@
    "num": "25",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 388,
-    "sh": 5,
-    "sog": 1,
+    "gp": 9,
+    "starts": 8,
+    "min": 420,
+    "sh": 8,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 9,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 1,
-    "shots_off_target": 4
+    "shot_pct": 25.0,
+    "shots_saved": 2,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -415,6 +445,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "",
+     "num": "25",
+     "min": 32,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -424,9 +469,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 540,
+    "gp": 8,
+    "starts": 8,
+    "min": 614,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -438,10 +483,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 16,
-     "saves": 42,
-     "save_pct": 72.4
+     "gp": 8,
+     "ga": 18,
+     "saves": 45,
+     "save_pct": 71.4
     }
    },
    "matches": [
@@ -583,6 +628,26 @@
       "min": "90:00",
       "ga": 0,
       "saves": 2
+     }
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "74:33",
+      "ga": 2,
+      "saves": 3
      }
     }
    ]
@@ -888,19 +953,19 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 506,
-    "sh": 12,
-    "sog": 5,
+    "gp": 9,
+    "starts": 8,
+    "min": 583,
+    "sh": 14,
+    "sog": 6,
     "g": 0,
     "a": 1,
     "fouls": 14,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 5,
-    "shots_off_target": 7
+    "shot_pct": 42.9,
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1020,6 +1085,21 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 77,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -1156,17 +1236,17 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 416,
-    "sh": 6,
-    "sog": 3,
-    "g": 1,
+    "gp": 9,
+    "starts": 7,
+    "min": 500,
+    "sh": 7,
+    "sog": 4,
+    "g": 2,
     "a": 0,
     "fouls": 9,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 57.1,
     "shots_saved": 2,
     "shots_off_target": 3
    },
@@ -1288,6 +1368,21 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 84,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -1507,9 +1602,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 173,
+    "gp": 5,
+    "starts": 4,
+    "min": 233,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1581,6 +1676,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 60,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1590,9 +1700,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 341,
+    "gp": 8,
+    "starts": 5,
+    "min": 431,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1709,6 +1819,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1716,11 +1841,11 @@
    "name": "Morgan, Alexi",
    "slug": "morgan-alexi",
    "num": "99",
-   "pos": "GK",
+   "pos": "gk",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 58,
+    "min": 74,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1732,10 +1857,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 1,
+     "gp": 2,
      "ga": 2,
-     "saves": 4,
-     "save_pct": 66.7
+     "saves": 5,
+     "save_pct": 71.4
     }
    },
    "matches": [
@@ -1757,6 +1882,26 @@
       "min": "58:25",
       "ga": 2,
       "saves": 4
+     }
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "gk",
+     "num": "99",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "15:27",
+      "ga": 0,
+      "saves": 1
      }
     }
    ]
@@ -1881,9 +2026,9 @@
    "num": "23",
    "pos": null,
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 5,
-    "min": 354,
+    "min": 367,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2000,6 +2145,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "",
+     "num": "23",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2009,9 +2169,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 311,
+    "min": 324,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2143,6 +2303,59 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Rosse, Vida Blue",
+   "slug": "rosse-vida-blue",
+   "num": "15",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 20,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2152,19 +2365,19 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 2,
-    "min": 181,
-    "sh": 1,
-    "sog": 0,
+    "gp": 5,
+    "starts": 3,
+    "min": 267,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2226,6 +2439,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 86,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2273,19 +2501,19 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 265,
-    "sh": 9,
+    "min": 323,
+    "sh": 10,
     "sog": 4,
     "g": 2,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2407,6 +2635,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 58,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2416,19 +2659,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 488,
-    "sh": 0,
+    "gp": 9,
+    "starts": 7,
+    "min": 545,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 4,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2550,6 +2793,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -2635,9 +2893,9 @@
    "num": "28",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 538,
+    "gp": 9,
+    "starts": 8,
+    "min": 628,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2764,6 +3022,21 @@
      "min": 90,
      "sh": 2,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2997,9 +3270,9 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 242,
+    "gp": 7,
+    "starts": 3,
+    "min": 332,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -3101,6 +3374,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3148,18 +3436,18 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 511,
-    "sh": 8,
-    "sog": 2,
+    "gp": 9,
+    "starts": 8,
+    "min": 592,
+    "sh": 10,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 2,
+    "shot_pct": 40.0,
+    "shots_saved": 4,
     "shots_off_target": 6
    },
    "matches": [
@@ -3280,6 +3568,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-25",
+     "opponent": "Eastern Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 81,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }

@@ -9,18 +9,18 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 593,
-    "sh": 2,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 636,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -158,6 +158,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 43,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -167,19 +182,19 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 3,
-    "min": 315,
-    "sh": 3,
+    "gp": 10,
+    "starts": 4,
+    "min": 345,
+    "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -316,6 +331,70 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 30,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "DeFlorio, Taylor",
+   "slug": "deflorio-taylor",
+   "num": "31",
+   "pos": "gk",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 45,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 1,
+     "save_pct": 100.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "gk",
+     "num": "31",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -325,10 +404,10 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 145,
-    "sh": 3,
+    "min": 168,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -337,7 +416,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -452,6 +531,21 @@
      "pos": "mid",
      "num": "25",
      "min": 52,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 23,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -596,18 +690,18 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 206,
-    "sh": 1,
-    "sog": 1,
+    "min": 242,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -738,6 +832,21 @@
      "pos": "FWD",
      "num": "11",
      "min": 47,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 36,
      "sh": 1,
      "sog": 1,
      "g": 0,
@@ -943,19 +1052,19 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 56,
-    "sh": 0,
-    "sog": 0,
+    "min": 65,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1017,6 +1126,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "",
+     "num": "12",
+     "min": 9,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1026,18 +1150,18 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 344,
-    "sh": 6,
-    "sog": 3,
-    "g": 2,
+    "gp": 9,
+    "starts": 7,
+    "min": 398,
+    "sh": 9,
+    "sog": 6,
+    "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 66.7,
+    "shots_saved": 3,
     "shots_off_target": 3
    },
    "matches": [
@@ -1160,6 +1284,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 54,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1169,9 +1308,9 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 217,
+    "min": 232,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1318,6 +1457,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1327,9 +1481,9 @@
    "num": "26",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 87,
+    "min": 120,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1431,6 +1585,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1440,18 +1609,18 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 655,
-    "sh": 1,
-    "sog": 1,
+    "gp": 9,
+    "starts": 8,
+    "min": 724,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -1574,6 +1743,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 69,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1583,9 +1767,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 8,
-    "min": 696,
+    "min": 717,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1717,6 +1901,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "",
+     "num": "14",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1724,11 +1923,11 @@
    "name": "Johnson, Callie",
    "slug": "johnson-callie",
    "num": "24",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 22,
+    "min": 43,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1770,6 +1969,59 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "mid",
+     "num": "24",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Lent, Grace",
+   "slug": "lent-grace",
+   "num": "28",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 21,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "def",
+     "num": "28",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1779,9 +2031,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 494,
+    "gp": 7,
+    "starts": 7,
+    "min": 563,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1883,6 +2135,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1892,19 +2159,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 548,
-    "sh": 9,
-    "sog": 3,
-    "g": 0,
-    "a": 0,
+    "gp": 10,
+    "starts": 9,
+    "min": 608,
+    "sh": 12,
+    "sog": 5,
+    "g": 1,
+    "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
-    "shots_off_target": 6
+    "shot_pct": 41.7,
+    "shots_saved": 4,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2041,6 +2308,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 60,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2050,9 +2332,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 5,
+    "min": 26,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2079,6 +2361,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2088,17 +2385,17 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
-    "starts": 0,
-    "min": 47,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
+    "gp": 6,
+    "starts": 1,
+    "min": 101,
+    "sh": 3,
+    "sog": 2,
+    "g": 2,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 66.7,
     "shots_saved": 0,
     "shots_off_target": 1
    },
@@ -2177,6 +2474,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 54,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2184,11 +2496,11 @@
    "name": "Peral, Ines",
    "slug": "peral-ines",
    "num": "27",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 2,
-    "min": 99,
+    "min": 138,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2245,6 +2557,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2252,21 +2579,21 @@
    "name": "Powers, Riley",
    "slug": "powers-riley",
    "num": "2",
-   "pos": "MID",
+   "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 538,
-    "sh": 14,
-    "sog": 7,
+    "gp": 10,
+    "starts": 9,
+    "min": 580,
+    "sh": 16,
+    "sog": 8,
     "g": 2,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
-    "shots_saved": 5,
-    "shots_off_target": 7
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2403,6 +2730,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 42,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2412,9 +2754,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 554,
+    "gp": 9,
+    "starts": 8,
+    "min": 608,
     "sh": 6,
     "sog": 1,
     "g": 1,
@@ -2546,6 +2888,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2555,9 +2912,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 219,
+    "gp": 6,
+    "starts": 4,
+    "min": 288,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2644,6 +3001,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2653,9 +3025,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 9,
-    "min": 810,
+    "min": 831,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -2802,6 +3174,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2924,18 +3311,18 @@
    "num": "29",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 209,
-    "sh": 3,
-    "sog": 0,
+    "min": 248,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
     "shots_off_target": 3
    },
    "matches": [
@@ -3073,6 +3460,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "fwd",
+     "num": "29",
+     "min": 39,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3082,9 +3484,9 @@
    "num": "33",
    "pos": "GK",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 90,
+    "gp": 2,
+    "starts": 2,
+    "min": 135,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3096,9 +3498,9 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 1,
+     "gp": 2,
      "ga": 0,
-     "saves": 10,
+     "saves": 11,
      "save_pct": 100.0
     }
    },
@@ -3122,6 +3524,26 @@
       "ga": 0,
       "saves": 10
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": true,
+     "pos": "GK",
+     "num": "33",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -3131,19 +3553,19 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 254,
-    "sh": 6,
+    "min": 290,
+    "sh": 7,
     "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 83.3,
+    "shot_pct": 71.4,
     "shots_saved": 5,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3280,6 +3702,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 36,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3289,18 +3726,18 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 393,
-    "sh": 8,
-    "sog": 3,
+    "min": 414,
+    "sh": 10,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 3,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
     "shots_off_target": 5
    },
    "matches": [
@@ -3418,6 +3855,21 @@
      "min": 40,
      "sh": 2,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Chicago State",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 21,
+     "sh": 2,
+     "sog": 2,
      "g": 0,
      "a": 0,
      "fouls": 0,

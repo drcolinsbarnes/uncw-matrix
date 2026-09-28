@@ -47,9 +47,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 382,
+    "gp": 8,
+    "starts": 6,
+    "min": 445,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -160,6 +160,21 @@
      "num": "12",
      "min": 60,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 63,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -284,19 +299,19 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 2,
-    "min": 195,
-    "sh": 5,
-    "sog": 3,
+    "gp": 6,
+    "starts": 3,
+    "min": 260,
+    "sh": 7,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
-    "shots_off_target": 2
+    "shot_pct": 57.1,
+    "shots_saved": 4,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -368,6 +383,21 @@
      "min": 28,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 65,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -458,9 +488,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 540,
+    "gp": 8,
+    "starts": 6,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -472,10 +502,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 5,
-     "saves": 15,
-     "save_pct": 75.0
+     "saves": 16,
+     "save_pct": 76.2
     }
    },
    "matches": [
@@ -618,6 +648,26 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -627,9 +677,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 679,
+    "gp": 10,
+    "starts": 10,
+    "min": 758,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -776,6 +826,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -785,9 +850,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 291,
+    "gp": 5,
+    "starts": 4,
+    "min": 368,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -859,6 +924,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -868,18 +948,18 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 501,
-    "sh": 4,
-    "sog": 2,
+    "min": 527,
+    "sh": 5,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 60.0,
+    "shots_saved": 3,
     "shots_off_target": 2
    },
    "matches": [
@@ -1017,6 +1097,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 26,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1024,11 +1119,11 @@
    "name": "Kline, Emerson",
    "slug": "kline-emerson",
    "num": "25",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 151,
+    "min": 181,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1130,6 +1225,21 @@
      "fouls": 2,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1139,9 +1249,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -1288,6 +1398,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1295,21 +1420,21 @@
    "name": "Kulha, Reese",
    "slug": "kulha-reese",
    "num": "24",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 229,
-    "sh": 5,
+    "min": 254,
+    "sh": 6,
     "sog": 2,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1431,6 +1556,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 25,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1440,9 +1580,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 599,
+    "gp": 10,
+    "starts": 8,
+    "min": 644,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -1589,6 +1729,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1598,9 +1753,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 805,
+    "gp": 10,
+    "starts": 10,
+    "min": 895,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -1747,6 +1902,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1756,18 +1926,18 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 467,
-    "sh": 11,
-    "sog": 9,
+    "gp": 10,
+    "starts": 8,
+    "min": 540,
+    "sh": 12,
+    "sog": 10,
     "g": 4,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 81.8,
-    "shots_saved": 5,
+    "shot_pct": 83.3,
+    "shots_saved": 6,
     "shots_off_target": 2
    },
    "matches": [
@@ -1905,6 +2075,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 73,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1914,9 +2099,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 6,
-    "min": 463,
+    "min": 467,
     "sh": 14,
     "sog": 6,
     "g": 1,
@@ -2018,6 +2203,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2027,9 +2227,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 184,
+    "min": 211,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2131,6 +2331,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2140,18 +2355,18 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 663,
-    "sh": 3,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 740,
+    "sh": 4,
+    "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 7,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -2289,6 +2504,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 77,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2364,17 +2594,17 @@
    "name": "Serna, Mia",
    "slug": "serna-mia",
    "num": "21",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 129,
+    "min": 138,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
@@ -2485,6 +2715,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -2494,9 +2739,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 8,
-    "min": 690,
+    "min": 753,
     "sh": 6,
     "sog": 3,
     "g": 1,
@@ -2643,6 +2888,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2650,11 +2910,11 @@
    "name": "Subong, Alaina",
    "slug": "subong-alaina",
    "num": "29",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 142,
+    "min": 155,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -2771,6 +3031,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": false,
+     "pos": "def",
+     "num": "29",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2780,9 +3055,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 627,
+    "gp": 10,
+    "starts": 10,
+    "min": 671,
     "sh": 9,
     "sog": 5,
     "g": 2,
@@ -2927,6 +3202,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Appalachian State",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }

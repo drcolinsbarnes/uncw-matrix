@@ -9,9 +9,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 3,
-    "starts": 1,
-    "min": 127,
+    "gp": 4,
+    "starts": 2,
+    "min": 217,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -68,6 +68,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -77,9 +92,9 @@
    "num": "99",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 260,
+    "min": 294,
     "sh": 8,
     "sog": 5,
     "g": 2,
@@ -196,6 +211,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": false,
+     "pos": "FWD",
+     "num": "99",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -205,19 +235,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 423,
-    "sh": 9,
-    "sog": 3,
+    "gp": 8,
+    "starts": 6,
+    "min": 504,
+    "sh": 11,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
-    "shots_off_target": 6
+    "shot_pct": 36.4,
+    "shots_saved": 3,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -321,6 +351,21 @@
      "sog": 1,
      "g": 1,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 81,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0
@@ -446,9 +491,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 538,
+    "gp": 8,
+    "starts": 7,
+    "min": 603,
     "sh": 18,
     "sog": 8,
     "g": 3,
@@ -565,6 +610,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "",
+     "num": "26",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -657,9 +717,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 271,
+    "min": 278,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -776,6 +836,59 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Hoytink, Grace",
+   "slug": "hoytink-grace",
+   "num": "17",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 51,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 1,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 51,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -785,19 +898,19 @@
    "num": "42",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 435,
-    "sh": 17,
+    "gp": 8,
+    "starts": 7,
+    "min": 518,
+    "sh": 18,
     "sog": 13,
     "g": 3,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 76.5,
+    "shot_pct": 72.2,
     "shots_saved": 10,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -904,6 +1017,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "FWD",
+     "num": "42",
+     "min": 83,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -913,9 +1041,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 329,
+    "min": 363,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -1030,6 +1158,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -1218,14 +1361,14 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 525,
+    "gp": 8,
+    "starts": 8,
+    "min": 615,
     "sh": 2,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 100.0,
@@ -1337,6 +1480,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1429,14 +1587,14 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 4,
-    "min": 239,
+    "min": 287,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": null,
@@ -1503,6 +1661,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1512,9 +1685,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1526,10 +1699,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
+     "gp": 7,
      "ga": 7,
-     "saves": 20,
-     "save_pct": 74.1
+     "saves": 21,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -1652,6 +1825,26 @@
       "ga": 2,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1661,14 +1854,14 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 244,
+    "gp": 5,
+    "starts": 5,
+    "min": 334,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -1733,6 +1926,21 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }
@@ -1985,9 +2193,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 5,
-    "min": 433,
+    "min": 452,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2097,6 +2305,21 @@
      "pos": "DEF",
      "num": "22",
      "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 19,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2241,14 +2464,14 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 391,
+    "gp": 8,
+    "starts": 5,
+    "min": 453,
     "sh": 5,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "shot_pct": 60.0,
@@ -2360,6 +2583,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2369,14 +2607,14 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 358,
+    "gp": 7,
+    "starts": 6,
+    "min": 414,
     "sh": 4,
     "sog": 4,
     "g": 2,
     "a": 1,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "shot_pct": 100.0,
@@ -2473,6 +2711,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 56,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2520,14 +2773,14 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 238,
+    "gp": 5,
+    "starts": 4,
+    "min": 328,
     "sh": 5,
     "sog": 3,
     "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 60.0,
@@ -2589,6 +2842,21 @@
      "min": 81,
      "sh": 2,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Louisville",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 1,

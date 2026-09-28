@@ -9,19 +9,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 816,
-    "sh": 23,
+    "gp": 12,
+    "starts": 12,
+    "min": 901,
+    "sh": 24,
     "sog": 12,
     "g": 7,
     "a": 1,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 52.2,
+    "shot_pct": 50.0,
     "shots_saved": 5,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -188,6 +188,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 85,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -197,9 +212,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 3,
-    "min": 388,
+    "gp": 10,
+    "starts": 4,
+    "min": 433,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -344,6 +359,21 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }
@@ -649,9 +679,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 879,
+    "min": 924,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -663,10 +693,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 15,
-     "saves": 38,
-     "save_pct": 71.7
+     "gp": 12,
+     "ga": 16,
+     "saves": 40,
+     "save_pct": 71.4
     }
    },
    "matches": [
@@ -889,6 +919,26 @@
       "ga": 3,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "GK",
+     "num": "1",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 2
+     }
     }
    ]
   },
@@ -898,9 +948,9 @@
    "num": "5",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 534,
+    "gp": 10,
+    "starts": 6,
+    "min": 624,
     "sh": 8,
     "sog": 1,
     "g": 0,
@@ -1047,6 +1097,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1056,15 +1121,15 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 730,
+    "gp": 11,
+    "starts": 11,
+    "min": 820,
     "sh": 11,
     "sog": 1,
     "g": 1,
     "a": 1,
-    "fouls": 10,
-    "yc": 1,
+    "fouls": 11,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 9.1,
     "shots_saved": 0,
@@ -1220,6 +1285,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -1229,9 +1309,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 2,
-    "min": 240,
+    "min": 275,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1318,6 +1398,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1327,9 +1422,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 9,
-    "min": 517,
+    "min": 555,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -1506,6 +1601,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "DEF",
+     "num": "27",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1553,9 +1663,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 421,
+    "min": 438,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -1732,6 +1842,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "MID",
+     "num": "22",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1741,9 +1866,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 2,
-    "min": 170,
+    "gp": 8,
+    "starts": 3,
+    "min": 215,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1860,6 +1985,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1952,9 +2092,9 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 207,
+    "min": 212,
     "sh": 6,
     "sog": 3,
     "g": 1,
@@ -2086,6 +2226,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "FWD",
+     "num": "29",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2095,9 +2250,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 86,
+    "min": 104,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2214,6 +2369,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2223,19 +2393,19 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 735,
-    "sh": 16,
-    "sog": 6,
+    "min": 771,
+    "sh": 18,
+    "sog": 7,
     "g": 1,
     "a": 3,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 5,
-    "shots_off_target": 10
+    "shot_pct": 38.9,
+    "shots_saved": 6,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2402,6 +2572,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 36,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2411,9 +2596,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 896,
+    "gp": 12,
+    "starts": 11,
+    "min": 986,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -2590,6 +2775,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2599,18 +2799,18 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 455,
-    "sh": 11,
-    "sog": 3,
+    "gp": 9,
+    "starts": 6,
+    "min": 545,
+    "sh": 12,
+    "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 27.3,
-    "shots_saved": 2,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
     "shots_off_target": 8
    },
    "matches": [
@@ -2733,6 +2933,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2810,9 +3025,9 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 9,
-    "min": 836,
+    "min": 881,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2989,6 +3204,21 @@
      "fouls": 4,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": false,
+     "pos": "DEF",
+     "num": "32",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2998,19 +3228,19 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 776,
-    "sh": 12,
+    "gp": 12,
+    "starts": 12,
+    "min": 831,
+    "sh": 13,
     "sog": 7,
     "g": 2,
     "a": 2,
     "fouls": 11,
     "yc": 2,
     "rc": 0,
-    "shot_pct": 58.3,
+    "shot_pct": 53.8,
     "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3177,6 +3407,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3186,9 +3431,9 @@
    "num": "19",
    "pos": "GK",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 111,
+    "gp": 4,
+    "starts": 1,
+    "min": 156,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3200,10 +3445,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
+     "gp": 4,
      "ga": 2,
-     "saves": 8,
-     "save_pct": 80.0
+     "saves": 11,
+     "save_pct": 84.6
     }
    },
    "matches": [
@@ -3266,6 +3511,26 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "GK",
+     "num": "19",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -3275,9 +3540,9 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 651,
+    "gp": 12,
+    "starts": 10,
+    "min": 712,
     "sh": 23,
     "sog": 5,
     "g": 0,
@@ -3454,6 +3719,21 @@
      "fouls": 3,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3463,9 +3743,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 883,
+    "gp": 12,
+    "starts": 11,
+    "min": 938,
     "sh": 8,
     "sog": 2,
     "g": 1,
@@ -3641,6 +3921,21 @@
      "a": 0,
      "fouls": 1,
      "yc": 1,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Monmouth",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0
     }
    ]

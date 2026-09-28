@@ -9,15 +9,15 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "shot_pct": null,
     "shots_saved": null,
@@ -142,6 +142,21 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0
     }
    ]
@@ -265,19 +280,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 237,
-    "sh": 0,
-    "sog": 0,
+    "min": 280,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -399,6 +414,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 43,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -408,9 +438,9 @@
    "num": "14",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 241,
+    "min": 260,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -542,6 +572,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "fwd",
+     "num": "14",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -551,19 +596,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 487,
-    "sh": 4,
+    "gp": 9,
+    "starts": 9,
+    "min": 563,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -685,6 +730,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -694,9 +754,9 @@
    "num": "23",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 39,
+    "min": 67,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -753,6 +813,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -760,11 +835,11 @@
    "name": "Hubble, Isabella",
    "slug": "hubble-isabella",
    "num": "21",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 216,
+    "min": 230,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -896,6 +971,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -905,9 +995,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 611,
+    "gp": 9,
+    "starts": 9,
+    "min": 673,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1039,6 +1129,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1048,9 +1153,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1062,10 +1167,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 13,
-     "saves": 48,
-     "save_pct": 78.7
+     "gp": 9,
+     "ga": 17,
+     "saves": 53,
+     "save_pct": 75.7
     }
    },
    "matches": [
@@ -1228,6 +1333,26 @@
       "ga": 3,
       "saves": 7
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 5
+     }
     }
    ]
   },
@@ -1237,18 +1362,18 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 442,
-    "sh": 9,
-    "sog": 4,
-    "g": 1,
+    "gp": 9,
+    "starts": 6,
+    "min": 514,
+    "sh": 11,
+    "sog": 6,
+    "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 3,
+    "shot_pct": 54.5,
+    "shots_saved": 4,
     "shots_off_target": 5
    },
    "matches": [
@@ -1371,6 +1496,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 72,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1380,19 +1520,19 @@
    "num": "18",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 162,
-    "sh": 0,
-    "sog": 0,
+    "min": 200,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1484,6 +1624,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 38,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1493,9 +1648,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 460,
+    "gp": 9,
+    "starts": 9,
+    "min": 512,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1627,6 +1782,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1636,9 +1806,9 @@
    "num": "20",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 268,
+    "min": 307,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1770,6 +1940,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "def",
+     "num": "20",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1779,19 +1964,19 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 467,
-    "sh": 3,
+    "gp": 9,
+    "starts": 9,
+    "min": 514,
+    "sh": 4,
     "sog": 2,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1913,6 +2098,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 47,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1922,10 +2122,10 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 538,
-    "sh": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 614,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1934,7 +2134,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2056,6 +2256,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2148,9 +2363,9 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 24,
+    "min": 42,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2170,6 +2385,21 @@
      "pos": "fwd",
      "num": "5",
      "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 18,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2239,19 +2469,19 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 481,
-    "sh": 14,
-    "sog": 4,
-    "g": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 543,
+    "sh": 17,
+    "sog": 6,
+    "g": 2,
     "a": 2,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 3,
-    "shots_off_target": 10
+    "shot_pct": 35.3,
+    "shots_saved": 4,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2373,6 +2603,21 @@
      "fouls": 4,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 62,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2382,9 +2627,9 @@
    "num": "7",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 162,
+    "min": 171,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2516,6 +2761,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2563,9 +2823,9 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 388,
+    "gp": 8,
+    "starts": 6,
+    "min": 456,
     "sh": 12,
     "sog": 6,
     "g": 2,
@@ -2682,6 +2942,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2691,9 +2966,9 @@
    "num": "28",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 224,
+    "min": 246,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2825,6 +3100,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": false,
+     "pos": "fwd",
+     "num": "28",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2932,19 +3222,19 @@
    "num": "4",
    "pos": "mid",
    "totals": {
-    "gp": 8,
-    "starts": 0,
-    "min": 254,
-    "sh": 0,
+    "gp": 9,
+    "starts": 1,
+    "min": 319,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3060,6 +3350,21 @@
      "num": "4",
      "min": 54,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "SIUE",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 65,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

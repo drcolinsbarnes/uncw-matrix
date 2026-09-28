@@ -138,9 +138,9 @@
    "num": "0",
    "pos": "gk",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 258,
+    "min": 303,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -152,10 +152,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 4,
-     "saves": 10,
-     "save_pct": 71.4
+     "gp": 7,
+     "ga": 5,
+     "saves": 11,
+     "save_pct": 68.8
     }
    },
    "matches": [
@@ -278,6 +278,26 @@
       "ga": 2,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": false,
+     "pos": "gk",
+     "num": "0",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -385,15 +405,15 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 946,
+    "gp": 12,
+    "starts": 12,
+    "min": 1036,
     "sh": 7,
     "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 2,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 28.6,
     "shots_saved": 2,
@@ -564,6 +584,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -573,9 +608,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 792,
+    "gp": 12,
+    "starts": 12,
+    "min": 867,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -752,6 +787,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -889,9 +939,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 834,
+    "gp": 12,
+    "starts": 12,
+    "min": 909,
     "sh": 4,
     "sog": 3,
     "g": 0,
@@ -1068,6 +1118,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1075,7 +1140,7 @@
    "name": "Hamilton, Reagan",
    "slug": "hamilton-reagan",
    "num": "2",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 4,
     "starts": 0,
@@ -1160,18 +1225,18 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 282,
-    "sh": 6,
-    "sog": 5,
+    "min": 297,
+    "sh": 7,
+    "sog": 6,
     "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 83.3,
-    "shots_saved": 4,
+    "shot_pct": 85.7,
+    "shots_saved": 5,
     "shots_off_target": 1
    },
    "matches": [
@@ -1324,6 +1389,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 15,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1333,19 +1413,19 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 73,
-    "sh": 3,
+    "min": 88,
+    "sh": 4,
     "sog": 1,
     "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1452,6 +1532,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 15,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1461,19 +1556,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 678,
-    "sh": 22,
-    "sog": 10,
+    "gp": 12,
+    "starts": 11,
+    "min": 744,
+    "sh": 27,
+    "sog": 12,
     "g": 4,
     "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 6,
-    "shots_off_target": 12
+    "shot_pct": 44.4,
+    "shots_saved": 8,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -1640,6 +1735,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 66,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1649,9 +1759,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 724,
+    "gp": 11,
+    "starts": 11,
+    "min": 808,
     "sh": 34,
     "sog": 15,
     "g": 4,
@@ -1813,6 +1923,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1822,9 +1947,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 948,
+    "gp": 12,
+    "starts": 12,
+    "min": 1038,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -1990,6 +2115,21 @@
     {
      "date": "2026-09-24",
      "opponent": "Monmouth",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
      "start": true,
      "pos": "DEF",
      "num": "15",
@@ -2244,9 +2384,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 293,
+    "min": 330,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2423,6 +2563,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2568,9 +2723,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 781,
+    "gp": 12,
+    "starts": 12,
+    "min": 871,
     "sh": 9,
     "sog": 4,
     "g": 2,
@@ -2747,6 +2902,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2756,19 +2926,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 827,
-    "sh": 21,
-    "sog": 6,
-    "g": 1,
+    "gp": 12,
+    "starts": 12,
+    "min": 917,
+    "sh": 25,
+    "sog": 8,
+    "g": 2,
     "a": 4,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 5,
-    "shots_off_target": 15
+    "shot_pct": 32.0,
+    "shots_saved": 6,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -2931,6 +3101,21 @@
      "sh": 3,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -3118,9 +3303,9 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 280,
+    "min": 310,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3282,6 +3467,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3291,18 +3491,18 @@
    "num": "14",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 264,
-    "sh": 6,
-    "sog": 3,
+    "min": 284,
+    "sh": 7,
+    "sog": 4,
     "g": 1,
     "a": 4,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 57.1,
+    "shots_saved": 3,
     "shots_off_target": 3
    },
    "matches": [
@@ -3470,6 +3670,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 20,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3479,19 +3694,19 @@
    "num": "23",
    "pos": "mid",
    "totals": {
-    "gp": 6,
-    "starts": 1,
-    "min": 152,
-    "sh": 3,
+    "gp": 7,
+    "starts": 2,
+    "min": 205,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3577,6 +3792,21 @@
      "num": "23",
      "min": 7,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 53,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3878,18 +4108,18 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 688,
-    "sh": 19,
-    "sog": 12,
+    "gp": 12,
+    "starts": 9,
+    "min": 758,
+    "sh": 20,
+    "sog": 13,
     "g": 3,
-    "a": 3,
+    "a": 4,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 63.2,
-    "shots_saved": 9,
+    "shot_pct": 65.0,
+    "shots_saved": 10,
     "shots_off_target": 7
    },
    "matches": [
@@ -4057,6 +4287,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 70,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -4064,7 +4309,7 @@
    "name": "Welsh, Isabelle",
    "slug": "welsh-isabelle",
    "num": "29",
-   "pos": "fwd",
+   "pos": "gk",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -4119,9 +4364,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 495,
+    "gp": 12,
+    "starts": 7,
+    "min": 540,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4133,10 +4378,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 1,
-     "saves": 12,
-     "save_pct": 92.3
+     "saves": 13,
+     "save_pct": 92.9
     }
    },
    "matches": [
@@ -4358,6 +4603,26 @@
       "min": "45:00",
       "ga": 0,
       "saves": 0
+     }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Northeastern",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 1
      }
     }
    ]

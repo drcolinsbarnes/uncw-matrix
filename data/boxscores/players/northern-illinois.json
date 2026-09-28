@@ -47,19 +47,19 @@
    "num": "9",
    "pos": "def",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 40,
-    "sh": 0,
+    "min": 75,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -121,6 +121,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": false,
+     "pos": "def",
+     "num": "9",
+     "min": 35,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -130,18 +145,18 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 423,
-    "sh": 10,
-    "sog": 5,
+    "gp": 9,
+    "starts": 6,
+    "min": 480,
+    "sh": 11,
+    "sog": 6,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
+    "shot_pct": 54.5,
+    "shots_saved": 5,
     "shots_off_target": 5
    },
    "matches": [
@@ -264,6 +279,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "MID",
+     "num": "30",
+     "min": 57,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -371,19 +401,19 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 540,
-    "sh": 9,
-    "sog": 6,
+    "gp": 9,
+    "starts": 9,
+    "min": 619,
+    "sh": 14,
+    "sog": 8,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 5,
-    "shots_off_target": 3
+    "shot_pct": 57.1,
+    "shots_saved": 7,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -505,6 +535,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 79,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -512,20 +557,20 @@
    "name": "DeLange, Taite",
    "slug": "delange-taite",
    "num": "7",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 292,
-    "sh": 2,
-    "sog": 1,
+    "gp": 7,
+    "starts": 4,
+    "min": 354,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -618,6 +663,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 62,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -627,9 +687,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 647,
+    "gp": 9,
+    "starts": 9,
+    "min": 737,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -641,7 +701,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
+     "gp": 9,
      "ga": 8,
      "saves": 32,
      "save_pct": 80.0
@@ -807,6 +867,26 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -816,19 +896,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 255,
-    "sh": 3,
-    "sog": 1,
+    "gp": 6,
+    "starts": 4,
+    "min": 316,
+    "sh": 5,
+    "sog": 2,
     "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -905,6 +985,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 61,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -914,9 +1009,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 547,
+    "gp": 9,
+    "starts": 9,
+    "min": 637,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1048,6 +1143,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1057,18 +1167,18 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 363,
-    "sh": 7,
-    "sog": 3,
+    "min": 391,
+    "sh": 9,
+    "sog": 5,
     "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 1,
+    "shot_pct": 55.6,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -1191,6 +1301,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 28,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1200,9 +1325,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 119,
+    "min": 135,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1319,6 +1444,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1328,19 +1468,19 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 209,
-    "sh": 1,
+    "min": 256,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1441,6 +1581,21 @@
      "num": "12",
      "min": 35,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 47,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1641,9 +1796,9 @@
    "num": "14",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 282,
+    "min": 299,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1775,6 +1930,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": false,
+     "pos": "def",
+     "num": "14",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1852,9 +2022,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 637,
+    "gp": 9,
+    "starts": 9,
+    "min": 727,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1975,6 +2145,21 @@
     {
      "date": "2026-09-24",
      "opponent": "Northern Kentucky",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
      "start": true,
      "pos": "MID",
      "num": "21",
@@ -2142,19 +2327,19 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 329,
-    "sh": 7,
+    "min": 353,
+    "sh": 8,
     "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2276,6 +2461,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 24,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2285,19 +2485,19 @@
    "num": "32",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 520,
-    "sh": 8,
-    "sog": 3,
-    "g": 0,
+    "gp": 9,
+    "starts": 9,
+    "min": 596,
+    "sh": 10,
+    "sog": 4,
+    "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 40.0,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2419,6 +2619,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "MID",
+     "num": "32",
+     "min": 76,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2428,9 +2643,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 349,
+    "gp": 6,
+    "starts": 5,
+    "min": 404,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2517,6 +2732,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2594,9 +2824,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 690,
+    "gp": 9,
+    "starts": 9,
+    "min": 780,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2728,6 +2958,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2737,19 +2982,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 598,
-    "sh": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 671,
+    "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2865,6 +3110,21 @@
      "num": "4",
      "min": 57,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Wright State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 73,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

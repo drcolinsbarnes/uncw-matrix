@@ -182,9 +182,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 540,
+    "gp": 8,
+    "starts": 7,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -196,10 +196,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 9,
-     "saves": 32,
-     "save_pct": 78.0
+     "saves": 34,
+     "save_pct": 79.1
     }
    },
    "matches": [
@@ -342,6 +342,26 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -351,9 +371,9 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 483,
+    "gp": 11,
+    "starts": 6,
+    "min": 554,
     "sh": 5,
     "sog": 3,
     "g": 0,
@@ -515,6 +535,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -524,9 +559,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 172,
+    "min": 212,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -628,6 +663,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "def",
+     "num": "18",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -637,19 +687,19 @@
    "num": "25",
    "pos": null,
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 129,
-    "sh": 0,
-    "sog": 0,
+    "min": 150,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 2,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -771,6 +821,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "",
+     "num": "25",
+     "min": 21,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -780,18 +845,18 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 674,
-    "sh": 6,
-    "sog": 4,
+    "gp": 11,
+    "starts": 8,
+    "min": 715,
+    "sh": 7,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 4,
+    "shot_pct": 71.4,
+    "shots_saved": 5,
     "shots_off_target": 2
    },
    "matches": [
@@ -944,6 +1009,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -953,10 +1033,10 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 685,
-    "sh": 3,
+    "gp": 11,
+    "starts": 10,
+    "min": 775,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -965,7 +1045,7 @@
     "rc": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1117,6 +1197,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1126,9 +1221,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 138,
+    "min": 157,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1230,6 +1325,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1239,18 +1349,18 @@
    "num": "8",
    "pos": null,
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 283,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
+    "min": 329,
+    "sh": 7,
+    "sog": 5,
+    "g": 1,
     "a": 1,
     "fouls": 7,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 71.4,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -1403,6 +1513,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "",
+     "num": "8",
+     "min": 46,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1541,19 +1666,19 @@
    "num": "19",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 397,
-    "sh": 5,
-    "sog": 4,
+    "gp": 10,
+    "starts": 3,
+    "min": 442,
+    "sh": 7,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 80.0,
-    "shots_saved": 4,
-    "shots_off_target": 1
+    "shot_pct": 71.4,
+    "shots_saved": 5,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1690,6 +1815,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 45,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1699,19 +1839,19 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 436,
-    "sh": 6,
+    "gp": 11,
+    "starts": 9,
+    "min": 491,
+    "sh": 7,
     "sog": 4,
     "g": 2,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1863,6 +2003,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1872,9 +2027,9 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 98,
+    "min": 119,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -2021,6 +2176,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2083,19 +2253,19 @@
    "num": "24",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 890,
-    "sh": 5,
-    "sog": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 980,
+    "sh": 7,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 1,
-    "shots_off_target": 4
+    "shot_pct": 28.6,
+    "shots_saved": 2,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2247,6 +2417,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "24",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2256,18 +2441,18 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 671,
-    "sh": 5,
-    "sog": 1,
+    "gp": 11,
+    "starts": 9,
+    "min": 748,
+    "sh": 7,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 1,
+    "shot_pct": 42.9,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -2420,6 +2605,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 77,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2557,9 +2757,9 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 450,
+    "min": 465,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -2721,6 +2921,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "",
+     "num": "11",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2730,9 +2945,9 @@
    "num": "13",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 860,
+    "gp": 11,
+    "starts": 11,
+    "min": 950,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -2894,6 +3109,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2903,19 +3133,19 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 5,
-    "min": 491,
-    "sh": 5,
+    "min": 543,
+    "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3067,6 +3297,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 52,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3076,9 +3321,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 388,
+    "gp": 11,
+    "starts": 7,
+    "min": 411,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -3240,6 +3485,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3249,18 +3509,18 @@
    "num": "16",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 276,
-    "sh": 3,
-    "sog": 0,
+    "gp": 7,
+    "starts": 4,
+    "min": 326,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
     "shots_off_target": 3
    },
    "matches": [
@@ -3348,6 +3608,21 @@
      "min": 90,
      "sh": 2,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": true,
+     "pos": "",
+     "num": "16",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3520,15 +3795,15 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 7,
-    "min": 553,
+    "min": 557,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": null,
     "shots_saved": null,
@@ -3669,6 +3944,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "def",
+     "num": "6",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -3676,11 +3966,11 @@
    "name": "lundy, Molly Kate",
    "slug": "lundy-molly-kate",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 80,
+    "min": 130,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3775,6 +4065,21 @@
      "pos": "MID",
      "num": "10",
      "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Western Illinois",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 50,
      "sh": 0,
      "sog": 0,
      "g": 0,

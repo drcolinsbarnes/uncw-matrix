@@ -9,9 +9,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 130,
+    "min": 163,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -98,6 +98,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -107,9 +122,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 384,
+    "gp": 10,
+    "starts": 3,
+    "min": 474,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -256,6 +271,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -265,9 +295,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 881,
+    "gp": 11,
+    "starts": 11,
+    "min": 971,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -429,6 +459,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -438,9 +483,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 808,
+    "gp": 11,
+    "starts": 10,
+    "min": 898,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -452,10 +497,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 12,
-     "saves": 52,
-     "save_pct": 81.2
+     "gp": 11,
+     "ga": 14,
+     "saves": 59,
+     "save_pct": 80.8
     }
    },
    "matches": [
@@ -658,6 +703,26 @@
       "ga": 0,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 7
+     }
     }
    ]
   },
@@ -667,9 +732,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 630,
+    "gp": 11,
+    "starts": 11,
+    "min": 696,
     "sh": 17,
     "sog": 7,
     "g": 2,
@@ -831,6 +896,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -840,9 +920,9 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 173,
+    "min": 202,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1004,6 +1084,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1013,14 +1108,14 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 0,
-    "min": 293,
+    "gp": 10,
+    "starts": 1,
+    "min": 331,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "shot_pct": 0.0,
@@ -1162,6 +1257,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1171,9 +1281,9 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 279,
+    "min": 282,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1335,6 +1445,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": false,
+     "pos": "FWD",
+     "num": "2",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1344,19 +1469,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 392,
-    "sh": 9,
-    "sog": 3,
-    "g": 0,
+    "gp": 6,
+    "starts": 6,
+    "min": 482,
+    "sh": 11,
+    "sog": 4,
+    "g": 1,
     "a": 2,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 36.4,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1431,6 +1556,21 @@
      "g": 0,
      "a": 1,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0
     }
@@ -1593,15 +1733,15 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 888,
+    "gp": 11,
+    "starts": 11,
+    "min": 978,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 4,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "shot_pct": 33.3,
     "shots_saved": 1,
@@ -1756,6 +1896,21 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0
     }
    ]
@@ -2067,9 +2222,9 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 703,
+    "gp": 11,
+    "starts": 10,
+    "min": 790,
     "sh": 8,
     "sog": 2,
     "g": 2,
@@ -2231,6 +2386,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2323,14 +2493,14 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 748,
+    "gp": 11,
+    "starts": 11,
+    "min": 813,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
@@ -2487,6 +2657,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2565,9 +2750,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 7,
-    "min": 461,
+    "min": 500,
     "sh": 6,
     "sog": 5,
     "g": 1,
@@ -2729,6 +2914,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2738,14 +2938,14 @@
    "num": "9",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 714,
+    "gp": 11,
+    "starts": 11,
+    "min": 804,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "shot_pct": 0.0,
@@ -2902,6 +3102,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2911,18 +3126,18 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 785,
-    "sh": 10,
-    "sog": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 875,
+    "sh": 11,
+    "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 7,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 3,
+    "shot_pct": 45.5,
+    "shots_saved": 4,
     "shots_off_target": 6
    },
    "matches": [
@@ -3073,6 +3288,21 @@
      "g": 1,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UAB",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0
     }

@@ -9,18 +9,18 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 650,
-    "sh": 10,
-    "sog": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 726,
+    "sh": 11,
+    "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 2,
+    "shot_pct": 27.3,
+    "shots_saved": 3,
     "shots_off_target": 8
    },
    "matches": [
@@ -143,6 +143,21 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 76,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -152,9 +167,9 @@
    "num": "45",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 5,
-    "min": 307,
+    "min": 335,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -271,6 +286,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "DEF",
+     "num": "45",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -378,9 +408,9 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 88,
+    "min": 102,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -467,6 +497,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "",
+     "num": "18",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -476,9 +521,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 71,
+    "min": 79,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -550,6 +595,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -559,19 +619,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 547,
-    "sh": 13,
-    "sog": 4,
+    "gp": 9,
+    "starts": 9,
+    "min": 609,
+    "sh": 18,
+    "sog": 7,
     "g": 0,
-    "a": 3,
+    "a": 4,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 30.8,
-    "shots_saved": 4,
-    "shots_off_target": 9
+    "shot_pct": 38.9,
+    "shots_saved": 7,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -693,6 +753,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "",
+     "num": "13",
+     "min": 62,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -740,9 +815,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -754,10 +829,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
+     "gp": 9,
      "ga": 6,
-     "saves": 20,
-     "save_pct": 76.9
+     "saves": 23,
+     "save_pct": 79.3
     }
    },
    "matches": [
@@ -920,6 +995,26 @@
       "ga": 2,
       "saves": 7
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -929,9 +1024,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 719,
+    "gp": 9,
+    "starts": 9,
+    "min": 809,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1063,6 +1158,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1170,18 +1280,18 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 439,
-    "sh": 9,
-    "sog": 4,
+    "gp": 9,
+    "starts": 9,
+    "min": 488,
+    "sh": 10,
+    "sog": 5,
     "g": 0,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 4,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
     "shots_off_target": 5
    },
    "matches": [
@@ -1304,6 +1414,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 49,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1313,19 +1438,19 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 0,
-    "min": 305,
-    "sh": 8,
-    "sog": 8,
-    "g": 3,
+    "gp": 9,
+    "starts": 1,
+    "min": 355,
+    "sh": 10,
+    "sog": 9,
+    "g": 4,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 90.0,
     "shots_saved": 5,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1447,6 +1572,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 50,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1456,17 +1596,17 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 483,
-    "sh": 18,
-    "sog": 9,
-    "g": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 533,
+    "sh": 19,
+    "sog": 10,
+    "g": 3,
     "a": 0,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 52.6,
     "shots_saved": 7,
     "shots_off_target": 9
    },
@@ -1590,6 +1730,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1599,9 +1754,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 292,
+    "min": 333,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -1733,6 +1888,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1742,9 +1912,9 @@
    "num": "35",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 289,
+    "gp": 5,
+    "starts": 4,
+    "min": 379,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1816,6 +1986,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "DEF",
+     "num": "35",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1825,9 +2010,9 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 804,
     "sh": 11,
     "sog": 5,
     "g": 0,
@@ -1959,6 +2144,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1968,19 +2168,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 214,
-    "sh": 5,
+    "min": 254,
+    "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 42.9,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2102,6 +2302,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 40,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2149,9 +2364,9 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 710,
+    "gp": 9,
+    "starts": 9,
+    "min": 800,
     "sh": 10,
     "sog": 2,
     "g": 1,
@@ -2283,6 +2498,21 @@
      "fouls": 3,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2330,19 +2560,19 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 170,
-    "sh": 3,
+    "min": 204,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2464,6 +2694,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "MID",
+     "num": "22",
+     "min": 34,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2473,9 +2718,9 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 8,
-    "min": 440,
+    "min": 472,
     "sh": 8,
     "sog": 3,
     "g": 1,
@@ -2607,6 +2852,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2616,19 +2876,19 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 259,
-    "sh": 8,
-    "sog": 4,
+    "gp": 7,
+    "starts": 3,
+    "min": 321,
+    "sh": 10,
+    "sog": 5,
     "g": 2,
     "a": 0,
-    "fouls": 0,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "shot_pct": 50.0,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2718,6 +2978,21 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Iowa State",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 62,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 6,
      "yc": 0,
      "rc": 0
     }

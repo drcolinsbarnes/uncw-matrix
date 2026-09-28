@@ -158,9 +158,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 82,
+    "min": 86,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -251,6 +251,21 @@
     {
      "date": "2026-09-17",
      "opponent": "Iowa State",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
      "start": false,
      "pos": "FWD",
      "num": "21",
@@ -362,9 +377,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 637,
+    "gp": 11,
+    "starts": 7,
+    "min": 727,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -376,10 +391,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 2,
-     "saves": 25,
-     "save_pct": 92.6
+     "gp": 11,
+     "ga": 5,
+     "saves": 30,
+     "save_pct": 85.7
     }
    },
    "matches": [
@@ -582,6 +597,26 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 5
+     }
     }
    ]
   },
@@ -591,19 +626,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 495,
-    "sh": 17,
-    "sog": 9,
+    "gp": 11,
+    "starts": 10,
+    "min": 535,
+    "sh": 20,
+    "sog": 10,
     "g": 2,
     "a": 2,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 52.9,
-    "shots_saved": 7,
-    "shots_off_target": 8
+    "shot_pct": 50.0,
+    "shots_saved": 8,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -755,6 +790,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 40,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -764,19 +814,19 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 176,
-    "sh": 3,
+    "min": 207,
+    "sh": 4,
     "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -883,6 +933,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "MID",
+     "num": "2",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -892,14 +957,14 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 14,
+    "min": 42,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "shot_pct": null,
@@ -921,6 +986,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -930,19 +1010,19 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 739,
-    "sh": 26,
-    "sog": 16,
+    "gp": 11,
+    "starts": 11,
+    "min": 825,
+    "sh": 30,
+    "sog": 18,
     "g": 7,
     "a": 6,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 61.5,
-    "shots_saved": 9,
-    "shots_off_target": 10
+    "shot_pct": 60.0,
+    "shots_saved": 11,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1094,6 +1174,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "33",
+     "min": 86,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1103,9 +1198,9 @@
    "num": "44",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 841,
+    "gp": 11,
+    "starts": 11,
+    "min": 920,
     "sh": 5,
     "sog": 4,
     "g": 0,
@@ -1267,6 +1362,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "44",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1276,19 +1386,19 @@
    "num": "45",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 742,
-    "sh": 45,
-    "sog": 22,
+    "gp": 11,
+    "starts": 11,
+    "min": 816,
+    "sh": 50,
+    "sog": 26,
     "g": 7,
     "a": 3,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 48.9,
-    "shots_saved": 15,
-    "shots_off_target": 23
+    "shot_pct": 52.0,
+    "shots_saved": 19,
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -1438,6 +1548,21 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "45",
+     "min": 74,
+     "sh": 5,
+     "sog": 4,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0
     }
@@ -1675,19 +1800,19 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 655,
-    "sh": 37,
+    "gp": 11,
+    "starts": 11,
+    "min": 724,
+    "sh": 38,
     "sog": 18,
     "g": 5,
     "a": 1,
-    "fouls": 5,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 48.6,
+    "shot_pct": 47.4,
     "shots_saved": 13,
-    "shots_off_target": 19
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -1839,6 +1964,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 69,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1848,9 +1988,9 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 450,
+    "min": 479,
     "sh": 6,
     "sog": 4,
     "g": 1,
@@ -2012,6 +2152,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2021,9 +2176,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 463,
+    "gp": 11,
+    "starts": 7,
+    "min": 535,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -2185,6 +2340,21 @@
      "fouls": 1,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2243,9 +2413,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 5,
-    "min": 533,
+    "min": 551,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -2404,6 +2574,21 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0
@@ -2597,19 +2782,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 122,
-    "sh": 3,
-    "sog": 1,
+    "min": 152,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shot_pct": 40.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2686,6 +2871,21 @@
      "fouls": 4,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 30,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2695,15 +2895,15 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 20,
+    "min": 31,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "shot_pct": null,
     "shots_saved": null,
@@ -2724,6 +2924,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -2733,14 +2948,14 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 778,
+    "gp": 11,
+    "starts": 11,
+    "min": 868,
     "sh": 11,
     "sog": 8,
     "g": 0,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "shot_pct": 72.7,
@@ -2897,6 +3112,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2906,17 +3136,17 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 795,
-    "sh": 4,
-    "sog": 2,
-    "g": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 874,
+    "sh": 5,
+    "sog": 3,
+    "g": 2,
     "a": 2,
     "fouls": 9,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 60.0,
     "shots_saved": 1,
     "shots_off_target": 2
    },
@@ -3070,6 +3300,21 @@
      "fouls": 2,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 79,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3079,9 +3324,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 258,
+    "min": 280,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3213,6 +3458,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3260,9 +3520,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 732,
+    "gp": 11,
+    "starts": 11,
+    "min": 791,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3424,6 +3684,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3433,19 +3708,19 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 660,
-    "sh": 3,
+    "gp": 11,
+    "starts": 11,
+    "min": 739,
+    "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3591,6 +3866,21 @@
      "num": "24",
      "min": 70,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "Texas Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 79,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

@@ -9,9 +9,9 @@
    "num": "17",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 198,
+    "min": 227,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -143,6 +143,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "def",
+     "num": "17",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -152,19 +167,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 580,
-    "sh": 19,
+    "gp": 11,
+    "starts": 10,
+    "min": 637,
+    "sh": 20,
     "sog": 10,
     "g": 3,
     "a": 1,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
-    "shot_pct": 52.6,
+    "shot_pct": 50.0,
     "shots_saved": 7,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -316,6 +331,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0
     }
    ]
   },
@@ -325,19 +355,19 @@
    "num": "10",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 692,
-    "sh": 8,
+    "gp": 11,
+    "starts": 10,
+    "min": 737,
+    "sh": 9,
     "sog": 3,
     "g": 0,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -489,6 +519,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 45,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -498,19 +543,19 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 371,
-    "sh": 10,
+    "min": 424,
+    "sh": 11,
     "sog": 6,
     "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 54.5,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -647,6 +692,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 53,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -656,19 +716,19 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 652,
-    "sh": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 709,
+    "sh": 8,
     "sog": 5,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 83.3,
+    "shot_pct": 62.5,
     "shots_saved": 5,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -820,6 +880,59 @@
      "fouls": 0,
      "yc": 1,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 57,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    }
+   ]
+  },
+  {
+   "name": "Coats, Meli",
+   "slug": "coats-meli",
+   "num": "55",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 6,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "",
+     "num": "55",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -829,19 +942,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 622,
-    "sh": 6,
-    "sog": 0,
+    "gp": 10,
+    "starts": 6,
+    "min": 689,
+    "sh": 8,
+    "sog": 1,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 6
+    "shot_pct": 12.5,
+    "shots_saved": 1,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -978,6 +1091,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 67,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -987,9 +1115,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 245,
+    "min": 255,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1136,6 +1264,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1145,19 +1288,19 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 758,
-    "sh": 8,
-    "sog": 0,
+    "gp": 11,
+    "starts": 11,
+    "min": 804,
+    "sh": 10,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 8
+    "shot_pct": 10.0,
+    "shots_saved": 1,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -1309,6 +1452,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 46,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1318,9 +1476,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 537,
+    "min": 575,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1482,6 +1640,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1540,9 +1713,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 315,
+    "min": 346,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -1689,6 +1862,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1698,9 +1886,9 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 348,
+    "min": 383,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1862,6 +2050,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -1871,9 +2074,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 802,
+    "gp": 11,
+    "starts": 11,
+    "min": 866,
     "sh": 17,
     "sog": 11,
     "g": 3,
@@ -2035,6 +2238,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2044,9 +2262,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 843,
+    "gp": 11,
+    "starts": 11,
+    "min": 933,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2208,6 +2426,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2217,19 +2450,19 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 304,
-    "sh": 4,
-    "sog": 2,
-    "g": 2,
-    "a": 0,
+    "gp": 7,
+    "starts": 6,
+    "min": 359,
+    "sh": 7,
+    "sog": 3,
+    "g": 3,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2321,6 +2554,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 55,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2330,19 +2578,19 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 659,
-    "sh": 1,
-    "sog": 1,
-    "g": 0,
-    "a": 2,
+    "gp": 11,
+    "starts": 9,
+    "min": 725,
+    "sh": 4,
+    "sog": 2,
+    "g": 1,
+    "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2494,6 +2742,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 66,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2503,19 +2766,19 @@
    "num": "26",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 77,
-    "sh": 0,
-    "sog": 0,
+    "min": 110,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -2572,6 +2835,21 @@
      "min": 11,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "fwd",
+     "num": "26",
+     "min": 33,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2635,9 +2913,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 848,
+    "gp": 11,
+    "starts": 11,
+    "min": 938,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2649,10 +2927,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 16,
-     "saves": 34,
-     "save_pct": 68.0
+     "gp": 11,
+     "ga": 17,
+     "saves": 35,
+     "save_pct": 67.3
     }
    },
    "matches": [
@@ -2855,6 +3133,26 @@
       "ga": 0,
       "saves": 7
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -2864,9 +3162,9 @@
    "num": "15",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 55,
+    "min": 57,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2923,6 +3221,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "fwd",
+     "num": "15",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -2932,9 +3245,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 859,
+    "gp": 11,
+    "starts": 11,
+    "min": 949,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3096,6 +3409,21 @@
      "fouls": 0,
      "yc": 0,
      "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
     }
    ]
   },
@@ -3105,9 +3433,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 83,
+    "min": 107,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -3202,6 +3530,21 @@
      "pos": "fwd",
      "num": "20",
      "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "UC Davis",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 24,
      "sh": 0,
      "sog": 0,
      "g": 0,
