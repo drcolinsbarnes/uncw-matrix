@@ -15,7 +15,13 @@
    "corner_kicks": 0,
    "fouls": 4,
    "offsides": 4,
-   "goals": 0
+   "yc": 0,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "gk_save_pct": 83.3
   },
   "against": {
    "shots": 30,
@@ -24,7 +30,13 @@
    "corner_kicks": 2,
    "fouls": 1,
    "offsides": 3,
-   "goals": 3
+   "yc": 0,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 60.0,
+   "shots_saved": 15,
+   "shots_off_target": 12,
+   "gk_save_pct": 100.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      3
     ],
     "offsides": 4,
-    "goals": 0
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 1,
+    "gk_save_pct": 83.3
    },
    "against": {
     "shots": 30,
@@ -82,7 +100,13 @@
      0
     ],
     "offsides": 3,
-    "goals": 3
+    "goals": 3,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 15,
+    "shots_off_target": 12,
+    "gk_save_pct": 100.0
    },
    "source": "pvpanthers.com-10877",
    "source_url": "https://pvpanthers.com/sports/womens-soccer/stats/2026/schreiner-university/boxscore/10877",

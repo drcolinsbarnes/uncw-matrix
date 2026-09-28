@@ -15,7 +15,13 @@
    "corner_kicks": 0,
    "fouls": 9,
    "offsides": 0,
-   "goals": 0
+   "yc": 1,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": 0,
+   "gk_save_pct": 26.7
   },
   "against": {
    "shots": 23,
@@ -24,7 +30,13 @@
    "corner_kicks": 5,
    "fouls": 10,
    "offsides": 5,
-   "goals": 11
+   "yc": 0,
+   "rc": 0,
+   "goals": 11,
+   "shot_pct": 65.2,
+   "shots_saved": 4,
+   "shots_off_target": 8,
+   "gk_save_pct": null
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      3
     ],
     "offsides": 0,
-    "goals": 0
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": 0,
+    "gk_save_pct": 26.7
    },
    "against": {
     "shots": 23,
@@ -82,7 +100,13 @@
      3
     ],
     "offsides": 5,
-    "goals": 11
+    "goals": 11,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 65.2,
+    "shots_saved": 4,
+    "shots_off_target": 8,
+    "gk_save_pct": null
    },
    "source": "gojacks.com-15106",
    "source_url": "https://gojacks.com:443/sports/womens-soccer/stats/2026/msu-moorhead/boxscore/15106",

@@ -15,7 +15,13 @@
    "corner_kicks": 1,
    "fouls": 12,
    "offsides": 0,
-   "goals": 0
+   "yc": 1,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 3,
+   "shots_off_target": 3,
+   "gk_save_pct": 66.7
   },
   "against": {
    "shots": 18,
@@ -24,7 +30,13 @@
    "corner_kicks": 6,
    "fouls": 13,
    "offsides": 1,
-   "goals": 3
+   "yc": 0,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 50.0,
+   "shots_saved": 6,
+   "shots_off_target": 9,
+   "gk_save_pct": 100.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      4
     ],
     "offsides": 0,
-    "goals": 0
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 3,
+    "gk_save_pct": 66.7
    },
    "against": {
     "shots": 18,
@@ -82,7 +100,13 @@
      7
     ],
     "offsides": 1,
-    "goals": 3
+    "goals": 3,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 6,
+    "shots_off_target": 9,
+    "gk_save_pct": 100.0
    },
    "source": "radfordathletics.com-14702",
    "source_url": "https://radfordathletics.com:443/sports/womens-soccer/stats/2026/concord/boxscore/14702",

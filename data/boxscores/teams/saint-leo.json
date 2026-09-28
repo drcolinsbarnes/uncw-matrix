@@ -15,7 +15,13 @@
    "corner_kicks": 1,
    "fouls": 12,
    "offsides": 2,
-   "goals": 2
+   "yc": 1,
+   "rc": 0,
+   "goals": 2,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "gk_save_pct": 70.0
   },
   "against": {
    "shots": 16,
@@ -24,7 +30,13 @@
    "corner_kicks": 12,
    "fouls": 8,
    "offsides": 3,
-   "goals": 3
+   "yc": 0,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 62.5,
+   "shots_saved": 7,
+   "shots_off_target": 6,
+   "gk_save_pct": 33.3
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      6
     ],
     "offsides": 2,
-    "goals": 2
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0,
+    "gk_save_pct": 70.0
    },
    "against": {
     "shots": 16,
@@ -82,7 +100,13 @@
      6
     ],
     "offsides": 3,
-    "goals": 3
+    "goals": 3,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 62.5,
+    "shots_saved": 7,
+    "shots_off_target": 6,
+    "gk_save_pct": 33.3
    },
    "source": "unfospreys.com-21444",
    "source_url": "https://unfospreys.com:443/sports/womens-soccer/stats/2026/saint-leo/boxscore/21444",

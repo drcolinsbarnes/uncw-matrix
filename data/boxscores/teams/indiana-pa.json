@@ -15,7 +15,13 @@
    "corner_kicks": 2,
    "fouls": 3,
    "offsides": 4,
-   "goals": 1
+   "yc": 1,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 25.0,
+   "shots_saved": 0,
+   "shots_off_target": 3,
+   "gk_save_pct": 58.3
   },
   "against": {
    "shots": 15,
@@ -24,7 +30,13 @@
    "corner_kicks": 4,
    "fouls": 8,
    "offsides": 1,
-   "goals": 5
+   "yc": 0,
+   "rc": 0,
+   "goals": 5,
+   "shot_pct": 80.0,
+   "shots_saved": 7,
+   "shots_off_target": 3,
+   "gk_save_pct": 0.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      0
     ],
     "offsides": 4,
-    "goals": 1
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 0,
+    "shots_off_target": 3,
+    "gk_save_pct": 58.3
    },
    "against": {
     "shots": 15,
@@ -82,7 +100,13 @@
      5
     ],
     "offsides": 1,
-    "goals": 5
+    "goals": 5,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 80.0,
+    "shots_saved": 7,
+    "shots_off_target": 3,
+    "gk_save_pct": 0.0
    },
    "source": "wsuraiders.com-10550",
    "source_url": "https://wsuraiders.com:443/sports/womens-soccer/stats/2026/iu-pennsylvania/boxscore/10550",

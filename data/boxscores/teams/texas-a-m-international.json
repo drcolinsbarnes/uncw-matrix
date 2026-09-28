@@ -15,7 +15,13 @@
    "corner_kicks": 1,
    "fouls": 6,
    "offsides": 0,
-   "goals": 0
+   "yc": 1,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "gk_save_pct": 60.0
   },
   "against": {
    "shots": 21,
@@ -24,7 +30,13 @@
    "corner_kicks": 7,
    "fouls": 8,
    "offsides": 4,
-   "goals": 4
+   "yc": 0,
+   "rc": 0,
+   "goals": 4,
+   "shot_pct": 47.6,
+   "shots_saved": 6,
+   "shots_off_target": 11,
+   "gk_save_pct": 100.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      4
     ],
     "offsides": 0,
-    "goals": 0
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2,
+    "gk_save_pct": 60.0
    },
    "against": {
     "shots": 21,
@@ -82,7 +100,13 @@
      2
     ],
     "offsides": 4,
-    "goals": 4
+    "goals": 4,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 47.6,
+    "shots_saved": 6,
+    "shots_off_target": 11,
+    "gk_save_pct": 100.0
    },
    "source": "goislanders.com-8512",
    "source_url": "https://goislanders.com/sports/womens-soccer/stats/2026/texas-am-international/boxscore/8512",

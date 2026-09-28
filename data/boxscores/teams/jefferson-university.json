@@ -15,7 +15,13 @@
    "corner_kicks": 2,
    "fouls": 7,
    "offsides": 4,
-   "goals": 1
+   "yc": 1,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 40.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "gk_save_pct": 66.7
   },
   "against": {
    "shots": 15,
@@ -24,7 +30,13 @@
    "corner_kicks": 7,
    "fouls": 9,
    "offsides": 7,
-   "goals": 2
+   "yc": 0,
+   "rc": 0,
+   "goals": 2,
+   "shot_pct": 40.0,
+   "shots_saved": 4,
+   "shots_off_target": 9,
+   "gk_save_pct": 50.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      4
     ],
     "offsides": 4,
-    "goals": 1
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3,
+    "gk_save_pct": 66.7
    },
    "against": {
     "shots": 15,
@@ -82,7 +100,13 @@
      4
     ],
     "offsides": 7,
-    "goals": 2
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 4,
+    "shots_off_target": 9,
+    "gk_save_pct": 50.0
    },
    "source": "pennathletics.com-30367",
    "source_url": "https://pennathletics.com/sports/womens-soccer/stats/2026/jefferson/boxscore/30367",

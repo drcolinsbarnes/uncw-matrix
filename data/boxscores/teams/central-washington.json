@@ -15,7 +15,13 @@
    "corner_kicks": 2,
    "fouls": 7,
    "offsides": 2,
-   "goals": 1
+   "yc": 0,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "gk_save_pct": 73.3
   },
   "against": {
    "shots": 31,
@@ -24,7 +30,13 @@
    "corner_kicks": 11,
    "fouls": 7,
    "offsides": 8,
-   "goals": 4
+   "yc": 1,
+   "rc": 0,
+   "goals": 4,
+   "shot_pct": 48.4,
+   "shots_saved": 11,
+   "shots_off_target": 16,
+   "gk_save_pct": 50.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      4
     ],
     "offsides": 2,
-    "goals": 1
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 2,
+    "gk_save_pct": 73.3
    },
    "against": {
     "shots": 31,
@@ -82,7 +100,13 @@
      3
     ],
     "offsides": 8,
-    "goals": 4
+    "goals": 4,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 48.4,
+    "shots_saved": 11,
+    "shots_off_target": 16,
+    "gk_save_pct": 50.0
    },
    "source": "wildcatsports.com-11216",
    "source_url": "https://wildcatsports.com/sports/womens-soccer/stats/2026/seattle/boxscore/11216",

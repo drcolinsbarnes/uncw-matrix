@@ -15,7 +15,13 @@
    "corner_kicks": 0,
    "fouls": 13,
    "offsides": 2,
-   "goals": 0
+   "yc": 2,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 2,
+   "shots_off_target": 1,
+   "gk_save_pct": 80.0
   },
   "against": {
    "shots": 30,
@@ -24,7 +30,13 @@
    "corner_kicks": 10,
    "fouls": 10,
    "offsides": 2,
-   "goals": 3
+   "yc": 1,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 50.0,
+   "shots_saved": 12,
+   "shots_off_target": 15,
+   "gk_save_pct": 100.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      7
     ],
     "offsides": 2,
-    "goals": 0
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
+    "shots_off_target": 1,
+    "gk_save_pct": 80.0
    },
    "against": {
     "shots": 30,
@@ -82,7 +100,13 @@
      5
     ],
     "offsides": 2,
-    "goals": 3
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 12,
+    "shots_off_target": 15,
+    "gk_save_pct": 100.0
    },
    "source": "oruathletics.com-8781",
    "source_url": "https://oruathletics.com/sports/womens-soccer/stats/2026/rogers-state/boxscore/8781",

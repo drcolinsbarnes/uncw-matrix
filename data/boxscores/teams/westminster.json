@@ -15,7 +15,13 @@
    "corner_kicks": 4,
    "fouls": 9,
    "offsides": 0,
-   "goals": 1
+   "yc": 1,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 20.0,
+   "shots_saved": 1,
+   "shots_off_target": 8,
+   "gk_save_pct": 50.0
   },
   "against": {
    "shots": 15,
@@ -24,7 +30,13 @@
    "corner_kicks": 3,
    "fouls": 8,
    "offsides": 3,
-   "goals": 3
+   "yc": 0,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 33.3,
+   "shots_saved": 2,
+   "shots_off_target": 10,
+   "gk_save_pct": 50.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      3
     ],
     "offsides": 0,
-    "goals": 1
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 20.0,
+    "shots_saved": 1,
+    "shots_off_target": 8,
+    "gk_save_pct": 50.0
    },
    "against": {
     "shots": 15,
@@ -82,7 +100,13 @@
      5
     ],
     "offsides": 3,
-    "goals": 3
+    "goals": 3,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
+    "shots_off_target": 10,
+    "gk_save_pct": 50.0
    },
    "source": "utahtechtrailblazers.com-11620",
    "source_url": "https://utahtechtrailblazers.com/sports/womens-soccer/stats/2026/westminster-university-utah-/boxscore/11620",

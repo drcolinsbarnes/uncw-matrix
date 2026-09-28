@@ -15,7 +15,13 @@
    "corner_kicks": 2,
    "fouls": 8,
    "offsides": 0,
-   "goals": 3
+   "yc": 0,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 40.0,
+   "shots_saved": 1,
+   "shots_off_target": 6,
+   "gk_save_pct": 28.6
   },
   "against": {
    "shots": 21,
@@ -24,7 +30,13 @@
    "corner_kicks": 5,
    "fouls": 8,
    "offsides": 4,
-   "goals": 5
+   "yc": 1,
+   "rc": 0,
+   "goals": 5,
+   "shot_pct": 33.3,
+   "shots_saved": 2,
+   "shots_off_target": 14,
+   "gk_save_pct": 25.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      3
     ],
     "offsides": 0,
-    "goals": 3
+    "goals": 3,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 6,
+    "gk_save_pct": 28.6
    },
    "against": {
     "shots": 21,
@@ -82,7 +100,13 @@
      4
     ],
     "offsides": 4,
-    "goals": 5
+    "goals": 5,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
+    "shots_off_target": 14,
+    "gk_save_pct": 25.0
    },
    "source": "umbcretrievers.com-9576",
    "source_url": "https://umbcretrievers.com/sports/womens-soccer/stats/2026/fairmont-state/boxscore/9576",

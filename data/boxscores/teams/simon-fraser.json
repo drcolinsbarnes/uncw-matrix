@@ -15,7 +15,13 @@
    "corner_kicks": 3,
    "fouls": 7,
    "offsides": 1,
-   "goals": 1
+   "yc": 0,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 50.0,
+   "shots_saved": 4,
+   "shots_off_target": 5,
+   "gk_save_pct": 88.9
   },
   "against": {
    "shots": 22,
@@ -24,7 +30,13 @@
    "corner_kicks": 8,
    "fouls": 4,
    "offsides": 4,
-   "goals": 1
+   "yc": 0,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 40.9,
+   "shots_saved": 8,
+   "shots_off_target": 13,
+   "gk_save_pct": 80.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      4
     ],
     "offsides": 1,
-    "goals": 1
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 4,
+    "shots_off_target": 5,
+    "gk_save_pct": 88.9
    },
    "against": {
     "shots": 22,
@@ -82,7 +100,13 @@
      3
     ],
     "offsides": 4,
-    "goals": 1
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 40.9,
+    "shots_saved": 8,
+    "shots_off_target": 13,
+    "gk_save_pct": 80.0
    },
    "source": "goseattleu.com-8775",
    "source_url": "https://goseattleu.com/boxscore/8775",

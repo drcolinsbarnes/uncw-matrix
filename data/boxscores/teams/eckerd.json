@@ -15,7 +15,13 @@
    "corner_kicks": 10,
    "fouls": 10,
    "offsides": 1,
-   "goals": 0
+   "yc": 0,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": 61.5,
+   "shots_saved": 8,
+   "shots_off_target": 5,
+   "gk_save_pct": 66.7
   },
   "against": {
    "shots": 10,
@@ -24,7 +30,13 @@
    "corner_kicks": 1,
    "fouls": 14,
    "offsides": 1,
-   "goals": 3
+   "yc": 1,
+   "rc": 0,
+   "goals": 3,
+   "shot_pct": 90.0,
+   "shots_saved": 6,
+   "shots_off_target": 1,
+   "gk_save_pct": 100.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      5
     ],
     "offsides": 1,
-    "goals": 0
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 61.5,
+    "shots_saved": 8,
+    "shots_off_target": 5,
+    "gk_save_pct": 66.7
    },
    "against": {
     "shots": 10,
@@ -82,7 +100,13 @@
      9
     ],
     "offsides": 1,
-    "goals": 3
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 90.0,
+    "shots_saved": 6,
+    "shots_off_target": 1,
+    "gk_save_pct": 100.0
    },
    "source": "gohatters.com-16470",
    "source_url": "https://gohatters.com/sports/womens-soccer/stats/2026/eckerd/boxscore/16470",

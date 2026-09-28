@@ -15,7 +15,13 @@
    "corner_kicks": 2,
    "fouls": 15,
    "offsides": 1,
-   "goals": 0
+   "yc": 2,
+   "rc": 0,
+   "goals": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 2,
+   "shots_off_target": 2,
+   "gk_save_pct": 65.6
   },
   "against": {
    "shots": 60,
@@ -24,7 +30,13 @@
    "corner_kicks": 5,
    "fouls": 14,
    "offsides": 8,
-   "goals": 11
+   "yc": 0,
+   "rc": 0,
+   "goals": 11,
+   "shot_pct": 53.3,
+   "shots_saved": 21,
+   "shots_off_target": 28,
+   "gk_save_pct": 100.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      3
     ],
     "offsides": 1,
-    "goals": 0
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2,
+    "gk_save_pct": 57.1
    },
    "against": {
     "shots": 28,
@@ -82,7 +100,13 @@
      4
     ],
     "offsides": 5,
-    "goals": 6
+    "goals": 6,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 8,
+    "shots_off_target": 14,
+    "gk_save_pct": 100.0
    },
    "source": "sfajacks.com-14270",
    "source_url": "https://sfajacks.com/sports/womens-soccer/stats/2026/sul-ross-state/boxscore/14270",
@@ -117,7 +141,13 @@
      5
     ],
     "offsides": 0,
-    "goals": 0
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0,
+    "gk_save_pct": 72.2
    },
    "against": {
     "shots": 32,
@@ -142,7 +172,13 @@
      4
     ],
     "offsides": 3,
-    "goals": 5
+    "goals": 5,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 56.2,
+    "shots_saved": 13,
+    "shots_off_target": 14,
+    "gk_save_pct": 100.0
    },
    "source": "utepminers.com-12461",
    "source_url": "https://utepminers.com/sports/womens-soccer/stats/2026/sul-ross-state/boxscore/12461",
@@ -301,7 +337,7 @@
    "name": "Anuskewicz, Sarah",
    "slug": "anuskewicz-sarah",
    "num": "28",
-   "pos": "DEF",
+   "pos": "def",
    "gp": 2,
    "starts": 1,
    "min": 105,
@@ -544,7 +580,7 @@
    "name": "Herrera, Denisse",
    "slug": "herrera-denisse",
    "num": "8",
-   "pos": "DEF",
+   "pos": "def",
    "gp": 2,
    "starts": 0,
    "min": 55,
@@ -607,7 +643,7 @@
    "name": "Garcia, Jasmine",
    "slug": "garcia-jasmine",
    "num": "20",
-   "pos": "DEF",
+   "pos": "def",
    "gp": 2,
    "starts": 0,
    "min": 41,
@@ -628,7 +664,7 @@
    "name": "Lightle, Jenna",
    "slug": "lightle-jenna",
    "num": "23",
-   "pos": "DEF",
+   "pos": "def",
    "gp": 2,
    "starts": 0,
    "min": 28,

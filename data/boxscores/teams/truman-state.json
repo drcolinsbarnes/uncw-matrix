@@ -15,7 +15,13 @@
    "corner_kicks": 4,
    "fouls": 6,
    "offsides": 0,
-   "goals": 1
+   "yc": 0,
+   "rc": 0,
+   "goals": 1,
+   "shot_pct": 40.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "gk_save_pct": 60.0
   },
   "against": {
    "shots": 14,
@@ -24,7 +30,13 @@
    "corner_kicks": 9,
    "fouls": 10,
    "offsides": 2,
-   "goals": 4
+   "yc": 0,
+   "rc": 0,
+   "goals": 4,
+   "shot_pct": 71.4,
+   "shots_saved": 6,
+   "shots_off_target": 4,
+   "gk_save_pct": 50.0
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      4
     ],
     "offsides": 0,
-    "goals": 1
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3,
+    "gk_save_pct": 60.0
    },
    "against": {
     "shots": 14,
@@ -82,7 +100,13 @@
      3
     ],
     "offsides": 2,
-    "goals": 4
+    "goals": 4,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 71.4,
+    "shots_saved": 6,
+    "shots_off_target": 4,
+    "gk_save_pct": 50.0
    },
    "source": "gomarquette.com-14101",
    "source_url": "https://gomarquette.com/sports/womens-soccer/stats/2026/truman-state-mo-/boxscore/14101",

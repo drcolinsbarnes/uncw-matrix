@@ -15,7 +15,13 @@
    "corner_kicks": 1,
    "fouls": 24,
    "offsides": 3,
-   "goals": 2
+   "yc": 2,
+   "rc": 1,
+   "goals": 2,
+   "shot_pct": 50.0,
+   "shots_saved": 7,
+   "shots_off_target": 9,
+   "gk_save_pct": 39.6
   },
   "against": {
    "shots": 182,
@@ -24,7 +30,13 @@
    "corner_kicks": 24,
    "fouls": 23,
    "offsides": 45,
-   "goals": 67
+   "yc": 1,
+   "rc": 0,
+   "goals": 67,
+   "shot_pct": 61.0,
+   "shots_saved": 44,
+   "shots_off_target": 71,
+   "gk_save_pct": 77.8
   }
  },
  "matches": [
@@ -57,7 +69,13 @@
      3
     ],
     "offsides": 0,
-    "goals": 0
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 1,
+    "gk_save_pct": 45.0
    },
    "against": {
     "shots": 34,
@@ -82,7 +100,13 @@
      2
     ],
     "offsides": 6,
-    "goals": 11
+    "goals": 11,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 58.8,
+    "shots_saved": 9,
+    "shots_off_target": 14,
+    "gk_save_pct": 100.0
    },
    "source": "uapblionsroar.com-7227",
    "source_url": "https://uapblionsroar.com/sports/womens-soccer/stats/2026/nicholls-state/boxscore/7227",
@@ -117,7 +141,13 @@
      5
     ],
     "offsides": 1,
-    "goals": 1
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 2,
+    "gk_save_pct": 33.3
    },
    "against": {
     "shots": 54,
@@ -142,7 +172,13 @@
      3
     ],
     "offsides": 13,
-    "goals": 24
+    "goals": 24,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 12,
+    "shots_off_target": 18,
+    "gk_save_pct": 50.0
    },
    "source": "nsudemons.com-14702",
    "source_url": "https://nsudemons.com/sports/womens-soccer/stats/2026/arkansas-pine-bluff/boxscore/14702",
@@ -177,7 +213,13 @@
      2
     ],
     "offsides": 1,
-    "goals": 1
+    "goals": 1,
+    "yc": 2,
+    "rc": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 0,
+    "shots_off_target": 2,
+    "gk_save_pct": 26.7
    },
    "against": {
     "shots": 35,
@@ -202,7 +244,13 @@
      3
     ],
     "offsides": 7,
-    "goals": 11
+    "goals": 11,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 42.9,
+    "shots_saved": 4,
+    "shots_off_target": 20,
+    "gk_save_pct": 0.0
    },
    "source": "uapblionsroar.com-7232",
    "source_url": "https://uapblionsroar.com/sports/womens-soccer/stats/2026/nevada/boxscore/7232",
@@ -237,7 +285,13 @@
      2
     ],
     "offsides": 0,
-    "goals": 0
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1,
+    "gk_save_pct": 50.0
    },
    "against": {
     "shots": 34,
@@ -262,7 +316,13 @@
      0
     ],
     "offsides": 7,
-    "goals": 13
+    "goals": 13,
+    "yc": 0,
+    "rc": 0,
+    "shot_pct": 76.5,
+    "shots_saved": 13,
+    "shots_off_target": 8,
+    "gk_save_pct": null
    },
    "source": "tulsahurricane.com-16381",
    "source_url": "https://tulsahurricane.com/sports/womens-soccer/stats/2026/arkansas-pine-bluff/boxscore/16381",
@@ -297,7 +357,13 @@
      2
     ],
     "offsides": 1,
-    "goals": 0
+    "goals": 0,
+    "yc": 0,
+    "rc": 1,
+    "shot_pct": 62.5,
+    "shots_saved": 5,
+    "shots_off_target": 3,
+    "gk_save_pct": 42.9
    },
    "against": {
     "shots": 25,
@@ -322,7 +388,13 @@
      1
     ],
     "offsides": 12,
-    "goals": 8
+    "goals": 8,
+    "yc": 1,
+    "rc": 0,
+    "shot_pct": 56.0,
+    "shots_saved": 6,
+    "shots_off_target": 11,
+    "gk_save_pct": 100.0
    },
    "source": "uapblionsroar.com-7234",
    "source_url": "https://uapblionsroar.com/sports/womens-soccer/stats/2026/texas-southern/boxscore/7234",
@@ -514,7 +586,7 @@
    "name": "Jones, Zakhariah",
    "slug": "jones-zakhariah",
    "num": "0",
-   "pos": "gk",
+   "pos": "fwd",
    "gp": 5,
    "starts": 3,
    "min": 350,
