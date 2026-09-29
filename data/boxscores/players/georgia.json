@@ -9,9 +9,9 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 33,
+    "min": 36,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -64,6 +64,22 @@
      "pos": "FWD",
      "num": "26",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": false,
+     "pos": "FWD",
+     "num": "26",
+     "min": 3,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -185,9 +201,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 576,
+    "gp": 9,
+    "starts": 8,
+    "min": 666,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -200,10 +216,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 6,
-     "saves": 22,
-     "save_pct": 78.6
+     "gp": 9,
+     "ga": 7,
+     "saves": 24,
+     "save_pct": 77.4
     }
    },
    "matches": [
@@ -374,6 +390,27 @@
       "ga": 2,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 2
+     }
     }
    ]
   },
@@ -383,9 +420,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 692,
+    "gp": 10,
+    "starts": 10,
+    "min": 782,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -542,6 +579,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -551,9 +604,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 183,
+    "min": 208,
     "sh": 6,
     "sog": 4,
     "g": 2,
@@ -721,6 +774,22 @@
      "sh": 1,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1158,20 +1227,20 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 591,
-    "sh": 10,
+    "gp": 11,
+    "starts": 9,
+    "min": 677,
+    "sh": 11,
     "sog": 5,
     "g": 1,
     "a": 1,
-    "fouls": 12,
+    "fouls": 15,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 4,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1333,6 +1402,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 86,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1462,20 +1547,20 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 598,
-    "sh": 17,
+    "gp": 11,
+    "starts": 10,
+    "min": 657,
+    "sh": 18,
     "sog": 8,
     "g": 4,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.1,
+    "shot_pct": 44.4,
     "shots_saved": 4,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1637,6 +1722,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 59,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1734,20 +1835,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 759,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
+    "gp": 10,
+    "starts": 10,
+    "min": 849,
+    "sh": 3,
+    "sog": 1,
+    "g": 1,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1893,6 +1994,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1902,15 +2019,15 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 593,
+    "gp": 11,
+    "starts": 11,
+    "min": 655,
     "sh": 9,
     "sog": 2,
     "g": 1,
     "a": 2,
-    "fouls": 13,
-    "yc": 2,
+    "fouls": 15,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 22.2,
@@ -2077,6 +2194,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2086,10 +2219,10 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 3,
-    "min": 257,
-    "sh": 0,
+    "min": 273,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -2097,9 +2230,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2174,6 +2307,22 @@
      "num": "12",
      "min": 60,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": false,
+     "pos": "DEF",
+     "num": "12",
+     "min": 16,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2262,9 +2411,9 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 190,
+    "min": 218,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -2389,6 +2538,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": false,
+     "pos": "FWD",
+     "num": "27",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2398,14 +2563,14 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 387,
+    "gp": 8,
+    "starts": 6,
+    "min": 465,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2525,6 +2690,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2534,9 +2715,9 @@
    "num": "31",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 667,
+    "gp": 11,
+    "starts": 8,
+    "min": 757,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2701,6 +2882,22 @@
      "pos": "DEF",
      "num": "31",
      "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "DEF",
+     "num": "31",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2902,20 +3099,20 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 501,
-    "sh": 10,
+    "gp": 11,
+    "starts": 10,
+    "min": 555,
+    "sh": 11,
     "sog": 5,
     "g": 3,
-    "a": 2,
+    "a": 3,
     "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3077,6 +3274,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "FWD",
+     "num": "33",
+     "min": 54,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3086,9 +3299,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 535,
+    "min": 546,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -3253,6 +3466,22 @@
      "pos": "DEF",
      "num": "16",
      "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": false,
+     "pos": "DEF",
+     "num": "16",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3457,10 +3686,10 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 715,
-    "sh": 16,
+    "gp": 11,
+    "starts": 11,
+    "min": 788,
+    "sh": 17,
     "sog": 4,
     "g": 0,
     "a": 4,
@@ -3468,9 +3697,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 23.5,
     "shots_saved": 4,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -3632,6 +3861,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 73,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3697,20 +3942,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 556,
-    "sh": 16,
+    "min": 620,
+    "sh": 17,
     "sog": 8,
     "g": 3,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 47.1,
     "shots_saved": 5,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3872,6 +4117,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 64,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3921,10 +4182,10 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 344,
-    "sh": 7,
+    "gp": 11,
+    "starts": 2,
+    "min": 415,
+    "sh": 12,
     "sog": 2,
     "g": 2,
     "a": 1,
@@ -3932,9 +4193,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 16.7,
     "shots_saved": 0,
-    "shots_off_target": 5
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -4089,6 +4350,22 @@
      "num": "25",
      "min": 39,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "LSU",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 71,
+     "sh": 5,
      "sog": 0,
      "g": 0,
      "a": 0,

@@ -49,13 +49,24 @@
     { key: "transfer", label: "Transfer Portal", href: "transfer.html" },
     { key: "rpi", label: "RPI", href: "national_rpi.html" },
     { key: "elo", label: "Elo Predictions", href: "elo.html" },
-    { key: "players", label: "Players", href: "elo.html#/players" },
+    // "Players" nav item removed 2026-09-28 per Colin: the directory-style
+    // search wasn't useful for him, and it highlighted "Elo Predictions" as
+    // active instead of itself (no page sets data-page="players", since
+    // it's a route inside elo.html, not its own file) -- confusing on top
+    // of not being needed. Individual players are still reachable via each
+    // team's roster/scouting tables (per-team search, which Colin said is
+    // enough for now). The #/players route and renderPlayersDirectory() in
+    // elo_template.html are UNTOUCHED -- a roster row's player link and a
+    // "back to all players" link still resolve -- only the standing nav
+    // promotion of it is gone. Revisit if/when player rankings/percentiles
+    // (a real reason to browse players directly) get built -- see the
+    // punch-list item on ranking players nationally/by conference.
   ];
 
   // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
   // HUB_VERSION_START
-  const HUB_VERSION = "3.15";
-  const HUB_UPDATED = "28 Sep 2026";
+  const HUB_VERSION = "3.16";
+  const HUB_UPDATED = "29 Sep 2026";
   // HUB_VERSION_END
 
   const MODE_KEY = "uncwSidebarMode"; // stored value: "full" | "icons"

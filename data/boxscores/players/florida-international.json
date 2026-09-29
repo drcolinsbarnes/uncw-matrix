@@ -63,21 +63,21 @@
    "name": "Ballinas, Natalia",
    "slug": "ballinas-natalia",
    "num": "6",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 1,
-    "min": 289,
-    "sh": 1,
-    "sog": 0,
+    "gp": 6,
+    "starts": 2,
+    "min": 379,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -160,6 +160,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -169,19 +185,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 8,
-    "min": 538,
-    "sh": 16,
-    "sog": 3,
+    "min": 573,
+    "sh": 17,
+    "sog": 4,
     "g": 1,
     "a": 2,
     "fouls": 4,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 18.8,
-    "shots_saved": 2,
+    "shot_pct": 23.5,
+    "shots_saved": 3,
     "shots_off_target": 13
    },
    "matches": [
@@ -312,6 +328,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": false,
+     "pos": "fwd",
+     "num": "21",
+     "min": 35,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -321,10 +353,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 6,
-    "min": 462,
-    "sh": 4,
+    "min": 528,
+    "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -332,9 +364,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -426,6 +458,22 @@
      "min": 45,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 66,
+     "sh": 2,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -529,10 +577,10 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 485,
-    "sh": 1,
+    "gp": 8,
+    "starts": 8,
+    "min": 568,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -542,7 +590,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -656,6 +704,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 83,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -737,9 +801,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 158,
+    "min": 210,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -800,6 +864,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -809,19 +889,19 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 48,
-    "sh": 1,
-    "sog": 0,
+    "min": 69,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -866,6 +946,22 @@
      "min": 26,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 21,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1121,9 +1217,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 547,
+    "gp": 9,
+    "starts": 7,
+    "min": 633,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1264,6 +1360,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1361,15 +1473,15 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 450,
+    "gp": 8,
+    "starts": 5,
+    "min": 509,
     "sh": 3,
     "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
@@ -1488,6 +1600,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1497,9 +1625,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 7,
-    "min": 396,
+    "min": 451,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1640,6 +1768,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1649,20 +1793,20 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 448,
-    "sh": 16,
-    "sog": 9,
+    "gp": 9,
+    "starts": 4,
+    "min": 534,
+    "sh": 18,
+    "sog": 10,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.2,
-    "shots_saved": 9,
-    "shots_off_target": 7
+    "shot_pct": 55.6,
+    "shots_saved": 10,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1792,6 +1936,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 86,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1905,9 +2065,9 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 455,
+    "gp": 9,
+    "starts": 8,
+    "min": 490,
     "sh": 9,
     "sog": 5,
     "g": 2,
@@ -2048,6 +2208,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "MID",
+     "num": "15",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2097,9 +2273,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 309,
+    "gp": 6,
+    "starts": 6,
+    "min": 344,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2192,6 +2368,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2241,20 +2433,20 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 586,
-    "sh": 3,
+    "gp": 8,
+    "starts": 8,
+    "min": 676,
+    "sh": 4,
     "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2368,6 +2560,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2377,9 +2585,9 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 77,
+    "min": 98,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2456,6 +2664,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2465,9 +2689,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2480,10 +2704,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 12,
-     "saves": 30,
-     "save_pct": 71.4
+     "gp": 9,
+     "ga": 13,
+     "saves": 35,
+     "save_pct": 72.9
     }
    },
    "matches": [
@@ -2654,6 +2878,27 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
+     }
     }
    ]
   },
@@ -2759,20 +3004,20 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 542,
-    "sh": 11,
-    "sog": 4,
+    "gp": 9,
+    "starts": 9,
+    "min": 600,
+    "sh": 13,
+    "sog": 5,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
-    "shots_saved": 1,
-    "shots_off_target": 7
+    "shot_pct": 38.5,
+    "shots_saved": 2,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2902,6 +3147,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 58,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2911,10 +3172,10 @@
    "num": "24",
    "pos": "mid",
    "totals": {
-    "gp": 4,
-    "starts": 1,
-    "min": 88,
-    "sh": 0,
+    "gp": 5,
+    "starts": 2,
+    "min": 116,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -2922,9 +3183,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2983,6 +3244,22 @@
      "num": "24",
      "min": 28,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-27",
+     "opponent": "New Mexico State",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 28,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
