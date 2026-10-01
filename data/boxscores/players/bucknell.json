@@ -393,18 +393,18 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 723,
-    "sh": 24,
-    "sog": 9,
-    "g": 1,
+    "gp": 12,
+    "starts": 11,
+    "min": 798,
+    "sh": 25,
+    "sog": 10,
+    "g": 2,
     "a": 1,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 40.0,
     "shots_saved": 8,
     "shots_off_target": 15
    },
@@ -584,6 +584,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 75,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -593,9 +609,9 @@
    "num": "31",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 677,
+    "gp": 12,
+    "starts": 11,
+    "min": 756,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -784,6 +800,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "DEF",
+     "num": "31",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -791,7 +823,7 @@
    "name": "Dolan, Reese",
    "slug": "dolan-reese",
    "num": "30",
-   "pos": "GK",
+   "pos": "gk",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -921,9 +953,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 950,
+    "gp": 12,
+    "starts": 12,
+    "min": 1040,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -1100,6 +1132,22 @@
     {
      "date": "2026-09-26",
      "opponent": "Holy Cross",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
      "start": true,
      "pos": "DEF",
      "num": "15",
@@ -1305,20 +1353,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 709,
-    "sh": 19,
-    "sog": 8,
+    "gp": 12,
+    "starts": 11,
+    "min": 799,
+    "sh": 21,
+    "sog": 9,
     "g": 2,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.1,
-    "shots_saved": 6,
-    "shots_off_target": 11
+    "shot_pct": 42.9,
+    "shots_saved": 7,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1490,6 +1538,22 @@
      "min": 90,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1785,9 +1849,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 900,
+    "gp": 12,
+    "starts": 12,
+    "min": 990,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1800,10 +1864,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 13,
-     "saves": 40,
-     "save_pct": 75.5
+     "saves": 43,
+     "save_pct": 76.8
     }
    },
    "matches": [
@@ -2037,6 +2101,27 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -2118,9 +2203,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 515,
+    "min": 559,
     "sh": 21,
     "sog": 10,
     "g": 4,
@@ -2293,6 +2378,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2302,9 +2403,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 153,
+    "min": 171,
     "sh": 13,
     "sog": 3,
     "g": 2,
@@ -2429,6 +2530,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": false,
+     "pos": "mid",
+     "num": "24",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2438,9 +2555,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 885,
+    "gp": 12,
+    "starts": 12,
+    "min": 975,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2629,6 +2746,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2638,9 +2771,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 964,
+    "gp": 12,
+    "starts": 12,
+    "min": 1054,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -2829,6 +2962,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2838,9 +2987,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 392,
+    "min": 427,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3029,6 +3178,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": false,
+     "pos": "def",
+     "num": "11",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3038,20 +3203,20 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 510,
-    "sh": 30,
-    "sog": 13,
+    "gp": 12,
+    "starts": 10,
+    "min": 554,
+    "sh": 37,
+    "sog": 17,
     "g": 1,
     "a": 3,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.3,
-    "shots_saved": 12,
-    "shots_off_target": 17
+    "shot_pct": 45.9,
+    "shots_saved": 16,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -3229,6 +3394,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 44,
+     "sh": 7,
+     "sog": 4,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3238,9 +3419,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 3,
-    "min": 520,
+    "gp": 10,
+    "starts": 4,
+    "min": 610,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3397,6 +3578,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3406,15 +3603,15 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 569,
+    "gp": 12,
+    "starts": 12,
+    "min": 634,
     "sh": 9,
     "sog": 6,
     "g": 2,
     "a": 1,
     "fouls": 4,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 66.7,
@@ -3597,6 +3794,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "FWD",
+     "num": "28",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3646,10 +3859,10 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 845,
-    "sh": 24,
+    "gp": 12,
+    "starts": 12,
+    "min": 935,
+    "sh": 27,
     "sog": 6,
     "g": 2,
     "a": 2,
@@ -3657,9 +3870,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 22.2,
     "shots_saved": 4,
-    "shots_off_target": 18
+    "shots_off_target": 21
    },
    "matches": [
     {
@@ -3834,6 +4047,22 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Lafayette",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

@@ -4,6 +4,86 @@
  "season": 2026,
  "players": [
   {
+   "name": "Aronson, Samantha",
+   "slug": "aronson-samantha",
+   "num": "6",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 72,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 72,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Avellar, Olivia",
+   "slug": "avellar-olivia",
+   "num": "30",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 55,
+    "sh": 3,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "FWD",
+     "num": "30",
+     "min": 55,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Bingham, Piper",
    "slug": "bingham-piper",
    "num": "12",
@@ -144,6 +224,57 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Carr, Bridget",
+   "slug": "carr-bridget",
+   "num": "0",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 2,
+     "saves": 3,
+     "save_pct": 60.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1249,6 +1380,46 @@
    ]
   },
   {
+   "name": "Green, Maddie",
+   "slug": "green-maddie",
+   "num": "33",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 89,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 89,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Henry, Sophia",
    "slug": "henry-sophia",
    "num": "9",
@@ -1426,6 +1597,126 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Hoff, Averie",
+   "slug": "hoff-averie",
+   "num": "26",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 21,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": false,
+     "pos": "DEF",
+     "num": "26",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Kennedy, Ciara",
+   "slug": "kennedy-ciara",
+   "num": "5",
+   "pos": "MID",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Maguire, Ava",
+   "slug": "maguire-ava",
+   "num": "19",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 42,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 42,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1945,6 +2236,46 @@
    ]
   },
   {
+   "name": "Osterman, Juliana",
+   "slug": "osterman-juliana",
+   "num": "10",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 5,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Pohlidal, Grace",
    "slug": "pohlidal-grace",
    "num": "10",
@@ -2138,6 +2469,86 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Powderly, Alli",
+   "slug": "powderly-alli",
+   "num": "25",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Prouty, Georgia",
+   "slug": "prouty-georgia",
+   "num": "7",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 57,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 57,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2545,6 +2956,126 @@
    ]
   },
   {
+   "name": "Ryan, Samantha",
+   "slug": "ryan-samantha",
+   "num": "22",
+   "pos": "MID",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 5,
+    "sog": 2,
+    "g": 0,
+    "a": 0,
+    "fouls": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 90,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Schultz, Jaiden",
+   "slug": "schultz-jaiden",
+   "num": "12",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 31,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": false,
+     "pos": "FWD",
+     "num": "12",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Schwinn-Clanton, Ariana",
+   "slug": "schwinn-clanton-ariana",
+   "num": "24",
+   "pos": "MID",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 13,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Shim, Rena",
    "slug": "shim-rena",
    "num": "32",
@@ -2722,6 +3253,126 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Slott, Kat",
+   "slug": "slott-kat",
+   "num": "27",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 85,
+    "sh": 6,
+    "sog": 3,
+    "g": 0,
+    "a": 0,
+    "fouls": 4,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 3
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 85,
+     "sh": 6,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Tyburczy, Helene",
+   "slug": "tyburczy-helene",
+   "num": "21",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 70,
+    "sh": 2,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 70,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Tzouganatos, Nina",
+   "slug": "tzouganatos-nina",
+   "num": "11",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-09-30",
+     "opponent": "Boston University",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

@@ -9,10 +9,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 52,
-    "sh": 1,
+    "min": 59,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -22,7 +22,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -74,6 +74,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 7,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": false,
@@ -97,20 +113,20 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 616,
-    "sh": 9,
-    "sog": 6,
+    "min": 663,
+    "sh": 12,
+    "sog": 8,
     "g": 1,
     "a": 0,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 66.7,
-    "shots_saved": 5,
-    "shots_off_target": 3
+    "shots_saved": 7,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -274,6 +290,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "MID",
+     "num": "30",
+     "min": 47,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": false,
@@ -297,9 +329,9 @@
    "num": "43",
    "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 1,
-    "min": 91,
+    "gp": 3,
+    "starts": 2,
+    "min": 181,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -360,6 +392,22 @@
       "ga": 4,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "GK",
+     "num": "43",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -367,16 +415,16 @@
    "name": "Birch, Chloe",
    "slug": "birch-chloe",
    "num": "21",
-   "pos": "FWD",
+   "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 2,
-    "min": 240,
+    "gp": 9,
+    "starts": 3,
+    "min": 273,
     "sh": 5,
     "sog": 1,
     "g": 1,
     "a": 1,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -498,6 +546,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": false,
@@ -561,9 +625,9 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 249,
+    "min": 267,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -738,6 +802,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "FWD",
+     "num": "27",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": false,
@@ -761,20 +841,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 516,
-    "sh": 7,
+    "gp": 12,
+    "starts": 7,
+    "min": 591,
+    "sh": 8,
     "sog": 0,
     "g": 0,
     "a": 2,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -938,6 +1018,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 75,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -961,9 +1057,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 987,
+    "gp": 12,
+    "starts": 12,
+    "min": 1077,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -1138,6 +1234,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -1161,19 +1273,19 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 716,
-    "sh": 15,
-    "sog": 4,
+    "gp": 12,
+    "starts": 11,
+    "min": 791,
+    "sh": 16,
+    "sog": 5,
     "g": 1,
     "a": 1,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.7,
-    "shots_saved": 3,
+    "shot_pct": 31.2,
+    "shots_saved": 4,
     "shots_off_target": 11
    },
    "matches": [
@@ -1338,6 +1450,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 75,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -1361,15 +1489,15 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 431,
+    "min": 445,
     "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 3,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 20.0,
@@ -1538,6 +1666,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": false,
@@ -1561,14 +1705,14 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 3,
-    "min": 434,
+    "gp": 10,
+    "starts": 4,
+    "min": 511,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -1706,6 +1850,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -1729,20 +1889,20 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 975,
-    "sh": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 1065,
+    "sh": 5,
     "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1901,6 +2061,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2169,9 +2345,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 524,
+    "min": 561,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2346,6 +2522,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "MID",
+     "num": "18",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": false,
@@ -2441,20 +2633,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 868,
-    "sh": 48,
-    "sog": 26,
+    "gp": 12,
+    "starts": 12,
+    "min": 951,
+    "sh": 55,
+    "sog": 29,
     "g": 5,
     "a": 2,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.2,
-    "shots_saved": 21,
-    "shots_off_target": 22
+    "shot_pct": 52.7,
+    "shots_saved": 24,
+    "shots_off_target": 26
    },
    "matches": [
     {
@@ -2618,6 +2810,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 83,
+     "sh": 7,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -2641,20 +2849,20 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 748,
-    "sh": 5,
+    "gp": 12,
+    "starts": 10,
+    "min": 802,
+    "sh": 6,
     "sog": 1,
     "g": 1,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2818,6 +3026,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 54,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -2841,14 +3065,14 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 429,
+    "min": 442,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3013,6 +3237,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3191,21 +3431,21 @@
    "name": "Stanchina, Ava",
    "slug": "stanchina-ava",
    "num": "3",
-   "pos": "FWD",
+   "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 713,
-    "sh": 11,
-    "sog": 6,
+    "gp": 12,
+    "starts": 12,
+    "min": 781,
+    "sh": 12,
+    "sog": 7,
     "g": 1,
     "a": 4,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
-    "shots_saved": 5,
+    "shot_pct": 58.3,
+    "shots_saved": 6,
     "shots_off_target": 5
    },
    "matches": [
@@ -3370,6 +3610,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 68,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -3391,11 +3647,11 @@
    "name": "Strickland, Taylor",
    "slug": "strickland-taylor",
    "num": "32",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 116,
+    "min": 119,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3536,6 +3792,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "MID",
+     "num": "32",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3585,10 +3857,10 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 780,
-    "sh": 6,
+    "gp": 12,
+    "starts": 11,
+    "min": 855,
+    "sh": 8,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -3598,7 +3870,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3762,6 +4034,22 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 75,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-27",
      "opponent": "South Dakota",
      "start": true,
@@ -3785,20 +4073,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 1,
-    "min": 71,
-    "sh": 0,
+    "min": 112,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3813,6 +4101,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-24",
+     "opponent": "North Dakota",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

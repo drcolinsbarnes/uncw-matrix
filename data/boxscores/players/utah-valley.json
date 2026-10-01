@@ -49,20 +49,20 @@
    "num": "24",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 127,
-    "sh": 5,
+    "min": 142,
+    "sh": 6,
     "sog": 3,
     "g": 2,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -144,6 +144,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 15,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -153,19 +169,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 603,
-    "sh": 15,
-    "sog": 8,
-    "g": 4,
+    "gp": 12,
+    "starts": 9,
+    "min": 671,
+    "sh": 19,
+    "sog": 12,
+    "g": 6,
     "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
-    "shots_saved": 4,
+    "shot_pct": 63.2,
+    "shots_saved": 6,
     "shots_off_target": 7
    },
    "matches": [
@@ -344,6 +360,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 68,
+     "sh": 4,
+     "sog": 4,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -351,7 +383,7 @@
    "name": "Bergero, Emily",
    "slug": "bergero-emily",
    "num": "0",
-   "pos": "GK",
+   "pos": "gk",
    "totals": {
     "gp": 2,
     "starts": 1,
@@ -425,19 +457,19 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 726,
-    "sh": 21,
-    "sog": 10,
+    "min": 764,
+    "sh": 22,
+    "sog": 11,
     "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.6,
-    "shots_saved": 8,
+    "shot_pct": 50.0,
+    "shots_saved": 9,
     "shots_off_target": 11
    },
    "matches": [
@@ -616,6 +648,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 38,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -625,9 +673,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 844,
+    "gp": 11,
+    "starts": 11,
+    "min": 934,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -640,10 +688,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 9,
-     "saves": 36,
-     "save_pct": 80.0
+     "gp": 11,
+     "ga": 10,
+     "saves": 37,
+     "save_pct": 78.7
     }
    },
    "matches": [
@@ -856,6 +904,27 @@
       "ga": 2,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -865,19 +934,19 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 617,
-    "sh": 21,
-    "sog": 13,
+    "gp": 12,
+    "starts": 8,
+    "min": 667,
+    "sh": 23,
+    "sog": 15,
     "g": 4,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.9,
-    "shots_saved": 9,
+    "shot_pct": 65.2,
+    "shots_saved": 11,
     "shots_off_target": 8
    },
    "matches": [
@@ -1056,6 +1125,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 50,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1065,9 +1150,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 908,
+    "gp": 12,
+    "starts": 12,
+    "min": 989,
     "sh": 17,
     "sog": 7,
     "g": 0,
@@ -1256,6 +1341,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1319,16 +1420,16 @@
    "name": "Garcia, Ashley",
    "slug": "garcia-ashley",
    "num": "26",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 447,
+    "min": 487,
     "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1480,6 +1581,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "MID",
+     "num": "26",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1489,20 +1606,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 827,
-    "sh": 17,
-    "sog": 9,
-    "g": 3,
+    "gp": 12,
+    "starts": 11,
+    "min": 901,
+    "sh": 21,
+    "sog": 10,
+    "g": 4,
     "a": 7,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.9,
+    "shot_pct": 47.6,
     "shots_saved": 6,
-    "shots_off_target": 8
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -1680,6 +1797,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 74,
+     "sh": 4,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1689,9 +1822,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 374,
+    "min": 389,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -1880,6 +2013,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1887,11 +2036,11 @@
    "name": "Livingston, Tess",
    "slug": "livingston-tess",
    "num": "3",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 421,
+    "min": 430,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -2040,6 +2189,22 @@
      "pos": "def",
      "num": "3",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 9,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2217,13 +2382,13 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 8,
-    "min": 577,
+    "min": 620,
     "sh": 4,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -2376,6 +2541,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "DEF",
+     "num": "19",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2385,14 +2566,14 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 355,
+    "gp": 9,
+    "starts": 4,
+    "min": 418,
     "sh": 14,
     "sog": 4,
     "g": 1,
-    "a": 2,
-    "fouls": 0,
+    "a": 3,
+    "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2528,6 +2709,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2537,14 +2734,14 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 908,
+    "gp": 12,
+    "starts": 12,
+    "min": 998,
     "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2728,6 +2925,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2737,10 +2950,10 @@
    "num": "15",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 442,
-    "sh": 11,
+    "min": 458,
+    "sh": 12,
     "sog": 4,
     "g": 0,
     "a": 3,
@@ -2748,9 +2961,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
+    "shot_pct": 33.3,
     "shots_saved": 4,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2928,6 +3141,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 16,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2988,19 +3217,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 432,
-    "sh": 10,
-    "sog": 7,
+    "gp": 9,
+    "starts": 6,
+    "min": 501,
+    "sh": 11,
+    "sog": 8,
     "g": 1,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 70.0,
-    "shots_saved": 6,
+    "shot_pct": 72.7,
+    "shots_saved": 7,
     "shots_off_target": 3
    },
    "matches": [
@@ -3131,6 +3360,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 69,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3140,15 +3385,15 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 874,
+    "gp": 12,
+    "starts": 12,
+    "min": 964,
     "sh": 18,
     "sog": 8,
     "g": 1,
     "a": 0,
-    "fouls": 0,
-    "yc": 0,
+    "fouls": 1,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -3331,6 +3576,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3340,19 +3601,19 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 491,
-    "sh": 3,
-    "sog": 3,
+    "gp": 11,
+    "starts": 6,
+    "min": 581,
+    "sh": 4,
+    "sog": 4,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 3,
+    "shots_saved": 4,
     "shots_off_target": 0
    },
    "matches": [
@@ -3515,6 +3776,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3620,9 +3897,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 129,
+    "min": 131,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3779,6 +4056,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": false,
+     "pos": "",
+     "num": "10",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3788,20 +4081,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 467,
-    "sh": 6,
-    "sog": 2,
+    "gp": 12,
+    "starts": 6,
+    "min": 514,
+    "sh": 8,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 37.5,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3973,6 +4266,22 @@
      "min": 37,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "UC Irvine",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 47,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

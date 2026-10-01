@@ -9,9 +9,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 784,
+    "gp": 10,
+    "starts": 10,
+    "min": 874,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
+     "gp": 10,
      "ga": 7,
-     "saves": 38,
-     "save_pct": 84.4
+     "saves": 43,
+     "save_pct": 86.0
     }
    },
    "matches": [
@@ -219,6 +219,27 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -228,9 +249,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 641,
+    "gp": 10,
+    "starts": 10,
+    "min": 694,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -387,6 +408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -396,20 +433,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 703,
-    "sh": 27,
+    "gp": 10,
+    "starts": 10,
+    "min": 780,
+    "sh": 28,
     "sog": 16,
     "g": 6,
     "a": 2,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 59.3,
+    "shot_pct": 57.1,
     "shots_saved": 10,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -555,6 +592,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 77,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -564,19 +617,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 581,
-    "sh": 11,
-    "sog": 5,
+    "gp": 10,
+    "starts": 10,
+    "min": 658,
+    "sh": 12,
+    "sog": 6,
     "g": 3,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 2,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -723,6 +776,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 77,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -732,10 +801,10 @@
    "num": "15",
    "pos": "def",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 108,
-    "sh": 0,
+    "min": 170,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -743,9 +812,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -779,6 +848,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 62,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -788,9 +873,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 641,
+    "gp": 10,
+    "starts": 10,
+    "min": 705,
     "sh": 3,
     "sog": 2,
     "g": 2,
@@ -947,6 +1032,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -956,9 +1057,9 @@
    "num": "3",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 534,
+    "min": 603,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1099,6 +1200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1106,21 +1223,21 @@
    "name": "Gumm, Riley",
    "slug": "gumm-riley",
    "num": "13",
-   "pos": "FWD",
+   "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 585,
-    "sh": 22,
-    "sog": 9,
+    "gp": 10,
+    "starts": 10,
+    "min": 655,
+    "sh": 23,
+    "sog": 10,
     "g": 4,
     "a": 4,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.9,
-    "shots_saved": 5,
+    "shot_pct": 43.5,
+    "shots_saved": 6,
     "shots_off_target": 13
    },
    "matches": [
@@ -1267,6 +1384,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 70,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1276,9 +1409,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 207,
+    "min": 241,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1403,6 +1536,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1412,9 +1561,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 516,
+    "min": 577,
     "sh": 8,
     "sog": 3,
     "g": 1,
@@ -1564,6 +1713,22 @@
      "num": "10",
      "min": 51,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 61,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1879,20 +2044,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 633,
-    "sh": 14,
-    "sog": 7,
+    "gp": 10,
+    "starts": 10,
+    "min": 710,
+    "sh": 16,
+    "sog": 8,
     "g": 1,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 6,
-    "shots_off_target": 7
+    "shots_saved": 7,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2038,6 +2203,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 77,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2098,20 +2279,20 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 554,
-    "sh": 19,
-    "sog": 7,
+    "gp": 10,
+    "starts": 6,
+    "min": 623,
+    "sh": 23,
+    "sog": 8,
     "g": 2,
     "a": 2,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.8,
-    "shots_saved": 5,
-    "shots_off_target": 12
+    "shot_pct": 34.8,
+    "shots_saved": 6,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -2257,6 +2438,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 69,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2266,9 +2463,9 @@
    "num": "16",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 99,
+    "min": 108,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -2377,6 +2574,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2386,9 +2599,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 6,
-    "min": 567,
+    "gp": 10,
+    "starts": 7,
+    "min": 614,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -2545,6 +2758,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2554,20 +2783,20 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 717,
-    "sh": 5,
-    "sog": 4,
+    "gp": 10,
+    "starts": 10,
+    "min": 794,
+    "sh": 8,
+    "sog": 6,
     "g": 1,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 80.0,
-    "shots_saved": 3,
-    "shots_off_target": 1
+    "shot_pct": 75.0,
+    "shots_saved": 5,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2713,6 +2942,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 77,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2722,14 +2967,14 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 721,
+    "gp": 10,
+    "starts": 10,
+    "min": 775,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2878,6 +3123,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-30",
+     "opponent": "Seton Hall",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
