@@ -9,10 +9,10 @@
    "num": "22",
    "pos": null,
    "totals": {
-    "gp": 3,
-    "starts": 1,
-    "min": 88,
-    "sh": 1,
+    "gp": 4,
+    "starts": 2,
+    "min": 178,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -22,7 +22,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -70,6 +70,22 @@
      "a": 0,
      "fouls": 2,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "",
+     "num": "22",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -153,14 +169,14 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 253,
+    "min": 275,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -280,6 +296,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": false,
+     "pos": "DEF",
+     "num": "16",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -329,20 +361,20 @@
    "num": "25",
    "pos": null,
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 8,
-    "min": 420,
-    "sh": 8,
+    "min": 450,
+    "sh": 9,
     "sog": 2,
     "g": 0,
-    "a": 0,
-    "fouls": 9,
+    "a": 1,
+    "fouls": 10,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 22.2,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -488,6 +520,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": false,
+     "pos": "",
+     "num": "25",
+     "min": 30,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -497,9 +545,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 614,
+    "gp": 9,
+    "starts": 9,
+    "min": 704,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -512,10 +560,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 18,
-     "saves": 45,
-     "save_pct": 71.4
+     "gp": 9,
+     "ga": 21,
+     "saves": 53,
+     "save_pct": 71.6
     }
    },
    "matches": [
@@ -686,6 +734,27 @@
       "ga": 2,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 8
+     }
     }
    ]
   },
@@ -735,20 +804,20 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 601,
-    "sh": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 691,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -875,6 +944,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1007,20 +1092,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 583,
-    "sh": 14,
-    "sog": 6,
+    "gp": 10,
+    "starts": 9,
+    "min": 651,
+    "sh": 17,
+    "sog": 7,
     "g": 0,
     "a": 1,
-    "fouls": 14,
+    "fouls": 18,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 6,
-    "shots_off_target": 8
+    "shot_pct": 41.2,
+    "shots_saved": 7,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1166,6 +1251,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 68,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1306,20 +1407,20 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 500,
-    "sh": 7,
+    "gp": 10,
+    "starts": 8,
+    "min": 568,
+    "sh": 8,
     "sog": 4,
     "g": 2,
     "a": 0,
-    "fouls": 9,
+    "fouls": 11,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1462,6 +1563,22 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 68,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1693,10 +1810,10 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 233,
-    "sh": 0,
+    "gp": 6,
+    "starts": 5,
+    "min": 316,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1704,9 +1821,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1788,6 +1905,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 83,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1797,9 +1930,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 431,
+    "gp": 9,
+    "starts": 6,
+    "min": 476,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1932,6 +2065,22 @@
      "pos": "DEF",
      "num": "12",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 45,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2126,6 +2275,46 @@
      "min": 6,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Ogbolu, Amber",
+   "slug": "ogbolu-amber",
+   "num": "6",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 22,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": false,
+     "pos": "FWD",
+     "num": "6",
+     "min": 22,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2645,14 +2834,14 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 1,
-    "min": 323,
+    "gp": 10,
+    "starts": 2,
+    "min": 394,
     "sh": 10,
     "sog": 4,
     "g": 2,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
@@ -2804,6 +2993,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2813,14 +3018,14 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 7,
-    "min": 545,
+    "min": 590,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2972,6 +3177,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3061,10 +3282,10 @@
    "num": "28",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 628,
-    "sh": 2,
+    "gp": 10,
+    "starts": 9,
+    "min": 718,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3072,9 +3293,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3220,6 +3441,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "",
+     "num": "28",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3229,20 +3466,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 8,
-    "min": 444,
-    "sh": 5,
-    "sog": 0,
-    "g": 0,
+    "min": 479,
+    "sh": 7,
+    "sog": 1,
+    "g": 1,
     "a": 0,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 14.3,
     "shots_saved": 0,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3372,6 +3609,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 35,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3461,20 +3714,20 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 332,
-    "sh": 3,
-    "sog": 2,
+    "gp": 8,
+    "starts": 4,
+    "min": 394,
+    "sh": 5,
+    "sog": 3,
     "g": 0,
     "a": 1,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
-    "shots_off_target": 1
+    "shot_pct": 60.0,
+    "shots_saved": 3,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3588,6 +3841,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 62,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3637,10 +3906,10 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 592,
-    "sh": 10,
+    "gp": 10,
+    "starts": 9,
+    "min": 671,
+    "sh": 11,
     "sog": 4,
     "g": 0,
     "a": 1,
@@ -3648,9 +3917,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 36.4,
     "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3790,6 +4059,22 @@
      "min": 81,
      "sh": 2,
      "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Washington State",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 79,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

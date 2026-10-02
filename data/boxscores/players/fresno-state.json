@@ -102,14 +102,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 268,
+    "gp": 7,
+    "starts": 4,
+    "min": 320,
     "sh": 4,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -210,6 +210,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -478,20 +494,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 482,
-    "sh": 7,
-    "sog": 3,
+    "gp": 7,
+    "starts": 7,
+    "min": 572,
+    "sh": 9,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 3,
-    "shots_off_target": 4
+    "shot_pct": 44.4,
+    "shots_saved": 4,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -589,6 +605,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -598,19 +630,19 @@
    "num": "77",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 887,
-    "sh": 11,
-    "sog": 6,
+    "gp": 12,
+    "starts": 12,
+    "min": 972,
+    "sh": 12,
+    "sog": 7,
     "g": 4,
     "a": 0,
-    "fouls": 9,
-    "yc": 0,
+    "fouls": 11,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
-    "shots_saved": 2,
+    "shot_pct": 58.3,
+    "shots_saved": 3,
     "shots_off_target": 5
    },
    "matches": [
@@ -789,6 +821,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "MID",
+     "num": "77",
+     "min": 85,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -798,9 +846,9 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 35,
+    "min": 43,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -861,6 +909,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -868,7 +932,7 @@
    "name": "Druian, Scarlette",
    "slug": "druian-scarlette-2",
    "num": "22",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 4,
     "starts": 1,
@@ -958,9 +1022,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 476,
+    "min": 506,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1133,6 +1197,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": false,
+     "pos": "DEF",
+     "num": "7",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1142,9 +1222,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 729,
+    "gp": 11,
+    "starts": 9,
+    "min": 819,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1317,6 +1397,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1419,14 +1515,14 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 816,
+    "gp": 12,
+    "starts": 10,
+    "min": 906,
     "sh": 13,
     "sog": 5,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1610,6 +1706,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1763,19 +1875,19 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 795,
-    "sh": 7,
-    "sog": 5,
+    "gp": 12,
+    "starts": 10,
+    "min": 885,
+    "sh": 8,
+    "sog": 6,
     "g": 0,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.4,
-    "shots_saved": 5,
+    "shot_pct": 75.0,
+    "shots_saved": 6,
     "shots_off_target": 2
    },
    "matches": [
@@ -1954,6 +2066,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2001,7 +2129,7 @@
    "name": "McVey, Niamh",
    "slug": "mcvey-niamh-2",
    "num": "2",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2059,20 +2187,20 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 707,
-    "sh": 11,
-    "sog": 7,
+    "gp": 12,
+    "starts": 12,
+    "min": 771,
+    "sh": 13,
+    "sog": 8,
     "g": 1,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.6,
-    "shots_saved": 6,
-    "shots_off_target": 4
+    "shot_pct": 61.5,
+    "shots_saved": 7,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2250,6 +2378,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 64,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2331,9 +2475,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 360,
+    "gp": 5,
+    "starts": 5,
+    "min": 450,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2346,10 +2490,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
-     "ga": 7,
-     "saves": 28,
-     "save_pct": 80.0
+     "gp": 5,
+     "ga": 9,
+     "saves": 34,
+     "save_pct": 79.1
     }
    },
    "matches": [
@@ -2436,6 +2580,27 @@
       "ga": 4,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 6
+     }
     }
    ]
   },
@@ -2445,20 +2610,20 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 673,
-    "sh": 8,
-    "sog": 0,
-    "g": 0,
+    "gp": 12,
+    "starts": 9,
+    "min": 752,
+    "sh": 11,
+    "sog": 2,
+    "g": 1,
     "a": 1,
-    "fouls": 11,
+    "fouls": 13,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 8
+    "shot_pct": 18.2,
+    "shots_saved": 1,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2636,6 +2801,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 79,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2645,14 +2826,14 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 620,
+    "min": 646,
     "sh": 2,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2836,6 +3017,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": false,
+     "pos": "DEF",
+     "num": "20",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2845,14 +3042,14 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 81,
+    "min": 88,
     "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2940,6 +3137,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": false,
+     "pos": "FWD",
+     "num": "31",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2947,7 +3160,7 @@
    "name": "Said, Jinan",
    "slug": "said-jinan-2",
    "num": "31",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 4,
     "starts": 0,
@@ -3037,13 +3250,13 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 694,
+    "gp": 12,
+    "starts": 8,
+    "min": 776,
     "sh": 11,
     "sog": 6,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 11,
     "yc": 0,
     "rc": 0,
@@ -3228,6 +3441,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3237,14 +3466,14 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 217,
+    "min": 226,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -3409,6 +3638,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3725,14 +3970,14 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 2,
-    "starts": 1,
-    "min": 126,
+    "gp": 3,
+    "starts": 2,
+    "min": 216,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3769,6 +4014,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3885,9 +4146,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 253,
+    "min": 261,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4052,6 +4313,22 @@
      "pos": "FWD",
      "num": "10",
      "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Colorado State",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 8,
      "sh": 0,
      "sog": 0,
      "g": 0,

@@ -9,19 +9,19 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 6,
-    "min": 384,
-    "sh": 7,
-    "sog": 2,
-    "g": 1,
+    "min": 442,
+    "sh": 9,
+    "sog": 4,
+    "g": 2,
     "a": 4,
     "fouls": 2,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 1,
+    "shot_pct": 44.4,
+    "shots_saved": 2,
     "shots_off_target": 5
    },
    "matches": [
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 58,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -177,15 +193,15 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 671,
+    "gp": 10,
+    "starts": 10,
+    "min": 761,
     "sh": 11,
     "sog": 3,
     "g": 2,
     "a": 1,
     "fouls": 4,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 27.3,
@@ -336,6 +352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -343,7 +375,7 @@
    "name": "Bassa, Sydney",
    "slug": "bassa-sydney",
    "num": "24",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 6,
     "starts": 0,
@@ -465,9 +497,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 603,
+    "gp": 8,
+    "starts": 8,
+    "min": 693,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -480,10 +512,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 11,
-     "saves": 27,
-     "save_pct": 71.1
+     "gp": 8,
+     "ga": 13,
+     "saves": 38,
+     "save_pct": 74.5
     }
    },
    "matches": [
@@ -633,6 +665,27 @@
       "ga": 0,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 11
+     }
     }
    ]
   },
@@ -642,9 +695,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 398,
+    "min": 459,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -795,6 +848,22 @@
      "min": 19,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -991,9 +1060,9 @@
    "num": "28",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 283,
+    "min": 322,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1150,6 +1219,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1293,11 +1378,11 @@
    "name": "Garcia, Mar",
    "slug": "garcia-mar",
    "num": "21",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 0,
-    "min": 101,
+    "gp": 6,
+    "starts": 1,
+    "min": 124,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1390,6 +1475,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1399,9 +1500,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 599,
+    "gp": 10,
+    "starts": 8,
+    "min": 689,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1558,6 +1659,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1567,9 +1684,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 361,
+    "min": 365,
     "sh": 7,
     "sog": 1,
     "g": 0,
@@ -1726,6 +1843,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1735,9 +1868,9 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 196,
+    "min": 239,
     "sh": 5,
     "sog": 4,
     "g": 2,
@@ -1838,6 +1971,22 @@
      "pos": "fwd",
      "num": "11",
      "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 43,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1991,10 +2140,10 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 751,
-    "sh": 33,
+    "gp": 10,
+    "starts": 10,
+    "min": 784,
+    "sh": 34,
     "sog": 14,
     "g": 8,
     "a": 4,
@@ -2002,9 +2151,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.4,
+    "shot_pct": 41.2,
     "shots_saved": 6,
-    "shots_off_target": 19
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -2150,6 +2299,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 33,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2159,9 +2324,9 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 634,
+    "gp": 10,
+    "starts": 10,
+    "min": 724,
     "sh": 9,
     "sog": 3,
     "g": 1,
@@ -2318,6 +2483,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2327,10 +2508,10 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 631,
-    "sh": 7,
+    "gp": 10,
+    "starts": 10,
+    "min": 721,
+    "sh": 8,
     "sog": 6,
     "g": 2,
     "a": 4,
@@ -2338,9 +2519,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 85.7,
+    "shot_pct": 75.0,
     "shots_saved": 4,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2486,6 +2667,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2495,9 +2692,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 690,
+    "gp": 10,
+    "starts": 9,
+    "min": 780,
     "sh": 5,
     "sog": 4,
     "g": 3,
@@ -2654,6 +2851,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2735,9 +2948,9 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 295,
+    "min": 328,
     "sh": 7,
     "sog": 4,
     "g": 0,
@@ -2894,6 +3107,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2903,9 +3132,9 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
-    "starts": 0,
-    "min": 117,
+    "gp": 7,
+    "starts": 1,
+    "min": 162,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -3014,6 +3243,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3023,15 +3268,15 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 693,
+    "gp": 10,
+    "starts": 10,
+    "min": 729,
     "sh": 9,
     "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 0,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -3180,6 +3425,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -3423,13 +3684,13 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 571,
+    "gp": 10,
+    "starts": 9,
+    "min": 646,
     "sh": 12,
     "sog": 5,
     "g": 3,
-    "a": 4,
+    "a": 5,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
@@ -3578,6 +3839,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Utah State",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

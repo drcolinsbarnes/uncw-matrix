@@ -9,14 +9,14 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 278,
+    "min": 302,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -184,6 +184,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -193,9 +209,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 134,
+    "min": 147,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -272,6 +288,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "DEF",
+     "num": "27",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -281,20 +313,20 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 14,
-    "sh": 0,
-    "sog": 0,
+    "min": 24,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -312,6 +344,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 10,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -321,19 +369,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 303,
-    "sh": 4,
-    "sog": 1,
+    "min": 323,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -496,6 +544,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 20,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -505,15 +569,15 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 614,
+    "gp": 11,
+    "starts": 11,
+    "min": 690,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
-    "yc": 1,
+    "fouls": 6,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -680,6 +744,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -841,18 +921,18 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 640,
-    "sh": 33,
-    "sog": 20,
-    "g": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 716,
+    "sh": 34,
+    "sog": 21,
+    "g": 7,
     "a": 2,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.6,
+    "shot_pct": 61.8,
     "shots_saved": 14,
     "shots_off_target": 13
    },
@@ -1016,6 +1096,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 76,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1025,20 +1121,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 684,
-    "sh": 9,
-    "sog": 4,
-    "g": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 774,
+    "sh": 11,
+    "sog": 5,
+    "g": 5,
     "a": 1,
     "fouls": 11,
     "yc": 1,
     "rc": 0,
-    "pk_g": 3,
-    "shot_pct": 44.4,
+    "pk_g": 4,
+    "shot_pct": 45.5,
     "shots_saved": 0,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1200,6 +1296,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "",
+     "num": "4",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -1209,20 +1321,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 623,
-    "sh": 20,
-    "sog": 15,
+    "gp": 11,
+    "starts": 11,
+    "min": 686,
+    "sh": 24,
+    "sog": 18,
     "g": 6,
     "a": 1,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 75.0,
-    "shots_saved": 9,
-    "shots_off_target": 5
+    "shots_saved": 12,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1384,6 +1496,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 63,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1393,9 +1521,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 793,
+    "gp": 11,
+    "starts": 11,
+    "min": 848,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1568,6 +1696,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1617,9 +1761,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 79,
+    "min": 99,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1712,6 +1856,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1721,20 +1881,20 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 638,
-    "sh": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 705,
+    "sh": 5,
     "sog": 2,
     "g": 2,
     "a": 2,
-    "fouls": 7,
-    "yc": 1,
+    "fouls": 9,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1896,6 +2056,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 67,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1905,9 +2081,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 277,
+    "gp": 10,
+    "starts": 3,
+    "min": 354,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2064,6 +2240,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2073,9 +2265,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 407,
+    "min": 421,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2248,6 +2440,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "DEF",
+     "num": "19",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2257,19 +2465,19 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 544,
-    "sh": 9,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 624,
+    "sh": 10,
+    "sog": 3,
     "g": 2,
     "a": 1,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 0,
+    "shot_pct": 30.0,
+    "shots_saved": 1,
     "shots_off_target": 7
    },
    "matches": [
@@ -2432,6 +2640,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 80,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2441,9 +2665,9 @@
    "num": "20",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 845,
+    "gp": 11,
+    "starts": 11,
+    "min": 935,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2456,10 +2680,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 8,
-     "saves": 42,
-     "save_pct": 84.0
+     "gp": 11,
+     "ga": 10,
+     "saves": 48,
+     "save_pct": 82.8
     }
    },
    "matches": [
@@ -2672,6 +2896,27 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "GK",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 6
+     }
     }
    ]
   },
@@ -2681,14 +2926,14 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 585,
+    "gp": 11,
+    "starts": 11,
+    "min": 642,
     "sh": 13,
     "sog": 9,
     "g": 1,
     "a": 2,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2848,6 +3093,22 @@
      "pos": "MID",
      "num": "8",
      "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 57,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3041,9 +3302,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 388,
+    "min": 437,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3200,6 +3461,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3313,9 +3590,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 589,
+    "gp": 11,
+    "starts": 11,
+    "min": 665,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3480,6 +3757,22 @@
      "pos": "DEF",
      "num": "7",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 76,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3785,10 +4078,10 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 327,
-    "sh": 8,
+    "min": 360,
+    "sh": 9,
     "sog": 6,
     "g": 1,
     "a": 0,
@@ -3796,9 +4089,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 66.7,
     "shots_saved": 5,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3953,6 +4246,22 @@
      "num": "23",
      "min": 30,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Bowling Green",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 33,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

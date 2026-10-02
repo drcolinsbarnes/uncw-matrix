@@ -9,20 +9,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 620,
-    "sh": 5,
+    "gp": 9,
+    "starts": 9,
+    "min": 693,
+    "sh": 7,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 5,
-    "yc": 1,
-    "rc": 0,
+    "fouls": 8,
+    "yc": 2,
+    "rc": 1,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 14.3,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -152,6 +152,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 73,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 1,
+     "rc": 1,
+     "pk_g": 0
     }
    ]
   },
@@ -161,9 +177,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 694,
+    "gp": 9,
+    "starts": 9,
+    "min": 784,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -176,10 +192,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 3,
-     "saves": 19,
-     "save_pct": 86.4
+     "gp": 9,
+     "ga": 7,
+     "saves": 23,
+     "save_pct": 76.7
     }
    },
    "matches": [
@@ -350,6 +366,27 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 4
+     }
     }
    ]
   },
@@ -511,9 +548,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 395,
+    "gp": 9,
+    "starts": 4,
+    "min": 467,
     "sh": 22,
     "sog": 13,
     "g": 3,
@@ -654,6 +691,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -735,11 +788,11 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 651,
-    "sh": 1,
-    "sog": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 741,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 3,
@@ -747,7 +800,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -878,6 +931,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -887,10 +956,10 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 696,
-    "sh": 4,
+    "gp": 9,
+    "starts": 9,
+    "min": 786,
+    "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -900,7 +969,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1030,6 +1099,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1039,9 +1124,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 278,
+    "min": 286,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -1150,6 +1235,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1159,9 +1260,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 135,
+    "min": 143,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -1270,6 +1371,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1279,20 +1396,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 485,
-    "sh": 17,
+    "gp": 9,
+    "starts": 8,
+    "min": 556,
+    "sh": 18,
     "sog": 8,
     "g": 1,
     "a": 4,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.1,
+    "shot_pct": 44.4,
     "shots_saved": 7,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1422,6 +1539,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 71,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1431,9 +1564,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 175,
+    "min": 189,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -1558,6 +1691,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1639,19 +1788,19 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 476,
-    "sh": 12,
-    "sog": 8,
-    "g": 3,
+    "gp": 9,
+    "starts": 9,
+    "min": 552,
+    "sh": 15,
+    "sog": 11,
+    "g": 4,
     "a": 2,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
-    "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 5,
+    "pk_g": 1,
+    "shot_pct": 73.3,
+    "shots_saved": 7,
     "shots_off_target": 4
    },
    "matches": [
@@ -1782,6 +1931,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 76,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -1791,19 +1956,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 612,
-    "sh": 11,
-    "sog": 6,
+    "gp": 9,
+    "starts": 9,
+    "min": 702,
+    "sh": 14,
+    "sog": 9,
     "g": 3,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
-    "shots_saved": 3,
+    "shot_pct": 64.3,
+    "shots_saved": 6,
     "shots_off_target": 5
    },
    "matches": [
@@ -1934,6 +2099,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1983,20 +2164,20 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 609,
-    "sh": 9,
-    "sog": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 699,
+    "sh": 12,
+    "sog": 4,
     "g": 0,
     "a": 4,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 2,
-    "shots_off_target": 7
+    "shot_pct": 33.3,
+    "shots_saved": 4,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2126,6 +2307,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2239,14 +2436,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 626,
+    "gp": 9,
+    "starts": 9,
+    "min": 716,
     "sh": 17,
     "sog": 6,
     "g": 4,
     "a": 2,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2382,6 +2579,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2391,9 +2604,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 190,
+    "min": 211,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -2502,6 +2715,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2567,9 +2796,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 333,
+    "gp": 7,
+    "starts": 3,
+    "min": 423,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2670,6 +2899,22 @@
      "pos": "DEF",
      "num": "22",
      "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Boise State",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,

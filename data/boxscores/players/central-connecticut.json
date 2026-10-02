@@ -9,19 +9,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 636,
-    "sh": 4,
-    "sog": 3,
+    "gp": 11,
+    "starts": 11,
+    "min": 703,
+    "sh": 5,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
-    "shots_saved": 3,
+    "shot_pct": 80.0,
+    "shots_saved": 4,
     "shots_off_target": 1
    },
    "matches": [
@@ -184,6 +184,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 67,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -193,9 +209,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 345,
+    "min": 350,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -368,6 +384,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -428,9 +460,9 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 168,
+    "min": 187,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -587,6 +619,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -732,11 +780,11 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 242,
-    "sh": 2,
-    "sog": 2,
+    "min": 273,
+    "sh": 3,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -744,7 +792,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 2,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -907,6 +955,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 31,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -916,9 +980,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -931,10 +995,10 @@
     "shots_saved": 1,
     "shots_off_target": 0,
     "goalie": {
-     "gp": 8,
-     "ga": 11,
-     "saves": 43,
-     "save_pct": 79.6
+     "gp": 9,
+     "ga": 13,
+     "saves": 55,
+     "save_pct": 80.9
     }
    },
    "matches": [
@@ -1105,6 +1169,27 @@
       "ga": 2,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 12
+     }
     }
    ]
   },
@@ -1218,20 +1303,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 398,
-    "sh": 9,
-    "sog": 6,
+    "gp": 10,
+    "starts": 8,
+    "min": 470,
+    "sh": 12,
+    "sog": 7,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 3,
-    "shots_off_target": 3
+    "shot_pct": 58.3,
+    "shots_saved": 4,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1377,6 +1462,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 72,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1386,9 +1487,9 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 232,
+    "min": 271,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1561,6 +1662,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1570,9 +1687,9 @@
    "num": "26",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 120,
+    "min": 129,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1697,6 +1814,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1706,9 +1839,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 724,
+    "gp": 10,
+    "starts": 9,
+    "min": 814,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -1865,6 +1998,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1874,9 +2023,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 717,
+    "gp": 10,
+    "starts": 9,
+    "min": 743,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2025,6 +2174,22 @@
      "pos": "",
      "num": "14",
      "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "",
+     "num": "14",
+     "min": 26,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2290,20 +2455,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 608,
-    "sh": 12,
-    "sog": 5,
+    "gp": 11,
+    "starts": 10,
+    "min": 689,
+    "sh": 15,
+    "sog": 6,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 40.0,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2465,6 +2630,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 81,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2474,9 +2655,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 26,
+    "min": 27,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2521,6 +2702,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2530,9 +2727,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 1,
-    "min": 101,
+    "gp": 7,
+    "starts": 2,
+    "min": 160,
     "sh": 3,
     "sog": 2,
     "g": 2,
@@ -2641,6 +2838,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2648,7 +2861,7 @@
    "name": "Peral, Ines",
    "slug": "peral-ines",
    "num": "27",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 4,
     "starts": 2,
@@ -2736,17 +2949,17 @@
    "name": "Powers, Riley",
    "slug": "powers-riley",
    "num": "2",
-   "pos": "MID",
+   "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 580,
+    "min": 630,
     "sh": 16,
     "sog": 8,
     "g": 2,
     "a": 2,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -2913,6 +3126,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "",
+     "num": "2",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2922,10 +3151,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 608,
-    "sh": 6,
+    "gp": 10,
+    "starts": 9,
+    "min": 689,
+    "sh": 7,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -2933,9 +3162,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 16.7,
+    "shot_pct": 14.3,
     "shots_saved": 0,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3081,6 +3310,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 81,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3090,15 +3335,15 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 288,
+    "gp": 7,
+    "starts": 5,
+    "min": 378,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -3201,6 +3446,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3210,9 +3471,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 831,
+    "gp": 11,
+    "starts": 10,
+    "min": 921,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -3385,6 +3646,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3514,19 +3791,19 @@
    "num": "29",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 248,
-    "sh": 4,
-    "sog": 1,
+    "min": 266,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -3689,6 +3966,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "fwd",
+     "num": "29",
+     "min": 18,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3770,20 +4063,20 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
-    "starts": 0,
-    "min": 290,
-    "sh": 7,
-    "sog": 5,
-    "g": 0,
+    "gp": 11,
+    "starts": 1,
+    "min": 353,
+    "sh": 10,
+    "sog": 7,
+    "g": 2,
     "a": 0,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.4,
+    "shot_pct": 70.0,
     "shots_saved": 5,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3945,6 +4238,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 63,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3954,9 +4263,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 414,
+    "min": 423,
     "sh": 10,
     "sog": 5,
     "g": 0,
@@ -4107,6 +4416,22 @@
      "min": 21,
      "sh": 2,
      "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Howard",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

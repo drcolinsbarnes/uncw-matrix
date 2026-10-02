@@ -9,13 +9,13 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 691,
+    "gp": 11,
+    "starts": 11,
+    "min": 767,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
@@ -184,6 +184,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -193,9 +209,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 675,
+    "gp": 11,
+    "starts": 11,
+    "min": 696,
     "sh": 8,
     "sog": 3,
     "g": 0,
@@ -368,6 +384,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -377,13 +409,13 @@
    "num": "16",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 256,
+    "min": 297,
     "sh": 2,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
@@ -536,6 +568,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "def",
+     "num": "16",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -545,19 +593,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 757,
-    "sh": 1,
-    "sog": 0,
+    "min": 811,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -720,6 +768,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 54,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -729,19 +793,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 563,
-    "sh": 8,
-    "sog": 1,
+    "gp": 9,
+    "starts": 9,
+    "min": 619,
+    "sh": 10,
+    "sog": 3,
     "g": 0,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 12.5,
-    "shots_saved": 1,
+    "shot_pct": 30.0,
+    "shots_saved": 3,
     "shots_off_target": 7
    },
    "matches": [
@@ -872,6 +936,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 56,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -881,20 +961,20 @@
    "num": "22",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 79,
-    "sh": 1,
+    "min": 91,
+    "sh": 2,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -976,6 +1056,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 12,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -985,20 +1081,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 704,
-    "sh": 22,
-    "sog": 10,
-    "g": 4,
+    "gp": 11,
+    "starts": 11,
+    "min": 757,
+    "sh": 26,
+    "sog": 13,
+    "g": 6,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 6,
-    "shots_off_target": 12
+    "shot_pct": 50.0,
+    "shots_saved": 7,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1160,6 +1256,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 53,
+     "sh": 4,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1169,20 +1281,20 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 7,
-    "starts": 2,
-    "min": 262,
-    "sh": 4,
-    "sog": 3,
+    "gp": 8,
+    "starts": 3,
+    "min": 311,
+    "sh": 7,
+    "sog": 5,
     "g": 3,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 71.4,
+    "shots_saved": 2,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1296,6 +1408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 49,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1305,9 +1433,9 @@
    "num": "14",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 429,
+    "min": 457,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1480,6 +1608,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1489,19 +1633,19 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
-    "starts": 1,
-    "min": 250,
-    "sh": 2,
-    "sog": 2,
-    "g": 2,
+    "gp": 10,
+    "starts": 2,
+    "min": 292,
+    "sh": 4,
+    "sog": 4,
+    "g": 3,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 0,
+    "shots_saved": 1,
     "shots_off_target": 0
    },
    "matches": [
@@ -1648,6 +1792,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 42,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1657,18 +1817,18 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 883,
-    "sh": 7,
-    "sog": 1,
-    "g": 0,
+    "gp": 11,
+    "starts": 11,
+    "min": 973,
+    "sh": 8,
+    "sog": 2,
+    "g": 1,
     "a": 0,
     "fouls": 0,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 14.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
     "shots_off_target": 6
    },
@@ -1832,6 +1992,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1841,9 +2017,9 @@
    "num": "15",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 239,
+    "min": 252,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1984,6 +2160,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "def",
+     "num": "15",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1993,18 +2185,18 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 245,
-    "sh": 5,
-    "sog": 1,
-    "g": 0,
+    "min": 274,
+    "sh": 6,
+    "sog": 2,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
     "shots_off_target": 4
    },
@@ -2168,6 +2360,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 29,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2177,9 +2385,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2192,10 +2400,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
+     "gp": 11,
      "ga": 4,
-     "saves": 16,
-     "save_pct": 80.0
+     "saves": 19,
+     "save_pct": 82.6
     }
    },
    "matches": [
@@ -2408,6 +2616,27 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -2415,12 +2644,12 @@
    "name": "Knoell, Crystal",
    "slug": "knoell-crystal",
    "num": "20",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 258,
-    "sh": 2,
+    "min": 286,
+    "sh": 3,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -2428,9 +2657,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2576,6 +2805,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 28,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2585,19 +2830,19 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 482,
-    "sh": 2,
-    "sog": 0,
+    "gp": 8,
+    "starts": 8,
+    "min": 544,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -2712,6 +2957,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 62,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2721,9 +2982,9 @@
    "num": "24",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 21,
+    "min": 32,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2776,6 +3037,22 @@
      "pos": "def",
      "num": "24",
      "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2911,22 +3188,22 @@
    "name": "Lopez, Lucia",
    "slug": "lopez-lucia",
    "num": "19",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 52,
-    "sh": 3,
-    "sog": 2,
-    "g": 0,
+    "min": 73,
+    "sh": 5,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 60.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2960,6 +3237,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "mid",
+     "num": "19",
+     "min": 21,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2969,20 +3262,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 854,
-    "sh": 22,
+    "gp": 11,
+    "starts": 11,
+    "min": 912,
+    "sh": 25,
     "sog": 11,
     "g": 3,
-    "a": 5,
+    "a": 7,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.0,
     "shots_saved": 8,
-    "shots_off_target": 11
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -3144,6 +3437,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 58,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3193,9 +3502,9 @@
    "num": "4",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 29,
+    "min": 44,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3288,6 +3597,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "fwd",
+     "num": "4",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3332,14 +3657,54 @@
    ]
   },
   {
+   "name": "McManus, Gwenyth",
+   "slug": "mcmanus-gwenyth",
+   "num": "23",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 1,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Miller, Sofia",
    "slug": "miller-sofia",
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 29,
+    "min": 46,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3400,6 +3765,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3409,9 +3790,9 @@
    "num": "27",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 24,
+    "min": 36,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3472,6 +3853,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "",
+     "num": "27",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3521,19 +3918,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 636,
-    "sh": 8,
-    "sog": 3,
+    "gp": 10,
+    "starts": 8,
+    "min": 698,
+    "sh": 9,
+    "sog": 4,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 2,
+    "shot_pct": 44.4,
+    "shots_saved": 3,
     "shots_off_target": 5
    },
    "matches": [
@@ -3680,6 +4077,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 62,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3689,9 +4102,9 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 476,
+    "min": 519,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3856,6 +4269,22 @@
      "pos": "fwd",
      "num": "13",
      "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Albany",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 43,
      "sh": 0,
      "sog": 0,
      "g": 0,

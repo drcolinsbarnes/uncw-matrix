@@ -9,9 +9,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 1,
-    "min": 11,
+    "gp": 2,
+    "starts": 2,
+    "min": 52,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -32,6 +32,22 @@
      "pos": "DEF",
      "num": "5",
      "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 41,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -89,20 +105,20 @@
    "num": "35",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 515,
-    "sh": 5,
-    "sog": 1,
-    "g": 0,
+    "gp": 8,
+    "starts": 8,
+    "min": 604,
+    "sh": 8,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 6,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 1,
-    "shots_off_target": 4
+    "shot_pct": 37.5,
+    "shots_saved": 2,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -216,6 +232,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "35",
+     "min": 89,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -225,20 +257,20 @@
    "num": "1",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 508,
-    "sh": 11,
-    "sog": 4,
-    "g": 3,
+    "gp": 8,
+    "starts": 6,
+    "min": 581,
+    "sh": 14,
+    "sog": 6,
+    "g": 4,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 36.4,
-    "shots_saved": 1,
-    "shots_off_target": 7
+    "shot_pct": 42.9,
+    "shots_saved": 2,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -347,6 +379,22 @@
      "sh": 1,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "",
+     "num": "1",
+     "min": 73,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -465,20 +513,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 533,
-    "sh": 8,
-    "sog": 3,
+    "gp": 8,
+    "starts": 8,
+    "min": 610,
+    "sh": 10,
+    "sog": 4,
     "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 2,
-    "shots_off_target": 5
+    "shot_pct": 40.0,
+    "shots_saved": 3,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -586,6 +634,22 @@
      "min": 74,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 77,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -743,13 +807,13 @@
    "name": "Desert, Dominique",
    "slug": "desert-dominique",
    "num": "11",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 419,
-    "sh": 3,
-    "sog": 1,
+    "gp": 8,
+    "starts": 7,
+    "min": 469,
+    "sh": 6,
+    "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 2,
@@ -757,8 +821,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_saved": 2,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -866,6 +930,22 @@
      "min": 62,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 50,
+     "sh": 3,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1001,10 +1081,10 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 138,
-    "sh": 2,
+    "min": 145,
+    "sh": 3,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -1012,9 +1092,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1106,6 +1186,62 @@
      "min": 21,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 7,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Horton, Ameila",
+   "slug": "horton-ameila",
+   "num": "9",
+   "pos": "fwd",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 18,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 18,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1284,9 +1420,9 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 52,
+    "min": 67,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1347,6 +1483,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1356,9 +1508,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 358,
+    "min": 407,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1483,6 +1635,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1492,19 +1660,19 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 302,
-    "sh": 6,
-    "sog": 3,
+    "gp": 5,
+    "starts": 5,
+    "min": 375,
+    "sh": 9,
+    "sog": 6,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 6,
     "shots_off_target": 3
    },
    "matches": [
@@ -1571,6 +1739,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 73,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1580,9 +1764,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 625,
+    "gp": 8,
+    "starts": 8,
+    "min": 711,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1595,10 +1779,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 25,
-     "saves": 54,
-     "save_pct": 68.4
+     "gp": 8,
+     "ga": 26,
+     "saves": 58,
+     "save_pct": 69.0
     }
    },
    "matches": [
@@ -1748,6 +1932,27 @@
       "ga": 1,
       "saves": 9
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "85:40",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -1757,9 +1962,9 @@
    "num": "31",
    "pos": "gk",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 5,
+    "min": 9,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1772,10 +1977,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 1,
-     "ga": 0,
-     "saves": 1,
-     "save_pct": 100.0
+     "gp": 2,
+     "ga": 1,
+     "saves": 2,
+     "save_pct": 66.7
     }
    },
    "matches": [
@@ -1799,6 +2004,27 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "gk",
+     "num": "31",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "04:20",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1808,9 +2034,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 437,
+    "gp": 8,
+    "starts": 5,
+    "min": 507,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1935,6 +2161,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1944,9 +2186,9 @@
    "num": "32",
    "pos": "def",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 11,
+    "min": 28,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1975,6 +2217,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "def",
+     "num": "32",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1984,20 +2242,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 593,
-    "sh": 12,
-    "sog": 5,
+    "gp": 8,
+    "starts": 8,
+    "min": 683,
+    "sh": 15,
+    "sog": 7,
     "g": 2,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 3,
-    "shots_off_target": 7
+    "shot_pct": 46.7,
+    "shots_saved": 5,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2111,6 +2369,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2200,19 +2474,19 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 3,
-    "min": 170,
-    "sh": 3,
-    "sog": 0,
+    "gp": 4,
+    "starts": 4,
+    "min": 226,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
     "shots_off_target": 3
    },
    "matches": [
@@ -2263,6 +2537,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2272,9 +2562,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 393,
+    "gp": 8,
+    "starts": 7,
+    "min": 476,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -2392,6 +2682,22 @@
      "num": "3",
      "min": 90,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": true,
+     "pos": "",
+     "num": "3",
+     "min": 83,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2566,11 +2872,11 @@
    "name": "Rutland, Alauna",
    "slug": "rutland-alauna",
    "num": "23",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 423,
+    "min": 492,
     "sh": 10,
     "sog": 4,
     "g": 1,
@@ -2689,6 +2995,22 @@
      "min": 34,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2824,11 +3146,11 @@
    "num": "4",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 62,
-    "sh": 1,
-    "sog": 1,
+    "min": 77,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -2836,7 +3158,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -2895,6 +3217,22 @@
      "pos": "fwd",
      "num": "4",
      "min": 32,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "fwd",
+     "num": "4",
+     "min": 15,
      "sh": 1,
      "sog": 1,
      "g": 0,
@@ -3030,11 +3368,11 @@
    "name": "Wells, Brianna",
    "slug": "wells-brianna",
    "num": "20",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 23,
+    "min": 24,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3071,6 +3409,22 @@
      "pos": "mid",
      "num": "20",
      "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "mid",
+     "num": "20",
+     "min": 1,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3151,6 +3505,46 @@
      "pos": "mid",
      "num": "21",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Ziadie, Zoe",
+   "slug": "ziadie-zoe",
+   "num": "6",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 7,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-01",
+     "opponent": "Central Connecticut",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 7,
      "sh": 0,
      "sog": 0,
      "g": 0,

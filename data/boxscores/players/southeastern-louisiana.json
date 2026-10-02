@@ -9,9 +9,9 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 562,
+    "gp": 9,
+    "starts": 9,
+    "min": 622,
     "sh": 8,
     "sog": 6,
     "g": 0,
@@ -152,6 +152,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 60,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -161,9 +177,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 554,
+    "gp": 9,
+    "starts": 9,
+    "min": 644,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -304,6 +320,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -311,11 +343,11 @@
    "name": "Chavis, Brooklyn",
    "slug": "chavis-brooklyn",
    "num": "6",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 24,
+    "min": 42,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -360,6 +392,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": false,
+     "pos": "def",
+     "num": "6",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -369,19 +417,19 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 710,
-    "sh": 3,
-    "sog": 0,
+    "gp": 9,
+    "starts": 9,
+    "min": 800,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
     "shots_off_target": 3
    },
    "matches": [
@@ -512,6 +560,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -521,9 +585,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 656,
+    "gp": 9,
+    "starts": 9,
+    "min": 746,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -536,10 +600,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 12,
-     "saves": 21,
-     "save_pct": 63.6
+     "gp": 9,
+     "ga": 13,
+     "saves": 24,
+     "save_pct": 64.9
     }
    },
    "matches": [
@@ -710,6 +774,27 @@
       "ga": 2,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 3
+     }
     }
    ]
   },
@@ -759,9 +844,9 @@
    "num": "7",
    "pos": "mid",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 20,
+    "min": 32,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -814,6 +899,22 @@
      "pos": "mid",
      "num": "7",
      "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 12,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -975,10 +1076,10 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 323,
-    "sh": 10,
+    "gp": 8,
+    "starts": 5,
+    "min": 413,
+    "sh": 11,
     "sog": 6,
     "g": 4,
     "a": 0,
@@ -986,9 +1087,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 54.5,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1096,6 +1197,22 @@
      "min": 43,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1263,20 +1380,20 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 492,
-    "sh": 23,
-    "sog": 11,
+    "gp": 9,
+    "starts": 9,
+    "min": 564,
+    "sh": 28,
+    "sog": 12,
     "g": 1,
     "a": 3,
     "fouls": 0,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.8,
-    "shots_saved": 10,
-    "shots_off_target": 12
+    "shot_pct": 42.9,
+    "shots_saved": 11,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -1406,6 +1523,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 72,
+     "sh": 5,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1415,9 +1548,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 398,
+    "gp": 9,
+    "starts": 9,
+    "min": 466,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1550,6 +1683,22 @@
      "pos": "DEF",
      "num": "14",
      "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 68,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1719,19 +1868,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 632,
-    "sh": 16,
-    "sog": 7,
+    "gp": 9,
+    "starts": 9,
+    "min": 722,
+    "sh": 17,
+    "sog": 8,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.8,
-    "shots_saved": 4,
+    "shot_pct": 47.1,
+    "shots_saved": 5,
     "shots_off_target": 9
    },
    "matches": [
@@ -1862,6 +2011,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1871,10 +2036,10 @@
    "num": "20",
    "pos": "def",
    "totals": {
-    "gp": 8,
-    "starts": 0,
-    "min": 175,
-    "sh": 4,
+    "gp": 9,
+    "starts": 1,
+    "min": 227,
+    "sh": 5,
     "sog": 2,
     "g": 2,
     "a": 0,
@@ -1882,9 +2047,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2014,6 +2179,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 52,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2023,9 +2204,9 @@
    "num": "9",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 318,
+    "min": 346,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2158,6 +2339,22 @@
      "pos": "mid",
      "num": "9",
      "min": 46,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 28,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2383,10 +2580,10 @@
    "num": "27",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 322,
-    "sh": 4,
+    "min": 366,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -2394,9 +2591,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2526,6 +2723,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 44,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2535,10 +2748,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 503,
-    "sh": 5,
+    "gp": 9,
+    "starts": 9,
+    "min": 579,
+    "sh": 6,
     "sog": 2,
     "g": 1,
     "a": 2,
@@ -2546,9 +2759,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2678,6 +2891,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2791,9 +3020,9 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 126,
+    "min": 146,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -2918,6 +3147,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2927,9 +3172,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 706,
+    "gp": 9,
+    "starts": 9,
+    "min": 796,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3058,6 +3303,22 @@
     {
      "date": "2026-09-11",
      "opponent": "West Florida",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Texas A&M-Corpus Christi",
      "start": true,
      "pos": "DEF",
      "num": "5",

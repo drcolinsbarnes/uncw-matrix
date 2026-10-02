@@ -9,9 +9,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 377,
+    "min": 418,
     "sh": 10,
     "sog": 6,
     "g": 2,
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -177,19 +193,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 463,
-    "sh": 15,
-    "sog": 8,
+    "gp": 10,
+    "starts": 8,
+    "min": 532,
+    "sh": 18,
+    "sog": 11,
     "g": 2,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
-    "shots_saved": 6,
+    "shot_pct": 61.1,
+    "shots_saved": 9,
     "shots_off_target": 7
    },
    "matches": [
@@ -336,6 +352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 69,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -345,9 +377,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 770,
+    "gp": 10,
+    "starts": 10,
+    "min": 860,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -360,10 +392,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 9,
-     "saves": 26,
-     "save_pct": 74.3
+     "gp": 10,
+     "ga": 11,
+     "saves": 30,
+     "save_pct": 73.2
     }
    },
    "matches": [
@@ -555,6 +587,27 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 4
+     }
     }
    ]
   },
@@ -564,10 +617,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 806,
-    "sh": 5,
+    "gp": 10,
+    "starts": 10,
+    "min": 896,
+    "sh": 6,
     "sog": 2,
     "g": 1,
     "a": 1,
@@ -575,9 +628,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -723,6 +776,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -732,10 +801,10 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 372,
-    "sh": 7,
+    "gp": 10,
+    "starts": 6,
+    "min": 454,
+    "sh": 8,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -743,9 +812,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 14.3,
+    "shot_pct": 12.5,
     "shots_saved": 1,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -883,6 +952,22 @@
      "pos": "MID",
      "num": "9",
      "min": 36,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 82,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -1060,9 +1145,9 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 163,
+    "min": 175,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1155,6 +1240,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1164,10 +1265,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 772,
-    "sh": 10,
+    "gp": 10,
+    "starts": 10,
+    "min": 862,
+    "sh": 11,
     "sog": 5,
     "g": 1,
     "a": 1,
@@ -1175,9 +1276,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 4,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1323,6 +1424,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1420,19 +1537,19 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 439,
-    "sh": 13,
-    "sog": 5,
+    "gp": 10,
+    "starts": 8,
+    "min": 488,
+    "sh": 14,
+    "sog": 6,
     "g": 4,
     "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 1,
+    "shot_pct": 42.9,
+    "shots_saved": 2,
     "shots_off_target": 8
    },
    "matches": [
@@ -1579,6 +1696,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 49,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1588,10 +1721,10 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 768,
-    "sh": 26,
+    "gp": 10,
+    "starts": 10,
+    "min": 846,
+    "sh": 27,
     "sog": 14,
     "g": 3,
     "a": 1,
@@ -1599,9 +1732,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.8,
+    "shot_pct": 51.9,
     "shots_saved": 11,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1747,6 +1880,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 78,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1756,9 +1905,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 155,
+    "min": 189,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -1907,6 +2056,22 @@
      "pos": "fwd",
      "num": "10",
      "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 34,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2236,20 +2401,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 385,
-    "sh": 16,
-    "sog": 9,
+    "gp": 10,
+    "starts": 6,
+    "min": 447,
+    "sh": 19,
+    "sog": 10,
     "g": 1,
     "a": 4,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.2,
-    "shots_saved": 8,
-    "shots_off_target": 7
+    "shot_pct": 52.6,
+    "shots_saved": 9,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2395,6 +2560,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 62,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2404,20 +2585,20 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 8,
-    "starts": 0,
-    "min": 164,
-    "sh": 3,
-    "sog": 2,
-    "g": 0,
+    "gp": 9,
+    "starts": 1,
+    "min": 217,
+    "sh": 5,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 60.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2547,6 +2728,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 53,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2556,9 +2753,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 652,
+    "gp": 9,
+    "starts": 9,
+    "min": 742,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2699,6 +2896,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2708,9 +2921,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 775,
+    "gp": 10,
+    "starts": 10,
+    "min": 865,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -2867,6 +3080,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2876,19 +3105,19 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 102,
-    "sh": 8,
-    "sog": 5,
+    "min": 116,
+    "sh": 10,
+    "sog": 7,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
-    "shots_saved": 4,
+    "shot_pct": 70.0,
+    "shots_saved": 6,
     "shots_off_target": 3
    },
    "matches": [
@@ -3003,6 +3232,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": false,
+     "pos": "mid",
+     "num": "22",
+     "min": 14,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3082,11 +3327,11 @@
    "name": "Viccars, Brooke",
    "slug": "viccars-brooke",
    "num": "7",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 291,
+    "min": 303,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -3227,6 +3472,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3236,18 +3497,18 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 413,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
+    "min": 447,
+    "sh": 5,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
     "shots_off_target": 2
    },
@@ -3390,6 +3651,22 @@
      "sh": 2,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-01",
+     "opponent": "Lipscomb",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 34,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
