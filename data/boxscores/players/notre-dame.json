@@ -9,9 +9,9 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 232,
+    "min": 235,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -149,6 +149,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "FWD",
+     "num": "5",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -348,14 +364,14 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 633,
+    "gp": 9,
+    "starts": 9,
+    "min": 678,
     "sh": 21,
     "sog": 4,
     "g": 1,
-    "a": 0,
-    "fouls": 5,
+    "a": 1,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -491,6 +507,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -500,10 +532,10 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 1,
-    "min": 79,
-    "sh": 6,
+    "min": 125,
+    "sh": 9,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -511,9 +543,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -531,6 +563,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 46,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -540,14 +588,14 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 570,
+    "gp": 9,
+    "starts": 9,
+    "min": 646,
     "sh": 15,
     "sog": 6,
     "g": 2,
     "a": 2,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -683,6 +731,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -692,14 +756,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 445,
+    "gp": 9,
+    "starts": 7,
+    "min": 481,
     "sh": 5,
     "sog": 4,
     "g": 0,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -835,6 +899,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -844,19 +924,19 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
-    "starts": 0,
-    "min": 133,
-    "sh": 16,
-    "sog": 9,
+    "gp": 5,
+    "starts": 1,
+    "min": 206,
+    "sh": 17,
+    "sog": 10,
     "g": 3,
     "a": 3,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.2,
-    "shots_saved": 6,
+    "shot_pct": 58.8,
+    "shots_saved": 7,
     "shots_off_target": 7
    },
    "matches": [
@@ -920,6 +1000,22 @@
      "g": 0,
      "a": 2,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "",
+     "num": "3",
+     "min": 73,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1108,20 +1204,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 410,
-    "sh": 23,
-    "sog": 11,
+    "min": 447,
+    "sh": 25,
+    "sog": 12,
     "g": 4,
     "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.8,
-    "shots_saved": 7,
-    "shots_off_target": 12
+    "shot_pct": 48.0,
+    "shots_saved": 8,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1251,6 +1347,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 37,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1353,20 +1465,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 348,
-    "sh": 20,
+    "gp": 6,
+    "starts": 5,
+    "min": 424,
+    "sh": 21,
     "sog": 8,
     "g": 3,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 40.0,
+    "shot_pct": 38.1,
     "shots_saved": 5,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1448,6 +1560,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "",
+     "num": "27",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1457,9 +1585,9 @@
    "num": "28",
    "pos": "GK",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1472,10 +1600,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
-     "ga": 4,
-     "saves": 24,
-     "save_pct": 85.7
+     "gp": 6,
+     "ga": 8,
+     "saves": 28,
+     "save_pct": 77.8
     }
    },
    "matches": [
@@ -1583,6 +1711,27 @@
       "ga": 0,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "GK",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 4
+     }
     }
    ]
   },
@@ -1592,14 +1741,14 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 443,
+    "gp": 9,
+    "starts": 6,
+    "min": 509,
     "sh": 18,
     "sog": 8,
     "g": 4,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1735,6 +1884,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1744,19 +1909,19 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 563,
-    "sh": 13,
-    "sog": 6,
+    "gp": 9,
+    "starts": 9,
+    "min": 635,
+    "sh": 14,
+    "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 5,
+    "shot_pct": 50.0,
+    "shots_saved": 6,
     "shots_off_target": 7
    },
    "matches": [
@@ -1887,6 +2052,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 72,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1896,9 +2077,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 4,
-    "min": 353,
+    "min": 374,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2007,6 +2188,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2016,14 +2213,14 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 658,
+    "gp": 9,
+    "starts": 8,
+    "min": 748,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2159,6 +2356,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2166,20 +2379,20 @@
    "name": "Mills, Abby",
    "slug": "mills-abby",
    "num": "20",
-   "pos": "DEF",
+   "pos": "D",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 565,
-    "sh": 2,
-    "sog": 0,
-    "g": 0,
+    "gp": 8,
+    "starts": 8,
+    "min": 634,
+    "sh": 3,
+    "sog": 1,
+    "g": 1,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 1,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
     "shots_off_target": 2
    },
@@ -2295,6 +2508,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 69,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2390,7 +2619,7 @@
    "name": "Pearl, Rowan",
    "slug": "pearl-rowan",
    "num": "29",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2448,15 +2677,15 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 471,
+    "min": 495,
     "sh": 4,
     "sog": 3,
     "g": 2,
     "a": 0,
-    "fouls": 4,
-    "yc": 0,
+    "fouls": 5,
+    "yc": 1,
     "rc": 0,
     "pk_g": 1,
     "shot_pct": 75.0,
@@ -2591,6 +2820,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2600,9 +2845,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 43,
+    "min": 95,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2631,6 +2876,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2640,14 +2901,14 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 1,
-    "min": 58,
+    "min": 127,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2687,6 +2948,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2694,7 +2971,7 @@
    "name": "Scott, Gianna",
    "slug": "scott-gianna",
    "num": "14",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2912,9 +3189,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 541,
+    "gp": 9,
+    "starts": 6,
+    "min": 586,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3052,6 +3329,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-02",
+     "opponent": "North Carolina",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

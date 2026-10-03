@@ -65,8 +65,8 @@
 
   // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
   // HUB_VERSION_START
-  const HUB_VERSION = "3.18";
-  const HUB_UPDATED = "2 Oct 2026";
+  const HUB_VERSION = "3.19";
+  const HUB_UPDATED = "3 Oct 2026";
   // HUB_VERSION_END
 
   const MODE_KEY = "uncwSidebarMode"; // stored value: "full" | "icons"
