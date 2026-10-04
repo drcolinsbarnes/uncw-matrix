@@ -217,19 +217,19 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 514,
-    "sh": 17,
-    "sog": 9,
+    "min": 556,
+    "sh": 18,
+    "sog": 10,
     "g": 2,
     "a": 1,
     "fouls": 2,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.9,
-    "shots_saved": 7,
+    "shot_pct": 55.6,
+    "shots_saved": 8,
     "shots_off_target": 8
    },
    "matches": [
@@ -408,6 +408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 42,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -417,10 +433,10 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 463,
-    "sh": 11,
+    "min": 495,
+    "sh": 12,
     "sog": 5,
     "g": 2,
     "a": 1,
@@ -428,9 +444,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
+    "shot_pct": 41.7,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -608,6 +624,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 32,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -617,9 +649,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 675,
+    "gp": 10,
+    "starts": 8,
+    "min": 765,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -632,10 +664,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
+     "gp": 10,
      "ga": 3,
-     "saves": 22,
-     "save_pct": 88.0
+     "saves": 26,
+     "save_pct": 89.7
     }
    },
    "matches": [
@@ -827,6 +859,27 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 4
+     }
     }
    ]
   },
@@ -836,11 +889,11 @@
    "num": "10",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 6,
-    "min": 469,
-    "sh": 10,
-    "sog": 5,
+    "min": 502,
+    "sh": 12,
+    "sog": 6,
     "g": 2,
     "a": 3,
     "fouls": 1,
@@ -848,8 +901,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_saved": 4,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1027,6 +1080,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "",
+     "num": "10",
+     "min": 33,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1036,20 +1105,20 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 488,
-    "sh": 4,
+    "gp": 12,
+    "starts": 10,
+    "min": 548,
+    "sh": 7,
     "sog": 1,
     "g": 0,
     "a": 2,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 14.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1227,6 +1296,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 60,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1324,19 +1409,19 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 743,
-    "sh": 4,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 788,
+    "sh": 5,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 60.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -1499,6 +1584,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 45,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1508,20 +1609,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 577,
-    "sh": 24,
-    "sog": 16,
+    "gp": 12,
+    "starts": 12,
+    "min": 635,
+    "sh": 27,
+    "sog": 17,
     "g": 3,
     "a": 4,
-    "fouls": 0,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 13,
-    "shots_off_target": 8
+    "shot_pct": 63.0,
+    "shots_saved": 14,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1699,6 +1800,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 58,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 5,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1708,9 +1825,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 408,
+    "min": 453,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1867,6 +1984,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1876,20 +2009,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 775,
-    "sh": 11,
-    "sog": 5,
-    "g": 0,
+    "gp": 12,
+    "starts": 12,
+    "min": 857,
+    "sh": 18,
+    "sog": 8,
+    "g": 1,
     "a": 5,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 5,
-    "shots_off_target": 6
+    "shot_pct": 44.4,
+    "shots_saved": 7,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2067,6 +2200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 82,
+     "sh": 7,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2076,9 +2225,9 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 322,
+    "min": 330,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -2259,6 +2408,22 @@
      "pos": "",
      "num": "12",
      "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "",
+     "num": "12",
+     "min": 8,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2531,14 +2696,14 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 592,
+    "gp": 12,
+    "starts": 6,
+    "min": 671,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2722,6 +2887,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2731,9 +2912,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 606,
+    "gp": 12,
+    "starts": 9,
+    "min": 662,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2922,6 +3103,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 56,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2931,20 +3128,20 @@
    "num": "2",
    "pos": null,
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 591,
-    "sh": 9,
-    "sog": 5,
+    "gp": 12,
+    "starts": 12,
+    "min": 659,
+    "sh": 12,
+    "sog": 6,
     "g": 3,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3122,6 +3319,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 68,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3281,21 +3494,21 @@
    "name": "Simpson, Leah",
    "slug": "simpson-leah",
    "num": "15",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 410,
-    "sh": 11,
-    "sog": 3,
+    "gp": 11,
+    "starts": 4,
+    "min": 458,
+    "sh": 12,
+    "sog": 4,
     "g": 2,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 27.3,
-    "shots_saved": 1,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
     "shots_off_target": 8
    },
    "matches": [
@@ -3458,6 +3671,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 48,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3467,19 +3696,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 582,
-    "sh": 18,
-    "sog": 10,
+    "gp": 12,
+    "starts": 12,
+    "min": 648,
+    "sh": 20,
+    "sog": 12,
     "g": 7,
     "a": 2,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 3,
+    "shot_pct": 60.0,
+    "shots_saved": 5,
     "shots_off_target": 8
    },
    "matches": [
@@ -3658,6 +3887,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 66,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3667,9 +3912,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 250,
+    "min": 274,
     "sh": 12,
     "sog": 5,
     "g": 2,
@@ -3826,6 +4071,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3835,9 +4096,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 785,
+    "gp": 12,
+    "starts": 12,
+    "min": 875,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4026,6 +4287,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4035,13 +4312,13 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 546,
+    "min": 610,
     "sh": 3,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
@@ -4222,6 +4499,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Davidson",
+     "start": false,
+     "pos": "DEF",
+     "num": "20",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

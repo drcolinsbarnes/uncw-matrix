@@ -9,9 +9,9 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 228,
+    "min": 281,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -152,6 +152,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -161,20 +177,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 332,
-    "sh": 10,
-    "sog": 5,
+    "gp": 5,
+    "starts": 5,
+    "min": 405,
+    "sh": 13,
+    "sog": 6,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 5,
-    "shots_off_target": 5
+    "shot_pct": 46.2,
+    "shots_saved": 6,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -240,6 +256,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 73,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -249,20 +281,20 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 628,
-    "sh": 20,
-    "sog": 6,
-    "g": 2,
+    "gp": 10,
+    "starts": 10,
+    "min": 696,
+    "sh": 22,
+    "sog": 7,
+    "g": 3,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.0,
+    "shot_pct": 31.8,
     "shots_saved": 4,
-    "shots_off_target": 14
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -408,6 +440,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "",
+     "num": "13",
+     "min": 68,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -417,9 +465,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -576,6 +624,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -585,9 +649,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -600,10 +664,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
+     "gp": 10,
      "ga": 9,
-     "saves": 40,
-     "save_pct": 81.6
+     "saves": 44,
+     "save_pct": 83.0
     }
    },
    "matches": [
@@ -778,6 +842,27 @@
     {
      "date": "2026-09-26",
      "opponent": "Pacific",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 4
+     }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
      "start": true,
      "pos": "GK",
      "num": "1",
@@ -1156,10 +1241,10 @@
    "num": "23",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 137,
-    "sh": 0,
+    "min": 166,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1167,9 +1252,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1251,6 +1336,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 29,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1260,20 +1361,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 498,
-    "sh": 10,
+    "gp": 10,
+    "starts": 9,
+    "min": 558,
+    "sh": 11,
     "sog": 6,
     "g": 1,
-    "a": 2,
+    "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 54.5,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1419,6 +1520,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1428,9 +1545,9 @@
    "num": "28",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 141,
+    "min": 171,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1523,6 +1640,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": false,
+     "pos": "def",
+     "num": "28",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1532,10 +1665,10 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 312,
-    "sh": 5,
+    "min": 342,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 1,
@@ -1543,9 +1676,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1668,6 +1801,22 @@
      "num": "17",
      "min": 24,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": false,
+     "pos": "def",
+     "num": "17",
+     "min": 30,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1868,9 +2017,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1967,6 +2116,22 @@
     {
      "date": "2026-09-26",
      "opponent": "Pacific",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
      "start": true,
      "pos": "DEF",
      "num": "3",
@@ -2196,9 +2361,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 319,
+    "min": 341,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2323,6 +2488,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2332,9 +2513,9 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 676,
+    "gp": 10,
+    "starts": 10,
+    "min": 766,
     "sh": 5,
     "sog": 5,
     "g": 1,
@@ -2491,6 +2672,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2500,11 +2697,11 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 268,
-    "sh": 1,
-    "sog": 1,
+    "gp": 7,
+    "starts": 4,
+    "min": 328,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
@@ -2512,7 +2709,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -2611,6 +2808,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 60,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2690,21 +2903,21 @@
    "name": "Standish, Kaela",
    "slug": "standish-kaela",
    "num": "7",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 361,
-    "sh": 3,
-    "sog": 1,
+    "gp": 10,
+    "starts": 3,
+    "min": 422,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -2851,6 +3064,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 61,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2940,10 +3169,10 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 616,
-    "sh": 3,
+    "gp": 10,
+    "starts": 9,
+    "min": 706,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -2951,9 +3180,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3099,6 +3328,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3108,10 +3353,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 559,
-    "sh": 2,
+    "gp": 10,
+    "starts": 9,
+    "min": 613,
+    "sh": 5,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -3119,9 +3364,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 40.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3260,6 +3505,22 @@
      "num": "16",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "San Diego",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 54,
+     "sh": 3,
      "sog": 0,
      "g": 0,
      "a": 0,

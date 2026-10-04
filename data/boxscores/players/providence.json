@@ -177,9 +177,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 355,
+    "min": 382,
     "sh": 12,
     "sog": 4,
     "g": 0,
@@ -352,6 +352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -465,14 +481,14 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 30,
+    "min": 63,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -496,6 +512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -505,9 +537,9 @@
    "num": "77",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 491,
+    "gp": 11,
+    "starts": 2,
+    "min": 581,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -520,10 +552,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 4,
-     "saves": 21,
-     "save_pct": 84.0
+     "gp": 11,
+     "ga": 6,
+     "saves": 29,
+     "save_pct": 82.9
     }
    },
    "matches": [
@@ -736,6 +768,27 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "GK",
+     "num": "77",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 8
+     }
     }
    ]
   },
@@ -924,14 +977,54 @@
    ]
   },
   {
+   "name": "Ellis, Kenzie",
+   "slug": "ellis-kenzie",
+   "num": "3",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 29,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 29,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Foley, Makenna",
    "slug": "foley-makenna",
    "num": "26",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 622,
+    "gp": 10,
+    "starts": 10,
+    "min": 697,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1080,6 +1173,22 @@
      "pos": "",
      "num": "26",
      "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "",
+     "num": "26",
+     "min": 75,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1265,19 +1374,19 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 891,
-    "sh": 8,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 981,
+    "sh": 9,
+    "sog": 3,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 2,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -1440,6 +1549,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1449,9 +1574,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 347,
+    "min": 367,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1608,6 +1733,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": false,
+     "pos": "DEF",
+     "num": "27",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1617,19 +1758,19 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 745,
-    "sh": 18,
-    "sog": 7,
+    "gp": 11,
+    "starts": 11,
+    "min": 832,
+    "sh": 21,
+    "sog": 10,
     "g": 2,
     "a": 2,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.9,
-    "shots_saved": 5,
+    "shot_pct": 47.6,
+    "shots_saved": 8,
     "shots_off_target": 11
    },
    "matches": [
@@ -1792,6 +1933,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 87,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1857,10 +2014,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 370,
-    "sh": 5,
+    "gp": 10,
+    "starts": 6,
+    "min": 432,
+    "sh": 6,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -1868,9 +2025,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2016,6 +2173,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 62,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2025,14 +2198,14 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 803,
+    "gp": 11,
+    "starts": 11,
+    "min": 887,
     "sh": 39,
     "sog": 22,
     "g": 6,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
@@ -2200,6 +2373,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2361,9 +2550,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 788,
+    "gp": 11,
+    "starts": 11,
+    "min": 875,
     "sh": 10,
     "sog": 2,
     "g": 0,
@@ -2536,6 +2725,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2545,18 +2750,18 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 662,
-    "sh": 32,
-    "sog": 10,
-    "g": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 720,
+    "sh": 33,
+    "sog": 11,
+    "g": 2,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.2,
+    "shot_pct": 33.3,
     "shots_saved": 9,
     "shots_off_target": 22
    },
@@ -2717,6 +2922,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3167,9 +3388,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 360,
+    "gp": 5,
+    "starts": 5,
+    "min": 450,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3246,6 +3467,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3255,19 +3492,19 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 591,
-    "sh": 14,
-    "sog": 10,
+    "gp": 11,
+    "starts": 11,
+    "min": 664,
+    "sh": 16,
+    "sog": 12,
     "g": 3,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.4,
-    "shots_saved": 7,
+    "shot_pct": 75.0,
+    "shots_saved": 9,
     "shots_off_target": 4
    },
    "matches": [
@@ -3430,6 +3667,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 73,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3543,9 +3796,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 687,
+    "gp": 11,
+    "starts": 8,
+    "min": 772,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -3710,6 +3963,22 @@
      "pos": "DEF",
      "num": "18",
      "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Connecticut",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 85,
      "sh": 0,
      "sog": 0,
      "g": 0,

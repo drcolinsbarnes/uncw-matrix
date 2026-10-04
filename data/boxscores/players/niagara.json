@@ -9,20 +9,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 778,
-    "sh": 11,
-    "sog": 4,
+    "gp": 10,
+    "starts": 10,
+    "min": 856,
+    "sh": 14,
+    "sog": 6,
     "g": 1,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
-    "shots_saved": 3,
-    "shots_off_target": 7
+    "shot_pct": 42.9,
+    "shots_saved": 5,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 78,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -177,20 +193,20 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 809,
-    "sh": 2,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 899,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
-    "shots_off_target": 1
+    "shot_pct": 40.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -329,6 +345,22 @@
      "num": "14",
      "min": 90,
      "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 3,
      "sog": 1,
      "g": 0,
      "a": 0,
@@ -505,9 +537,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 719,
+    "gp": 9,
+    "starts": 9,
+    "min": 809,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -648,6 +680,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -657,20 +705,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 744,
-    "sh": 24,
-    "sog": 17,
+    "gp": 10,
+    "starts": 10,
+    "min": 818,
+    "sh": 28,
+    "sog": 18,
     "g": 8,
-    "a": 0,
+    "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 70.8,
-    "shots_saved": 9,
-    "shots_off_target": 7
+    "shot_pct": 64.3,
+    "shots_saved": 10,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -816,6 +864,73 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 74,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Janish, Grace",
+   "slug": "janish-grace",
+   "num": "1",
+   "pos": "gk",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 8,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 0,
+     "save_pct": null
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": false,
+     "pos": "gk",
+     "num": "1",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "08:28",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -825,20 +940,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 435,
-    "sh": 10,
+    "gp": 10,
+    "starts": 3,
+    "min": 508,
+    "sh": 13,
     "sog": 4,
     "g": 2,
-    "a": 4,
+    "a": 6,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 30.8,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -984,6 +1099,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 73,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -993,10 +1124,10 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 189,
-    "sh": 1,
+    "min": 219,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 2,
@@ -1006,7 +1137,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1120,6 +1251,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 30,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1127,12 +1274,12 @@
    "name": "Langille, Maisie",
    "slug": "langille-maisie",
    "num": "4",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 2,
-    "min": 444,
-    "sh": 1,
+    "gp": 9,
+    "starts": 3,
+    "min": 518,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1142,7 +1289,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1272,6 +1419,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 74,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1281,9 +1444,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 802,
+    "gp": 10,
+    "starts": 10,
+    "min": 892,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -1440,6 +1603,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1449,9 +1628,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 73,
+    "min": 81,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1576,6 +1755,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1585,20 +1780,20 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 802,
-    "sh": 1,
-    "sog": 0,
+    "gp": 10,
+    "starts": 10,
+    "min": 892,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1744,6 +1939,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1809,9 +2020,9 @@
    "num": "30",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 892,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1824,10 +2035,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
+     "gp": 10,
      "ga": 11,
-     "saves": 36,
-     "save_pct": 76.6
+     "saves": 37,
+     "save_pct": 77.1
     }
    },
    "matches": [
@@ -2019,6 +2230,27 @@
       "ga": 3,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "GK",
+     "num": "30",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "81:32",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -2028,9 +2260,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 360,
+    "gp": 8,
+    "starts": 7,
+    "min": 436,
     "sh": 5,
     "sog": 3,
     "g": 0,
@@ -2155,6 +2387,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2164,12 +2412,12 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 297,
-    "sh": 4,
-    "sog": 4,
-    "g": 0,
+    "min": 313,
+    "sh": 5,
+    "sog": 5,
+    "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
@@ -2323,6 +2571,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 16,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2332,19 +2596,19 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 8,
-    "min": 513,
-    "sh": 10,
-    "sog": 5,
-    "g": 0,
+    "min": 549,
+    "sh": 13,
+    "sog": 8,
+    "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 5,
+    "shot_pct": 61.5,
+    "shots_saved": 7,
     "shots_off_target": 5
    },
    "matches": [
@@ -2491,6 +2755,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": false,
+     "pos": "fwd",
+     "num": "28",
+     "min": 36,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2540,19 +2820,19 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 718,
-    "sh": 15,
-    "sog": 8,
-    "g": 2,
+    "gp": 10,
+    "starts": 10,
+    "min": 793,
+    "sh": 17,
+    "sog": 10,
+    "g": 3,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
-    "shots_saved": 6,
+    "shot_pct": 58.8,
+    "shots_saved": 7,
     "shots_off_target": 7
    },
    "matches": [
@@ -2694,6 +2974,22 @@
      "sh": 1,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Saint Peter's",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 75,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,

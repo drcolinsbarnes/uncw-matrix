@@ -60,10 +60,10 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 7,
-    "min": 544,
-    "sh": 0,
+    "min": 608,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -71,9 +71,9 @@
     "yc": 0,
     "rc": 2,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -203,6 +203,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 64,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -212,9 +228,9 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 583,
+    "gp": 12,
+    "starts": 8,
+    "min": 673,
     "sh": 7,
     "sog": 6,
     "g": 3,
@@ -403,6 +419,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -412,9 +444,9 @@
    "num": "80",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 945,
+    "gp": 12,
+    "starts": 11,
+    "min": 1035,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -427,10 +459,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 17,
-     "saves": 45,
-     "save_pct": 72.6
+     "gp": 12,
+     "ga": 18,
+     "saves": 51,
+     "save_pct": 73.9
     }
    },
    "matches": [
@@ -664,6 +696,27 @@
       "ga": 1,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "GK",
+     "num": "80",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 6
+     }
     }
    ]
   },
@@ -793,10 +846,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 407,
-    "sh": 7,
+    "min": 454,
+    "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -804,9 +857,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -968,6 +1021,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 47,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -977,20 +1046,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 464,
-    "sh": 0,
+    "gp": 9,
+    "starts": 4,
+    "min": 554,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
-    "yc": 0,
+    "fouls": 3,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1120,6 +1189,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1129,9 +1214,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 31,
+    "min": 41,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1180,6 +1265,22 @@
     {
      "date": "2026-09-27",
      "opponent": "Penn State",
+     "start": false,
+     "pos": "DEF",
+     "num": "23",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
      "start": false,
      "pos": "DEF",
      "num": "23",
@@ -1273,10 +1374,10 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 161,
-    "sh": 6,
+    "min": 208,
+    "sh": 8,
     "sog": 3,
     "g": 1,
     "a": 1,
@@ -1284,9 +1385,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 37.5,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1384,6 +1485,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": false,
+     "pos": "FWD",
+     "num": "25",
+     "min": 47,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1449,9 +1566,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 728,
+    "gp": 12,
+    "starts": 10,
+    "min": 754,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -1640,6 +1757,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1649,10 +1782,10 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 689,
-    "sh": 7,
+    "gp": 12,
+    "starts": 9,
+    "min": 779,
+    "sh": 8,
     "sog": 3,
     "g": 0,
     "a": 2,
@@ -1660,9 +1793,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1840,6 +1973,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1849,14 +1998,14 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 422,
+    "min": 441,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2005,6 +2154,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": false,
+     "pos": "DEF",
+     "num": "18",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2217,9 +2382,9 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
-    "starts": 2,
-    "min": 132,
+    "gp": 5,
+    "starts": 3,
+    "min": 203,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2296,6 +2461,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2305,9 +2486,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 2,
-    "min": 353,
+    "gp": 11,
+    "starts": 3,
+    "min": 382,
     "sh": 16,
     "sog": 4,
     "g": 0,
@@ -2480,6 +2661,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2489,9 +2686,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 35,
+    "gp": 2,
+    "starts": 1,
+    "min": 78,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2520,6 +2717,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2529,20 +2742,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 4,
-    "min": 551,
-    "sh": 4,
+    "gp": 12,
+    "starts": 5,
+    "min": 641,
+    "sh": 6,
     "sog": 1,
     "g": 1,
     "a": 2,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 16.7,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2720,6 +2933,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2729,9 +2958,9 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 231,
+    "min": 278,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -2864,6 +3093,22 @@
      "pos": "FWD",
      "num": "28",
      "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": false,
+     "pos": "FWD",
+     "num": "28",
+     "min": 47,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3081,10 +3326,10 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 582,
-    "sh": 11,
+    "gp": 12,
+    "starts": 9,
+    "min": 629,
+    "sh": 12,
     "sog": 4,
     "g": 0,
     "a": 0,
@@ -3092,9 +3337,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
+    "shot_pct": 33.3,
     "shots_saved": 4,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3272,6 +3517,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 47,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3281,20 +3542,20 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 4,
-    "min": 330,
-    "sh": 21,
+    "gp": 10,
+    "starts": 5,
+    "min": 420,
+    "sh": 25,
     "sog": 10,
     "g": 1,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.6,
+    "shot_pct": 40.0,
     "shots_saved": 9,
-    "shots_off_target": 11
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3437,6 +3698,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Washington",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 90,
+     "sh": 4,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

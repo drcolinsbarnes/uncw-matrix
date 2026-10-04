@@ -9,20 +9,20 @@
    "num": "29",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 270,
-    "sh": 3,
+    "gp": 8,
+    "starts": 2,
+    "min": 360,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -136,6 +136,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -145,14 +161,14 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 404,
+    "min": 420,
     "sh": 13,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -304,6 +320,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -313,20 +345,20 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
-    "sh": 1,
-    "sog": 0,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 1
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -472,6 +504,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -481,20 +529,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 600,
-    "sh": 13,
+    "gp": 10,
+    "starts": 10,
+    "min": 670,
+    "sh": 14,
     "sog": 8,
     "g": 2,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.5,
+    "shot_pct": 57.1,
     "shots_saved": 6,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -640,6 +688,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 70,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -649,9 +713,9 @@
    "num": "30",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -664,10 +728,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 3,
-     "saves": 34,
-     "save_pct": 91.9
+     "gp": 10,
+     "ga": 5,
+     "saves": 35,
+     "save_pct": 87.5
     }
    },
    "matches": [
@@ -859,6 +923,27 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "GK",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 1
+     }
     }
    ]
   },
@@ -988,20 +1073,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 772,
-    "sh": 4,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 862,
+    "sh": 8,
+    "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 25.0,
-    "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_saved": 2,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1147,6 +1232,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1156,9 +1257,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 370,
+    "min": 400,
     "sh": 17,
     "sog": 1,
     "g": 1,
@@ -1299,6 +1400,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1308,14 +1425,14 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 548,
+    "gp": 8,
+    "starts": 8,
+    "min": 638,
     "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 9,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -1435,6 +1552,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1444,9 +1577,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 6,
     "sog": 3,
     "g": 1,
@@ -1603,6 +1736,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1684,20 +1833,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 396,
-    "sh": 9,
-    "sog": 7,
+    "gp": 8,
+    "starts": 7,
+    "min": 482,
+    "sh": 12,
+    "sog": 9,
     "g": 3,
     "a": 4,
-    "fouls": 3,
-    "yc": 0,
+    "fouls": 4,
+    "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 77.8,
-    "shots_saved": 4,
-    "shots_off_target": 2
+    "shot_pct": 75.0,
+    "shots_saved": 6,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1811,6 +1960,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 86,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1820,20 +1985,20 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 808,
-    "sh": 3,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 898,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shot_pct": 40.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1979,6 +2144,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2084,14 +2265,14 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 565,
+    "gp": 10,
+    "starts": 8,
+    "min": 618,
     "sh": 7,
     "sog": 4,
     "g": 2,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2243,6 +2424,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2252,19 +2449,19 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 79,
-    "sh": 3,
-    "sog": 0,
+    "gp": 4,
+    "starts": 1,
+    "min": 132,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
     "shots_off_target": 3
    },
    "matches": [
@@ -2309,6 +2506,22 @@
      "min": 15,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 53,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2444,14 +2657,14 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 311,
+    "min": 363,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2569,6 +2782,22 @@
      "a": 0,
      "fouls": 1,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Columbia",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }

@@ -193,20 +193,20 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 838,
-    "sh": 17,
-    "sog": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 926,
+    "sh": 19,
+    "sog": 7,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.3,
-    "shots_saved": 5,
-    "shots_off_target": 11
+    "shot_pct": 36.8,
+    "shots_saved": 6,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -368,6 +368,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 88,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -377,9 +393,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 384,
+    "min": 429,
     "sh": 8,
     "sog": 0,
     "g": 0,
@@ -552,6 +568,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -561,19 +593,19 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
-    "sh": 4,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
+    "sh": 5,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 60.0,
+    "shots_saved": 3,
     "shots_off_target": 2
    },
    "matches": [
@@ -736,6 +768,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -745,9 +793,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 889,
+    "gp": 11,
+    "starts": 11,
+    "min": 979,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -760,10 +808,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
+     "gp": 11,
      "ga": 9,
-     "saves": 36,
-     "save_pct": 80.0
+     "saves": 39,
+     "save_pct": 81.2
     }
    },
    "matches": [
@@ -976,6 +1024,27 @@
       "ga": 0,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -985,9 +1054,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 334,
+    "min": 339,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -1160,6 +1229,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": false,
+     "pos": "",
+     "num": "19",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1169,9 +1254,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 820,
+    "gp": 11,
+    "starts": 11,
+    "min": 910,
     "sh": 10,
     "sog": 1,
     "g": 0,
@@ -1344,6 +1429,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1457,14 +1558,14 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 95,
+    "min": 114,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1536,6 +1637,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": false,
+     "pos": "DEF",
+     "num": "33",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1545,9 +1662,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 6,
-    "min": 481,
+    "gp": 10,
+    "starts": 7,
+    "min": 571,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -1696,6 +1813,22 @@
      "pos": "def",
      "num": "26",
      "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1881,14 +2014,14 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 626,
+    "gp": 11,
+    "starts": 10,
+    "min": 716,
     "sh": 6,
     "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2056,6 +2189,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2063,11 +2212,11 @@
    "name": "Madsen, Taryn",
    "slug": "madsen-taryn",
    "num": "16",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 15,
+    "min": 17,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2112,6 +2261,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": false,
+     "pos": "DEF",
+     "num": "16",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2121,14 +2286,14 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 500,
+    "gp": 11,
+    "starts": 5,
+    "min": 571,
     "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2296,6 +2461,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2305,14 +2486,14 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 28,
+    "min": 38,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2349,6 +2530,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2513,14 +2710,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 2,
-    "min": 248,
+    "gp": 8,
+    "starts": 3,
+    "min": 316,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2640,6 +2837,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2649,9 +2862,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 489,
+    "gp": 9,
+    "starts": 8,
+    "min": 564,
     "sh": 13,
     "sog": 5,
     "g": 1,
@@ -2789,6 +3002,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2953,20 +3182,20 @@
    "num": "35",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 431,
-    "sh": 2,
+    "gp": 6,
+    "starts": 6,
+    "min": 521,
+    "sh": 3,
     "sog": 1,
     "g": 1,
     "a": 0,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3045,6 +3274,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "DEF",
+     "num": "35",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3161,11 +3406,11 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 330,
-    "sh": 1,
-    "sog": 1,
+    "gp": 11,
+    "starts": 5,
+    "min": 388,
+    "sh": 3,
+    "sog": 3,
     "g": 0,
     "a": 1,
     "fouls": 3,
@@ -3173,7 +3418,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -3336,6 +3581,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 58,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3345,9 +3606,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 2,
-    "min": 88,
+    "min": 97,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3389,6 +3650,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Creighton",
+     "start": false,
+     "pos": "MID",
+     "num": "27",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

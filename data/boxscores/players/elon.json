@@ -9,10 +9,10 @@
    "num": "13",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 249,
-    "sh": 4,
+    "min": 272,
+    "sh": 5,
     "sog": 3,
     "g": 0,
     "a": 1,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 3,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 23,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -177,9 +193,9 @@
    "num": "26",
    "pos": null,
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 121,
+    "min": 127,
     "sh": 4,
     "sog": 4,
     "g": 2,
@@ -256,6 +272,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "",
+     "num": "26",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -265,19 +297,19 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 289,
-    "sh": 9,
-    "sog": 6,
+    "gp": 11,
+    "starts": 5,
+    "min": 328,
+    "sh": 10,
+    "sog": 7,
     "g": 2,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 4,
+    "shot_pct": 70.0,
+    "shots_saved": 5,
     "shots_off_target": 3
    },
    "matches": [
@@ -440,6 +472,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 39,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -447,11 +495,11 @@
    "name": "Carlson, Hannah",
    "slug": "carlson-hannah",
    "num": "19",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 3,
-    "min": 191,
+    "min": 216,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -544,6 +592,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -553,9 +617,9 @@
    "num": "0",
    "pos": "gk",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 251,
+    "min": 296,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -568,10 +632,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
-     "ga": 0,
-     "saves": 8,
-     "save_pct": 100.0
+     "gp": 6,
+     "ga": 3,
+     "saves": 12,
+     "save_pct": 80.0
     }
    },
    "matches": [
@@ -679,6 +743,27 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "gk",
+     "num": "0",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 3,
+      "saves": 4
+     }
     }
    ]
   },
@@ -688,9 +773,9 @@
    "num": "20",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 486,
+    "min": 538,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -879,6 +964,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "mid",
+     "num": "20",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -888,9 +989,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 855,
+    "gp": 12,
+    "starts": 11,
+    "min": 929,
     "sh": 11,
     "sog": 4,
     "g": 1,
@@ -1079,6 +1180,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1088,10 +1205,10 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 675,
-    "sh": 14,
+    "gp": 12,
+    "starts": 11,
+    "min": 754,
+    "sh": 16,
     "sog": 4,
     "g": 1,
     "a": 6,
@@ -1099,9 +1216,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 25.0,
     "shots_saved": 3,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1279,6 +1396,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 79,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1288,20 +1421,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 716,
-    "sh": 15,
-    "sog": 7,
+    "gp": 11,
+    "starts": 9,
+    "min": 797,
+    "sh": 19,
+    "sog": 8,
     "g": 1,
     "a": 5,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.7,
-    "shots_saved": 6,
-    "shots_off_target": 8
+    "shot_pct": 42.1,
+    "shots_saved": 7,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -1457,6 +1590,22 @@
      "min": 87,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 81,
+     "sh": 4,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1624,10 +1773,10 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 753,
-    "sh": 9,
+    "gp": 12,
+    "starts": 11,
+    "min": 809,
+    "sh": 10,
     "sog": 7,
     "g": 3,
     "a": 2,
@@ -1635,9 +1784,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 77.8,
+    "shot_pct": 70.0,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1815,6 +1964,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "",
+     "num": "16",
+     "min": 56,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1896,10 +2061,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 354,
-    "sh": 2,
+    "min": 379,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -1909,7 +2074,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2071,6 +2236,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "",
+     "num": "8",
+     "min": 25,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2080,10 +2261,10 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 497,
-    "sh": 5,
+    "gp": 9,
+    "starts": 9,
+    "min": 569,
+    "sh": 7,
     "sog": 2,
     "g": 2,
     "a": 0,
@@ -2091,9 +2272,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 28.6,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2223,6 +2404,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 72,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2232,9 +2429,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 801,
+    "gp": 12,
+    "starts": 10,
+    "min": 866,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2415,6 +2612,22 @@
      "pos": "DEF",
      "num": "14",
      "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 65,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2752,19 +2965,19 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 134,
-    "sh": 5,
-    "sog": 1,
+    "min": 190,
+    "sh": 6,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 1,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
     "shots_off_target": 4
    },
    "matches": [
@@ -2831,6 +3044,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2840,9 +3069,9 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 81,
+    "min": 85,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2935,6 +3164,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2944,9 +3189,9 @@
    "num": "9",
    "pos": null,
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 184,
+    "gp": 8,
+    "starts": 2,
+    "min": 218,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -3071,6 +3316,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3080,9 +3341,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 797,
+    "gp": 12,
+    "starts": 12,
+    "min": 864,
     "sh": 44,
     "sog": 22,
     "g": 6,
@@ -3271,6 +3532,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3280,9 +3557,9 @@
    "num": "28",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 739,
+    "gp": 11,
+    "starts": 11,
+    "min": 784,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3295,10 +3572,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 9,
-     "saves": 30,
-     "save_pct": 76.9
+     "gp": 11,
+     "ga": 11,
+     "saves": 32,
+     "save_pct": 74.4
     }
    },
    "matches": [
@@ -3511,6 +3788,27 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "GK",
+     "num": "28",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 2,
+      "saves": 2
+     }
     }
    ]
   },
@@ -3520,9 +3818,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 904,
+    "gp": 12,
+    "starts": 11,
+    "min": 994,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3711,6 +4009,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": true,
+     "pos": "",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3792,20 +4106,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 9,
-    "min": 625,
-    "sh": 17,
-    "sog": 7,
-    "g": 3,
+    "min": 677,
+    "sh": 19,
+    "sog": 8,
+    "g": 4,
     "a": 4,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.2,
+    "shot_pct": 42.1,
     "shots_saved": 4,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -3976,6 +4290,22 @@
      "num": "3",
      "min": 49,
      "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UNC Wilmington",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 52,
+     "sh": 2,
      "sog": 1,
      "g": 1,
      "a": 0,

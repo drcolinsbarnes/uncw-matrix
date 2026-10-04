@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 855,
+    "gp": 11,
+    "starts": 11,
+    "min": 945,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 18,
+     "gp": 11,
+     "ga": 19,
      "saves": 34,
-     "save_pct": 65.4
+     "save_pct": 64.2
     }
    },
    "matches": [
@@ -240,6 +240,27 @@
       "ga": 3,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 0
+     }
     }
    ]
   },
@@ -249,9 +270,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 652,
+    "min": 662,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -424,6 +445,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -433,9 +470,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 895,
+    "gp": 11,
+    "starts": 11,
+    "min": 985,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -608,6 +645,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -777,14 +830,14 @@
    "num": "39",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 0,
-    "min": 158,
+    "gp": 11,
+    "starts": 1,
+    "min": 219,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -952,6 +1005,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "FWD",
+     "num": "39",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -961,18 +1030,18 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 661,
-    "sh": 20,
-    "sog": 11,
-    "g": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 736,
+    "sh": 21,
+    "sog": 12,
+    "g": 2,
     "a": 2,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.0,
+    "shot_pct": 57.1,
     "shots_saved": 10,
     "shots_off_target": 9
    },
@@ -1131,6 +1200,22 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 75,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 1,
      "yc": 0,
@@ -1457,10 +1542,10 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 522,
-    "sh": 6,
+    "gp": 11,
+    "starts": 7,
+    "min": 612,
+    "sh": 8,
     "sog": 3,
     "g": 2,
     "a": 1,
@@ -1468,9 +1553,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 37.5,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1632,6 +1717,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1641,10 +1742,10 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 130,
-    "sh": 4,
+    "min": 152,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1652,9 +1753,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1752,6 +1853,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 22,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1761,18 +1878,18 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 534,
-    "sh": 4,
-    "sog": 1,
-    "g": 0,
+    "gp": 11,
+    "starts": 10,
+    "min": 612,
+    "sh": 5,
+    "sog": 2,
+    "g": 1,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 40.0,
     "shots_saved": 1,
     "shots_off_target": 3
    },
@@ -1936,6 +2053,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 78,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2017,9 +2150,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 571,
+    "min": 583,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -2192,6 +2325,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": false,
+     "pos": "DEF",
+     "num": "14",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2201,9 +2350,9 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 46,
+    "min": 53,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2296,6 +2445,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": false,
+     "pos": "FWD",
+     "num": "30",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2356,14 +2521,14 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 866,
+    "gp": 11,
+    "starts": 11,
+    "min": 956,
     "sh": 8,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2531,6 +2696,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2540,9 +2721,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 45,
+    "min": 53,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2611,6 +2792,22 @@
      "pos": "MID",
      "num": "9",
      "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 8,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2780,20 +2977,20 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 297,
-    "sh": 6,
-    "sog": 4,
+    "gp": 8,
+    "starts": 4,
+    "min": 387,
+    "sh": 8,
+    "sog": 5,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
-    "shots_off_target": 2
+    "shot_pct": 62.5,
+    "shots_saved": 3,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2907,6 +3104,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2916,20 +3129,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 775,
-    "sh": 12,
-    "sog": 7,
+    "gp": 11,
+    "starts": 11,
+    "min": 865,
+    "sh": 14,
+    "sog": 8,
     "g": 3,
     "a": 2,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
-    "shots_saved": 4,
-    "shots_off_target": 5
+    "shot_pct": 57.1,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3088,6 +3301,22 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3500,9 +3729,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 154,
+    "min": 161,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3643,6 +3872,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3652,10 +3897,10 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 258,
-    "sh": 4,
+    "gp": 6,
+    "starts": 4,
+    "min": 338,
+    "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 2,
@@ -3663,9 +3908,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3747,6 +3992,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 80,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3756,14 +4017,14 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 885,
+    "gp": 11,
+    "starts": 11,
+    "min": 975,
     "sh": 12,
     "sog": 5,
     "g": 2,
     "a": 1,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -3928,6 +4189,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "UC Riverside",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

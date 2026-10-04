@@ -9,9 +9,9 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 566,
+    "gp": 12,
+    "starts": 12,
+    "min": 641,
     "sh": 17,
     "sog": 6,
     "g": 0,
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,9 +225,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 244,
+    "min": 247,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -400,6 +416,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -561,19 +593,19 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 337,
-    "sh": 5,
-    "sog": 3,
+    "min": 365,
+    "sh": 6,
+    "sog": 4,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -746,6 +778,22 @@
      "min": 5,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 28,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -945,9 +993,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 2,
-    "min": 135,
+    "gp": 3,
+    "starts": 3,
+    "min": 225,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -960,10 +1008,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
+     "gp": 3,
      "ga": 1,
-     "saves": 2,
-     "save_pct": 66.7
+     "saves": 3,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -1008,6 +1056,27 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1017,9 +1086,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 752,
+    "gp": 12,
+    "starts": 12,
+    "min": 842,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1208,6 +1277,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1217,10 +1302,10 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 330,
-    "sh": 20,
+    "gp": 7,
+    "starts": 7,
+    "min": 380,
+    "sh": 21,
     "sog": 13,
     "g": 1,
     "a": 1,
@@ -1228,9 +1313,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 65.0,
+    "shot_pct": 61.9,
     "shots_saved": 12,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1324,6 +1409,22 @@
      "sog": 3,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 50,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1505,9 +1606,9 @@
    "num": "18",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 493,
+    "min": 498,
     "sh": 10,
     "sog": 8,
     "g": 4,
@@ -1696,6 +1797,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1705,9 +1822,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 878,
+    "gp": 12,
+    "starts": 12,
+    "min": 968,
     "sh": 7,
     "sog": 5,
     "g": 3,
@@ -1896,6 +2013,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2049,19 +2182,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 657,
-    "sh": 15,
-    "sog": 7,
+    "gp": 12,
+    "starts": 10,
+    "min": 742,
+    "sh": 16,
+    "sog": 8,
     "g": 2,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.7,
-    "shots_saved": 5,
+    "shot_pct": 50.0,
+    "shots_saved": 6,
     "shots_off_target": 8
    },
    "matches": [
@@ -2240,6 +2373,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 85,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2249,19 +2398,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 889,
-    "sh": 2,
-    "sog": 0,
+    "gp": 12,
+    "starts": 12,
+    "min": 975,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -2440,6 +2589,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 86,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2449,20 +2614,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 770,
-    "sh": 20,
-    "sog": 13,
+    "gp": 12,
+    "starts": 12,
+    "min": 855,
+    "sh": 23,
+    "sog": 14,
     "g": 2,
-    "a": 5,
+    "a": 6,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 65.0,
-    "shots_saved": 11,
-    "shots_off_target": 7
+    "shot_pct": 60.9,
+    "shots_saved": 12,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2640,6 +2805,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 85,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2721,9 +2902,9 @@
    "num": "26",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 95,
+    "min": 100,
     "sh": 5,
     "sog": 3,
     "g": 3,
@@ -2880,6 +3061,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": false,
+     "pos": "fwd",
+     "num": "26",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2945,9 +3142,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 290,
+    "min": 318,
     "sh": 9,
     "sog": 7,
     "g": 2,
@@ -3120,6 +3317,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3196,9 +3409,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 821,
+    "gp": 12,
+    "starts": 12,
+    "min": 911,
     "sh": 14,
     "sog": 7,
     "g": 3,
@@ -3380,6 +3593,22 @@
      "num": "28",
      "min": 90,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3663,18 +3892,18 @@
    "num": "9",
    "pos": null,
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 564,
-    "sh": 7,
-    "sog": 2,
-    "g": 0,
+    "gp": 12,
+    "starts": 6,
+    "min": 654,
+    "sh": 8,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 37.5,
     "shots_saved": 2,
     "shots_off_target": 5
    },
@@ -3854,6 +4083,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3863,9 +4108,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 471,
+    "gp": 11,
+    "starts": 4,
+    "min": 561,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4030,6 +4275,22 @@
      "pos": "MID",
      "num": "6",
      "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "Evansville",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,

@@ -177,9 +177,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 315,
+    "gp": 5,
+    "starts": 5,
+    "min": 405,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -192,10 +192,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
-     "ga": 8,
-     "saves": 14,
-     "save_pct": 63.6
+     "gp": 5,
+     "ga": 12,
+     "saves": 17,
+     "save_pct": 58.6
     }
    },
    "matches": [
@@ -282,6 +282,27 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 3
+     }
     }
    ]
   },
@@ -331,9 +352,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1004,
+    "gp": 14,
+    "starts": 13,
+    "min": 1077,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -554,6 +575,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -563,9 +600,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 728,
+    "gp": 13,
+    "starts": 8,
+    "min": 818,
     "sh": 8,
     "sog": 4,
     "g": 0,
@@ -770,6 +807,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -779,20 +832,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 789,
-    "sh": 6,
-    "sog": 2,
-    "g": 0,
+    "gp": 13,
+    "starts": 11,
+    "min": 866,
+    "sh": 11,
+    "sog": 5,
+    "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 45.5,
+    "shots_saved": 4,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -981,6 +1034,22 @@
      "sh": 2,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 77,
+     "sh": 5,
+     "sog": 3,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1382,19 +1451,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 5,
-    "min": 480,
-    "sh": 7,
-    "sog": 2,
+    "min": 502,
+    "sh": 8,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 2,
+    "shot_pct": 37.5,
+    "shots_saved": 3,
     "shots_off_target": 5
    },
    "matches": [
@@ -1605,6 +1674,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 22,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1612,11 +1697,11 @@
    "name": "Gonzalez, Mia",
    "slug": "gonzalez-mia",
    "num": "2",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 440,
+    "gp": 11,
+    "starts": 5,
+    "min": 497,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1789,6 +1874,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1798,10 +1899,10 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1154,
-    "sh": 28,
+    "gp": 14,
+    "starts": 14,
+    "min": 1240,
+    "sh": 31,
     "sog": 11,
     "g": 1,
     "a": 0,
@@ -1809,9 +1910,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 39.3,
+    "shot_pct": 35.5,
     "shots_saved": 10,
-    "shots_off_target": 17
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -2021,6 +2122,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 86,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2030,10 +2147,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 454,
-    "sh": 6,
+    "min": 495,
+    "sh": 7,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -2043,7 +2160,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2221,6 +2338,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2230,9 +2363,9 @@
    "num": "15",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 394,
+    "min": 410,
     "sh": 7,
     "sog": 5,
     "g": 0,
@@ -2453,6 +2586,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": false,
+     "pos": "fwd",
+     "num": "15",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2462,9 +2611,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 779,
+    "min": 829,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2653,6 +2802,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": false,
+     "pos": "def",
+     "num": "20",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2782,20 +2947,20 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 11,
-    "starts": 2,
-    "min": 346,
-    "sh": 6,
+    "gp": 12,
+    "starts": 3,
+    "min": 412,
+    "sh": 7,
     "sog": 4,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2973,6 +3138,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 66,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2982,10 +3163,10 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 833,
-    "sh": 14,
+    "gp": 14,
+    "starts": 12,
+    "min": 911,
+    "sh": 15,
     "sog": 8,
     "g": 1,
     "a": 1,
@@ -2993,9 +3174,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 53.3,
     "shots_saved": 7,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3205,6 +3386,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 78,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3214,9 +3411,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 586,
+    "gp": 11,
+    "starts": 8,
+    "min": 676,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3377,6 +3574,22 @@
     {
      "date": "2026-09-30",
      "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
      "start": true,
      "pos": "DEF",
      "num": "21",
@@ -3710,19 +3923,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 2,
-    "min": 190,
-    "sh": 2,
-    "sog": 1,
+    "gp": 5,
+    "starts": 3,
+    "min": 270,
+    "sh": 5,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 80.0,
+    "shots_saved": 4,
     "shots_off_target": 1
    },
    "matches": [
@@ -3783,6 +3996,22 @@
      "min": 84,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 80,
+     "sh": 3,
+     "sog": 3,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -4174,9 +4403,9 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 900,
+    "gp": 14,
+    "starts": 14,
+    "min": 974,
     "sh": 22,
     "sog": 12,
     "g": 2,
@@ -4391,6 +4620,22 @@
      "min": 67,
      "sh": 2,
      "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-03",
+     "opponent": "CSUN",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
