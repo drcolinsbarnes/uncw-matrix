@@ -81,9 +81,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 593,
+    "gp": 8,
+    "starts": 8,
+    "min": 683,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -96,10 +96,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 17,
-     "saves": 43,
-     "save_pct": 71.7
+     "gp": 8,
+     "ga": 18,
+     "saves": 46,
+     "save_pct": 71.9
     }
    },
    "matches": [
@@ -249,6 +249,27 @@
       "ga": 0,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 3
+     }
     }
    ]
   },
@@ -372,20 +393,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 794,
-    "sh": 5,
-    "sog": 3,
+    "gp": 11,
+    "starts": 11,
+    "min": 866,
+    "sh": 9,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
-    "shots_off_target": 2
+    "shot_pct": 44.4,
+    "shots_saved": 4,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -547,6 +568,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 72,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -556,10 +593,10 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 80,
-    "sh": 0,
+    "min": 97,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -567,9 +604,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -633,6 +670,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 17,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -812,10 +865,10 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 537,
-    "sh": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 602,
+    "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -823,9 +876,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -955,6 +1008,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 65,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -962,7 +1031,7 @@
    "name": "Caffey, Jiselle",
    "slug": "caffey-jiselle",
    "num": "7",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 6,
     "starts": 3,
@@ -1084,10 +1153,10 @@
    "num": "34",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 535,
-    "sh": 1,
+    "gp": 11,
+    "starts": 8,
+    "min": 625,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1097,7 +1166,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1259,6 +1328,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "34",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1268,20 +1353,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 620,
-    "sh": 26,
-    "sog": 13,
-    "g": 6,
+    "gp": 10,
+    "starts": 9,
+    "min": 691,
+    "sh": 32,
+    "sog": 16,
+    "g": 8,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 7,
-    "shots_off_target": 13
+    "shots_saved": 8,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -1427,6 +1512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 71,
+     "sh": 6,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1476,9 +1577,9 @@
    "num": "17",
    "pos": "def",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 263,
+    "min": 287,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1651,6 +1752,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": false,
+     "pos": "def",
+     "num": "17",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1700,19 +1817,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 702,
-    "sh": 7,
-    "sog": 4,
+    "gp": 11,
+    "starts": 9,
+    "min": 770,
+    "sh": 8,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 4,
+    "shot_pct": 62.5,
+    "shots_saved": 5,
     "shots_off_target": 3
    },
    "matches": [
@@ -1875,6 +1992,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 68,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1884,10 +2017,10 @@
    "num": "10",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 727,
-    "sh": 6,
+    "gp": 11,
+    "starts": 10,
+    "min": 788,
+    "sh": 7,
     "sog": 4,
     "g": 0,
     "a": 2,
@@ -1895,9 +2028,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2059,6 +2192,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "10",
+     "min": 61,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2068,9 +2217,9 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 2,
-    "min": 180,
+    "gp": 4,
+    "starts": 3,
+    "min": 258,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2124,6 +2273,22 @@
      "num": "12",
      "min": 58,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 78,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2212,9 +2377,9 @@
    "num": "27",
    "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 38,
+    "min": 50,
     "sh": 3,
     "sog": 2,
     "g": 2,
@@ -2238,6 +2403,22 @@
      "sh": 3,
      "sog": 2,
      "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "27",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -2458,22 +2639,22 @@
    "name": "Magana, Ava",
    "slug": "magana-ava",
    "num": "5",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 1,
-    "min": 60,
-    "sh": 1,
-    "sog": 1,
+    "min": 94,
+    "sh": 4,
+    "sog": 3,
     "g": 1,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
-    "shots_saved": 0,
-    "shots_off_target": 0
+    "shot_pct": 75.0,
+    "shots_saved": 2,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2491,6 +2672,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 34,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2500,11 +2697,11 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 520,
-    "sh": 2,
-    "sog": 2,
+    "min": 561,
+    "sh": 3,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 1,
@@ -2512,7 +2709,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -2675,6 +2872,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2684,20 +2897,20 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 725,
-    "sh": 12,
+    "gp": 11,
+    "starts": 11,
+    "min": 801,
+    "sh": 13,
     "sog": 6,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 46.2,
     "shots_saved": 5,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2855,6 +3068,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -3050,7 +3279,7 @@
    "name": "Poole, Alauna",
    "slug": "poole-alauna",
    "num": "23",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -3106,12 +3335,12 @@
    "name": "Salado, Raegan",
    "slug": "salado-raegan",
    "num": "22",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 0,
-    "min": 161,
-    "sh": 1,
+    "gp": 7,
+    "starts": 1,
+    "min": 251,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -3121,7 +3350,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3219,6 +3448,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3226,21 +3471,21 @@
    "name": "Singleton, Naiya",
    "slug": "singleton-naiya",
    "num": "18",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 106,
-    "sh": 1,
-    "sog": 0,
+    "min": 147,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -3285,6 +3530,22 @@
      "min": 16,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3508,9 +3769,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 443,
+    "gp": 8,
+    "starts": 6,
+    "min": 504,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -3628,6 +3889,22 @@
      "num": "4",
      "min": 50,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Prairie View A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 61,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
