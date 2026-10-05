@@ -105,20 +105,20 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 874,
-    "sh": 32,
-    "sog": 15,
+    "gp": 12,
+    "starts": 12,
+    "min": 953,
+    "sh": 35,
+    "sog": 16,
     "g": 6,
     "a": 5,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.9,
-    "shots_saved": 9,
-    "shots_off_target": 17
+    "shot_pct": 45.7,
+    "shots_saved": 10,
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -296,6 +296,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "FWD",
+     "num": "24",
+     "min": 79,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -305,9 +321,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 844,
+    "gp": 12,
+    "starts": 12,
+    "min": 913,
     "sh": 3,
     "sog": 3,
     "g": 0,
@@ -496,6 +512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -593,19 +625,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 870,
-    "sh": 29,
-    "sog": 11,
+    "gp": 12,
+    "starts": 12,
+    "min": 960,
+    "sh": 31,
+    "sog": 13,
     "g": 5,
-    "a": 5,
+    "a": 6,
     "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.9,
-    "shots_saved": 6,
+    "shot_pct": 41.9,
+    "shots_saved": 8,
     "shots_off_target": 18
    },
    "matches": [
@@ -781,6 +813,22 @@
      "g": 0,
      "a": 1,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -985,9 +1033,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 800,
+    "gp": 12,
+    "starts": 12,
+    "min": 853,
     "sh": 13,
     "sog": 4,
     "g": 0,
@@ -1176,6 +1224,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1185,9 +1249,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 360,
+    "gp": 5,
+    "starts": 5,
+    "min": 450,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1200,10 +1264,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
+     "gp": 5,
      "ga": 2,
-     "saves": 11,
-     "save_pct": 84.6
+     "saves": 14,
+     "save_pct": 87.5
     }
    },
    "matches": [
@@ -1289,6 +1353,27 @@
       "min": "90:00",
       "ga": 0,
       "saves": 2
+     }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
      }
     }
    ]
@@ -1403,11 +1488,11 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 40,
-    "sh": 1,
-    "sog": 1,
+    "min": 41,
+    "sh": 2,
+    "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 1,
@@ -1415,7 +1500,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 0,
+    "shots_saved": 1,
     "shots_off_target": 0
    },
    "matches": [
@@ -1466,6 +1551,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 1,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1475,20 +1576,20 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 638,
-    "sh": 12,
+    "gp": 12,
+    "starts": 12,
+    "min": 698,
+    "sh": 13,
     "sog": 5,
     "g": 2,
     "a": 2,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
+    "shot_pct": 38.5,
     "shots_saved": 3,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1661,6 +1762,22 @@
      "sh": 3,
      "sog": 2,
      "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 1,
      "yc": 0,
@@ -1907,10 +2024,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 81,
-    "sh": 0,
+    "min": 107,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -1918,9 +2035,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1954,6 +2071,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 26,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1963,20 +2096,20 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 689,
-    "sh": 5,
+    "gp": 12,
+    "starts": 9,
+    "min": 774,
+    "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2154,6 +2287,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 85,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2163,9 +2312,9 @@
    "num": "31",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 397,
+    "min": 434,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2354,6 +2503,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": false,
+     "pos": "DEF",
+     "num": "31",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2363,9 +2528,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 255,
+    "min": 285,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2490,6 +2655,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2499,15 +2680,15 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 794,
+    "gp": 12,
+    "starts": 12,
+    "min": 870,
     "sh": 9,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 7,
-    "yc": 2,
+    "fouls": 8,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -2690,6 +2871,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2699,18 +2896,18 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 782,
-    "sh": 18,
-    "sog": 10,
-    "g": 1,
+    "gp": 12,
+    "starts": 12,
+    "min": 867,
+    "sh": 19,
+    "sog": 11,
+    "g": 2,
     "a": 4,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 57.9,
     "shots_saved": 9,
     "shots_off_target": 8
    },
@@ -2890,6 +3087,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 85,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3035,9 +3248,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 226,
+    "min": 244,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3210,6 +3423,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": false,
+     "pos": "MID",
+     "num": "4",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3371,19 +3600,19 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 755,
-    "sh": 25,
-    "sog": 11,
+    "gp": 12,
+    "starts": 12,
+    "min": 824,
+    "sh": 26,
+    "sog": 12,
     "g": 4,
-    "a": 1,
+    "a": 2,
     "fouls": 11,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.0,
-    "shots_saved": 7,
+    "shot_pct": 46.2,
+    "shots_saved": 8,
     "shots_off_target": 14
    },
    "matches": [
@@ -3559,6 +3788,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 69,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
      "yc": 1,
      "rc": 0,
      "pk_g": 0
@@ -3788,20 +4033,20 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 164,
-    "sh": 9,
+    "min": 197,
+    "sh": 10,
     "sog": 4,
     "g": 2,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3931,6 +4176,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": false,
+     "pos": "FWD",
+     "num": "20",
+     "min": 33,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3940,20 +4201,20 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 874,
-    "sh": 13,
-    "sog": 5,
+    "gp": 12,
+    "starts": 11,
+    "min": 963,
+    "sh": 15,
+    "sog": 6,
     "g": 1,
     "a": 1,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 4,
-    "shots_off_target": 8
+    "shot_pct": 40.0,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4128,6 +4389,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Illinois",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 89,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

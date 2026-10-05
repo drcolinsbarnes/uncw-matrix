@@ -9,9 +9,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 764,
+    "gp": 12,
+    "starts": 12,
+    "min": 854,
     "sh": 23,
     "sog": 6,
     "g": 1,
@@ -194,6 +194,22 @@
      "min": 90,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -594,9 +610,9 @@
    "num": "6",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 243,
+    "min": 252,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -785,6 +801,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": false,
+     "pos": "def",
+     "num": "6",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -794,9 +826,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 488,
+    "gp": 8,
+    "starts": 8,
+    "min": 578,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -809,10 +841,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 7,
-     "saves": 13,
-     "save_pct": 65.0
+     "gp": 8,
+     "ga": 8,
+     "saves": 15,
+     "save_pct": 65.2
     }
    },
    "matches": [
@@ -962,6 +994,27 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 2
+     }
     }
    ]
   },
@@ -971,19 +1024,19 @@
    "num": "19",
    "pos": null,
    "totals": {
-    "gp": 11,
-    "starts": 0,
-    "min": 362,
-    "sh": 13,
-    "sog": 6,
+    "gp": 12,
+    "starts": 1,
+    "min": 442,
+    "sh": 15,
+    "sog": 8,
     "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 4,
+    "shot_pct": 53.3,
+    "shots_saved": 6,
     "shots_off_target": 7
    },
    "matches": [
@@ -1162,6 +1215,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 80,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1171,10 +1240,10 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 899,
-    "sh": 15,
+    "gp": 12,
+    "starts": 12,
+    "min": 989,
+    "sh": 18,
     "sog": 6,
     "g": 3,
     "a": 5,
@@ -1182,9 +1251,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 9
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1362,6 +1431,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1427,9 +1512,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 953,
+    "min": 998,
     "sh": 13,
     "sog": 8,
     "g": 1,
@@ -1618,6 +1703,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": false,
+     "pos": "",
+     "num": "18",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1627,18 +1728,18 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 364,
-    "sh": 9,
-    "sog": 4,
-    "g": 3,
+    "min": 419,
+    "sh": 10,
+    "sog": 5,
+    "g": 4,
     "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 50.0,
     "shots_saved": 1,
     "shots_off_target": 5
    },
@@ -1818,6 +1919,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 55,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1827,9 +1944,9 @@
    "num": "27",
    "pos": "def",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 150,
+    "min": 200,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1954,6 +2071,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": false,
+     "pos": "def",
+     "num": "27",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1963,9 +2096,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 671,
+    "gp": 12,
+    "starts": 12,
+    "min": 716,
     "sh": 13,
     "sog": 3,
     "g": 1,
@@ -2154,6 +2287,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2163,10 +2312,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 914,
-    "sh": 20,
+    "gp": 12,
+    "starts": 12,
+    "min": 1004,
+    "sh": 22,
     "sog": 10,
     "g": 0,
     "a": 4,
@@ -2174,9 +2323,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 10,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -2354,6 +2503,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2363,9 +2528,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 930,
+    "gp": 12,
+    "starts": 12,
+    "min": 1020,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -2542,6 +2707,22 @@
     {
      "date": "2026-10-01",
      "opponent": "Wisconsin-Milwaukee",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
      "start": true,
      "pos": "DEF",
      "num": "13",
@@ -2838,9 +3019,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 759,
+    "gp": 12,
+    "starts": 12,
+    "min": 799,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3029,6 +3210,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3038,20 +3235,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 826,
-    "sh": 34,
-    "sog": 19,
+    "gp": 12,
+    "starts": 12,
+    "min": 911,
+    "sh": 37,
+    "sog": 20,
     "g": 8,
     "a": 2,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.9,
-    "shots_saved": 11,
-    "shots_off_target": 15
+    "shot_pct": 54.1,
+    "shots_saved": 12,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -3229,6 +3426,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 85,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3238,10 +3451,10 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 674,
-    "sh": 21,
+    "gp": 11,
+    "starts": 11,
+    "min": 714,
+    "sh": 22,
     "sog": 10,
     "g": 4,
     "a": 2,
@@ -3249,9 +3462,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.6,
+    "shot_pct": 45.5,
     "shots_saved": 6,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3413,6 +3626,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3422,10 +3651,10 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 856,
-    "sh": 3,
+    "gp": 12,
+    "starts": 10,
+    "min": 946,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3433,9 +3662,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3606,6 +3835,22 @@
      "num": "2",
      "min": 87,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Wisconsin-Green Bay",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

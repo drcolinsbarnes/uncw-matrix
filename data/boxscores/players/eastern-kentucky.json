@@ -9,19 +9,19 @@
    "num": "28",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 790,
-    "sh": 5,
-    "sog": 2,
+    "gp": 12,
+    "starts": 12,
+    "min": 846,
+    "sh": 6,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "MID",
+     "num": "28",
+     "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,9 +225,9 @@
    "num": "11",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 295,
+    "min": 358,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -400,6 +416,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": false,
+     "pos": "def",
+     "num": "11",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -449,9 +481,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 826,
+    "gp": 12,
+    "starts": 12,
+    "min": 885,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -632,6 +664,22 @@
      "pos": "DEF",
      "num": "14",
      "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 59,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -873,9 +921,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 675,
+    "gp": 9,
+    "starts": 9,
+    "min": 765,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -888,10 +936,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 9,
-     "saves": 33,
-     "save_pct": 78.6
+     "gp": 9,
+     "ga": 11,
+     "saves": 40,
+     "save_pct": 78.4
     }
    },
    "matches": [
@@ -1062,6 +1110,27 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 7
+     }
     }
    ]
   },
@@ -1191,10 +1260,10 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
-    "starts": 0,
-    "min": 136,
-    "sh": 6,
+    "gp": 6,
+    "starts": 1,
+    "min": 191,
+    "sh": 7,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1204,7 +1273,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1286,6 +1355,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1295,18 +1380,18 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 810,
-    "sh": 44,
-    "sog": 20,
-    "g": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 879,
+    "sh": 45,
+    "sog": 21,
+    "g": 5,
     "a": 4,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
+    "shot_pct": 46.7,
     "shots_saved": 16,
     "shots_off_target": 24
    },
@@ -1486,6 +1571,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 69,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1495,9 +1596,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 272,
+    "min": 292,
     "sh": 6,
     "sog": 4,
     "g": 0,
@@ -1670,6 +1771,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": false,
+     "pos": "mid",
+     "num": "3",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1793,9 +1910,9 @@
    "num": "7",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 477,
+    "min": 506,
     "sh": 6,
     "sog": 4,
     "g": 1,
@@ -1984,6 +2101,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": false,
+     "pos": "def",
+     "num": "7",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1993,19 +2126,19 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 617,
-    "sh": 8,
-    "sog": 5,
+    "gp": 12,
+    "starts": 7,
+    "min": 681,
+    "sh": 9,
+    "sog": 6,
     "g": 2,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 3
    },
    "matches": [
@@ -2184,6 +2317,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 64,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2193,20 +2342,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 887,
-    "sh": 5,
-    "sog": 3,
-    "g": 2,
+    "gp": 12,
+    "starts": 12,
+    "min": 977,
+    "sh": 8,
+    "sog": 5,
+    "g": 3,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shot_pct": 62.5,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2384,6 +2533,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2393,13 +2558,13 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 924,
+    "gp": 12,
+    "starts": 12,
+    "min": 1014,
     "sh": 2,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
@@ -2584,6 +2749,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2591,22 +2772,22 @@
    "name": "Reilly, Robin",
    "slug": "reilly-robin",
    "num": "12",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 546,
-    "sh": 25,
-    "sog": 7,
-    "g": 2,
+    "min": 582,
+    "sh": 28,
+    "sog": 8,
+    "g": 3,
     "a": 2,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.0,
+    "shot_pct": 28.6,
     "shots_saved": 5,
-    "shots_off_target": 18
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -2784,6 +2965,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 36,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2793,10 +2990,10 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 921,
-    "sh": 3,
+    "gp": 12,
+    "starts": 12,
+    "min": 1011,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -2804,9 +3001,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2984,6 +3181,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2993,19 +3206,19 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 702,
-    "sh": 8,
-    "sog": 3,
+    "gp": 11,
+    "starts": 11,
+    "min": 757,
+    "sh": 9,
+    "sog": 4,
     "g": 3,
     "a": 3,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 1,
     "shots_off_target": 5
    },
    "matches": [
@@ -3168,6 +3381,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 55,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3177,9 +3406,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 727,
+    "gp": 12,
+    "starts": 12,
+    "min": 803,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3368,6 +3597,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3377,20 +3622,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 6,
-    "min": 444,
-    "sh": 8,
+    "min": 492,
+    "sh": 9,
     "sog": 4,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.4,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3516,6 +3761,22 @@
      "sog": 1,
      "g": 1,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "North Alabama",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 48,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

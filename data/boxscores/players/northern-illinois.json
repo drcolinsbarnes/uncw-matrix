@@ -49,19 +49,19 @@
    "num": "9",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 75,
-    "sh": 1,
-    "sog": 0,
+    "min": 116,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -144,6 +144,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": false,
+     "pos": "def",
+     "num": "9",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -153,20 +169,20 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 552,
-    "sh": 15,
-    "sog": 7,
+    "gp": 11,
+    "starts": 8,
+    "min": 612,
+    "sh": 20,
+    "sog": 8,
     "g": 1,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.7,
-    "shots_saved": 6,
-    "shots_off_target": 8
+    "shot_pct": 40.0,
+    "shots_saved": 7,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -328,6 +344,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "MID",
+     "num": "30",
+     "min": 60,
+     "sh": 5,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -441,20 +473,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 691,
-    "sh": 19,
-    "sog": 9,
-    "g": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 768,
+    "sh": 25,
+    "sog": 11,
+    "g": 2,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.4,
-    "shots_saved": 8,
-    "shots_off_target": 10
+    "shot_pct": 44.0,
+    "shots_saved": 9,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -616,6 +648,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 77,
+     "sh": 6,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -625,9 +673,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 419,
+    "gp": 9,
+    "starts": 6,
+    "min": 466,
     "sh": 7,
     "sog": 5,
     "g": 0,
@@ -768,6 +816,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -777,9 +841,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 827,
+    "gp": 11,
+    "starts": 11,
+    "min": 917,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -792,10 +856,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 8,
-     "saves": 32,
-     "save_pct": 80.0
+     "gp": 11,
+     "ga": 10,
+     "saves": 34,
+     "save_pct": 77.3
     }
    },
    "matches": [
@@ -1008,6 +1072,27 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 2
+     }
     }
    ]
   },
@@ -1017,20 +1102,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 375,
-    "sh": 7,
+    "gp": 8,
+    "starts": 6,
+    "min": 451,
+    "sh": 8,
     "sog": 2,
     "g": 1,
     "a": 1,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1144,6 +1229,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1153,9 +1254,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 727,
+    "gp": 11,
+    "starts": 11,
+    "min": 817,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1328,6 +1429,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1337,20 +1454,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 416,
-    "sh": 9,
+    "min": 455,
+    "sh": 11,
     "sog": 5,
     "g": 2,
-    "a": 1,
+    "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 45.5,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1512,6 +1629,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 39,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1521,10 +1654,10 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 153,
-    "sh": 1,
+    "min": 156,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1532,9 +1665,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1680,6 +1813,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 3,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1689,13 +1838,13 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 308,
+    "min": 358,
     "sh": 3,
     "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
@@ -1845,6 +1994,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2052,10 +2217,10 @@
    "num": "14",
    "pos": "def",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 374,
-    "sh": 0,
+    "gp": 11,
+    "starts": 2,
+    "min": 464,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -2063,9 +2228,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2227,6 +2392,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2324,9 +2505,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 817,
+    "gp": 11,
+    "starts": 11,
+    "min": 907,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2499,6 +2680,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2663,18 +2860,18 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 375,
-    "sh": 8,
-    "sog": 3,
-    "g": 1,
-    "a": 1,
+    "min": 410,
+    "sh": 9,
+    "sog": 4,
+    "g": 2,
+    "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 44.4,
     "shots_saved": 2,
     "shots_off_target": 5
    },
@@ -2838,6 +3035,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 35,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2847,20 +3060,20 @@
    "num": "32",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 671,
-    "sh": 13,
-    "sog": 5,
-    "g": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 736,
+    "sh": 16,
+    "sog": 6,
+    "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
+    "shot_pct": 37.5,
     "shots_saved": 4,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3017,6 +3230,22 @@
      "sh": 3,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "MID",
+     "num": "32",
+     "min": 65,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -3223,19 +3452,19 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 870,
-    "sh": 3,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 960,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -3398,6 +3627,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3407,9 +3652,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 749,
+    "gp": 11,
+    "starts": 11,
+    "min": 786,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -3582,6 +3827,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3591,9 +3852,9 @@
    "num": "28",
    "pos": "def",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 103,
+    "min": 114,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3694,6 +3955,22 @@
      "pos": "DEF",
      "num": "28",
      "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Cleveland State",
+     "start": false,
+     "pos": "def",
+     "num": "28",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,

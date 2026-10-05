@@ -9,18 +9,18 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 901,
-    "sh": 24,
-    "sog": 12,
-    "g": 7,
-    "a": 1,
+    "gp": 13,
+    "starts": 13,
+    "min": 957,
+    "sh": 25,
+    "sog": 13,
+    "g": 8,
+    "a": 3,
     "fouls": 5,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
-    "pk_g": 3,
-    "shot_pct": 50.0,
+    "pk_g": 4,
+    "shot_pct": 52.0,
     "shots_saved": 5,
     "shots_off_target": 12
    },
@@ -216,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 2,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -225,20 +241,20 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 433,
-    "sh": 0,
-    "sog": 0,
+    "min": 464,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -400,6 +416,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "DEF",
+     "num": "11",
+     "min": 31,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -409,9 +441,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 124,
+    "min": 146,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -536,6 +568,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "DEF",
+     "num": "18",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -633,20 +681,20 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 100,
-    "sh": 2,
+    "min": 127,
+    "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -712,6 +760,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 27,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -721,9 +785,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 924,
+    "gp": 13,
+    "starts": 12,
+    "min": 985,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -736,10 +800,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 16,
-     "saves": 40,
-     "save_pct": 71.4
+     "saves": 43,
+     "save_pct": 72.9
     }
    },
    "matches": [
@@ -994,6 +1058,27 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "60:11",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1003,10 +1088,10 @@
    "num": "5",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 624,
-    "sh": 8,
+    "gp": 11,
+    "starts": 7,
+    "min": 692,
+    "sh": 9,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1014,9 +1099,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 12.5,
+    "shot_pct": 11.1,
     "shots_saved": 1,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1171,6 +1256,22 @@
      "num": "5",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "",
+     "num": "5",
+     "min": 68,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1387,14 +1488,14 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 275,
+    "min": 302,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1498,6 +1599,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1507,15 +1624,15 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 555,
+    "gp": 13,
+    "starts": 10,
+    "min": 603,
     "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 4,
-    "yc": 0,
+    "fouls": 6,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -1714,6 +1831,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1763,20 +1896,20 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 438,
-    "sh": 7,
+    "gp": 13,
+    "starts": 4,
+    "min": 496,
+    "sh": 8,
     "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1970,6 +2103,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 58,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1979,9 +2128,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 215,
+    "min": 238,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2122,6 +2271,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "DEF",
+     "num": "8",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2131,9 +2296,9 @@
    "num": "35",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 73,
+    "min": 89,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2210,6 +2375,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "DEF",
+     "num": "35",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2219,14 +2400,14 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 212,
+    "min": 230,
     "sh": 6,
     "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2378,6 +2559,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "FWD",
+     "num": "29",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2387,14 +2584,14 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 104,
+    "min": 138,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2530,6 +2727,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2539,9 +2752,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 11,
-    "min": 771,
+    "min": 801,
     "sh": 18,
     "sog": 7,
     "g": 1,
@@ -2746,6 +2959,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2755,9 +2984,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 986,
+    "gp": 13,
+    "starts": 12,
+    "min": 1068,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -2962,6 +3191,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3139,18 +3384,18 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 158,
-    "sh": 4,
-    "sog": 0,
-    "g": 0,
+    "gp": 4,
+    "starts": 1,
+    "min": 228,
+    "sh": 5,
+    "sog": 1,
+    "g": 1,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 20.0,
     "shots_saved": 0,
     "shots_off_target": 4
    },
@@ -3202,6 +3447,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 70,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3211,14 +3472,14 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 881,
+    "gp": 13,
+    "starts": 10,
+    "min": 956,
     "sh": 1,
     "sog": 1,
     "g": 1,
     "a": 0,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -3418,6 +3679,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3427,14 +3704,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 831,
+    "gp": 13,
+    "starts": 13,
+    "min": 900,
     "sh": 13,
     "sog": 7,
     "g": 2,
     "a": 2,
-    "fouls": 11,
+    "fouls": 13,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -3634,6 +3911,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3643,9 +3936,9 @@
    "num": "19",
    "pos": "GK",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 156,
+    "min": 185,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3658,10 +3951,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
-     "ga": 2,
-     "saves": 11,
-     "save_pct": 84.6
+     "gp": 5,
+     "ga": 3,
+     "saves": 15,
+     "save_pct": 83.3
     }
    },
    "matches": [
@@ -3748,6 +4041,27 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": false,
+     "pos": "GK",
+     "num": "19",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "29:49",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -3757,20 +4071,20 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 712,
-    "sh": 23,
-    "sog": 5,
-    "g": 0,
+    "gp": 13,
+    "starts": 11,
+    "min": 786,
+    "sh": 28,
+    "sog": 9,
+    "g": 2,
     "a": 2,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 21.7,
-    "shots_saved": 5,
-    "shots_off_target": 18
+    "shot_pct": 32.1,
+    "shots_saved": 7,
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -3964,6 +4278,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 74,
+     "sh": 5,
+     "sog": 4,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3973,20 +4303,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 938,
-    "sh": 8,
+    "gp": 13,
+    "starts": 12,
+    "min": 1010,
+    "sh": 9,
     "sog": 2,
     "g": 1,
     "a": 2,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 22.2,
     "shots_saved": 1,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -4177,6 +4507,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Hampton University",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 72,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

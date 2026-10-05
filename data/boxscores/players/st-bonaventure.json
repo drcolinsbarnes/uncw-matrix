@@ -9,9 +9,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 876,
+    "gp": 11,
+    "starts": 11,
+    "min": 966,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -184,6 +184,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -265,9 +281,9 @@
    "num": "28",
    "pos": "gk",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 2,
+    "min": 12,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -280,10 +296,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 1,
-     "ga": 0,
-     "saves": 0,
-     "save_pct": null
+     "gp": 2,
+     "ga": 1,
+     "saves": 1,
+     "save_pct": 50.0
     }
    },
    "matches": [
@@ -307,6 +323,27 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "gk",
+     "num": "28",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "10:23",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -316,10 +353,10 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 596,
-    "sh": 11,
+    "gp": 11,
+    "starts": 8,
+    "min": 677,
+    "sh": 12,
     "sog": 7,
     "g": 3,
     "a": 0,
@@ -327,9 +364,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.6,
+    "shot_pct": 58.3,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -491,6 +528,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 81,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -500,9 +553,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 360,
+    "gp": 5,
+    "starts": 5,
+    "min": 440,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -515,10 +568,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
-     "ga": 6,
-     "saves": 22,
-     "save_pct": 78.6
+     "gp": 5,
+     "ga": 10,
+     "saves": 29,
+     "save_pct": 74.4
     }
    },
    "matches": [
@@ -605,6 +658,27 @@
       "ga": 2,
       "saves": 7
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "79:37",
+      "ga": 4,
+      "saves": 7
+     }
     }
    ]
   },
@@ -614,9 +688,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 493,
+    "gp": 11,
+    "starts": 7,
+    "min": 571,
     "sh": 3,
     "sog": 1,
     "g": 1,
@@ -789,6 +863,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -796,12 +886,12 @@
    "name": "Domingos, Toni",
    "slug": "domingos-toni",
    "num": "11",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 286,
-    "sh": 0,
+    "gp": 11,
+    "starts": 6,
+    "min": 327,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -809,9 +899,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -973,6 +1063,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -982,9 +1088,9 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 59,
+    "min": 69,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1053,6 +1159,22 @@
      "pos": "fwd",
      "num": "17",
      "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 10,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1214,15 +1336,15 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 775,
+    "gp": 11,
+    "starts": 11,
+    "min": 865,
     "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 20.0,
@@ -1389,6 +1511,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "FWD",
+     "num": "31",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1398,9 +1536,9 @@
    "num": "21",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 239,
+    "min": 256,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1541,6 +1679,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1550,9 +1704,9 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 7,
-    "min": 714,
+    "min": 767,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1725,6 +1879,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1734,9 +1904,9 @@
    "num": "8",
    "pos": "def",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 298,
+    "gp": 11,
+    "starts": 2,
+    "min": 373,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -1909,6 +2079,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1918,9 +2104,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 885,
+    "gp": 11,
+    "starts": 11,
+    "min": 975,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -2093,6 +2279,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2102,9 +2304,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 304,
+    "min": 331,
     "sh": 6,
     "sog": 5,
     "g": 2,
@@ -2261,6 +2463,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2270,9 +2488,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 619,
+    "min": 637,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2445,6 +2663,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2454,10 +2688,10 @@
    "num": "7",
    "pos": null,
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 29,
-    "sh": 2,
+    "min": 41,
+    "sh": 3,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -2465,9 +2699,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2533,6 +2767,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 12,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2542,10 +2792,10 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 612,
-    "sh": 8,
+    "gp": 10,
+    "starts": 8,
+    "min": 649,
+    "sh": 9,
     "sog": 5,
     "g": 1,
     "a": 3,
@@ -2553,9 +2803,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
+    "shot_pct": 55.6,
     "shots_saved": 4,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2701,6 +2951,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 37,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,9 +2976,9 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 325,
+    "min": 338,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2853,6 +3119,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2862,10 +3144,10 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 259,
-    "sh": 4,
+    "min": 278,
+    "sh": 5,
     "sog": 3,
     "g": 0,
     "a": 1,
@@ -2873,9 +3155,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 3,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3037,6 +3319,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 19,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3046,9 +3344,9 @@
    "num": "19",
    "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 158,
+    "min": 170,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3141,6 +3439,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3150,10 +3464,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 262,
-    "sh": 9,
+    "gp": 6,
+    "starts": 6,
+    "min": 303,
+    "sh": 11,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -3161,9 +3475,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 36.4,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3245,6 +3559,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 41,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3254,9 +3584,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 72,
+    "min": 81,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3349,6 +3679,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3358,10 +3704,10 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
-    "sh": 18,
+    "gp": 11,
+    "starts": 11,
+    "min": 987,
+    "sh": 19,
     "sog": 12,
     "g": 2,
     "a": 0,
@@ -3369,9 +3715,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 63.2,
     "shots_saved": 10,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3530,6 +3876,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Fordham",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 87,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

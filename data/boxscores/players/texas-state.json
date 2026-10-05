@@ -9,9 +9,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 442,
+    "gp": 11,
+    "starts": 7,
+    "min": 508,
     "sh": 9,
     "sog": 4,
     "g": 2,
@@ -184,6 +184,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -193,19 +209,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 761,
-    "sh": 11,
-    "sog": 3,
+    "gp": 11,
+    "starts": 11,
+    "min": 842,
+    "sh": 12,
+    "sog": 4,
     "g": 2,
     "a": 1,
     "fouls": 4,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 27.3,
-    "shots_saved": 1,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
     "shots_off_target": 8
    },
    "matches": [
@@ -368,6 +384,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 81,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -377,9 +409,9 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 96,
+    "min": 105,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -488,6 +520,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -497,9 +545,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 693,
+    "gp": 9,
+    "starts": 9,
+    "min": 783,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -512,10 +560,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 13,
-     "saves": 38,
-     "save_pct": 74.5
+     "gp": 9,
+     "ga": 14,
+     "saves": 52,
+     "save_pct": 78.8
     }
    },
    "matches": [
@@ -686,6 +734,27 @@
       "ga": 2,
       "saves": 11
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 14
+     }
     }
    ]
   },
@@ -695,9 +764,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 459,
+    "gp": 11,
+    "starts": 4,
+    "min": 549,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -862,6 +931,22 @@
      "pos": "fwd",
      "num": "7",
      "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1060,20 +1145,20 @@
    "num": "28",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 322,
-    "sh": 3,
+    "min": 363,
+    "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 3,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1235,6 +1320,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1380,9 +1481,9 @@
    "num": "21",
    "pos": "def",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 124,
+    "min": 136,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1491,6 +1592,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1500,9 +1617,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 689,
+    "gp": 11,
+    "starts": 9,
+    "min": 779,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1675,6 +1792,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1684,9 +1817,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 365,
+    "min": 380,
     "sh": 7,
     "sog": 1,
     "g": 0,
@@ -1859,6 +1992,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1868,9 +2017,9 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 239,
+    "min": 252,
     "sh": 5,
     "sog": 4,
     "g": 2,
@@ -1995,6 +2144,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2004,9 +2169,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 118,
+    "min": 145,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2128,6 +2293,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2324,9 +2505,9 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 724,
+    "gp": 11,
+    "starts": 11,
+    "min": 787,
     "sh": 9,
     "sog": 3,
     "g": 1,
@@ -2499,6 +2680,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2508,19 +2705,19 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 721,
-    "sh": 8,
-    "sog": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 811,
+    "sh": 9,
+    "sog": 7,
     "g": 2,
     "a": 4,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
-    "shots_saved": 4,
+    "shot_pct": 77.8,
+    "shots_saved": 5,
     "shots_off_target": 2
    },
    "matches": [
@@ -2683,6 +2880,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2692,9 +2905,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 780,
+    "gp": 11,
+    "starts": 10,
+    "min": 870,
     "sh": 5,
     "sog": 4,
     "g": 3,
@@ -2867,6 +3080,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2948,20 +3177,20 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
-    "starts": 2,
-    "min": 328,
-    "sh": 7,
-    "sog": 4,
+    "gp": 11,
+    "starts": 3,
+    "min": 364,
+    "sh": 9,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 4,
-    "shots_off_target": 3
+    "shot_pct": 55.6,
+    "shots_saved": 5,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3123,6 +3352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 36,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3132,9 +3377,9 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 162,
+    "min": 184,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -3259,6 +3504,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3268,10 +3529,10 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 729,
-    "sh": 9,
+    "gp": 11,
+    "starts": 11,
+    "min": 797,
+    "sh": 12,
     "sog": 4,
     "g": 1,
     "a": 1,
@@ -3279,9 +3540,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3443,6 +3704,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 68,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3524,9 +3801,9 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 125,
+    "min": 149,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3635,6 +3912,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3684,10 +3977,10 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 646,
-    "sh": 12,
+    "gp": 11,
+    "starts": 10,
+    "min": 709,
+    "sh": 13,
     "sog": 5,
     "g": 3,
     "a": 5,
@@ -3695,9 +3988,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
+    "shot_pct": 38.5,
     "shots_saved": 2,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3855,6 +4148,22 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "San Diego State",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 63,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

@@ -9,20 +9,20 @@
    "num": "7",
    "pos": "mid",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 40,
-    "sh": 1,
+    "min": 80,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -56,6 +56,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -65,10 +81,10 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 469,
-    "sh": 2,
+    "gp": 8,
+    "starts": 4,
+    "min": 559,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -76,9 +92,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -192,6 +208,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -201,20 +233,20 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 599,
-    "sh": 17,
-    "sog": 4,
-    "g": 1,
+    "min": 645,
+    "sh": 21,
+    "sog": 6,
+    "g": 2,
     "a": 2,
     "fouls": 4,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 23.5,
-    "shots_saved": 3,
-    "shots_off_target": 13
+    "shot_pct": 28.6,
+    "shots_saved": 4,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -376,6 +408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": false,
+     "pos": "fwd",
+     "num": "21",
+     "min": 46,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -385,10 +433,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 606,
-    "sh": 6,
+    "gp": 9,
+    "starts": 8,
+    "min": 696,
+    "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -396,9 +444,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -528,6 +576,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -625,13 +689,13 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 658,
+    "gp": 10,
+    "starts": 10,
+    "min": 748,
     "sh": 2,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
@@ -780,6 +844,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -953,9 +1033,9 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 75,
+    "min": 102,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1040,6 +1120,22 @@
      "pos": "fwd",
      "num": "23",
      "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 27,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1175,22 +1271,22 @@
    "name": "Garcia, Barbara",
    "slug": "garcia-barbara",
    "num": "11",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 178,
-    "sh": 2,
-    "sog": 0,
+    "gp": 8,
+    "starts": 2,
+    "min": 208,
+    "sh": 4,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1304,6 +1400,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 30,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1313,9 +1425,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 717,
+    "gp": 11,
+    "starts": 9,
+    "min": 767,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1488,6 +1600,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1585,10 +1713,10 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 6,
-    "min": 587,
-    "sh": 3,
+    "gp": 10,
+    "starts": 7,
+    "min": 637,
+    "sh": 4,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -1596,9 +1724,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 3,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1744,6 +1872,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 50,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1753,10 +1897,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 529,
-    "sh": 4,
+    "gp": 11,
+    "starts": 9,
+    "min": 606,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -1764,9 +1908,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1928,6 +2072,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 77,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1937,19 +2097,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 5,
-    "min": 585,
-    "sh": 18,
-    "sog": 10,
-    "g": 0,
+    "min": 612,
+    "sh": 20,
+    "sog": 12,
+    "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 10,
+    "shot_pct": 60.0,
+    "shots_saved": 11,
     "shots_off_target": 8
    },
    "matches": [
@@ -2112,6 +2272,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 27,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2121,20 +2297,20 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 317,
-    "sh": 9,
-    "sog": 3,
+    "gp": 7,
+    "starts": 3,
+    "min": 367,
+    "sh": 11,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
-    "shots_off_target": 6
+    "shot_pct": 36.4,
+    "shots_saved": 4,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2232,6 +2408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 50,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2241,19 +2433,19 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 508,
-    "sh": 9,
-    "sog": 5,
+    "min": 558,
+    "sh": 10,
+    "sog": 6,
     "g": 2,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 3,
+    "shot_pct": 60.0,
+    "shots_saved": 4,
     "shots_off_target": 4
    },
    "matches": [
@@ -2416,6 +2608,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2465,9 +2673,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 6,
-    "min": 356,
+    "min": 369,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2592,6 +2800,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": false,
+     "pos": "def",
+     "num": "12",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2641,11 +2865,11 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 766,
-    "sh": 4,
-    "sog": 2,
+    "gp": 10,
+    "starts": 10,
+    "min": 856,
+    "sh": 6,
+    "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 2,
@@ -2653,8 +2877,8 @@
     "rc": 1,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2800,6 +3024,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2913,9 +3153,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2928,10 +3168,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 14,
-     "saves": 40,
-     "save_pct": 74.1
+     "gp": 11,
+     "ga": 15,
+     "saves": 42,
+     "save_pct": 73.7
     }
    },
    "matches": [
@@ -3144,6 +3384,27 @@
       "ga": 1,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 2
+     }
     }
    ]
   },
@@ -3249,19 +3510,19 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 689,
-    "sh": 13,
-    "sog": 5,
+    "gp": 11,
+    "starts": 11,
+    "min": 769,
+    "sh": 14,
+    "sog": 6,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 2,
+    "shot_pct": 42.9,
+    "shots_saved": 3,
     "shots_off_target": 8
    },
    "matches": [
@@ -3418,6 +3679,22 @@
      "min": 89,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Jacksonville State",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 80,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

@@ -4,25 +4,76 @@
  "season": 2026,
  "players": [
   {
+   "name": "Allen, Mac",
+   "slug": "allen-mac",
+   "num": "33",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 45,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 0,
+     "save_pct": null
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "GK",
+     "num": "33",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 0
+     }
+    }
+   ]
+  },
+  {
    "name": "Attaway, Ella",
    "slug": "attaway-ella",
    "num": "22",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 131,
-    "sh": 2,
-    "sog": 0,
-    "g": 0,
+    "min": 171,
+    "sh": 6,
+    "sog": 2,
+    "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -152,6 +203,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 40,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -212,20 +279,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 602,
-    "sh": 3,
-    "sog": 3,
-    "g": 0,
+    "gp": 11,
+    "starts": 9,
+    "min": 650,
+    "sh": 5,
+    "sog": 4,
+    "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 80.0,
     "shots_saved": 3,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -387,6 +454,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 48,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -434,11 +517,11 @@
    "name": "Brown, Mackenzie",
    "slug": "brown-mackenzie",
    "num": "19",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 225,
+    "min": 267,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -579,6 +662,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "DEF",
+     "num": "19",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -628,20 +727,20 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 631,
-    "sh": 11,
-    "sog": 4,
+    "gp": 11,
+    "starts": 9,
+    "min": 675,
+    "sh": 13,
+    "sog": 5,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
-    "shots_saved": 3,
-    "shots_off_target": 7
+    "shot_pct": 38.5,
+    "shots_saved": 4,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -803,6 +902,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 44,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -812,19 +927,19 @@
    "num": "24",
    "pos": null,
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 338,
-    "sh": 8,
-    "sog": 4,
+    "min": 384,
+    "sh": 9,
+    "sog": 5,
     "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 55.6,
+    "shots_saved": 4,
     "shots_off_target": 4
    },
    "matches": [
@@ -971,6 +1086,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "",
+     "num": "24",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1073,13 +1204,13 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 14,
+    "min": 31,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -1100,6 +1231,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1153,9 +1300,9 @@
    "num": "14",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 67,
+    "min": 95,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1208,6 +1355,22 @@
      "pos": "DEF",
      "num": "14",
      "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "DEF",
+     "num": "14",
+     "min": 28,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1345,19 +1508,19 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 168,
-    "sh": 4,
-    "sog": 2,
+    "min": 210,
+    "sh": 5,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 60.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -1520,6 +1683,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "MID",
+     "num": "3",
+     "min": 42,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1529,19 +1708,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 700,
-    "sh": 44,
-    "sog": 18,
+    "gp": 11,
+    "starts": 10,
+    "min": 727,
+    "sh": 45,
+    "sog": 19,
     "g": 6,
-    "a": 4,
+    "a": 6,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.9,
-    "shots_saved": 12,
+    "shot_pct": 42.2,
+    "shots_saved": 13,
     "shots_off_target": 26
    },
    "matches": [
@@ -1704,6 +1883,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 27,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1793,9 +1988,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 34,
+    "min": 62,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1832,6 +2027,22 @@
      "pos": "mid",
      "num": "12",
      "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 28,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1940,14 +2151,14 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 706,
+    "gp": 11,
+    "starts": 11,
+    "min": 760,
     "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2115,6 +2326,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2164,14 +2391,14 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 160,
+    "min": 196,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2323,6 +2550,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2412,9 +2655,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 810,
+    "gp": 11,
+    "starts": 11,
+    "min": 892,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2587,6 +2830,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "",
+     "num": "8",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2636,9 +2895,9 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 846,
+    "gp": 11,
+    "starts": 11,
+    "min": 898,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -2811,6 +3070,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2820,20 +3095,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 440,
-    "sh": 5,
+    "min": 486,
+    "sh": 7,
     "sog": 3,
     "g": 2,
     "a": 3,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 42.9,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2995,6 +3270,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "DEF",
+     "num": "6",
+     "min": 46,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3044,13 +3335,13 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 81,
+    "min": 101,
     "sh": 2,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -3139,6 +3430,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3148,20 +3455,20 @@
    "num": "28",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 699,
-    "sh": 11,
+    "gp": 11,
+    "starts": 11,
+    "min": 757,
+    "sh": 12,
     "sog": 6,
     "g": 2,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
+    "shot_pct": 50.0,
     "shots_saved": 4,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3323,6 +3630,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "MID",
+     "num": "28",
+     "min": 58,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3412,9 +3735,9 @@
    "num": "32",
    "pos": "GK",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 495,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3427,10 +3750,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
+     "gp": 6,
      "ga": 3,
-     "saves": 9,
-     "save_pct": 75.0
+     "saves": 10,
+     "save_pct": 76.9
     }
    },
    "matches": [
@@ -3538,6 +3861,27 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "GK",
+     "num": "32",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -3547,20 +3891,20 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 529,
-    "sh": 37,
-    "sog": 20,
-    "g": 5,
+    "gp": 11,
+    "starts": 10,
+    "min": 556,
+    "sh": 41,
+    "sog": 23,
+    "g": 8,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.1,
+    "shot_pct": 56.1,
     "shots_saved": 15,
-    "shots_off_target": 17
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -3722,6 +4066,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 27,
+     "sh": 4,
+     "sog": 3,
+     "g": 3,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3843,14 +4203,14 @@
    "num": "5",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 696,
+    "gp": 11,
+    "starts": 11,
+    "min": 750,
     "sh": 7,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4018,6 +4378,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "",
+     "num": "5",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4107,9 +4483,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 843,
+    "gp": 11,
+    "starts": 10,
+    "min": 909,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -4282,6 +4658,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4329,11 +4721,11 @@
    "name": "Wood, Ayden",
    "slug": "wood-ayden",
    "num": "21",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 280,
+    "min": 315,
     "sh": 8,
     "sog": 5,
     "g": 1,
@@ -4500,6 +4892,22 @@
      "min": 24,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Western Carolina",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

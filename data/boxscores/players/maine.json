@@ -9,19 +9,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 266,
-    "sh": 6,
-    "sog": 2,
+    "min": 305,
+    "sh": 7,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 42.9,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -184,6 +184,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 39,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -193,9 +209,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 11,
+    "starts": 11,
+    "min": 990,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -208,10 +224,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 9,
+     "gp": 11,
+     "ga": 11,
      "saves": 38,
-     "save_pct": 80.9
+     "save_pct": 77.6
     }
    },
    "matches": [
@@ -424,6 +440,27 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 0
+     }
     }
    ]
   },
@@ -545,9 +582,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 697,
+    "gp": 11,
+    "starts": 9,
+    "min": 742,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -720,6 +757,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -729,19 +782,19 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 574,
-    "sh": 9,
-    "sog": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 620,
+    "sh": 10,
+    "sog": 3,
     "g": 1,
     "a": 2,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 1,
+    "shot_pct": 30.0,
+    "shots_saved": 2,
     "shots_off_target": 7
    },
    "matches": [
@@ -904,6 +957,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1017,10 +1086,10 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 354,
-    "sh": 5,
+    "min": 398,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 2,
@@ -1028,9 +1097,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1176,6 +1245,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 44,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1185,10 +1270,10 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 761,
-    "sh": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 832,
+    "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 3,
@@ -1196,9 +1281,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1360,6 +1445,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 71,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1369,9 +1470,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 854,
+    "gp": 11,
+    "starts": 11,
+    "min": 944,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -1544,6 +1645,62 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Jarvais, Stella",
+   "slug": "jarvais-stella",
+   "num": "13",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 3,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "def",
+     "num": "13",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1553,9 +1710,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 260,
+    "min": 282,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1688,6 +1845,22 @@
      "pos": "DEF",
      "num": "24",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 22,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1841,10 +2014,10 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 521,
-    "sh": 13,
+    "gp": 11,
+    "starts": 8,
+    "min": 593,
+    "sh": 14,
     "sog": 9,
     "g": 4,
     "a": 0,
@@ -1852,9 +2025,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 69.2,
+    "shot_pct": 64.3,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2016,6 +2189,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 72,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2025,10 +2214,10 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 508,
-    "sh": 15,
+    "min": 571,
+    "sh": 16,
     "sog": 9,
     "g": 1,
     "a": 0,
@@ -2036,9 +2225,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 56.2,
     "shots_saved": 8,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2200,6 +2389,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 63,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2209,20 +2414,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 6,
-    "min": 517,
-    "sh": 3,
-    "sog": 1,
+    "gp": 11,
+    "starts": 7,
+    "min": 566,
+    "sh": 5,
+    "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2384,6 +2589,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 49,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2393,10 +2614,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 836,
-    "sh": 19,
+    "gp": 11,
+    "starts": 11,
+    "min": 919,
+    "sh": 21,
     "sog": 8,
     "g": 3,
     "a": 0,
@@ -2404,9 +2625,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.1,
+    "shot_pct": 38.1,
     "shots_saved": 5,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2568,6 +2789,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 83,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2692,14 +2929,94 @@
    ]
   },
   {
+   "name": "Schroeder, Lea",
+   "slug": "schroeder-lea",
+   "num": "5",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 45,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "TM TEAM",
+   "slug": "tm-team",
+   "num": "TM",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 0,
+    "sh": 0,
+    "sog": 0,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Thornton, Abbey",
    "slug": "thornton-abbey",
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 759,
+    "gp": 11,
+    "starts": 11,
+    "min": 831,
     "sh": 10,
     "sog": 5,
     "g": 0,
@@ -2872,6 +3189,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2881,10 +3214,10 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 441,
-    "sh": 5,
+    "gp": 11,
+    "starts": 9,
+    "min": 489,
+    "sh": 6,
     "sog": 3,
     "g": 2,
     "a": 1,
@@ -2892,9 +3225,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3056,6 +3389,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 48,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3065,9 +3414,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 764,
+    "gp": 11,
+    "starts": 11,
+    "min": 854,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3240,6 +3589,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3249,9 +3614,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 153,
+    "min": 171,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -3416,6 +3781,22 @@
      "pos": "MID",
      "num": "27",
      "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-04",
+     "opponent": "Vermont",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 18,
      "sh": 0,
      "sog": 0,
      "g": 0,
