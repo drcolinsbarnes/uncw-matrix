@@ -7,7 +7,7 @@
    "name": "Benn, Kacie",
    "slug": "benn-kacie",
    "num": "33",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 8,
     "starts": 3,
@@ -161,20 +161,20 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 344,
-    "sh": 10,
-    "sog": 4,
-    "g": 0,
+    "min": 366,
+    "sh": 12,
+    "sog": 5,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 41.7,
     "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -336,6 +336,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 22,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -345,9 +361,9 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 400,
+    "gp": 11,
+    "starts": 6,
+    "min": 458,
     "sh": 9,
     "sog": 7,
     "g": 1,
@@ -520,6 +536,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -665,9 +697,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 846,
+    "gp": 11,
+    "starts": 11,
+    "min": 936,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -836,6 +868,22 @@
      "sog": 1,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1096,19 +1144,19 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 546,
-    "sh": 4,
-    "sog": 0,
+    "gp": 9,
+    "starts": 7,
+    "min": 636,
+    "sh": 5,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 20.0,
+    "shots_saved": 1,
     "shots_off_target": 4
    },
    "matches": [
@@ -1239,6 +1287,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1248,9 +1312,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 728,
+    "gp": 11,
+    "starts": 11,
+    "min": 818,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1263,10 +1327,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 14,
-     "saves": 30,
-     "save_pct": 68.2
+     "gp": 11,
+     "ga": 15,
+     "saves": 37,
+     "save_pct": 71.2
     }
    },
    "matches": [
@@ -1479,6 +1543,27 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 7
+     }
     }
    ]
   },
@@ -1640,13 +1725,13 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 782,
+    "gp": 11,
+    "starts": 11,
+    "min": 872,
     "sh": 14,
     "sog": 4,
     "g": 2,
-    "a": 2,
+    "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
@@ -1815,6 +1900,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1928,20 +2029,20 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 497,
-    "sh": 20,
-    "sog": 7,
-    "g": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 560,
+    "sh": 23,
+    "sog": 9,
+    "g": 3,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.0,
+    "shot_pct": 39.1,
     "shots_saved": 6,
-    "shots_off_target": 13
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -2087,6 +2188,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 63,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2134,11 +2251,11 @@
    "name": "Moser, Anya",
    "slug": "moser-anya",
    "num": "21",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 293,
+    "min": 314,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2295,6 +2412,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2344,20 +2477,20 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 105,
-    "sh": 8,
+    "min": 119,
+    "sh": 9,
     "sog": 5,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
+    "shot_pct": 55.6,
     "shots_saved": 4,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2435,6 +2568,22 @@
      "sog": 1,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 14,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -2552,9 +2701,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 455,
+    "min": 474,
     "sh": 25,
     "sog": 16,
     "g": 5,
@@ -2727,6 +2876,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2875,10 +3040,10 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 204,
-    "sh": 4,
+    "min": 269,
+    "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -2888,7 +3053,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3034,6 +3199,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": false,
+     "pos": "mid",
+     "num": "22",
+     "min": 65,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3041,22 +3222,22 @@
    "name": "Stewart, Amelie",
    "slug": "stewart-amelie",
    "num": "8",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 363,
-    "sh": 19,
-    "sog": 7,
-    "g": 4,
+    "gp": 11,
+    "starts": 4,
+    "min": 440,
+    "sh": 25,
+    "sog": 9,
+    "g": 5,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.8,
-    "shots_saved": 3,
-    "shots_off_target": 12
+    "shot_pct": 36.0,
+    "shots_saved": 4,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -3218,6 +3399,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 77,
+     "sh": 6,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3267,9 +3464,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 338,
+    "gp": 8,
+    "starts": 4,
+    "min": 362,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3394,6 +3591,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3403,9 +3616,9 @@
    "num": "30",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 152,
+    "min": 174,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3514,6 +3727,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": false,
+     "pos": "mid",
+     "num": "30",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3523,9 +3752,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 849,
+    "gp": 11,
+    "starts": 11,
+    "min": 939,
     "sh": 9,
     "sog": 3,
     "g": 0,
@@ -3698,6 +3927,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3707,20 +3952,20 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 588,
-    "sh": 19,
-    "sog": 11,
-    "g": 2,
+    "gp": 11,
+    "starts": 11,
+    "min": 664,
+    "sh": 21,
+    "sog": 12,
+    "g": 3,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.9,
+    "shot_pct": 57.1,
     "shots_saved": 9,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3882,6 +4127,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 76,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3891,20 +4152,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 773,
-    "sh": 37,
-    "sog": 11,
+    "gp": 11,
+    "starts": 11,
+    "min": 852,
+    "sh": 41,
+    "sog": 13,
     "g": 4,
-    "a": 2,
+    "a": 5,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 29.7,
-    "shots_saved": 7,
-    "shots_off_target": 26
+    "shot_pct": 31.7,
+    "shots_saved": 9,
+    "shots_off_target": 28
    },
    "matches": [
     {
@@ -4062,6 +4323,22 @@
      "sog": 3,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Marist",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 79,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 3,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

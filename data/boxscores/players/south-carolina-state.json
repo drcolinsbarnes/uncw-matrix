@@ -97,9 +97,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 5,
-    "min": 279,
+    "min": 303,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -224,6 +224,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -337,20 +353,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 5,
-    "min": 301,
-    "sh": 1,
-    "sog": 0,
-    "g": 0,
+    "min": 349,
+    "sh": 4,
+    "sog": 1,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 25.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -432,6 +448,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "def",
+     "num": "6",
+     "min": 48,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -441,9 +473,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 618,
+    "gp": 11,
+    "starts": 10,
+    "min": 679,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -614,6 +646,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -849,9 +897,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 926,
+    "gp": 13,
+    "starts": 13,
+    "min": 1008,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -864,10 +912,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 31,
-     "saves": 71,
-     "save_pct": 69.6
+     "gp": 13,
+     "ga": 35,
+     "saves": 75,
+     "save_pct": 68.2
     }
    },
    "matches": [
@@ -1122,6 +1170,27 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "81:07",
+      "ga": 4,
+      "saves": 4
+     }
     }
    ]
   },
@@ -1131,9 +1200,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 7,
-    "min": 633,
+    "min": 702,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -1338,6 +1407,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "fwd",
+     "num": "21",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1451,20 +1536,20 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 448,
-    "sh": 0,
-    "sog": 0,
+    "gp": 8,
+    "starts": 6,
+    "min": 513,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1572,6 +1657,22 @@
      "min": 73,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 65,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1691,9 +1792,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 343,
+    "gp": 5,
+    "starts": 5,
+    "min": 433,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1758,6 +1859,22 @@
     {
      "date": "2026-09-20",
      "opponent": "Alabama A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
      "start": true,
      "pos": "DEF",
      "num": "15",
@@ -1883,9 +2000,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 476,
+    "min": 495,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2002,6 +2119,22 @@
      "pos": "mid",
      "num": "13",
      "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 19,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2281,11 +2414,11 @@
    "name": "Moore, Jaelyn",
    "slug": "moore-jaelyn-2",
    "num": "9",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 230,
+    "gp": 8,
+    "starts": 2,
+    "min": 283,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2410,6 +2543,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2521,11 +2670,11 @@
    "name": "Philyaw, Ava",
    "slug": "philyaw-ava-2",
    "num": "19",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 92,
+    "min": 102,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2610,6 +2759,62 @@
      "pos": "MID",
      "num": "19",
      "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "mid",
+     "num": "19",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Robertson, Khloe",
+   "slug": "robertson-khloe",
+   "num": "40",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 45,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "DEF",
+     "num": "40",
+     "min": 45,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2731,9 +2936,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 597,
+    "gp": 8,
+    "starts": 8,
+    "min": 687,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2858,6 +3063,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2937,7 +3158,7 @@
    "name": "Schliffer , Shannilea",
    "slug": "schliffer-shannilea",
    "num": "14",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
     "gp": 2,
     "starts": 1,
@@ -2979,6 +3200,46 @@
      "num": "14",
      "min": 42,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Schliffer, Shannilea",
+   "slug": "schliffer-shannilea-2",
+   "num": "14",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 19,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "def",
+     "num": "14",
+     "min": 19,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3099,20 +3360,20 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 489,
-    "sh": 9,
-    "sog": 1,
+    "gp": 8,
+    "starts": 6,
+    "min": 568,
+    "sh": 11,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 11.1,
-    "shots_saved": 1,
-    "shots_off_target": 8
+    "shot_pct": 18.2,
+    "shots_saved": 2,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3226,6 +3487,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 79,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3286,9 +3563,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 109,
+    "min": 117,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3301,10 +3578,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
+     "gp": 4,
      "ga": 9,
-     "saves": 6,
-     "save_pct": 40.0
+     "saves": 8,
+     "save_pct": 47.1
     }
    },
    "matches": [
@@ -3370,6 +3647,27 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "gk",
+     "num": "1",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "08:53",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -3377,7 +3675,7 @@
    "name": "Solomon , Semhar",
    "slug": "solomon-semhar",
    "num": "8",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 2,
     "starts": 1,
@@ -3433,7 +3731,7 @@
    "name": "Solomon, Semhar",
    "slug": "solomon-semhar-2",
    "num": "8",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 6,
     "starts": 0,
@@ -3683,19 +3981,19 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1052,
-    "sh": 4,
-    "sog": 3,
-    "g": 1,
+    "gp": 13,
+    "starts": 13,
+    "min": 1142,
+    "sh": 6,
+    "sog": 5,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
-    "shots_saved": 2,
+    "shot_pct": 83.3,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -3890,6 +4188,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4003,9 +4317,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 406,
+    "gp": 8,
+    "starts": 5,
+    "min": 417,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -4130,6 +4444,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4241,11 +4571,11 @@
    "name": "Tomes, Eiliyah",
    "slug": "tomes-eiliyah-2",
    "num": "26",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 342,
+    "min": 379,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4370,6 +4700,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4451,9 +4797,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 282,
+    "gp": 5,
+    "starts": 5,
+    "min": 372,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4522,6 +4868,22 @@
      "pos": "DEF",
      "num": "4",
      "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-06",
+     "opponent": "Presbyterian",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,

@@ -165,9 +165,9 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 86,
+    "min": 88,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -292,6 +292,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -397,9 +413,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 817,
+    "gp": 13,
+    "starts": 9,
+    "min": 907,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -412,10 +428,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 7,
-     "saves": 38,
-     "save_pct": 84.4
+     "saves": 44,
+     "save_pct": 86.3
     }
    },
    "matches": [
@@ -670,6 +686,27 @@
       "ga": 2,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 6
+     }
     }
    ]
   },
@@ -679,19 +716,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 10,
-    "min": 542,
-    "sh": 21,
-    "sog": 11,
+    "min": 579,
+    "sh": 22,
+    "sog": 12,
     "g": 2,
     "a": 2,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.4,
-    "shots_saved": 9,
+    "shot_pct": 54.5,
+    "shots_saved": 10,
     "shots_off_target": 10
    },
    "matches": [
@@ -886,6 +923,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "FWD",
+     "num": "14",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -895,9 +948,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 236,
+    "min": 265,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -1054,6 +1107,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "MID",
+     "num": "2",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1063,13 +1132,13 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 86,
-    "sh": 1,
-    "sog": 1,
-    "g": 0,
-    "a": 0,
+    "min": 133,
+    "sh": 2,
+    "sog": 2,
+    "g": 1,
+    "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
@@ -1126,6 +1195,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 47,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1135,20 +1220,20 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 907,
-    "sh": 31,
-    "sog": 19,
+    "gp": 13,
+    "starts": 13,
+    "min": 979,
+    "sh": 33,
+    "sog": 20,
     "g": 7,
-    "a": 6,
+    "a": 8,
     "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 3,
-    "shot_pct": 61.3,
-    "shots_saved": 12,
-    "shots_off_target": 12
+    "shot_pct": 60.6,
+    "shots_saved": 13,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1342,6 +1427,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "MID",
+     "num": "33",
+     "min": 72,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1351,9 +1452,9 @@
    "num": "44",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1005,
+    "gp": 13,
+    "starts": 13,
+    "min": 1089,
     "sh": 6,
     "sog": 5,
     "g": 0,
@@ -1558,6 +1659,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "DEF",
+     "num": "44",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1567,19 +1684,19 @@
    "num": "45",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 899,
-    "sh": 51,
-    "sog": 26,
-    "g": 7,
+    "gp": 13,
+    "starts": 13,
+    "min": 965,
+    "sh": 54,
+    "sog": 29,
+    "g": 9,
     "a": 3,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 51.0,
-    "shots_saved": 19,
+    "shot_pct": 53.7,
+    "shots_saved": 20,
     "shots_off_target": 25
    },
    "matches": [
@@ -1774,6 +1891,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "FWD",
+     "num": "45",
+     "min": 66,
+     "sh": 3,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1783,9 +1916,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 67,
+    "min": 74,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1878,6 +2011,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1887,9 +2036,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 97,
+    "min": 107,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -2014,6 +2163,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2023,10 +2188,10 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 787,
-    "sh": 38,
+    "gp": 13,
+    "starts": 13,
+    "min": 840,
+    "sh": 41,
     "sog": 18,
     "g": 5,
     "a": 1,
@@ -2034,9 +2199,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.4,
+    "shot_pct": 43.9,
     "shots_saved": 13,
-    "shots_off_target": 20
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -2230,6 +2395,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 53,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2239,14 +2420,14 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 0,
-    "min": 518,
+    "gp": 13,
+    "starts": 1,
+    "min": 554,
     "sh": 7,
     "sog": 4,
     "g": 1,
-    "a": 1,
-    "fouls": 5,
+    "a": 2,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2446,6 +2627,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2455,13 +2652,13 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 7,
-    "min": 567,
+    "min": 602,
     "sh": 3,
     "sog": 2,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
@@ -2662,6 +2859,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "MID",
+     "num": "13",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2722,20 +2935,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 6,
-    "min": 612,
-    "sh": 3,
+    "gp": 13,
+    "starts": 7,
+    "min": 678,
+    "sh": 5,
     "sog": 2,
     "g": 1,
-    "a": 2,
+    "a": 3,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 40.0,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2929,6 +3142,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 66,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2938,9 +3167,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 190,
+    "min": 194,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3073,6 +3302,22 @@
      "pos": "DEF",
      "num": "15",
      "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 4,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3266,20 +3511,20 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 36,
-    "sh": 0,
-    "sog": 0,
+    "min": 42,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -3329,6 +3574,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 6,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3338,14 +3599,14 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 950,
+    "gp": 13,
+    "starts": 13,
+    "min": 1021,
     "sh": 11,
     "sog": 8,
     "g": 0,
     "a": 1,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3545,6 +3806,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3554,14 +3831,14 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 964,
+    "gp": 13,
+    "starts": 13,
+    "min": 1054,
     "sh": 6,
     "sog": 3,
     "g": 2,
     "a": 2,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -3761,6 +4038,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3770,9 +4063,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 319,
+    "min": 364,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3945,6 +4238,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3994,9 +4303,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 857,
+    "gp": 13,
+    "starts": 13,
+    "min": 933,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4201,6 +4510,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4210,9 +4535,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 798,
+    "gp": 13,
+    "starts": 13,
+    "min": 862,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -4409,6 +4734,22 @@
      "pos": "DEF",
      "num": "24",
      "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Baylor",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 64,
      "sh": 0,
      "sog": 0,
      "g": 0,

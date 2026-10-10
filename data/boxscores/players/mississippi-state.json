@@ -9,9 +9,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 368,
+    "min": 382,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -129,6 +129,22 @@
      "num": "11",
      "min": 74,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 14,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -305,14 +321,14 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 233,
+    "min": 255,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -432,6 +448,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": false,
+     "pos": "",
+     "num": "9",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -441,20 +473,20 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 542,
-    "sh": 9,
-    "sog": 4,
-    "g": 1,
+    "gp": 8,
+    "starts": 8,
+    "min": 622,
+    "sh": 11,
+    "sog": 5,
+    "g": 2,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 45.5,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -568,6 +600,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 80,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -577,9 +625,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 630,
+    "gp": 8,
+    "starts": 8,
+    "min": 720,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -592,10 +640,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 5,
-     "saves": 24,
-     "save_pct": 82.8
+     "gp": 8,
+     "ga": 6,
+     "saves": 29,
+     "save_pct": 82.9
     }
    },
    "matches": [
@@ -745,6 +793,27 @@
       "ga": 0,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
+     }
     }
    ]
   },
@@ -754,9 +823,9 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 238,
+    "min": 258,
     "sh": 4,
     "sog": 4,
     "g": 2,
@@ -865,6 +934,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": false,
+     "pos": "FWD",
+     "num": "27",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -874,18 +959,18 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 605,
-    "sh": 17,
-    "sog": 8,
-    "g": 3,
-    "a": 2,
+    "gp": 8,
+    "starts": 8,
+    "min": 695,
+    "sh": 18,
+    "sog": 9,
+    "g": 4,
+    "a": 3,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.1,
+    "shot_pct": 50.0,
     "shots_saved": 5,
     "shots_off_target": 9
    },
@@ -1001,6 +1086,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1010,9 +1111,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 93,
+    "min": 99,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1121,6 +1222,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1130,19 +1247,19 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 539,
-    "sh": 20,
-    "sog": 9,
+    "gp": 8,
+    "starts": 8,
+    "min": 619,
+    "sh": 21,
+    "sog": 10,
     "g": 3,
     "a": 0,
-    "fouls": 19,
-    "yc": 0,
+    "fouls": 21,
+    "yc": 1,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 45.0,
-    "shots_saved": 6,
+    "shot_pct": 47.6,
+    "shots_saved": 7,
     "shots_off_target": 11
    },
    "matches": [
@@ -1257,6 +1374,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 80,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1266,15 +1399,15 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 410,
+    "gp": 7,
+    "starts": 6,
+    "min": 500,
     "sh": 5,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 3,
-    "yc": 0,
+    "fouls": 5,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 40.0,
@@ -1377,6 +1510,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1458,20 +1607,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 495,
-    "sh": 10,
+    "gp": 8,
+    "starts": 8,
+    "min": 564,
+    "sh": 12,
     "sog": 4,
     "g": 1,
-    "a": 1,
-    "fouls": 9,
+    "a": 2,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1585,6 +1734,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 69,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1594,20 +1759,20 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 377,
-    "sh": 11,
-    "sog": 5,
+    "gp": 6,
+    "starts": 6,
+    "min": 456,
+    "sh": 14,
+    "sog": 7,
     "g": 0,
     "a": 1,
-    "fouls": 4,
-    "yc": 0,
+    "fouls": 6,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 5,
-    "shots_off_target": 6
+    "shot_pct": 50.0,
+    "shots_saved": 7,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1689,6 +1854,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 79,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1698,20 +1879,20 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 622,
-    "sh": 9,
+    "gp": 8,
+    "starts": 8,
+    "min": 712,
+    "sh": 10,
     "sog": 0,
     "g": 0,
     "a": 2,
-    "fouls": 9,
+    "fouls": 13,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1825,6 +2006,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1890,19 +2087,19 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 630,
-    "sh": 4,
-    "sog": 3,
+    "gp": 8,
+    "starts": 8,
+    "min": 718,
+    "sh": 5,
+    "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 6,
-    "yc": 0,
-    "rc": 0,
+    "fouls": 9,
+    "yc": 1,
+    "rc": 1,
     "pk_g": 0,
-    "shot_pct": 75.0,
-    "shots_saved": 2,
+    "shot_pct": 80.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -2017,6 +2214,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 88,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 1,
+     "rc": 1,
+     "pk_g": 0
     }
    ]
   },
@@ -2026,14 +2239,14 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 423,
+    "gp": 6,
+    "starts": 6,
+    "min": 503,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2121,6 +2334,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2130,9 +2359,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 605,
+    "gp": 8,
+    "starts": 8,
+    "min": 695,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2249,6 +2478,22 @@
      "pos": "DEF",
      "num": "5",
      "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,

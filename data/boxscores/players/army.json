@@ -145,10 +145,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 120,
-    "sh": 2,
+    "min": 180,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -158,7 +158,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -240,6 +240,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": false,
+     "pos": "DEF",
+     "num": "8",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -300,20 +316,20 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 380,
-    "sh": 10,
+    "gp": 13,
+    "starts": 4,
+    "min": 420,
+    "sh": 11,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 18.2,
     "shots_saved": 1,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -507,6 +523,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -516,20 +548,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 830,
-    "sh": 21,
-    "sog": 6,
+    "gp": 11,
+    "starts": 11,
+    "min": 920,
+    "sh": 23,
+    "sog": 7,
     "g": 2,
     "a": 1,
-    "fouls": 10,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 28.6,
-    "shots_saved": 4,
-    "shots_off_target": 15
+    "shot_pct": 30.4,
+    "shots_saved": 5,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -691,6 +723,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -700,9 +748,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1080,
+    "gp": 13,
+    "starts": 13,
+    "min": 1170,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -715,10 +763,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 21,
-     "saves": 54,
-     "save_pct": 72.0
+     "saves": 56,
+     "save_pct": 72.7
     }
    },
    "matches": [
@@ -973,6 +1021,27 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -1118,14 +1187,14 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 9,
-    "min": 699,
+    "min": 757,
     "sh": 4,
     "sog": 4,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1325,6 +1394,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": false,
+     "pos": "FWD",
+     "num": "6",
+     "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1510,19 +1595,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 691,
-    "sh": 10,
-    "sog": 5,
+    "min": 725,
+    "sh": 11,
+    "sog": 6,
     "g": 2,
     "a": 3,
-    "fouls": 9,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 54.5,
+    "shots_saved": 4,
     "shots_off_target": 5
    },
    "matches": [
@@ -1698,6 +1783,22 @@
      "g": 0,
      "a": 1,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 34,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1918,9 +2019,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 710,
+    "gp": 11,
+    "starts": 11,
+    "min": 756,
     "sh": 15,
     "sog": 10,
     "g": 6,
@@ -2093,6 +2194,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 46,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2102,9 +2219,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 7,
-    "min": 489,
+    "min": 499,
     "sh": 14,
     "sog": 6,
     "g": 1,
@@ -2309,6 +2426,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": false,
+     "pos": "",
+     "num": "27",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2414,20 +2547,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1061,
-    "sh": 15,
+    "gp": 13,
+    "starts": 13,
+    "min": 1151,
+    "sh": 16,
     "sog": 6,
     "g": 1,
     "a": 2,
-    "fouls": 13,
+    "fouls": 15,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 37.5,
     "shots_saved": 5,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2621,6 +2754,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,14 +2859,14 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 794,
+    "gp": 13,
+    "starts": 13,
+    "min": 856,
     "sh": 13,
     "sog": 8,
     "g": 2,
     "a": 0,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2917,6 +3066,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2926,9 +3091,9 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 868,
+    "gp": 13,
+    "starts": 11,
+    "min": 958,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -3130,6 +3295,22 @@
      "g": 0,
      "a": 2,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3702,9 +3883,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 336,
+    "gp": 11,
+    "starts": 2,
+    "min": 426,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3877,6 +4058,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3886,9 +4083,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1064,
+    "gp": 13,
+    "starts": 13,
+    "min": 1154,
     "sh": 7,
     "sog": 4,
     "g": 1,
@@ -4093,6 +4290,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4158,20 +4371,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 606,
-    "sh": 10,
+    "gp": 12,
+    "starts": 11,
+    "min": 680,
+    "sh": 12,
     "sog": 5,
     "g": 2,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 50.0,
+    "shot_pct": 41.7,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -4349,6 +4562,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 74,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4358,14 +4587,14 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 837,
+    "gp": 13,
+    "starts": 12,
+    "min": 903,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4562,6 +4791,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Navy",
+     "start": true,
+     "pos": "",
+     "num": "23",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

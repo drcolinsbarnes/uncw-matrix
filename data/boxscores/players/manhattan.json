@@ -81,20 +81,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 506,
-    "sh": 23,
-    "sog": 10,
+    "gp": 9,
+    "starts": 9,
+    "min": 567,
+    "sh": 29,
+    "sog": 12,
     "g": 4,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.5,
-    "shots_saved": 6,
-    "shots_off_target": 13
+    "shot_pct": 41.4,
+    "shots_saved": 8,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -224,6 +224,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 61,
+     "sh": 6,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -233,10 +249,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 6,
-    "min": 367,
-    "sh": 6,
+    "min": 389,
+    "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -244,9 +260,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -376,6 +392,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 22,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -385,9 +417,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 326,
+    "gp": 6,
+    "starts": 5,
+    "min": 416,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -480,6 +512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -489,10 +537,10 @@
    "num": "28",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 653,
-    "sh": 5,
+    "gp": 9,
+    "starts": 9,
+    "min": 743,
+    "sh": 8,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -500,9 +548,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 12.5,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -625,6 +673,22 @@
      "num": "28",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "MID",
+     "num": "28",
+     "min": 90,
+     "sh": 3,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -920,9 +984,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 3,
-    "starts": 3,
-    "min": 270,
+    "gp": 4,
+    "starts": 4,
+    "min": 360,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -935,10 +999,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
+     "gp": 4,
      "ga": 1,
-     "saves": 2,
-     "save_pct": 66.7
+     "saves": 3,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -987,6 +1051,27 @@
     {
      "date": "2026-09-19",
      "opponent": "Niagara",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
      "start": true,
      "pos": "GK",
      "num": "1",
@@ -1101,10 +1186,10 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
-    "starts": 1,
-    "min": 182,
-    "sh": 2,
+    "gp": 5,
+    "starts": 2,
+    "min": 228,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1112,9 +1197,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1172,6 +1257,22 @@
      "pos": "fwd",
      "num": "9",
      "min": 56,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 46,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -1285,9 +1386,9 @@
    "num": "26",
    "pos": "def",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 180,
+    "min": 227,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1396,6 +1497,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": false,
+     "pos": "def",
+     "num": "26",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1461,9 +1578,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 606,
+    "gp": 9,
+    "starts": 9,
+    "min": 649,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1604,6 +1721,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1613,19 +1746,19 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 357,
-    "sh": 25,
-    "sog": 8,
-    "g": 1,
+    "gp": 9,
+    "starts": 6,
+    "min": 411,
+    "sh": 29,
+    "sog": 12,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 32.0,
-    "shots_saved": 7,
+    "shot_pct": 41.4,
+    "shots_saved": 10,
     "shots_off_target": 17
    },
    "matches": [
@@ -1756,6 +1889,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "FWD",
+     "num": "24",
+     "min": 54,
+     "sh": 4,
+     "sog": 4,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1765,20 +1914,20 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 577,
-    "sh": 32,
-    "sog": 14,
+    "gp": 9,
+    "starts": 9,
+    "min": 657,
+    "sh": 35,
+    "sog": 16,
     "g": 3,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.8,
-    "shots_saved": 11,
-    "shots_off_target": 18
+    "shot_pct": 45.7,
+    "shots_saved": 13,
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -1903,6 +2052,22 @@
      "sh": 13,
      "sog": 6,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 80,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -2037,9 +2202,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 565,
+    "gp": 8,
+    "starts": 8,
+    "min": 655,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2164,6 +2329,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2173,13 +2354,13 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 619,
+    "gp": 8,
+    "starts": 8,
+    "min": 709,
     "sh": 2,
     "sog": 2,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -2300,6 +2481,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2413,10 +2610,10 @@
    "num": "20",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 224,
-    "sh": 5,
+    "min": 269,
+    "sh": 7,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -2424,9 +2621,9 @@
     "yc": 0,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 14.3,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2540,6 +2737,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": false,
+     "pos": "mid",
+     "num": "20",
+     "min": 45,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2549,10 +2762,10 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 227,
-    "sh": 8,
+    "min": 269,
+    "sh": 10,
     "sog": 4,
     "g": 3,
     "a": 2,
@@ -2560,9 +2773,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2660,6 +2873,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 42,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2669,9 +2898,9 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 7,
-    "starts": 2,
-    "min": 320,
+    "gp": 8,
+    "starts": 3,
+    "min": 410,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2796,6 +3025,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2805,9 +3050,9 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 124,
+    "min": 134,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2892,6 +3137,22 @@
      "pos": "fwd",
      "num": "3",
      "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Rider",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 10,
      "sh": 0,
      "sog": 0,
      "g": 0,

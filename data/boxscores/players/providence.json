@@ -9,10 +9,10 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 139,
-    "sh": 3,
+    "min": 147,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -22,7 +22,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "FWD",
+     "num": "30",
+     "min": 8,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -177,9 +193,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 382,
+    "min": 398,
     "sh": 12,
     "sog": 4,
     "g": 0,
@@ -368,6 +384,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -377,9 +409,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 75,
+    "min": 82,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -472,6 +504,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -481,20 +529,20 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 2,
-    "starts": 0,
-    "min": 63,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
+    "gp": 3,
+    "starts": 1,
+    "min": 125,
+    "sh": 3,
+    "sog": 3,
+    "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 2,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -528,6 +576,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 62,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -537,9 +601,9 @@
    "num": "77",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 2,
-    "min": 581,
+    "gp": 12,
+    "starts": 3,
+    "min": 671,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -552,10 +616,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 6,
-     "saves": 29,
-     "save_pct": 82.9
+     "gp": 12,
+     "ga": 7,
+     "saves": 37,
+     "save_pct": 84.1
     }
    },
    "matches": [
@@ -789,6 +853,27 @@
       "ga": 2,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "GK",
+     "num": "77",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 8
+     }
     }
    ]
   },
@@ -798,9 +883,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 287,
+    "min": 365,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -973,6 +1058,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -982,14 +1083,14 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 29,
+    "min": 68,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1013,6 +1114,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1022,9 +1139,9 @@
    "num": "26",
    "pos": null,
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 697,
+    "gp": 11,
+    "starts": 11,
+    "min": 709,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1189,6 +1306,22 @@
      "pos": "",
      "num": "26",
      "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "",
+     "num": "26",
+     "min": 12,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1374,9 +1507,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 981,
+    "gp": 12,
+    "starts": 12,
+    "min": 1071,
     "sh": 9,
     "sog": 3,
     "g": 0,
@@ -1559,6 +1692,22 @@
      "min": 90,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1758,20 +1907,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 832,
-    "sh": 21,
-    "sog": 10,
+    "gp": 12,
+    "starts": 12,
+    "min": 908,
+    "sh": 24,
+    "sog": 11,
     "g": 2,
-    "a": 2,
-    "fouls": 5,
+    "a": 3,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.6,
-    "shots_saved": 8,
-    "shots_off_target": 11
+    "shot_pct": 45.8,
+    "shots_saved": 9,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1949,6 +2098,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 76,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2014,9 +2179,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 432,
+    "min": 461,
     "sh": 6,
     "sog": 3,
     "g": 1,
@@ -2189,6 +2354,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2198,20 +2379,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 887,
-    "sh": 39,
-    "sog": 22,
+    "gp": 12,
+    "starts": 12,
+    "min": 977,
+    "sh": 42,
+    "sog": 24,
     "g": 6,
     "a": 1,
-    "fouls": 8,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 56.4,
-    "shots_saved": 16,
-    "shots_off_target": 17
+    "shot_pct": 57.1,
+    "shots_saved": 18,
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -2389,6 +2570,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2398,10 +2595,10 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 203,
-    "sh": 3,
+    "min": 211,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -2411,7 +2608,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2541,6 +2738,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 8,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2550,14 +2763,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 875,
+    "gp": 12,
+    "starts": 12,
+    "min": 957,
     "sh": 10,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2741,6 +2954,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2750,20 +2979,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 720,
-    "sh": 33,
-    "sog": 11,
+    "gp": 12,
+    "starts": 12,
+    "min": 762,
+    "sh": 38,
+    "sog": 13,
     "g": 2,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 9,
-    "shots_off_target": 22
+    "shot_pct": 34.2,
+    "shots_saved": 11,
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -2936,6 +3165,22 @@
      "sh": 1,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 42,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -3220,9 +3465,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 6,
-    "min": 502,
+    "min": 507,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -3379,6 +3624,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": false,
+     "pos": "MID",
+     "num": "22",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3388,20 +3649,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
-    "sh": 2,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3483,6 +3744,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3492,10 +3769,10 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 664,
-    "sh": 16,
+    "gp": 12,
+    "starts": 12,
+    "min": 740,
+    "sh": 17,
     "sog": 12,
     "g": 3,
     "a": 2,
@@ -3503,9 +3780,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 70.6,
     "shots_saved": 9,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3683,6 +3960,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3796,9 +4089,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 772,
+    "gp": 12,
+    "starts": 9,
+    "min": 862,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -3979,6 +4272,22 @@
      "pos": "DEF",
      "num": "18",
      "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Georgetown",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,

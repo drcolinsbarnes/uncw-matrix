@@ -9,9 +9,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 6,
-    "min": 439,
+    "min": 470,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -112,6 +112,22 @@
      "pos": "DEF",
      "num": "26",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "DEF",
+     "num": "26",
+     "min": 31,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -265,9 +281,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 421,
+    "gp": 8,
+    "starts": 7,
+    "min": 497,
     "sh": 6,
     "sog": 2,
     "g": 1,
@@ -392,6 +408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -401,20 +433,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 478,
-    "sh": 2,
+    "gp": 8,
+    "starts": 8,
+    "min": 568,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -528,6 +560,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -537,9 +585,9 @@
    "num": "36",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 338,
+    "min": 352,
     "sh": 6,
     "sog": 4,
     "g": 2,
@@ -664,6 +712,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "DEF",
+     "num": "36",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -673,9 +737,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 108,
+    "min": 114,
     "sh": 7,
     "sog": 4,
     "g": 3,
@@ -784,6 +848,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -793,9 +873,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 598,
+    "gp": 8,
+    "starts": 8,
+    "min": 688,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -808,10 +888,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 5,
-     "saves": 15,
-     "save_pct": 75.0
+     "saves": 18,
+     "save_pct": 78.3
     }
    },
    "matches": [
@@ -961,6 +1041,27 @@
       "ga": 2,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1026,9 +1127,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 608,
+    "gp": 8,
+    "starts": 8,
+    "min": 698,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1153,6 +1254,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1162,10 +1279,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 3,
-    "starts": 2,
-    "min": 178,
-    "sh": 3,
+    "gp": 4,
+    "starts": 3,
+    "min": 262,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -1173,9 +1290,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1225,6 +1342,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 84,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1234,9 +1367,9 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 505,
+    "gp": 8,
+    "starts": 8,
+    "min": 581,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -1361,6 +1494,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "MID",
+     "num": "34",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1370,10 +1519,10 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 468,
-    "sh": 9,
+    "gp": 8,
+    "starts": 8,
+    "min": 558,
+    "sh": 12,
     "sog": 4,
     "g": 1,
     "a": 3,
@@ -1381,9 +1530,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 44.4,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1497,6 +1646,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1506,20 +1671,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 2,
-    "min": 232,
-    "sh": 12,
+    "gp": 6,
+    "starts": 3,
+    "min": 289,
+    "sh": 14,
     "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 28.6,
     "shots_saved": 3,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1601,6 +1766,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 57,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1610,10 +1791,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 518,
-    "sh": 24,
+    "gp": 8,
+    "starts": 8,
+    "min": 582,
+    "sh": 25,
     "sog": 11,
     "g": 4,
     "a": 2,
@@ -1621,9 +1802,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.8,
+    "shot_pct": 44.0,
     "shots_saved": 7,
-    "shots_off_target": 13
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -1737,6 +1918,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 64,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1746,20 +1943,20 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 436,
-    "sh": 2,
+    "gp": 8,
+    "starts": 8,
+    "min": 526,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1873,6 +2070,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1882,20 +2095,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 441,
-    "sh": 4,
+    "gp": 8,
+    "starts": 6,
+    "min": 525,
+    "sh": 5,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 80.0,
     "shots_saved": 3,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2009,6 +2222,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 84,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2018,9 +2247,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 316,
+    "min": 331,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -2145,6 +2374,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2154,9 +2399,9 @@
    "num": "77",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 127,
+    "min": 133,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2249,6 +2494,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "FWD",
+     "num": "77",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2325,14 +2586,94 @@
    ]
   },
   {
+   "name": "TEAM",
+   "slug": "team",
+   "num": "TM",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 0,
+    "sh": 0,
+    "sog": 0,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Tomezak, Layla",
+   "slug": "tomezak-layla",
+   "num": "8",
+   "pos": "MID",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 10,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Wolfe, Kaelyn",
    "slug": "wolfe-kaelyn",
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 226,
+    "min": 243,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -2454,6 +2795,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Oregon",
+     "start": false,
+     "pos": "DEF",
+     "num": "18",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

@@ -331,18 +331,18 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 305,
-    "sh": 9,
-    "sog": 4,
-    "g": 0,
+    "min": 352,
+    "sh": 11,
+    "sog": 6,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 54.5,
     "shots_saved": 4,
     "shots_off_target": 5
    },
@@ -458,6 +458,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 47,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -547,9 +563,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 720,
+    "gp": 10,
+    "starts": 8,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -562,10 +578,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
+     "gp": 10,
      "ga": 5,
-     "saves": 18,
-     "save_pct": 78.3
+     "saves": 20,
+     "save_pct": 80.0
     }
    },
    "matches": [
@@ -757,6 +773,27 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -766,13 +803,13 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 848,
+    "gp": 12,
+    "starts": 12,
+    "min": 938,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
@@ -957,6 +994,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -966,20 +1019,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 446,
-    "sh": 4,
-    "sog": 2,
+    "gp": 7,
+    "starts": 6,
+    "min": 536,
+    "sh": 6,
+    "sog": 3,
     "g": 1,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1077,6 +1130,62 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Kawesi-Mukooza, Navi",
+   "slug": "kawesi-mukooza-navi",
+   "num": "15",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 18,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1086,20 +1195,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 571,
-    "sh": 6,
+    "gp": 12,
+    "starts": 6,
+    "min": 638,
+    "sh": 7,
     "sog": 4,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1277,6 +1386,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 67,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1422,14 +1547,14 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1064,
     "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1613,6 +1738,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1622,10 +1763,10 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 299,
-    "sh": 7,
+    "min": 331,
+    "sh": 9,
     "sog": 2,
     "g": 1,
     "a": 1,
@@ -1633,9 +1774,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 22.2,
     "shots_saved": 1,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1797,6 +1938,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "FWD",
+     "num": "24",
+     "min": 32,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1806,19 +1963,19 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 718,
-    "sh": 3,
-    "sog": 1,
+    "gp": 12,
+    "starts": 10,
+    "min": 778,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 2,
     "fouls": 4,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -1997,6 +2154,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 60,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2006,20 +2179,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 985,
-    "sh": 6,
-    "sog": 2,
-    "g": 0,
-    "a": 1,
-    "fouls": 7,
+    "gp": 12,
+    "starts": 12,
+    "min": 1075,
+    "sh": 9,
+    "sog": 3,
+    "g": 1,
+    "a": 2,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2197,6 +2370,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2206,10 +2395,10 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 591,
-    "sh": 14,
+    "gp": 12,
+    "starts": 10,
+    "min": 633,
+    "sh": 15,
     "sog": 10,
     "g": 4,
     "a": 0,
@@ -2217,9 +2406,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 71.4,
+    "shot_pct": 66.7,
     "shots_saved": 6,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2397,6 +2586,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 42,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2406,10 +2611,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 518,
-    "sh": 16,
+    "gp": 9,
+    "starts": 7,
+    "min": 571,
+    "sh": 20,
     "sog": 7,
     "g": 1,
     "a": 3,
@@ -2417,9 +2622,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.8,
+    "shot_pct": 35.0,
     "shots_saved": 6,
-    "shots_off_target": 9
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2549,6 +2754,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 53,
+     "sh": 4,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2558,9 +2779,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 235,
+    "min": 258,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2701,6 +2922,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,10 +2947,10 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 806,
-    "sh": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 862,
+    "sh": 5,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -2721,9 +2958,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2901,6 +3138,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 56,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2910,14 +3163,14 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 40,
+    "min": 63,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2973,6 +3226,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2982,9 +3251,9 @@
    "num": "21",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 138,
+    "min": 145,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3125,6 +3394,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3134,10 +3419,10 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 834,
-    "sh": 6,
+    "gp": 12,
+    "starts": 10,
+    "min": 906,
+    "sh": 8,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -3145,9 +3430,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 37.5,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3325,6 +3610,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 72,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3332,11 +3633,11 @@
    "name": "Subong, Alaina",
    "slug": "subong-alaina",
    "num": "29",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 155,
+    "min": 161,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -3477,6 +3778,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "DEF",
+     "num": "29",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3486,14 +3803,14 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 705,
+    "min": 755,
     "sh": 10,
     "sog": 5,
     "g": 2,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -3674,6 +3991,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Marshall",
+     "start": false,
+     "pos": "MID",
+     "num": "26",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

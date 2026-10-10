@@ -65,20 +65,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 1,
-    "min": 238,
-    "sh": 4,
-    "sog": 1,
+    "gp": 7,
+    "starts": 2,
+    "min": 321,
+    "sh": 7,
+    "sog": 3,
     "g": 0,
-    "a": 1,
-    "fouls": 4,
+    "a": 2,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
-    "shots_off_target": 3
+    "shot_pct": 42.9,
+    "shots_saved": 3,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -176,6 +176,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 83,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -185,14 +201,14 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 390,
+    "gp": 9,
+    "starts": 4,
+    "min": 480,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -328,6 +344,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -337,15 +369,15 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 578,
+    "gp": 9,
+    "starts": 9,
+    "min": 648,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
-    "yc": 0,
+    "fouls": 3,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -480,6 +512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -489,9 +537,9 @@
    "num": "32",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 306,
+    "gp": 7,
+    "starts": 3,
+    "min": 396,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -504,10 +552,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 6,
-     "saves": 18,
-     "save_pct": 75.0
+     "gp": 7,
+     "ga": 8,
+     "saves": 21,
+     "save_pct": 72.4
     }
    },
    "matches": [
@@ -636,6 +684,27 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "GK",
+     "num": "32",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -645,9 +714,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 630,
+    "gp": 9,
+    "starts": 9,
+    "min": 702,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -788,6 +857,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -797,20 +882,20 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 616,
-    "sh": 24,
-    "sog": 11,
+    "gp": 9,
+    "starts": 9,
+    "min": 696,
+    "sh": 27,
+    "sog": 12,
     "g": 1,
     "a": 1,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 45.8,
-    "shots_saved": 10,
-    "shots_off_target": 13
+    "shot_pct": 44.4,
+    "shots_saved": 11,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -937,6 +1022,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "FWD",
+     "num": "33",
+     "min": 80,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1109,14 +1210,14 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 255,
+    "min": 275,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1212,6 +1313,22 @@
      "pos": "FWD",
      "num": "18",
      "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 20,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1349,14 +1466,14 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 693,
+    "gp": 9,
+    "starts": 9,
+    "min": 783,
     "sh": 4,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 2,
     "rc": 0,
     "pk_g": 1,
@@ -1492,6 +1609,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1501,9 +1634,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 421,
+    "gp": 9,
+    "starts": 6,
+    "min": 511,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -1644,6 +1777,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1653,9 +1802,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 269,
+    "min": 275,
     "sh": 3,
     "sog": 3,
     "g": 2,
@@ -1780,6 +1929,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1789,20 +1954,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 3,
-    "min": 200,
-    "sh": 0,
-    "sog": 0,
+    "min": 220,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1846,6 +2011,22 @@
      "min": 67,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 20,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1997,20 +2178,20 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 389,
-    "sh": 5,
+    "gp": 8,
+    "starts": 6,
+    "min": 459,
+    "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2124,6 +2305,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 70,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2133,20 +2330,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 472,
-    "sh": 9,
-    "sog": 3,
-    "g": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 558,
+    "sh": 13,
+    "sog": 5,
+    "g": 3,
     "a": 0,
-    "fouls": 11,
+    "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 6
+    "shot_pct": 38.5,
+    "shots_saved": 2,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2276,6 +2473,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 86,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2285,20 +2498,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 386,
-    "sh": 2,
+    "min": 415,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2428,6 +2641,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 29,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2437,9 +2666,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 139,
+    "min": 150,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2524,6 +2753,22 @@
      "pos": "FWD",
      "num": "9",
      "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2769,20 +3014,20 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 583,
-    "sh": 8,
-    "sog": 5,
+    "gp": 9,
+    "starts": 9,
+    "min": 666,
+    "sh": 11,
+    "sog": 6,
     "g": 1,
     "a": 4,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
-    "shots_saved": 4,
-    "shots_off_target": 3
+    "shot_pct": 54.5,
+    "shots_saved": 5,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2909,6 +3154,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Portland",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 83,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

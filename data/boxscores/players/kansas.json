@@ -113,20 +113,20 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1001,
-    "sh": 20,
+    "gp": 13,
+    "starts": 13,
+    "min": 1091,
+    "sh": 21,
     "sog": 12,
     "g": 5,
-    "a": 2,
+    "a": 3,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 57.1,
     "shots_saved": 7,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -320,6 +320,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -329,9 +345,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1079,
+    "gp": 13,
+    "starts": 13,
+    "min": 1169,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -344,10 +360,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 9,
-     "saves": 27,
-     "save_pct": 75.0
+     "saves": 29,
+     "save_pct": 76.3
     }
    },
    "matches": [
@@ -602,6 +618,27 @@
       "ga": 3,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -611,9 +648,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 897,
+    "gp": 13,
+    "starts": 13,
+    "min": 987,
     "sh": 6,
     "sog": 4,
     "g": 1,
@@ -818,6 +855,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "27",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -827,9 +880,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 3,
-    "min": 363,
+    "min": 393,
     "sh": 9,
     "sog": 3,
     "g": 0,
@@ -1034,6 +1087,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1227,19 +1296,19 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 823,
-    "sh": 51,
-    "sog": 21,
+    "gp": 13,
+    "starts": 13,
+    "min": 899,
+    "sh": 53,
+    "sog": 23,
     "g": 7,
     "a": 0,
     "fouls": 13,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.2,
-    "shots_saved": 14,
+    "shot_pct": 43.4,
+    "shots_saved": 16,
     "shots_off_target": 30
    },
    "matches": [
@@ -1434,6 +1503,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "34",
+     "min": 76,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1443,20 +1528,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 4,
-    "min": 437,
-    "sh": 19,
-    "sog": 9,
-    "g": 2,
+    "min": 477,
+    "sh": 21,
+    "sog": 10,
+    "g": 3,
     "a": 3,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.4,
+    "shot_pct": 47.6,
     "shots_saved": 7,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -1650,6 +1735,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 40,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1811,20 +1912,20 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 502,
-    "sh": 12,
-    "sog": 7,
+    "gp": 13,
+    "starts": 9,
+    "min": 546,
+    "sh": 14,
+    "sog": 8,
     "g": 2,
-    "a": 2,
+    "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
-    "shots_saved": 5,
-    "shots_off_target": 5
+    "shot_pct": 57.1,
+    "shots_saved": 6,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2018,6 +2119,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "FWD",
+     "num": "28",
+     "min": 44,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2027,9 +2144,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 273,
+    "min": 286,
     "sh": 15,
     "sog": 8,
     "g": 3,
@@ -2183,6 +2300,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2563,20 +2696,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 989,
-    "sh": 17,
+    "gp": 13,
+    "starts": 13,
+    "min": 1079,
+    "sh": 19,
     "sog": 3,
     "g": 1,
     "a": 0,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 17.6,
+    "shot_pct": 15.8,
     "shots_saved": 2,
-    "shots_off_target": 14
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -2770,6 +2903,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2779,9 +2928,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 675,
+    "gp": 13,
+    "starts": 13,
+    "min": 740,
     "sh": 14,
     "sog": 6,
     "g": 3,
@@ -2986,6 +3135,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2995,9 +3160,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 74,
+    "min": 88,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3122,6 +3287,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3131,20 +3312,20 @@
    "num": "99",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 867,
-    "sh": 11,
+    "gp": 13,
+    "starts": 13,
+    "min": 940,
+    "sh": 13,
     "sog": 5,
     "g": 0,
     "a": 10,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
+    "shot_pct": 38.5,
     "shots_saved": 5,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3338,6 +3519,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "99",
+     "min": 73,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3347,14 +3544,14 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 199,
+    "min": 216,
     "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3554,6 +3751,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3563,20 +3776,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 5,
-    "min": 293,
-    "sh": 11,
-    "sog": 4,
-    "g": 1,
+    "gp": 9,
+    "starts": 6,
+    "min": 329,
+    "sh": 13,
+    "sog": 5,
+    "g": 2,
     "a": 0,
     "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
+    "shot_pct": 38.5,
     "shots_saved": 3,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3703,6 +3916,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 36,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3990,9 +4219,9 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 936,
+    "gp": 13,
+    "starts": 9,
+    "min": 1026,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -4197,6 +4426,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4206,14 +4451,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 87,
+    "min": 112,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4317,6 +4562,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4326,9 +4587,9 @@
    "num": "14",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 360,
+    "min": 377,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -4517,6 +4778,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": false,
+     "pos": "",
+     "num": "14",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4526,9 +4803,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 943,
+    "gp": 13,
+    "starts": 13,
+    "min": 1033,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4725,6 +5002,22 @@
      "pos": "DEF",
      "num": "25",
      "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Kansas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,

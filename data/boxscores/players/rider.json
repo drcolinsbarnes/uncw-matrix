@@ -9,15 +9,15 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 731,
+    "gp": 10,
+    "starts": 10,
+    "min": 806,
     "sh": 2,
     "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -265,9 +281,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 806,
+    "gp": 10,
+    "starts": 10,
+    "min": 896,
     "sh": 8,
     "sog": 6,
     "g": 1,
@@ -424,6 +440,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -433,9 +465,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 658,
+    "gp": 10,
+    "starts": 9,
+    "min": 737,
     "sh": 11,
     "sog": 6,
     "g": 2,
@@ -592,6 +624,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -601,10 +649,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 799,
-    "sh": 13,
+    "gp": 10,
+    "starts": 10,
+    "min": 889,
+    "sh": 14,
     "sog": 5,
     "g": 0,
     "a": 0,
@@ -612,9 +660,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
+    "shot_pct": 35.7,
     "shots_saved": 5,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -760,6 +808,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -769,19 +833,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 6,
-    "min": 556,
-    "sh": 24,
-    "sog": 11,
+    "gp": 10,
+    "starts": 7,
+    "min": 626,
+    "sh": 25,
+    "sog": 12,
     "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.8,
-    "shots_saved": 10,
+    "shot_pct": 48.0,
+    "shots_saved": 11,
     "shots_off_target": 13
    },
    "matches": [
@@ -928,6 +992,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 70,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -935,12 +1015,12 @@
    "name": "Friedel, Cali",
    "slug": "friedel-cali",
    "num": "10",
-   "pos": null,
+   "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 784,
-    "sh": 11,
+    "gp": 10,
+    "starts": 10,
+    "min": 874,
+    "sh": 12,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -948,9 +1028,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1096,6 +1176,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1105,9 +1201,9 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 169,
+    "min": 184,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1160,6 +1256,22 @@
      "pos": "def",
      "num": "4",
      "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 15,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1249,9 +1361,9 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 15,
+    "min": 31,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1288,6 +1400,22 @@
      "pos": "def",
      "num": "5",
      "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 16,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1383,11 +1511,11 @@
    "name": "Ibrahim, Sophie",
    "slug": "ibrahim-sophie-2",
    "num": "21",
-   "pos": null,
+   "pos": "fwd",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 17,
+    "min": 28,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1424,6 +1552,22 @@
      "pos": "",
      "num": "21",
      "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": false,
+     "pos": "fwd",
+     "num": "21",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1601,9 +1745,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 757,
+    "gp": 10,
+    "starts": 10,
+    "min": 847,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1760,6 +1904,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1769,9 +1929,9 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 88,
+    "min": 116,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1840,6 +2000,22 @@
      "pos": "fwd",
      "num": "8",
      "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 28,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1993,9 +2169,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2008,10 +2184,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 16,
-     "saves": 53,
-     "save_pct": 76.8
+     "gp": 10,
+     "ga": 17,
+     "saves": 60,
+     "save_pct": 77.9
     }
    },
    "matches": [
@@ -2203,6 +2379,27 @@
       "ga": 0,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 7
+     }
     }
    ]
   },
@@ -2212,9 +2409,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 806,
+    "gp": 10,
+    "starts": 10,
+    "min": 896,
     "sh": 3,
     "sog": 1,
     "g": 1,
@@ -2371,6 +2568,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2380,9 +2593,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 753,
+    "gp": 10,
+    "starts": 10,
+    "min": 835,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -2539,6 +2752,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2548,9 +2777,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 617,
+    "gp": 10,
+    "starts": 10,
+    "min": 691,
     "sh": 6,
     "sog": 1,
     "g": 1,
@@ -2703,6 +2932,22 @@
      "sog": 1,
      "g": 1,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Manhattan",
+     "start": true,
+     "pos": "MID",
+     "num": "27",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

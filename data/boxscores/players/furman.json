@@ -9,19 +9,19 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 9,
-    "min": 562,
-    "sh": 13,
-    "sog": 6,
+    "min": 582,
+    "sh": 15,
+    "sog": 8,
     "g": 2,
     "a": 3,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 4,
+    "shot_pct": 53.3,
+    "shots_saved": 6,
     "shots_off_target": 7
    },
    "matches": [
@@ -216,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": false,
+     "pos": "MID",
+     "num": "3",
+     "min": 20,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -223,7 +239,7 @@
    "name": "Boulware, Royton",
    "slug": "boulware-royton",
    "num": "31",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 6,
     "starts": 1,
@@ -763,9 +779,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 943,
+    "gp": 13,
+    "starts": 13,
+    "min": 1033,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -778,10 +794,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 12,
-     "saves": 32,
-     "save_pct": 72.7
+     "gp": 13,
+     "ga": 13,
+     "saves": 42,
+     "save_pct": 76.4
     }
    },
    "matches": [
@@ -1036,6 +1052,27 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 10
+     }
     }
    ]
   },
@@ -1043,21 +1080,21 @@
    "name": "England, Alyssa",
    "slug": "england-alyssa",
    "num": "28",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 305,
-    "sh": 3,
-    "sog": 1,
-    "g": 0,
+    "min": 371,
+    "sh": 5,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 60.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -1220,6 +1257,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": false,
+     "pos": "DEF",
+     "num": "28",
+     "min": 66,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1365,14 +1418,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 874,
+    "gp": 13,
+    "starts": 13,
+    "min": 964,
     "sh": 14,
     "sog": 6,
     "g": 0,
     "a": 2,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1572,6 +1625,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1701,9 +1770,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1074,
+    "gp": 13,
+    "starts": 13,
+    "min": 1164,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1908,6 +1977,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2021,14 +2106,14 @@
    "num": "15",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 231,
+    "min": 261,
     "sh": 5,
     "sog": 3,
     "g": 3,
     "a": 0,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2180,6 +2265,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2189,10 +2290,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 687,
-    "sh": 25,
+    "gp": 13,
+    "starts": 9,
+    "min": 765,
+    "sh": 27,
     "sog": 11,
     "g": 1,
     "a": 1,
@@ -2200,9 +2301,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.0,
+    "shot_pct": 40.7,
     "shots_saved": 10,
-    "shots_off_target": 14
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -2396,6 +2497,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 78,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2405,9 +2522,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 949,
+    "gp": 13,
+    "starts": 12,
+    "min": 1039,
     "sh": 8,
     "sog": 2,
     "g": 0,
@@ -2612,6 +2729,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2621,13 +2754,13 @@
    "num": "14",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 206,
+    "min": 212,
     "sh": 4,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -2828,6 +2961,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": false,
+     "pos": "",
+     "num": "14",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2837,9 +2986,9 @@
    "num": "21",
    "pos": "def",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 461,
+    "gp": 13,
+    "starts": 4,
+    "min": 483,
     "sh": 9,
     "sog": 3,
     "g": 2,
@@ -3044,6 +3193,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3053,20 +3218,20 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 714,
-    "sh": 26,
-    "sog": 12,
+    "gp": 13,
+    "starts": 11,
+    "min": 773,
+    "sh": 29,
+    "sog": 13,
     "g": 3,
     "a": 3,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 9,
-    "shots_off_target": 14
+    "shot_pct": 44.8,
+    "shots_saved": 10,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -3260,6 +3425,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "",
+     "num": "8",
+     "min": 59,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3269,20 +3450,20 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 852,
-    "sh": 31,
+    "gp": 13,
+    "starts": 13,
+    "min": 930,
+    "sh": 33,
     "sog": 16,
     "g": 6,
     "a": 1,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 51.6,
+    "shot_pct": 48.5,
     "shots_saved": 10,
-    "shots_off_target": 15
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -3476,6 +3657,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 78,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3557,20 +3754,20 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 673,
-    "sh": 28,
-    "sog": 19,
+    "gp": 12,
+    "starts": 12,
+    "min": 741,
+    "sh": 32,
+    "sog": 21,
     "g": 6,
     "a": 3,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 67.9,
-    "shots_saved": 13,
-    "shots_off_target": 9
+    "shot_pct": 65.6,
+    "shots_saved": 15,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -3748,6 +3945,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "FWD",
+     "num": "24",
+     "min": 68,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3757,9 +3970,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 983,
+    "gp": 13,
+    "starts": 13,
+    "min": 1073,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3964,6 +4177,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3973,14 +4202,14 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 347,
+    "min": 369,
     "sh": 8,
     "sog": 6,
     "g": 2,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4145,6 +4374,22 @@
      "g": 2,
      "a": 1,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -4381,13 +4626,13 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 938,
+    "gp": 13,
+    "starts": 12,
+    "min": 1028,
     "sh": 6,
     "sog": 3,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -4588,6 +4833,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4597,9 +4858,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 387,
+    "min": 388,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4764,6 +5025,22 @@
      "pos": "DEF",
      "num": "22",
      "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Samford",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 1,
      "sh": 0,
      "sog": 0,
      "g": 0,

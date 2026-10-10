@@ -9,20 +9,20 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 992,
-    "sh": 4,
+    "gp": 13,
+    "starts": 13,
+    "min": 1082,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -216,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -225,19 +241,19 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 10,
-    "min": 546,
-    "sh": 12,
-    "sog": 7,
+    "min": 587,
+    "sh": 13,
+    "sog": 8,
     "g": 2,
     "a": 1,
     "fouls": 17,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
-    "shots_saved": 5,
+    "shot_pct": 61.5,
+    "shots_saved": 6,
     "shots_off_target": 5
    },
    "matches": [
@@ -432,6 +448,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "FWD",
+     "num": "2",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -441,19 +473,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 840,
-    "sh": 16,
-    "sog": 6,
-    "g": 1,
+    "gp": 13,
+    "starts": 13,
+    "min": 930,
+    "sh": 18,
+    "sog": 8,
+    "g": 2,
     "a": 1,
     "fouls": 10,
     "yc": 0,
     "rc": 0,
-    "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 5,
+    "pk_g": 1,
+    "shot_pct": 44.4,
+    "shots_saved": 6,
     "shots_off_target": 10
    },
    "matches": [
@@ -648,6 +680,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -657,14 +705,14 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 389,
+    "gp": 7,
+    "starts": 7,
+    "min": 475,
     "sh": 6,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -761,6 +809,22 @@
      "num": "14",
      "min": 76,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 86,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -897,9 +961,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 673,
+    "gp": 13,
+    "starts": 13,
+    "min": 718,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -912,7 +976,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 12,
      "saves": 24,
      "save_pct": 66.7
@@ -1170,6 +1234,27 @@
       "ga": 2,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -1179,9 +1264,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 0,
-    "min": 171,
+    "gp": 7,
+    "starts": 1,
+    "min": 192,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -1283,6 +1368,22 @@
      "num": "7",
      "min": 21,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 21,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1419,9 +1520,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1009,
+    "gp": 13,
+    "starts": 13,
+    "min": 1099,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -1626,6 +1727,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1635,15 +1752,15 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 10,
-    "min": 797,
+    "min": 812,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 6,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -1840,6 +1957,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "DEF",
+     "num": "12",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2051,19 +2184,19 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 331,
-    "sh": 7,
-    "sog": 2,
+    "min": 385,
+    "sh": 8,
+    "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 2,
+    "shot_pct": 37.5,
+    "shots_saved": 3,
     "shots_off_target": 5
    },
    "matches": [
@@ -2226,6 +2359,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 54,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2307,9 +2456,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 213,
+    "min": 214,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2450,6 +2599,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "DEF",
+     "num": "27",
+     "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2459,14 +2624,14 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 839,
+    "gp": 12,
+    "starts": 11,
+    "min": 929,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2650,6 +2815,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2659,14 +2840,14 @@
    "num": "88",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 845,
+    "gp": 13,
+    "starts": 12,
+    "min": 893,
     "sh": 7,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 13,
+    "fouls": 14,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2866,6 +3047,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "FWD",
+     "num": "88",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2875,9 +3072,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 690,
+    "gp": 12,
+    "starts": 9,
+    "min": 765,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3066,6 +3263,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3195,20 +3408,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 336,
-    "sh": 6,
-    "sog": 4,
+    "gp": 7,
+    "starts": 5,
+    "min": 400,
+    "sh": 9,
+    "sog": 5,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 4,
-    "shots_off_target": 2
+    "shot_pct": 55.6,
+    "shots_saved": 5,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3300,6 +3513,22 @@
      "min": 78,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 64,
+     "sh": 3,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 2,
@@ -3483,20 +3712,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 5,
-    "min": 610,
-    "sh": 13,
-    "sog": 6,
+    "gp": 13,
+    "starts": 6,
+    "min": 680,
+    "sh": 15,
+    "sog": 7,
     "g": 2,
     "a": 2,
-    "fouls": 16,
+    "fouls": 17,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 46.7,
+    "shots_saved": 5,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3690,6 +3919,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 70,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3755,9 +4000,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 141,
+    "min": 168,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3882,6 +4127,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "MID",
+     "num": "22",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3891,9 +4152,9 @@
    "num": "74",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 395,
+    "min": 414,
     "sh": 8,
     "sog": 3,
     "g": 2,
@@ -4082,6 +4343,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "",
+     "num": "74",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4091,9 +4368,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 24,
+    "min": 43,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4122,6 +4399,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4131,9 +4424,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 224,
+    "min": 269,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4146,10 +4439,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
+     "gp": 6,
      "ga": 1,
-     "saves": 2,
-     "save_pct": 66.7
+     "saves": 3,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -4255,6 +4548,27 @@
      "goalie": {
       "min": "45:00",
       "ga": 1,
+      "saves": 1
+     }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Houston",
+     "start": false,
+     "pos": "GK",
+     "num": "0",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
       "saves": 1
      }
     }

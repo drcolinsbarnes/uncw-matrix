@@ -9,9 +9,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 37,
+    "min": 46,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -64,6 +64,22 @@
      "pos": "MID",
      "num": "5",
      "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "MID",
+     "num": "5",
+     "min": 9,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -201,10 +217,10 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 489,
-    "sh": 9,
+    "gp": 10,
+    "starts": 10,
+    "min": 548,
+    "sh": 10,
     "sog": 6,
     "g": 0,
     "a": 0,
@@ -212,9 +228,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 60.0,
     "shots_saved": 6,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -353,6 +369,22 @@
      "num": "21",
      "min": 54,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 59,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -546,20 +578,20 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 4,
-    "min": 348,
-    "sh": 4,
+    "gp": 10,
+    "starts": 5,
+    "min": 395,
+    "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -705,6 +737,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 47,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -818,9 +866,9 @@
    "num": "33",
    "pos": "GK",
    "totals": {
-    "gp": 3,
-    "starts": 2,
-    "min": 223,
+    "gp": 4,
+    "starts": 3,
+    "min": 313,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -833,10 +881,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
-     "ga": 5,
-     "saves": 9,
-     "save_pct": 64.3
+     "gp": 4,
+     "ga": 8,
+     "saves": 15,
+     "save_pct": 65.2
     }
    },
    "matches": [
@@ -902,6 +950,27 @@
       "ga": 3,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "GK",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 6
+     }
     }
    ]
   },
@@ -911,13 +980,13 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 4,
-    "min": 404,
+    "gp": 9,
+    "starts": 5,
+    "min": 494,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
@@ -1054,6 +1123,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1063,19 +1148,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 676,
-    "sh": 3,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 755,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -1222,6 +1307,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 79,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1231,9 +1332,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 185,
+    "min": 221,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1374,6 +1475,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1383,13 +1500,13 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 7,
-    "min": 487,
+    "min": 548,
     "sh": 3,
     "sog": 1,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
@@ -1542,6 +1659,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "MID",
+     "num": "15",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1551,14 +1684,14 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 92,
+    "min": 126,
     "sh": 4,
     "sog": 3,
     "g": 1,
-    "a": 0,
-    "fouls": 1,
+    "a": 1,
+    "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1614,6 +1747,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "FWD",
+     "num": "24",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1623,10 +1772,10 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 676,
-    "sh": 11,
+    "gp": 10,
+    "starts": 10,
+    "min": 735,
+    "sh": 13,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -1634,9 +1783,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 27.3,
+    "shot_pct": 23.1,
     "shots_saved": 2,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1782,6 +1931,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 59,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1847,14 +2012,14 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 580,
+    "gp": 10,
+    "starts": 10,
+    "min": 646,
     "sh": 11,
     "sog": 5,
     "g": 3,
     "a": 0,
-    "fouls": 12,
+    "fouls": 13,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2006,6 +2171,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2015,10 +2196,10 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 485,
-    "sh": 4,
+    "min": 518,
+    "sh": 7,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -2026,9 +2207,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 14.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2174,6 +2355,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 33,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2183,9 +2380,9 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 368,
+    "min": 369,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -2342,6 +2539,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "FWD",
+     "num": "13",
+     "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2351,20 +2564,20 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 369,
-    "sh": 0,
-    "sog": 0,
-    "g": 0,
+    "gp": 6,
+    "starts": 5,
+    "min": 459,
+    "sh": 1,
+    "sog": 1,
+    "g": 1,
     "a": 0,
-    "fouls": 2,
-    "yc": 0,
+    "fouls": 5,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 0,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -2444,6 +2657,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 3,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2591,20 +2820,20 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 638,
-    "sh": 12,
-    "sog": 3,
-    "g": 0,
+    "gp": 10,
+    "starts": 10,
+    "min": 687,
+    "sh": 14,
+    "sog": 4,
+    "g": 1,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 28.6,
     "shots_saved": 3,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2750,6 +2979,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 49,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2759,14 +3004,14 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 639,
+    "gp": 9,
+    "starts": 9,
+    "min": 694,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 3,
     "rc": 1,
     "pk_g": 0,
@@ -2902,6 +3147,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2911,14 +3172,14 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 616,
+    "gp": 9,
+    "starts": 7,
+    "min": 706,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3054,6 +3315,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3183,9 +3460,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 547,
+    "min": 589,
     "sh": 3,
     "sog": 1,
     "g": 1,
@@ -3318,6 +3595,22 @@
      "pos": "def",
      "num": "22",
      "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Pepperdine",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 42,
      "sh": 0,
      "sog": 0,
      "g": 0,

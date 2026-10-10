@@ -81,9 +81,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 683,
+    "gp": 9,
+    "starts": 9,
+    "min": 773,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -96,10 +96,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 18,
-     "saves": 46,
-     "save_pct": 71.9
+     "gp": 9,
+     "ga": 19,
+     "saves": 50,
+     "save_pct": 72.5
     }
    },
    "matches": [
@@ -270,6 +270,27 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -393,19 +414,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 866,
-    "sh": 9,
-    "sog": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 934,
+    "sh": 10,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 4,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
     "shots_off_target": 5
    },
    "matches": [
@@ -584,6 +605,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 68,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -593,9 +630,9 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 97,
+    "min": 113,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -681,6 +718,22 @@
      "num": "16",
      "min": 17,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 16,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -865,9 +918,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 602,
+    "gp": 10,
+    "starts": 10,
+    "min": 654,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1024,6 +1077,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1153,9 +1222,9 @@
    "num": "34",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 625,
+    "gp": 12,
+    "starts": 9,
+    "min": 680,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1344,6 +1413,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "DEF",
+     "num": "34",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1353,20 +1438,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 691,
-    "sh": 32,
-    "sog": 16,
-    "g": 8,
+    "gp": 11,
+    "starts": 10,
+    "min": 758,
+    "sh": 35,
+    "sog": 18,
+    "g": 9,
     "a": 1,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 8,
-    "shots_off_target": 16
+    "shot_pct": 51.4,
+    "shots_saved": 9,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -1528,6 +1613,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 67,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1577,9 +1678,9 @@
    "num": "17",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 287,
+    "min": 305,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1768,6 +1869,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "def",
+     "num": "17",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1817,9 +1934,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 770,
+    "gp": 12,
+    "starts": 10,
+    "min": 843,
     "sh": 8,
     "sog": 5,
     "g": 0,
@@ -2008,6 +2125,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2017,9 +2150,9 @@
    "num": "10",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 788,
+    "gp": 12,
+    "starts": 11,
+    "min": 860,
     "sh": 7,
     "sog": 4,
     "g": 0,
@@ -2208,6 +2341,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "DEF",
+     "num": "10",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2217,10 +2366,10 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
-    "starts": 3,
-    "min": 258,
-    "sh": 4,
+    "gp": 5,
+    "starts": 4,
+    "min": 313,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 2,
@@ -2228,9 +2377,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2289,6 +2438,22 @@
      "num": "12",
      "min": 78,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 55,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2377,10 +2542,10 @@
    "num": "27",
    "pos": "fwd",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 50,
-    "sh": 3,
+    "min": 78,
+    "sh": 5,
     "sog": 2,
     "g": 2,
     "a": 0,
@@ -2388,9 +2553,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 40.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2417,6 +2582,22 @@
      "num": "27",
      "min": 12,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "fwd",
+     "num": "27",
+     "min": 28,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2641,9 +2822,9 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 1,
-    "min": 94,
+    "min": 128,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -2688,6 +2869,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2697,9 +2894,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 561,
+    "min": 599,
     "sh": 3,
     "sog": 3,
     "g": 1,
@@ -2888,6 +3085,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2897,20 +3110,20 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 801,
-    "sh": 13,
-    "sog": 6,
+    "gp": 12,
+    "starts": 12,
+    "min": 860,
+    "sh": 16,
+    "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 5,
-    "shots_off_target": 7
+    "shot_pct": 43.8,
+    "shots_saved": 6,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3088,6 +3301,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 59,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3097,9 +3326,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 565,
+    "min": 610,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3272,6 +3501,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "def",
+     "num": "28",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3337,9 +3582,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 251,
+    "gp": 8,
+    "starts": 2,
+    "min": 331,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3464,6 +3709,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3473,9 +3734,9 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 147,
+    "min": 177,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3546,6 +3807,22 @@
      "min": 41,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3681,9 +3958,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 4,
-    "min": 304,
+    "min": 354,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3760,6 +4037,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": false,
+     "pos": "def",
+     "num": "15",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3769,10 +4062,10 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 504,
-    "sh": 5,
+    "gp": 9,
+    "starts": 7,
+    "min": 564,
+    "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3780,9 +4073,9 @@
     "yc": 2,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3905,6 +4198,22 @@
      "num": "4",
      "min": 61,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Southern University",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 60,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

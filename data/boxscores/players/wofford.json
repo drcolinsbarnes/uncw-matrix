@@ -9,20 +9,20 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 633,
-    "sh": 11,
-    "sog": 8,
+    "gp": 12,
+    "starts": 8,
+    "min": 688,
+    "sh": 13,
+    "sog": 9,
     "g": 3,
     "a": 4,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 72.7,
-    "shots_saved": 5,
-    "shots_off_target": 3
+    "shot_pct": 69.2,
+    "shots_saved": 6,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 55,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -292,6 +308,57 @@
    ]
   },
   {
+   "name": "Cundiff, Chloe",
+   "slug": "cundiff-chloe",
+   "num": "1",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 2,
+     "saves": 8,
+     "save_pct": 80.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 8
+     }
+    }
+   ]
+  },
+  {
    "name": "Cundiff, Colleen",
    "slug": "cundiff-colleen",
    "num": "1",
@@ -369,9 +436,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 770,
+    "gp": 10,
+    "starts": 10,
+    "min": 860,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -528,6 +595,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -609,19 +692,19 @@
    "num": "6",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 362,
-    "sh": 5,
-    "sog": 2,
+    "min": 410,
+    "sh": 6,
+    "sog": 3,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -800,6 +883,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": false,
+     "pos": "def",
+     "num": "6",
+     "min": 48,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -809,10 +908,10 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 886,
-    "sh": 20,
+    "gp": 12,
+    "starts": 12,
+    "min": 966,
+    "sh": 22,
     "sog": 10,
     "g": 1,
     "a": 1,
@@ -820,9 +919,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 9,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1000,6 +1099,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 80,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1009,13 +1124,13 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 812,
+    "gp": 12,
+    "starts": 9,
+    "min": 902,
     "sh": 1,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -1196,6 +1311,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1393,9 +1524,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 651,
+    "gp": 11,
+    "starts": 9,
+    "min": 708,
     "sh": 9,
     "sog": 5,
     "g": 0,
@@ -1568,6 +1699,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1577,9 +1724,9 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 96,
+    "min": 108,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1720,6 +1867,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1729,9 +1892,9 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 752,
+    "gp": 12,
+    "starts": 12,
+    "min": 830,
     "sh": 17,
     "sog": 13,
     "g": 3,
@@ -1920,6 +2083,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1929,9 +2108,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 604,
+    "gp": 12,
+    "starts": 12,
+    "min": 646,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -2120,6 +2299,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2297,9 +2492,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2485,6 +2680,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2830,9 +3041,9 @@
    "num": "13",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 82,
+    "min": 106,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2885,6 +3096,22 @@
      "pos": "def",
      "num": "13",
      "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": false,
+     "pos": "def",
+     "num": "13",
+     "min": 24,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2958,9 +3185,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 114,
+    "min": 134,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3085,6 +3312,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3094,12 +3337,12 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 463,
-    "sh": 6,
-    "sog": 3,
-    "g": 2,
+    "gp": 11,
+    "starts": 8,
+    "min": 539,
+    "sh": 8,
+    "sog": 4,
+    "g": 3,
     "a": 0,
     "fouls": 4,
     "yc": 0,
@@ -3107,7 +3350,7 @@
     "pk_g": 0,
     "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3269,6 +3512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 76,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3278,9 +3537,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 366,
+    "min": 378,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3421,6 +3680,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3430,9 +3705,9 @@
    "num": "10",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 912,
+    "gp": 12,
+    "starts": 12,
+    "min": 990,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -3621,6 +3896,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": true,
+     "pos": "DEF",
+     "num": "10",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3630,20 +3921,20 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 369,
-    "sh": 0,
-    "sog": 0,
+    "min": 417,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3799,6 +4090,22 @@
      "min": 24,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "UT Chattanooga",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 48,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

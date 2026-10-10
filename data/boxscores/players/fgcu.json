@@ -9,20 +9,20 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 438,
-    "sh": 10,
-    "sog": 6,
+    "min": 464,
+    "sh": 12,
+    "sog": 7,
     "g": 2,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 4,
-    "shots_off_target": 4
+    "shot_pct": 58.3,
+    "shots_saved": 5,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 26,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,10 +225,10 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 605,
-    "sh": 21,
+    "gp": 12,
+    "starts": 10,
+    "min": 683,
+    "sh": 24,
     "sog": 12,
     "g": 2,
     "a": 0,
@@ -220,9 +236,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 50.0,
     "shots_saved": 10,
-    "shots_off_target": 9
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -400,6 +416,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 78,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -449,9 +481,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 950,
+    "gp": 12,
+    "starts": 12,
+    "min": 1040,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -464,10 +496,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 12,
-     "saves": 34,
-     "save_pct": 73.9
+     "gp": 12,
+     "ga": 13,
+     "saves": 36,
+     "save_pct": 73.5
     }
    },
    "matches": [
@@ -701,6 +733,27 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 2
+     }
     }
    ]
   },
@@ -710,19 +763,19 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 986,
-    "sh": 6,
-    "sog": 2,
+    "gp": 12,
+    "starts": 12,
+    "min": 1076,
+    "sh": 7,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 42.9,
+    "shots_saved": 2,
     "shots_off_target": 4
    },
    "matches": [
@@ -901,6 +954,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -910,20 +979,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 544,
-    "sh": 8,
-    "sog": 1,
+    "min": 582,
+    "sh": 11,
+    "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 12.5,
-    "shots_saved": 1,
-    "shots_off_target": 7
+    "shot_pct": 18.2,
+    "shots_saved": 2,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -1095,6 +1164,22 @@
      "min": 90,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 38,
+     "sh": 3,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1590,19 +1675,19 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 952,
-    "sh": 12,
-    "sog": 5,
+    "gp": 12,
+    "starts": 12,
+    "min": 1042,
+    "sh": 13,
+    "sog": 6,
     "g": 1,
-    "a": 2,
+    "a": 3,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 4,
+    "shot_pct": 46.2,
+    "shots_saved": 5,
     "shots_off_target": 7
    },
    "matches": [
@@ -1781,6 +1866,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1878,18 +1979,18 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 558,
-    "sh": 17,
-    "sog": 7,
-    "g": 5,
+    "gp": 12,
+    "starts": 10,
+    "min": 622,
+    "sh": 18,
+    "sog": 8,
+    "g": 6,
     "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.2,
+    "shot_pct": 44.4,
     "shots_saved": 2,
     "shots_off_target": 10
    },
@@ -2069,6 +2170,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 64,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2158,20 +2275,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 906,
-    "sh": 27,
-    "sog": 14,
+    "gp": 12,
+    "starts": 12,
+    "min": 996,
+    "sh": 32,
+    "sog": 15,
     "g": 3,
     "a": 1,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 51.9,
-    "shots_saved": 11,
-    "shots_off_target": 13
+    "shot_pct": 46.9,
+    "shots_saved": 12,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -2349,6 +2466,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 5,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2358,9 +2491,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 210,
+    "min": 214,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2549,6 +2682,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2558,20 +2707,20 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 767,
-    "sh": 12,
-    "sog": 5,
-    "g": 1,
+    "gp": 11,
+    "starts": 11,
+    "min": 857,
+    "sh": 15,
+    "sog": 6,
+    "g": 2,
     "a": 4,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
+    "shot_pct": 40.0,
     "shots_saved": 4,
-    "shots_off_target": 7
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2728,6 +2877,22 @@
      "sh": 2,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -2926,20 +3091,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 502,
-    "sh": 20,
+    "gp": 12,
+    "starts": 8,
+    "min": 569,
+    "sh": 24,
     "sog": 10,
     "g": 1,
-    "a": 4,
+    "a": 6,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 41.7,
     "shots_saved": 9,
-    "shots_off_target": 10
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -3117,6 +3282,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 67,
+     "sh": 4,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3126,9 +3307,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 250,
+    "gp": 11,
+    "starts": 2,
+    "min": 302,
     "sh": 6,
     "sog": 4,
     "g": 1,
@@ -3301,6 +3482,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3350,9 +3547,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 832,
+    "gp": 11,
+    "starts": 11,
+    "min": 922,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3525,6 +3722,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3534,9 +3747,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 955,
+    "gp": 12,
+    "starts": 12,
+    "min": 1045,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -3725,6 +3938,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3734,10 +3963,10 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 143,
-    "sh": 12,
+    "min": 166,
+    "sh": 13,
     "sog": 9,
     "g": 2,
     "a": 2,
@@ -3745,9 +3974,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 69.2,
     "shots_saved": 7,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3888,6 +4117,22 @@
      "sh": 2,
      "sog": 2,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": false,
+     "pos": "mid",
+     "num": "22",
+     "min": 23,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -4369,9 +4614,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 456,
+    "min": 464,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -4552,6 +4797,22 @@
      "pos": "mid",
      "num": "6",
      "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "North Florida",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 8,
      "sh": 0,
      "sog": 0,
      "g": 0,

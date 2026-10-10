@@ -9,25 +9,25 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 818,
+    "gp": 11,
+    "starts": 10,
+    "min": 907,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
-    "rc": 0,
+    "rc": 1,
     "pk_g": 0,
     "shot_pct": null,
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 15,
-     "saves": 34,
-     "save_pct": 69.4
+     "gp": 11,
+     "ga": 17,
+     "saves": 38,
+     "save_pct": 69.1
     }
    },
    "matches": [
@@ -240,6 +240,27 @@
       "ga": 2,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 89,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 1,
+     "pk_g": 0,
+     "goalie": {
+      "min": "88:14",
+      "ga": 2,
+      "saves": 4
+     }
     }
    ]
   },
@@ -433,20 +454,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 933,
-    "sh": 37,
+    "gp": 13,
+    "starts": 13,
+    "min": 1023,
+    "sh": 38,
     "sog": 19,
     "g": 7,
     "a": 3,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 51.4,
+    "shot_pct": 50.0,
     "shots_saved": 12,
-    "shots_off_target": 18
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -640,6 +661,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -649,19 +686,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 6,
-    "min": 702,
-    "sh": 2,
-    "sog": 2,
+    "gp": 13,
+    "starts": 7,
+    "min": 792,
+    "sh": 3,
+    "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 2,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -856,6 +893,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -865,15 +918,15 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 8,
-    "min": 572,
+    "min": 598,
     "sh": 8,
     "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 7,
-    "yc": 3,
+    "yc": 4,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 37.5,
@@ -1072,6 +1125,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1081,20 +1150,20 @@
    "num": "55",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 947,
-    "sh": 54,
-    "sog": 25,
+    "gp": 13,
+    "starts": 13,
+    "min": 1031,
+    "sh": 61,
+    "sog": 28,
     "g": 7,
-    "a": 2,
-    "fouls": 20,
+    "a": 3,
+    "fouls": 25,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 46.3,
-    "shots_saved": 18,
-    "shots_off_target": 29
+    "shot_pct": 45.9,
+    "shots_saved": 21,
+    "shots_off_target": 33
    },
    "matches": [
     {
@@ -1288,6 +1357,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "FWD",
+     "num": "55",
+     "min": 84,
+     "sh": 7,
+     "sog": 3,
+     "g": 0,
+     "a": 1,
+     "fouls": 5,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1297,19 +1382,19 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 709,
-    "sh": 3,
-    "sog": 2,
+    "gp": 11,
+    "starts": 9,
+    "min": 799,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -1472,6 +1557,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1592,6 +1693,57 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Fuller, Sydney",
+   "slug": "fuller-sydney",
+   "num": "12",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 1,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 0,
+     "save_pct": null
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": false,
+     "pos": "GK",
+     "num": "12",
+     "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "01:46",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -1985,14 +2137,14 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 3,
-    "min": 287,
+    "gp": 10,
+    "starts": 4,
+    "min": 377,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2144,6 +2296,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2153,10 +2321,10 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 209,
-    "sh": 4,
+    "gp": 6,
+    "starts": 4,
+    "min": 261,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -2164,9 +2332,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2248,6 +2416,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "FWD",
+     "num": "24",
+     "min": 52,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2257,14 +2441,14 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 306,
+    "min": 324,
     "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 2,
-    "fouls": 5,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2416,6 +2600,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2425,20 +2625,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 786,
-    "sh": 22,
+    "gp": 13,
+    "starts": 11,
+    "min": 867,
+    "sh": 23,
     "sog": 9,
     "g": 3,
     "a": 3,
-    "fouls": 5,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.9,
+    "shot_pct": 39.1,
     "shots_saved": 6,
-    "shots_off_target": 13
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -2632,6 +2832,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 81,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2641,20 +2857,20 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 176,
-    "sh": 3,
-    "sog": 1,
-    "g": 0,
+    "min": 202,
+    "sh": 5,
+    "sog": 2,
+    "g": 1,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 40.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -2781,6 +2997,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": false,
+     "pos": "DEF",
+     "num": "18",
+     "min": 26,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3001,14 +3233,14 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 175,
+    "min": 213,
     "sh": 9,
     "sog": 5,
     "g": 2,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3160,6 +3392,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3283,15 +3531,15 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 848,
+    "gp": 13,
+    "starts": 10,
+    "min": 893,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 7,
-    "yc": 2,
+    "fouls": 8,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -3490,6 +3738,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3667,9 +3931,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 1,
-    "min": 120,
+    "gp": 5,
+    "starts": 2,
+    "min": 194,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3739,6 +4003,22 @@
      "num": "17",
      "min": 52,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 74,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3971,9 +4251,9 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 223,
+    "min": 229,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -4146,6 +4426,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4155,19 +4451,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 495,
-    "sh": 5,
-    "sog": 2,
+    "gp": 12,
+    "starts": 6,
+    "min": 584,
+    "sh": 6,
+    "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 2,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
     "shots_off_target": 3
    },
    "matches": [
@@ -4343,6 +4639,22 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-09",
+     "opponent": "Mississippi State",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 89,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

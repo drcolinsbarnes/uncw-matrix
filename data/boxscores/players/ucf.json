@@ -9,20 +9,20 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 586,
-    "sh": 4,
+    "gp": 9,
+    "starts": 8,
+    "min": 676,
+    "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 3,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -152,6 +152,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -161,9 +177,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 234,
+    "min": 276,
     "sh": 5,
     "sog": 3,
     "g": 0,
@@ -304,6 +320,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": false,
+     "pos": "MID",
+     "num": "26",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -313,20 +345,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 4,
-    "min": 386,
-    "sh": 13,
-    "sog": 7,
+    "gp": 9,
+    "starts": 5,
+    "min": 435,
+    "sh": 15,
+    "sog": 8,
     "g": 1,
-    "a": 1,
+    "a": 3,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 53.8,
-    "shots_saved": 6,
-    "shots_off_target": 6
+    "shot_pct": 53.3,
+    "shots_saved": 7,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -456,6 +488,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 49,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -465,9 +513,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 450,
+    "gp": 6,
+    "starts": 6,
+    "min": 540,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -480,10 +528,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 5,
-     "ga": 8,
-     "saves": 21,
-     "save_pct": 72.4
+     "gp": 6,
+     "ga": 9,
+     "saves": 23,
+     "save_pct": 71.9
     }
    },
    "matches": [
@@ -591,6 +639,27 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 2
+     }
     }
    ]
   },
@@ -656,20 +725,20 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 562,
-    "sh": 28,
+    "gp": 9,
+    "starts": 9,
+    "min": 632,
+    "sh": 31,
     "sog": 18,
     "g": 8,
     "a": 0,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
+    "shot_pct": 58.1,
     "shots_saved": 10,
-    "shots_off_target": 10
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -799,6 +868,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 70,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -880,14 +965,14 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 690,
+    "gp": 9,
+    "starts": 9,
+    "min": 780,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1023,6 +1108,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1032,9 +1133,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 352,
+    "min": 378,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1175,6 +1276,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1184,20 +1301,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 414,
-    "sh": 9,
-    "sog": 3,
-    "g": 1,
+    "gp": 9,
+    "starts": 7,
+    "min": 464,
+    "sh": 11,
+    "sog": 4,
+    "g": 2,
     "a": 1,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 36.4,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1327,6 +1444,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 50,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1336,10 +1469,10 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 154,
-    "sh": 2,
+    "min": 182,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1349,7 +1482,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1447,6 +1580,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 28,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1456,14 +1605,14 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 630,
+    "gp": 9,
+    "starts": 9,
+    "min": 702,
     "sh": 1,
     "sog": 0,
     "g": 0,
-    "a": 0,
-    "fouls": 1,
+    "a": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1599,23 +1748,39 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
   {
    "name": "Holloran, Ella",
    "slug": "holloran-ella",
-   "num": "15",
+   "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 478,
+    "min": 542,
     "sh": 12,
     "sog": 5,
     "g": 1,
     "a": 0,
-    "fouls": 16,
+    "fouls": 18,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1751,6 +1916,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1853,18 +2034,18 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 320,
-    "sh": 4,
-    "sog": 2,
-    "g": 1,
+    "gp": 9,
+    "starts": 4,
+    "min": 369,
+    "sh": 5,
+    "sog": 3,
+    "g": 2,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 60.0,
     "shots_saved": 1,
     "shots_off_target": 2
    },
@@ -1996,6 +2177,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 49,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2005,9 +2202,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 93,
+    "min": 95,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -2084,6 +2281,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2093,14 +2306,14 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 460,
+    "gp": 9,
+    "starts": 9,
+    "min": 517,
     "sh": 5,
     "sog": 3,
     "g": 0,
-    "a": 5,
-    "fouls": 5,
+    "a": 6,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2236,6 +2449,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2245,9 +2474,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 261,
+    "min": 292,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2385,6 +2614,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2589,14 +2834,14 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 388,
+    "gp": 8,
+    "starts": 6,
+    "min": 478,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2716,6 +2961,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2725,9 +2986,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 683,
+    "gp": 9,
+    "starts": 9,
+    "min": 773,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2862,6 +3123,22 @@
      "min": 90,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "TCU",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

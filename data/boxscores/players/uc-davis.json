@@ -9,20 +9,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 557,
-    "sh": 9,
+    "gp": 12,
+    "starts": 9,
+    "min": 627,
+    "sh": 10,
     "sog": 2,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 70,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,9 +225,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 486,
+    "min": 521,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -416,6 +432,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -593,19 +625,19 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 496,
-    "sh": 6,
-    "sog": 3,
+    "min": 538,
+    "sh": 7,
+    "sog": 4,
     "g": 2,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 57.1,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -795,6 +827,22 @@
      "sh": 2,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 42,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -993,9 +1041,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 971,
+    "gp": 13,
+    "starts": 13,
+    "min": 1061,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -1200,6 +1248,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1249,9 +1313,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 844,
+    "gp": 13,
+    "starts": 13,
+    "min": 916,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -1456,6 +1520,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1574,18 +1654,58 @@
    ]
   },
   {
+   "name": "Garcia, Ashleigh",
+   "slug": "garcia-ashleigh",
+   "num": "28",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 5,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Gregoris, Lisette",
    "slug": "gregoris-lisette",
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 576,
+    "gp": 13,
+    "starts": 11,
+    "min": 634,
     "sh": 8,
     "sog": 4,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
@@ -1786,6 +1906,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1795,9 +1931,9 @@
    "num": "5",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 140,
+    "min": 147,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1906,6 +2042,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1913,11 +2065,11 @@
    "name": "Henry, Payton",
    "slug": "henry-payton",
    "num": "7",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 699,
+    "gp": 13,
+    "starts": 9,
+    "min": 782,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -2122,6 +2274,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "",
+     "num": "7",
+     "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2131,9 +2299,9 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 288,
+    "min": 320,
     "sh": 3,
     "sog": 3,
     "g": 0,
@@ -2338,6 +2506,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2347,19 +2531,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 570,
-    "sh": 13,
-    "sog": 5,
-    "g": 2,
+    "gp": 12,
+    "starts": 9,
+    "min": 642,
+    "sh": 16,
+    "sog": 8,
+    "g": 4,
     "a": 1,
     "fouls": 2,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 3,
+    "shot_pct": 50.0,
+    "shots_saved": 4,
     "shots_off_target": 8
    },
    "matches": [
@@ -2538,6 +2722,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 72,
+     "sh": 3,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2667,13 +2867,13 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 271,
+    "min": 291,
     "sh": 3,
     "sog": 3,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
@@ -2858,6 +3058,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2867,9 +3083,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 336,
+    "gp": 5,
+    "starts": 5,
+    "min": 426,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2938,6 +3154,22 @@
      "pos": "DEF",
      "num": "3",
      "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3043,20 +3275,20 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 759,
-    "sh": 13,
-    "sog": 4,
-    "g": 1,
+    "gp": 13,
+    "starts": 13,
+    "min": 830,
+    "sh": 15,
+    "sog": 5,
+    "g": 2,
     "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.8,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3250,6 +3482,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 71,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3259,9 +3507,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 5,
-    "min": 373,
+    "min": 398,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3386,6 +3634,22 @@
      "yc": 0,
      "rc": 1,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": false,
+     "pos": "def",
+     "num": "6",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3395,9 +3659,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 1,
-    "min": 178,
+    "gp": 3,
+    "starts": 2,
+    "min": 268,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3410,10 +3674,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
+     "gp": 3,
      "ga": 2,
-     "saves": 10,
-     "save_pct": 83.3
+     "saves": 17,
+     "save_pct": 89.5
     }
    },
    "matches": [
@@ -3458,6 +3722,27 @@
       "ga": 2,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 7
+     }
     }
    ]
   },
@@ -3467,15 +3752,15 @@
    "num": "20",
    "pos": "mid",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 296,
+    "gp": 11,
+    "starts": 2,
+    "min": 341,
     "sh": 2,
     "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
@@ -3640,6 +3925,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -3811,19 +4112,19 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 894,
-    "sh": 12,
-    "sog": 4,
+    "gp": 13,
+    "starts": 13,
+    "min": 977,
+    "sh": 14,
+    "sog": 6,
     "g": 1,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
+    "shot_pct": 42.9,
+    "shots_saved": 5,
     "shots_off_target": 8
    },
    "matches": [
@@ -4013,6 +4314,22 @@
      "sh": 1,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Grand Canyon",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 83,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,

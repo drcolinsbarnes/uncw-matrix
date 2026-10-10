@@ -9,20 +9,20 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 404,
-    "sh": 5,
-    "sog": 3,
-    "g": 1,
+    "gp": 9,
+    "starts": 8,
+    "min": 480,
+    "sh": 8,
+    "sog": 4,
+    "g": 2,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -152,6 +152,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 76,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -161,10 +177,10 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 190,
-    "sh": 7,
+    "min": 199,
+    "sh": 8,
     "sog": 1,
     "g": 1,
     "a": 1,
@@ -172,9 +188,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 14.3,
+    "shot_pct": 12.5,
     "shots_saved": 0,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -272,6 +288,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": false,
+     "pos": "",
+     "num": "12",
+     "min": 9,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -281,9 +313,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 309,
+    "min": 329,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -472,6 +504,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -481,9 +529,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 945,
+    "gp": 12,
+    "starts": 12,
+    "min": 1035,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -496,10 +544,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 14,
-     "saves": 32,
-     "save_pct": 69.6
+     "gp": 12,
+     "ga": 15,
+     "saves": 37,
+     "save_pct": 71.2
     }
    },
    "matches": [
@@ -733,6 +781,27 @@
       "ga": 3,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
+     }
     }
    ]
   },
@@ -742,19 +811,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 789,
-    "sh": 28,
-    "sog": 9,
+    "gp": 12,
+    "starts": 12,
+    "min": 863,
+    "sh": 30,
+    "sog": 11,
     "g": 5,
     "a": 1,
-    "fouls": 14,
+    "fouls": 16,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 32.1,
-    "shots_saved": 4,
+    "shot_pct": 36.7,
+    "shots_saved": 6,
     "shots_off_target": 19
    },
    "matches": [
@@ -933,6 +1002,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 74,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -993,20 +1078,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 718,
-    "sh": 6,
+    "gp": 12,
+    "starts": 10,
+    "min": 778,
+    "sh": 7,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 28.6,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1184,6 +1269,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1345,19 +1446,19 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 761,
-    "sh": 9,
-    "sog": 3,
+    "min": 798,
+    "sh": 10,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 40.0,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -1536,6 +1637,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1545,19 +1662,19 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 487,
-    "sh": 1,
-    "sog": 0,
+    "gp": 10,
+    "starts": 6,
+    "min": 577,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 2,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -1704,6 +1821,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1769,9 +1902,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 402,
+    "min": 407,
     "sh": 10,
     "sog": 4,
     "g": 3,
@@ -1960,6 +2093,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1969,15 +2118,15 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 9,
-    "min": 712,
+    "min": 771,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
-    "yc": 1,
+    "fouls": 4,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -2126,6 +2275,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2377,14 +2542,14 @@
    "num": "29",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 666,
+    "gp": 12,
+    "starts": 12,
+    "min": 731,
     "sh": 12,
     "sog": 6,
     "g": 1,
     "a": 3,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2568,6 +2733,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2649,9 +2830,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 803,
+    "gp": 12,
+    "starts": 12,
+    "min": 856,
     "sh": 6,
     "sog": 2,
     "g": 1,
@@ -2840,6 +3021,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2921,20 +3118,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 607,
-    "sh": 28,
+    "gp": 12,
+    "starts": 7,
+    "min": 695,
+    "sh": 30,
     "sog": 18,
     "g": 3,
     "a": 2,
-    "fouls": 13,
+    "fouls": 17,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
+    "shot_pct": 60.0,
     "shots_saved": 15,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3112,6 +3309,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 88,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3121,20 +3334,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 333,
-    "sh": 4,
-    "sog": 1,
+    "gp": 7,
+    "starts": 3,
+    "min": 423,
+    "sh": 6,
+    "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 0,
-    "shots_off_target": 3
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3232,6 +3445,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3241,20 +3470,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 758,
-    "sh": 12,
-    "sog": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 832,
+    "sh": 16,
+    "sog": 6,
     "g": 1,
-    "a": 1,
-    "fouls": 5,
+    "a": 2,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
-    "shots_off_target": 8
+    "shot_pct": 37.5,
+    "shots_saved": 5,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3432,6 +3661,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 74,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3441,19 +3686,19 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 614,
-    "sh": 9,
-    "sog": 8,
+    "min": 646,
+    "sh": 10,
+    "sog": 9,
     "g": 2,
     "a": 5,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 88.9,
-    "shots_saved": 6,
+    "shot_pct": 90.0,
+    "shots_saved": 7,
     "shots_off_target": 1
    },
    "matches": [
@@ -3626,6 +3871,22 @@
      "min": 44,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": false,
+     "pos": "MID",
+     "num": "34",
+     "min": 32,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 1,
@@ -3921,9 +4182,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 279,
+    "gp": 7,
+    "starts": 3,
+    "min": 347,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4024,6 +4285,22 @@
      "pos": "DEF",
      "num": "23",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Virginia Tech",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 68,
      "sh": 0,
      "sog": 0,
      "g": 0,

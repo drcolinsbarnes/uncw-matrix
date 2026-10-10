@@ -9,20 +9,20 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 941,
-    "sh": 22,
-    "sog": 12,
+    "gp": 13,
+    "starts": 13,
+    "min": 1029,
+    "sh": 24,
+    "sog": 13,
     "g": 5,
     "a": 4,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
-    "shots_saved": 7,
-    "shots_off_target": 10
+    "shot_pct": 54.2,
+    "shots_saved": 8,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -216,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "",
+     "num": "12",
+     "min": 88,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -225,9 +241,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 937,
+    "gp": 13,
+    "starts": 13,
+    "min": 1027,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -432,6 +448,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -596,9 +628,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 742,
+    "gp": 12,
+    "starts": 12,
+    "min": 830,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -787,6 +819,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 88,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -796,19 +844,19 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 981,
-    "sh": 19,
-    "sog": 8,
-    "g": 2,
+    "gp": 13,
+    "starts": 13,
+    "min": 1071,
+    "sh": 21,
+    "sog": 10,
+    "g": 3,
     "a": 0,
     "fouls": 2,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.1,
-    "shots_saved": 6,
+    "shot_pct": 47.6,
+    "shots_saved": 7,
     "shots_off_target": 11
    },
    "matches": [
@@ -1003,6 +1051,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1012,9 +1076,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1019,
+    "gp": 13,
+    "starts": 13,
+    "min": 1109,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1027,10 +1091,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 20,
-     "saves": 41,
-     "save_pct": 67.2
+     "gp": 12,
+     "ga": 21,
+     "saves": 49,
+     "save_pct": 70.0
     }
    },
    "matches": [
@@ -1280,6 +1344,27 @@
       "ga": 3,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 8
+     }
     }
    ]
   },
@@ -1289,9 +1374,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1079,
+    "gp": 13,
+    "starts": 13,
+    "min": 1169,
     "sh": 19,
     "sog": 11,
     "g": 0,
@@ -1496,6 +1581,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1593,9 +1694,9 @@
    "num": "18",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 429,
+    "gp": 7,
+    "starts": 7,
+    "min": 489,
     "sh": 6,
     "sog": 4,
     "g": 2,
@@ -1704,6 +1805,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "",
+     "num": "18",
+     "min": 60,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1713,9 +1830,9 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
-    "starts": 0,
-    "min": 413,
+    "gp": 13,
+    "starts": 1,
+    "min": 503,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1920,6 +2037,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2049,20 +2182,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 911,
-    "sh": 31,
-    "sog": 15,
-    "g": 5,
+    "gp": 13,
+    "starts": 13,
+    "min": 983,
+    "sh": 34,
+    "sog": 17,
+    "g": 6,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 48.4,
-    "shots_saved": 10,
-    "shots_off_target": 16
+    "shot_pct": 50.0,
+    "shots_saved": 11,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -2256,6 +2389,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 72,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2265,9 +2414,9 @@
    "num": "11",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 323,
+    "min": 325,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -2456,6 +2605,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": false,
+     "pos": "def",
+     "num": "11",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2465,10 +2630,10 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 398,
-    "sh": 8,
+    "min": 426,
+    "sh": 10,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -2476,9 +2641,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2672,6 +2837,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": false,
+     "pos": "",
+     "num": "21",
+     "min": 28,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2681,9 +2862,9 @@
    "num": "6",
    "pos": null,
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 12,
-    "min": 851,
+    "min": 881,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2888,6 +3069,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": false,
+     "pos": "",
+     "num": "6",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2948,20 +3145,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 785,
-    "sh": 15,
-    "sog": 5,
-    "g": 2,
-    "a": 1,
+    "gp": 13,
+    "starts": 10,
+    "min": 863,
+    "sh": 17,
+    "sog": 6,
+    "g": 3,
+    "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 35.3,
     "shots_saved": 3,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -3155,6 +3352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 78,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3164,10 +3377,10 @@
    "num": "5",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 300,
-    "sh": 3,
+    "min": 312,
+    "sh": 4,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -3175,9 +3388,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3371,6 +3584,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 12,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3556,20 +3785,20 @@
    "num": "7",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 852,
-    "sh": 25,
-    "sog": 18,
+    "gp": 13,
+    "starts": 13,
+    "min": 934,
+    "sh": 30,
+    "sog": 20,
     "g": 2,
     "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 72.0,
-    "shots_saved": 16,
-    "shots_off_target": 7
+    "shot_pct": 66.7,
+    "shots_saved": 18,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3759,6 +3988,22 @@
      "sog": 3,
      "g": 0,
      "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Austin Peay",
+     "start": true,
+     "pos": "",
+     "num": "7",
+     "min": 82,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

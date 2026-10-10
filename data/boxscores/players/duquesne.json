@@ -9,9 +9,9 @@
    "num": "25",
    "pos": "def",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 409,
+    "min": 449,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -216,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": false,
+     "pos": "def",
+     "num": "25",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -225,9 +241,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1064,
+    "gp": 13,
+    "starts": 13,
+    "min": 1154,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -420,6 +436,22 @@
     {
      "date": "2026-10-04",
      "opponent": "George Washington",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
      "start": true,
      "pos": "DEF",
      "num": "11",
@@ -625,19 +657,19 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 595,
-    "sh": 10,
-    "sog": 4,
+    "gp": 13,
+    "starts": 13,
+    "min": 631,
+    "sh": 11,
+    "sog": 5,
     "g": 2,
     "a": 0,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 2,
+    "shot_pct": 45.5,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -832,6 +864,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 36,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -841,9 +889,9 @@
    "num": "21",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 258,
+    "min": 302,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -1016,6 +1064,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1025,20 +1089,20 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 980,
-    "sh": 8,
+    "gp": 13,
+    "starts": 13,
+    "min": 1057,
+    "sh": 9,
     "sog": 3,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1232,6 +1296,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 77,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1239,7 +1319,7 @@
    "name": "Bursick, Julia",
    "slug": "bursick-julia",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 4,
     "starts": 0,
@@ -1401,9 +1481,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
-    "starts": 4,
-    "min": 340,
+    "gp": 5,
+    "starts": 5,
+    "min": 421,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1480,6 +1560,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1489,10 +1585,10 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 98,
-    "sh": 3,
+    "min": 145,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1500,9 +1596,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1577,6 +1673,22 @@
      "num": "7",
      "min": 28,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 47,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1817,9 +1929,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1080,
+    "gp": 13,
+    "starts": 13,
+    "min": 1170,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1832,10 +1944,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 12,
-     "saves": 68,
-     "save_pct": 85.0
+     "gp": 13,
+     "ga": 15,
+     "saves": 76,
+     "save_pct": 83.5
     }
    },
    "matches": [
@@ -2090,6 +2202,27 @@
       "ga": 0,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 8
+     }
     }
    ]
   },
@@ -2099,9 +2232,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 979,
+    "gp": 13,
+    "starts": 13,
+    "min": 1038,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -2306,6 +2439,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2315,20 +2464,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 832,
-    "sh": 18,
-    "sog": 9,
+    "gp": 13,
+    "starts": 13,
+    "min": 896,
+    "sh": 21,
+    "sog": 11,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 7,
-    "shots_off_target": 9
+    "shot_pct": 52.4,
+    "shots_saved": 9,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2522,6 +2671,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 64,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2531,9 +2696,9 @@
    "num": "29",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 832,
+    "gp": 13,
+    "starts": 13,
+    "min": 891,
     "sh": 13,
     "sog": 7,
     "g": 2,
@@ -2738,6 +2903,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2747,9 +2928,9 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 494,
+    "min": 535,
     "sh": 12,
     "sog": 7,
     "g": 1,
@@ -2954,6 +3135,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2963,20 +3160,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 923,
-    "sh": 23,
-    "sog": 9,
-    "g": 0,
+    "gp": 13,
+    "starts": 13,
+    "min": 992,
+    "sh": 25,
+    "sog": 10,
+    "g": 1,
     "a": 3,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 39.1,
+    "shot_pct": 40.0,
     "shots_saved": 9,
-    "shots_off_target": 14
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3170,6 +3367,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 69,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3331,10 +3544,10 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 738,
-    "sh": 11,
+    "gp": 13,
+    "starts": 12,
+    "min": 795,
+    "sh": 12,
     "sog": 5,
     "g": 1,
     "a": 4,
@@ -3342,9 +3555,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
+    "shot_pct": 41.7,
     "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3538,6 +3751,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3547,10 +3776,10 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 158,
-    "sh": 0,
+    "min": 191,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
@@ -3558,9 +3787,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3674,6 +3903,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 33,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3683,19 +3928,19 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1080,
-    "sh": 12,
-    "sog": 4,
+    "gp": 13,
+    "starts": 13,
+    "min": 1170,
+    "sh": 13,
+    "sog": 5,
     "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 38.5,
+    "shots_saved": 3,
     "shots_off_target": 8
    },
    "matches": [
@@ -3890,6 +4135,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3897,12 +4158,12 @@
    "name": "Zech, Ella",
    "slug": "zech-ella",
    "num": "8",
-   "pos": null,
+   "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 16,
-    "sh": 1,
+    "min": 29,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3910,9 +4171,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3924,6 +4185,22 @@
      "min": 16,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Dayton",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 13,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

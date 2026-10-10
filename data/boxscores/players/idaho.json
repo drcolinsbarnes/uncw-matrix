@@ -49,15 +49,15 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 694,
+    "gp": 12,
+    "starts": 9,
+    "min": 727,
     "sh": 8,
     "sog": 6,
     "g": 1,
     "a": 0,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 75.0,
@@ -240,6 +240,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -249,14 +265,14 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 940,
+    "gp": 12,
+    "starts": 12,
+    "min": 1030,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -440,6 +456,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -449,9 +481,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 593,
+    "gp": 12,
+    "starts": 9,
+    "min": 652,
     "sh": 22,
     "sog": 9,
     "g": 1,
@@ -640,6 +672,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -689,14 +737,14 @@
    "num": "91",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 505,
+    "min": 553,
     "sh": 11,
     "sog": 3,
     "g": 2,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -880,6 +928,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "DEF",
+     "num": "91",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -969,9 +1033,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 967,
+    "gp": 12,
+    "starts": 12,
+    "min": 1057,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -984,10 +1048,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 5,
-     "saves": 13,
-     "save_pct": 72.2
+     "saves": 15,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -1221,6 +1285,27 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -1230,9 +1315,9 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 256,
+    "min": 266,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1373,6 +1458,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "FWD",
+     "num": "25",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1422,9 +1523,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 939,
+    "gp": 12,
+    "starts": 12,
+    "min": 1029,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -1613,6 +1714,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1622,9 +1739,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 720,
+    "gp": 12,
+    "starts": 10,
+    "min": 782,
     "sh": 17,
     "sog": 12,
     "g": 2,
@@ -1807,6 +1924,22 @@
      "min": 69,
      "sh": 4,
      "sog": 4,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2175,7 +2308,7 @@
    "name": "Miller, Kahvayli",
    "slug": "miller-kahvayli",
    "num": "18",
-   "pos": "def",
+   "pos": "mid",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2233,20 +2366,20 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 306,
-    "sh": 12,
-    "sog": 4,
+    "min": 345,
+    "sh": 14,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 4,
-    "shots_off_target": 8
+    "shot_pct": 35.7,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2424,6 +2557,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 39,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2513,9 +2662,9 @@
    "num": "33",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 350,
+    "min": 384,
     "sh": 12,
     "sog": 5,
     "g": 2,
@@ -2704,6 +2853,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "MID",
+     "num": "33",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2753,9 +2918,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 489,
+    "min": 543,
     "sh": 9,
     "sog": 1,
     "g": 0,
@@ -2944,6 +3109,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2953,19 +3134,19 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 754,
-    "sh": 7,
-    "sog": 3,
+    "gp": 12,
+    "starts": 12,
+    "min": 824,
+    "sh": 8,
+    "sog": 4,
     "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 4
    },
    "matches": [
@@ -3144,6 +3325,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 70,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3153,9 +3350,9 @@
    "num": "19",
    "pos": "def",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 122,
+    "min": 135,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -3328,6 +3525,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "DEF",
+     "num": "19",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3337,9 +3550,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 904,
+    "gp": 12,
+    "starts": 12,
+    "min": 994,
     "sh": 13,
     "sog": 6,
     "g": 0,
@@ -3528,6 +3741,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3537,9 +3766,9 @@
    "num": "26",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 62,
+    "min": 67,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3680,6 +3909,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "FWD",
+     "num": "26",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3809,20 +4054,20 @@
    "num": "2",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
-    "starts": 4,
-    "min": 530,
-    "sh": 21,
-    "sog": 13,
+    "gp": 12,
+    "starts": 5,
+    "min": 593,
+    "sh": 23,
+    "sog": 14,
     "g": 2,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.9,
-    "shots_saved": 11,
-    "shots_off_target": 8
+    "shot_pct": 60.9,
+    "shots_saved": 12,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4000,6 +4245,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 63,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4060,9 +4321,9 @@
    "num": "29",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -4251,6 +4512,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4340,14 +4617,14 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 623,
+    "gp": 12,
+    "starts": 11,
+    "min": 671,
     "sh": 31,
     "sog": 10,
     "g": 1,
     "a": 2,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4531,6 +4808,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4540,9 +4833,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 40,
+    "min": 42,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4627,6 +4920,22 @@
      "pos": "",
      "num": "7",
      "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-08",
+     "opponent": "Northern Colorado",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 2,
      "sh": 0,
      "sog": 0,
      "g": 0,

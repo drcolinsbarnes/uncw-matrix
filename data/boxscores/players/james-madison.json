@@ -9,11 +9,11 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 872,
-    "sh": 12,
-    "sog": 6,
+    "gp": 12,
+    "starts": 12,
+    "min": 962,
+    "sh": 16,
+    "sog": 8,
     "g": 2,
     "a": 3,
     "fouls": 3,
@@ -21,8 +21,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -196,6 +196,22 @@
      "sog": 0,
      "g": 0,
      "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "33",
+     "min": 90,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -377,10 +393,10 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 122,
-    "sh": 0,
+    "min": 153,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -388,9 +404,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -472,6 +488,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -481,9 +513,9 @@
    "num": "21",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 879,
+    "gp": 12,
+    "starts": 12,
+    "min": 969,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -496,10 +528,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 14,
-     "saves": 30,
-     "save_pct": 68.2
+     "saves": 33,
+     "save_pct": 70.2
     }
    },
    "matches": [
@@ -733,6 +765,27 @@
       "ga": 1,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "GK",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -742,9 +795,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 537,
+    "gp": 10,
+    "starts": 10,
+    "min": 613,
     "sh": 17,
     "sog": 8,
     "g": 1,
@@ -901,6 +954,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -910,19 +979,19 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 8,
-    "min": 470,
-    "sh": 2,
-    "sog": 0,
+    "min": 507,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -1053,6 +1122,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1062,10 +1147,10 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 453,
-    "sh": 8,
+    "min": 487,
+    "sh": 9,
     "sog": 6,
     "g": 2,
     "a": 2,
@@ -1073,9 +1158,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 75.0,
+    "shot_pct": 66.7,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1253,6 +1338,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 34,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1262,9 +1363,9 @@
    "num": "80",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 834,
+    "gp": 12,
+    "starts": 12,
+    "min": 910,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1453,6 +1554,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "80",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1462,20 +1579,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 836,
-    "sh": 0,
-    "sog": 0,
+    "gp": 12,
+    "starts": 11,
+    "min": 903,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1653,6 +1770,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 67,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1662,9 +1795,9 @@
    "num": "8",
    "pos": null,
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 130,
+    "min": 150,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1773,6 +1906,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "",
+     "num": "8",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1870,9 +2019,9 @@
    "num": "26",
    "pos": null,
    "totals": {
-    "gp": 11,
-    "starts": 0,
-    "min": 227,
+    "gp": 12,
+    "starts": 1,
+    "min": 280,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -2061,6 +2210,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "",
+     "num": "26",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2070,20 +2235,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 907,
-    "sh": 40,
-    "sog": 22,
-    "g": 8,
+    "gp": 12,
+    "starts": 12,
+    "min": 997,
+    "sh": 48,
+    "sog": 25,
+    "g": 10,
     "a": 2,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.0,
-    "shots_saved": 14,
-    "shots_off_target": 18
+    "shot_pct": 52.1,
+    "shots_saved": 15,
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -2261,6 +2426,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 90,
+     "sh": 8,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2270,9 +2451,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 132,
+    "min": 142,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2413,6 +2594,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2422,9 +2619,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 382,
+    "min": 419,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2597,6 +2794,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "",
+     "num": "13",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2606,9 +2819,9 @@
    "num": "6",
    "pos": null,
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 799,
+    "gp": 12,
+    "starts": 10,
+    "min": 889,
     "sh": 6,
     "sog": 4,
     "g": 3,
@@ -2785,6 +2998,22 @@
     {
      "date": "2026-10-01",
      "opponent": "Appalachian State",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
      "start": true,
      "pos": "",
      "num": "6",
@@ -3078,9 +3307,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 869,
+    "gp": 12,
+    "starts": 12,
+    "min": 957,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3269,6 +3498,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 88,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3278,20 +3523,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 760,
-    "sh": 6,
-    "sog": 2,
+    "gp": 12,
+    "starts": 11,
+    "min": 819,
+    "sh": 8,
+    "sog": 3,
     "g": 0,
     "a": 2,
     "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 37.5,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3469,6 +3714,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 59,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3571,13 +3832,13 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 660,
+    "gp": 12,
+    "starts": 8,
+    "min": 700,
     "sh": 12,
     "sog": 5,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 11,
     "yc": 1,
     "rc": 0,
@@ -3762,6 +4023,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3771,9 +4048,9 @@
    "num": "18",
    "pos": null,
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 101,
+    "min": 103,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3858,6 +4135,22 @@
      "pos": "",
      "num": "18",
      "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-07",
+     "opponent": "Arkansas State",
+     "start": false,
+     "pos": "",
+     "num": "18",
+     "min": 2,
      "sh": 0,
      "sog": 0,
      "g": 0,
