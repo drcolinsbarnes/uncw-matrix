@@ -9,20 +9,20 @@
    "num": "16",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
-    "sh": 0,
-    "sog": 0,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -152,6 +152,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -161,9 +177,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 147,
+    "min": 177,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -304,6 +320,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -313,9 +345,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 599,
+    "gp": 9,
+    "starts": 8,
+    "min": 689,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -444,6 +476,22 @@
     {
      "date": "2026-10-03",
      "opponent": "Indiana State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
      "start": true,
      "pos": "DEF",
      "num": "4",
@@ -597,12 +645,12 @@
   {
    "name": "Chirpich, Brianna",
    "slug": "chirpich-brianna",
-   "num": "0",
+   "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 2,
-    "min": 180,
+    "gp": 3,
+    "starts": 3,
+    "min": 270,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -615,10 +663,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
-     "ga": 4,
-     "saves": 13,
-     "save_pct": 76.5
+     "gp": 3,
+     "ga": 5,
+     "saves": 18,
+     "save_pct": 78.3
     }
    },
    "matches": [
@@ -662,6 +710,27 @@
       "min": "90:00",
       "ga": 1,
       "saves": 4
+     }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
      }
     }
    ]
@@ -848,9 +917,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 587,
+    "gp": 9,
+    "starts": 9,
+    "min": 668,
     "sh": 9,
     "sog": 3,
     "g": 1,
@@ -991,6 +1060,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1000,9 +1085,9 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 553,
+    "gp": 9,
+    "starts": 9,
+    "min": 605,
     "sh": 10,
     "sog": 8,
     "g": 1,
@@ -1143,6 +1228,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1152,9 +1253,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 461,
+    "gp": 9,
+    "starts": 7,
+    "min": 533,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1295,6 +1396,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1304,9 +1421,9 @@
    "num": "15",
    "pos": null,
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 411,
+    "min": 438,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -1447,6 +1564,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1456,18 +1589,18 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 703,
-    "sh": 11,
-    "sog": 4,
-    "g": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 793,
+    "sh": 13,
+    "sog": 6,
+    "g": 4,
     "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
+    "shot_pct": 46.2,
     "shots_saved": 2,
     "shots_off_target": 7
    },
@@ -1599,6 +1732,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1608,20 +1757,20 @@
    "num": "12",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 226,
-    "sh": 3,
-    "sog": 1,
+    "min": 265,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shot_pct": 40.0,
+    "shots_saved": 2,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1751,6 +1900,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": false,
+     "pos": "fwd",
+     "num": "12",
+     "min": 39,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1851,9 +2016,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 519,
+    "gp": 9,
+    "starts": 9,
+    "min": 596,
     "sh": 12,
     "sog": 6,
     "g": 3,
@@ -1994,6 +2159,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2003,10 +2184,10 @@
    "num": "28",
    "pos": "MID",
    "totals": {
-    "gp": 2,
-    "starts": 2,
-    "min": 180,
-    "sh": 0,
+    "gp": 3,
+    "starts": 3,
+    "min": 270,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -2014,9 +2195,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2043,6 +2224,22 @@
      "num": "28",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "MID",
+     "num": "28",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2179,19 +2376,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 505,
-    "sh": 12,
-    "sog": 6,
+    "gp": 9,
+    "starts": 9,
+    "min": 569,
+    "sh": 13,
+    "sog": 7,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 6,
+    "shot_pct": 53.8,
+    "shots_saved": 7,
     "shots_off_target": 6
    },
    "matches": [
@@ -2322,6 +2519,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 64,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2331,9 +2544,9 @@
    "num": "14",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 204,
+    "min": 212,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2474,6 +2687,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
+     "start": false,
+     "pos": "fwd",
+     "num": "14",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2483,9 +2712,9 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 681,
+    "gp": 9,
+    "starts": 9,
+    "min": 771,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2614,6 +2843,22 @@
     {
      "date": "2026-10-03",
      "opponent": "Indiana State",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Belmont",
      "start": true,
      "pos": "FWD",
      "num": "6",

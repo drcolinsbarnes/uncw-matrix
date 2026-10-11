@@ -9,10 +9,10 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 67,
-    "sh": 0,
+    "min": 76,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -104,6 +104,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 9,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -113,20 +129,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 9,
-    "min": 823,
-    "sh": 14,
+    "min": 888,
+    "sh": 16,
     "sog": 10,
     "g": 4,
     "a": 3,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.4,
+    "shot_pct": 62.5,
     "shots_saved": 6,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -320,6 +336,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 65,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -329,9 +361,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 868,
+    "gp": 11,
+    "starts": 11,
+    "min": 958,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -504,6 +536,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -513,20 +561,20 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 3,
-    "min": 396,
-    "sh": 8,
-    "sog": 3,
+    "min": 426,
+    "sh": 11,
+    "sog": 5,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 0,
-    "shots_off_target": 5
+    "shot_pct": 45.5,
+    "shots_saved": 2,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -720,6 +768,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 30,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -729,9 +793,9 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 392,
+    "gp": 13,
+    "starts": 8,
+    "min": 449,
     "sh": 7,
     "sog": 3,
     "g": 2,
@@ -936,6 +1000,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -945,9 +1025,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1007,
+    "gp": 13,
+    "starts": 13,
+    "min": 1097,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -960,10 +1040,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 3,
-     "saves": 21,
-     "save_pct": 87.5
+     "gp": 13,
+     "ga": 6,
+     "saves": 25,
+     "save_pct": 80.6
     }
    },
    "matches": [
@@ -1218,6 +1298,27 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 4
+     }
     }
    ]
   },
@@ -1227,10 +1328,10 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 1,
-    "min": 380,
-    "sh": 4,
+    "min": 391,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 1,
@@ -1238,9 +1339,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1434,6 +1535,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "FWD",
+     "num": "5",
+     "min": 11,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1443,9 +1560,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 457,
+    "min": 465,
     "sh": 6,
     "sog": 3,
     "g": 1,
@@ -1634,6 +1751,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1779,9 +1912,9 @@
    "num": "13",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 235,
+    "min": 260,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -1970,6 +2103,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "MID",
+     "num": "13",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1979,13 +2128,13 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 698,
+    "gp": 13,
+    "starts": 13,
+    "min": 731,
     "sh": 17,
     "sog": 11,
     "g": 3,
-    "a": 2,
+    "a": 3,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
@@ -2186,6 +2335,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2195,20 +2360,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 701,
-    "sh": 39,
-    "sog": 16,
-    "g": 2,
+    "gp": 13,
+    "starts": 11,
+    "min": 773,
+    "sh": 42,
+    "sog": 18,
+    "g": 3,
     "a": 5,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.0,
-    "shots_saved": 14,
-    "shots_off_target": 23
+    "shot_pct": 42.9,
+    "shots_saved": 15,
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -2402,6 +2567,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 72,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2411,9 +2592,9 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 441,
+    "min": 457,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -2618,6 +2799,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2625,7 +2822,7 @@
    "name": "Miller, Becca",
    "slug": "miller-becca",
    "num": "9",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2683,9 +2880,9 @@
    "num": "29",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 786,
+    "gp": 12,
+    "starts": 12,
+    "min": 876,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2874,6 +3071,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "DEF",
+     "num": "29",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2881,7 +3094,7 @@
    "name": "Mutschler, Natalie",
    "slug": "mutschler-natalie",
    "num": "30",
-   "pos": "GK",
+   "pos": "gk",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2955,13 +3168,13 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 781,
+    "gp": 13,
+    "starts": 13,
+    "min": 837,
     "sh": 15,
     "sog": 10,
     "g": 6,
-    "a": 2,
+    "a": 3,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
@@ -3162,6 +3375,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 56,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3307,20 +3536,20 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1048,
-    "sh": 5,
-    "sog": 3,
+    "gp": 13,
+    "starts": 13,
+    "min": 1138,
+    "sh": 8,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 2,
-    "shots_off_target": 2
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3514,6 +3743,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3523,9 +3768,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 797,
+    "gp": 13,
+    "starts": 9,
+    "min": 887,
     "sh": 11,
     "sog": 5,
     "g": 2,
@@ -3730,6 +3975,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3830,20 +4091,20 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 881,
-    "sh": 0,
-    "sog": 0,
+    "gp": 12,
+    "starts": 12,
+    "min": 963,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -4021,6 +4282,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 82,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4030,18 +4307,18 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 616,
-    "sh": 11,
-    "sog": 7,
-    "g": 3,
-    "a": 5,
-    "fouls": 8,
+    "gp": 13,
+    "starts": 11,
+    "min": 692,
+    "sh": 13,
+    "sog": 9,
+    "g": 5,
+    "a": 6,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.6,
+    "shot_pct": 69.2,
     "shots_saved": 4,
     "shots_off_target": 4
    },
@@ -4234,6 +4511,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Providence",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 76,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 1,
+     "fouls": 3,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

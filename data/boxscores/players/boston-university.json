@@ -49,19 +49,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 945,
-    "sh": 23,
-    "sog": 12,
-    "g": 1,
+    "gp": 13,
+    "starts": 12,
+    "min": 1025,
+    "sh": 26,
+    "sog": 15,
+    "g": 2,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
-    "pk_g": 0,
-    "shot_pct": 52.2,
-    "shots_saved": 11,
+    "pk_g": 1,
+    "shot_pct": 57.7,
+    "shots_saved": 13,
     "shots_off_target": 11
    },
    "matches": [
@@ -256,6 +256,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 80,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -265,20 +281,20 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 667,
-    "sh": 20,
-    "sog": 12,
+    "gp": 13,
+    "starts": 13,
+    "min": 741,
+    "sh": 22,
+    "sog": 13,
     "g": 3,
     "a": 1,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 9,
-    "shots_off_target": 8
+    "shot_pct": 59.1,
+    "shots_saved": 10,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -472,6 +488,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "FWD",
+     "num": "30",
+     "min": 74,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -521,9 +553,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 585,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -536,10 +568,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 10,
-     "saves": 15,
-     "save_pct": 60.0
+     "gp": 7,
+     "ga": 11,
+     "saves": 16,
+     "save_pct": 59.3
     }
    },
    "matches": [
@@ -667,6 +699,27 @@
       "min": "90:00",
       "ga": 2,
       "saves": 3
+     }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 1
      }
     }
    ]
@@ -1008,14 +1061,14 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 553,
+    "gp": 10,
+    "starts": 9,
+    "min": 643,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1164,6 +1217,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1432,9 +1501,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 6,
-    "min": 540,
+    "min": 585,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1447,10 +1516,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 11,
-     "saves": 17,
-     "save_pct": 60.7
+     "gp": 7,
+     "ga": 12,
+     "saves": 18,
+     "save_pct": 60.0
     }
    },
    "matches": [
@@ -1579,6 +1648,27 @@
       "ga": 4,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": false,
+     "pos": "GK",
+     "num": "1",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1588,20 +1678,20 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 956,
-    "sh": 13,
+    "gp": 13,
+    "starts": 13,
+    "min": 1030,
+    "sh": 14,
     "sog": 7,
     "g": 1,
     "a": 1,
-    "fouls": 6,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.8,
+    "shot_pct": 50.0,
     "shots_saved": 6,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1795,6 +1885,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 74,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1804,20 +1910,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 500,
-    "sh": 11,
+    "min": 540,
+    "sh": 12,
     "sog": 7,
     "g": 0,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.6,
+    "shot_pct": 58.3,
     "shots_saved": 7,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2011,6 +2117,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2138,12 +2260,12 @@
    "name": "Myers, Josie",
    "slug": "myers-josie",
    "num": "15",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 17,
-    "sh": 0,
+    "min": 33,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -2151,9 +2273,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2171,6 +2293,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": false,
+     "pos": "MID",
+     "num": "15",
+     "min": 16,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2180,19 +2318,19 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 264,
-    "sh": 9,
-    "sog": 3,
+    "min": 293,
+    "sh": 10,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 40.0,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -2387,6 +2525,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 29,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2436,14 +2590,14 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 720,
+    "gp": 12,
+    "starts": 7,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2624,6 +2778,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2932,14 +3102,14 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 433,
+    "gp": 6,
+    "starts": 6,
+    "min": 500,
     "sh": 5,
     "sog": 4,
     "g": 1,
     "a": 0,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3024,6 +3194,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3172,10 +3358,10 @@
    "num": "18",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 122,
-    "sh": 4,
+    "min": 145,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3183,9 +3369,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3299,6 +3485,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": false,
+     "pos": "MID",
+     "num": "18",
+     "min": 23,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3308,10 +3510,10 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 479,
-    "sh": 16,
+    "gp": 13,
+    "starts": 8,
+    "min": 539,
+    "sh": 17,
     "sog": 7,
     "g": 3,
     "a": 1,
@@ -3319,9 +3521,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.8,
+    "shot_pct": 41.2,
     "shots_saved": 4,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3509,6 +3711,22 @@
      "min": 71,
      "sh": 2,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3716,20 +3934,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 4,
-    "min": 625,
-    "sh": 31,
-    "sog": 17,
+    "gp": 13,
+    "starts": 5,
+    "min": 702,
+    "sh": 33,
+    "sog": 18,
     "g": 6,
     "a": 1,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 54.8,
-    "shots_saved": 11,
-    "shots_off_target": 14
+    "shot_pct": 54.5,
+    "shots_saved": 12,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3923,6 +4141,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 77,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4036,9 +4270,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 854,
+    "gp": 11,
+    "starts": 11,
+    "min": 944,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -4211,6 +4445,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4220,19 +4470,19 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1040,
-    "sh": 5,
-    "sog": 3,
+    "gp": 13,
+    "starts": 13,
+    "min": 1130,
+    "sh": 6,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -4421,6 +4671,22 @@
      "min": 90,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Bucknell",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

@@ -9,9 +9,9 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 147,
+    "min": 149,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -184,6 +184,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "FWD",
+     "num": "30",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -193,18 +209,18 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 398,
-    "sh": 12,
-    "sog": 4,
-    "g": 0,
+    "min": 423,
+    "sh": 13,
+    "sog": 5,
+    "g": 1,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 38.5,
     "shots_saved": 4,
     "shots_off_target": 8
    },
@@ -400,6 +416,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 25,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -409,9 +441,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 82,
+    "min": 87,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -520,6 +552,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -529,19 +577,19 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 1,
-    "min": 125,
-    "sh": 3,
-    "sog": 3,
+    "gp": 4,
+    "starts": 2,
+    "min": 180,
+    "sh": 4,
+    "sog": 4,
     "g": 1,
-    "a": 0,
-    "fouls": 2,
+    "a": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 2,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -592,6 +640,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 55,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -601,9 +665,9 @@
    "num": "77",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 671,
+    "gp": 13,
+    "starts": 4,
+    "min": 761,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -616,10 +680,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 7,
-     "saves": 37,
-     "save_pct": 84.1
+     "gp": 13,
+     "ga": 10,
+     "saves": 42,
+     "save_pct": 80.8
     }
    },
    "matches": [
@@ -874,6 +938,27 @@
       "ga": 1,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "GK",
+     "num": "77",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 5
+     }
     }
    ]
   },
@@ -883,9 +968,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 1,
-    "min": 365,
+    "gp": 12,
+    "starts": 2,
+    "min": 446,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1074,6 +1159,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1083,10 +1184,10 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 68,
-    "sh": 1,
+    "min": 99,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1096,7 +1197,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1130,6 +1231,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1139,9 +1256,9 @@
    "num": "26",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 709,
+    "min": 728,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1330,6 +1447,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "",
+     "num": "26",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1339,9 +1472,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 396,
+    "min": 399,
     "sh": 11,
     "sog": 3,
     "g": 0,
@@ -1498,6 +1631,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "",
+     "num": "24",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1507,20 +1656,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1071,
-    "sh": 9,
-    "sog": 3,
-    "g": 0,
+    "gp": 13,
+    "starts": 13,
+    "min": 1161,
+    "sh": 13,
+    "sog": 5,
+    "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
-    "shots_off_target": 6
+    "shot_pct": 38.5,
+    "shots_saved": 4,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1709,6 +1858,22 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1907,18 +2072,18 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 908,
-    "sh": 24,
-    "sog": 11,
-    "g": 2,
+    "gp": 13,
+    "starts": 13,
+    "min": 982,
+    "sh": 25,
+    "sog": 12,
+    "g": 3,
     "a": 3,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.8,
+    "shot_pct": 48.0,
     "shots_saved": 9,
     "shots_off_target": 13
    },
@@ -2114,6 +2279,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 74,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2179,10 +2360,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 6,
-    "min": 461,
-    "sh": 6,
+    "min": 494,
+    "sh": 7,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -2190,9 +2371,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2370,6 +2551,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 33,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2379,20 +2576,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 977,
-    "sh": 42,
-    "sog": 24,
+    "gp": 13,
+    "starts": 13,
+    "min": 1064,
+    "sh": 46,
+    "sog": 26,
     "g": 6,
-    "a": 1,
+    "a": 3,
     "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 57.1,
-    "shots_saved": 18,
-    "shots_off_target": 18
+    "shot_pct": 56.5,
+    "shots_saved": 20,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -2586,6 +2783,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 87,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2595,9 +2808,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 211,
+    "min": 241,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -2754,6 +2967,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2763,14 +2992,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 957,
+    "gp": 13,
+    "starts": 13,
+    "min": 1047,
     "sh": 10,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2970,6 +3199,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2979,20 +3224,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 762,
-    "sh": 38,
+    "gp": 13,
+    "starts": 13,
+    "min": 807,
+    "sh": 40,
     "sog": 13,
     "g": 2,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 34.2,
+    "shot_pct": 32.5,
     "shots_saved": 11,
-    "shots_off_target": 25
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -3183,6 +3428,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 45,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3649,14 +3910,14 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3760,6 +4021,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3769,20 +4046,20 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 740,
-    "sh": 17,
+    "gp": 13,
+    "starts": 13,
+    "min": 800,
+    "sh": 19,
     "sog": 12,
     "g": 3,
     "a": 2,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 70.6,
+    "shot_pct": 63.2,
     "shots_saved": 9,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3976,6 +4253,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 60,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4089,10 +4382,10 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 862,
-    "sh": 4,
+    "gp": 13,
+    "starts": 10,
+    "min": 942,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -4100,9 +4393,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -4289,6 +4582,22 @@
      "num": "18",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Villanova",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 80,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

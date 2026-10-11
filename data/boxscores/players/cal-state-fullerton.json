@@ -60,19 +60,19 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 936,
-    "sh": 36,
-    "sog": 16,
-    "g": 3,
+    "gp": 13,
+    "starts": 13,
+    "min": 1017,
+    "sh": 38,
+    "sog": 18,
+    "g": 4,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 13,
+    "shot_pct": 47.4,
+    "shots_saved": 14,
     "shots_off_target": 20
    },
    "matches": [
@@ -267,6 +267,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 81,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -276,18 +292,18 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 919,
-    "sh": 27,
-    "sog": 14,
-    "g": 2,
-    "a": 2,
+    "gp": 13,
+    "starts": 13,
+    "min": 975,
+    "sh": 28,
+    "sog": 15,
+    "g": 3,
+    "a": 3,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 51.9,
+    "shot_pct": 53.6,
     "shots_saved": 12,
     "shots_off_target": 13
    },
@@ -483,6 +499,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -492,9 +524,9 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 491,
+    "gp": 10,
+    "starts": 6,
+    "min": 549,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -651,6 +683,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -658,11 +706,11 @@
    "name": "Contreras, Isabella",
    "slug": "contreras-isabella",
    "num": "8",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 3,
-    "min": 281,
+    "min": 313,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -755,6 +803,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "def",
+     "num": "8",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -764,9 +828,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 921,
+    "gp": 12,
+    "starts": 12,
+    "min": 1011,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -779,10 +843,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 17,
-     "saves": 43,
-     "save_pct": 71.7
+     "saves": 51,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -1016,6 +1080,27 @@
       "ga": 1,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 8
+     }
     }
    ]
   },
@@ -1025,13 +1110,13 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 984,
+    "gp": 13,
+    "starts": 13,
+    "min": 1064,
     "sh": 15,
     "sog": 6,
     "g": 3,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 2,
     "rc": 0,
@@ -1232,6 +1317,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1241,20 +1342,20 @@
    "num": "27",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 85,
-    "sh": 3,
+    "min": 94,
+    "sh": 4,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1352,6 +1453,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "fwd",
+     "num": "27",
+     "min": 9,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1361,9 +1478,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1044,
+    "gp": 13,
+    "starts": 13,
+    "min": 1134,
     "sh": 12,
     "sog": 3,
     "g": 1,
@@ -1556,6 +1673,22 @@
     {
      "date": "2026-10-03",
      "opponent": "Utah Valley",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
      "start": true,
      "pos": "DEF",
      "num": "15",
@@ -1772,15 +1905,15 @@
    "name": "LaRosa, Mia",
    "slug": "larosa-mia",
    "num": "4",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 422,
+    "min": 463,
     "sh": 14,
     "sog": 8,
     "g": 2,
-    "a": 1,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -1981,6 +2114,62 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "",
+     "num": "4",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Mboning, Claude-Kayenne",
+   "slug": "mboning-claude-kayenne",
+   "num": "18",
+   "pos": "fwd",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 3,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1988,12 +2177,12 @@
    "name": "Nettekoven, Shannon",
    "slug": "nettekoven-shannon",
    "num": "6",
-   "pos": "DEF",
+   "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 319,
-    "sh": 2,
+    "gp": 8,
+    "starts": 6,
+    "min": 409,
+    "sh": 3,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -2001,9 +2190,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2110,6 +2299,22 @@
      "num": "6",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2278,12 +2483,12 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 4,
-    "starts": 2,
-    "min": 270,
-    "sh": 2,
-    "sog": 1,
-    "g": 0,
+    "gp": 5,
+    "starts": 3,
+    "min": 351,
+    "sh": 4,
+    "sog": 2,
+    "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
@@ -2291,7 +2496,7 @@
     "pk_g": 0,
     "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2357,6 +2562,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 81,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2366,9 +2587,9 @@
    "num": "30",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 266,
+    "min": 271,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2557,6 +2778,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "mid",
+     "num": "30",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2702,9 +2939,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 119,
+    "min": 134,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2861,6 +3098,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2870,20 +3123,20 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1061,
-    "sh": 4,
+    "gp": 13,
+    "starts": 13,
+    "min": 1151,
+    "sh": 5,
     "sog": 3,
     "g": 1,
-    "a": 3,
+    "a": 4,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3073,6 +3326,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -3302,10 +3571,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 197,
-    "sh": 1,
+    "gp": 7,
+    "starts": 4,
+    "min": 263,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3313,9 +3582,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3406,6 +3675,22 @@
      "num": "10",
      "min": 29,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 66,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3574,18 +3859,18 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 89,
-    "sh": 3,
-    "sog": 0,
-    "g": 0,
+    "min": 108,
+    "sh": 4,
+    "sog": 1,
+    "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 25.0,
     "shots_saved": 0,
     "shots_off_target": 3
    },
@@ -3653,6 +3938,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 19,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3662,20 +3963,20 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 761,
-    "sh": 23,
-    "sog": 12,
+    "gp": 12,
+    "starts": 12,
+    "min": 826,
+    "sh": 27,
+    "sog": 13,
     "g": 7,
-    "a": 6,
+    "a": 7,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 52.2,
-    "shots_saved": 5,
-    "shots_off_target": 11
+    "shot_pct": 48.1,
+    "shots_saved": 6,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -3853,6 +4154,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": true,
+     "pos": "FWD",
+     "num": "31",
+     "min": 65,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3862,18 +4179,18 @@
    "num": "22",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 434,
-    "sh": 13,
-    "sog": 4,
-    "g": 1,
+    "min": 453,
+    "sh": 14,
+    "sog": 5,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.8,
+    "shot_pct": 35.7,
     "shots_saved": 3,
     "shots_off_target": 9
    },
@@ -4064,6 +4381,22 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "UC Santa Barbara",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 19,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,

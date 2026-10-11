@@ -9,14 +9,14 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 11,
     "sog": 4,
     "g": 4,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -281,9 +297,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 325,
+    "gp": 11,
+    "starts": 4,
+    "min": 336,
     "sh": 10,
     "sog": 5,
     "g": 2,
@@ -456,6 +472,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -601,9 +633,9 @@
    "num": "13",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 772,
+    "gp": 11,
+    "starts": 8,
+    "min": 862,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -616,10 +648,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 10,
-     "saves": 19,
-     "save_pct": 65.5
+     "gp": 11,
+     "ga": 12,
+     "saves": 22,
+     "save_pct": 64.7
     }
    },
    "matches": [
@@ -831,6 +863,27 @@
       "min": "90:00",
       "ga": 2,
       "saves": 4
+     }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "GK",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
      }
     }
    ]
@@ -1145,16 +1198,16 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 477,
+    "gp": 10,
+    "starts": 8,
+    "min": 480,
     "sh": 14,
     "sog": 8,
     "g": 2,
     "a": 3,
     "fouls": 7,
     "yc": 0,
-    "rc": 0,
+    "rc": 1,
     "pk_g": 0,
     "shot_pct": 57.1,
     "shots_saved": 6,
@@ -1304,6 +1357,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 1,
+     "pk_g": 0
     }
    ]
   },
@@ -1313,20 +1382,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 448,
-    "sh": 20,
-    "sog": 8,
-    "g": 1,
+    "min": 496,
+    "sh": 23,
+    "sog": 10,
+    "g": 3,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 43.5,
     "shots_saved": 7,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1504,6 +1573,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 48,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1513,9 +1598,9 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 792,
+    "gp": 12,
+    "starts": 12,
+    "min": 882,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -1704,6 +1789,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1713,14 +1814,14 @@
    "num": "35",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 332,
+    "min": 347,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 3,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1901,6 +2002,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "DEF",
+     "num": "35",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2097,14 +2214,14 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 149,
+    "min": 172,
     "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2208,6 +2325,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "FWD",
+     "num": "20",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2217,20 +2350,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 773,
-    "sh": 31,
-    "sog": 17,
-    "g": 3,
+    "gp": 12,
+    "starts": 12,
+    "min": 837,
+    "sh": 34,
+    "sog": 18,
+    "g": 4,
     "a": 7,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.8,
+    "shot_pct": 52.9,
     "shots_saved": 14,
-    "shots_off_target": 14
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -2408,6 +2541,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 64,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2417,9 +2566,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 810,
+    "gp": 10,
+    "starts": 10,
+    "min": 900,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2576,6 +2725,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2585,14 +2750,14 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 243,
+    "min": 246,
     "sh": 8,
     "sog": 5,
     "g": 3,
     "a": 1,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2744,6 +2909,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "FWD",
+     "num": "21",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2753,9 +2934,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 58,
+    "min": 79,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -2810,6 +2991,22 @@
      "min": 25,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2897,20 +3094,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 792,
-    "sh": 5,
+    "gp": 11,
+    "starts": 11,
+    "min": 882,
+    "sh": 6,
     "sog": 0,
     "g": 0,
     "a": 5,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3072,6 +3269,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3081,10 +3294,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 548,
-    "sh": 9,
+    "gp": 12,
+    "starts": 7,
+    "min": 617,
+    "sh": 10,
     "sog": 3,
     "g": 2,
     "a": 2,
@@ -3092,9 +3305,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 30.0,
     "shots_saved": 1,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3272,6 +3485,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 69,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3321,10 +3550,10 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 103,
-    "sh": 6,
+    "min": 133,
+    "sh": 7,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -3332,9 +3561,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3443,6 +3672,22 @@
      "sh": 3,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 30,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -3571,14 +3816,14 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 974,
+    "gp": 12,
+    "starts": 12,
+    "min": 1064,
     "sh": 8,
     "sog": 6,
     "g": 2,
     "a": 2,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3762,6 +4007,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3771,20 +4032,20 @@
    "num": "40",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 609,
-    "sh": 28,
-    "sog": 16,
+    "gp": 12,
+    "starts": 12,
+    "min": 673,
+    "sh": 32,
+    "sog": 17,
     "g": 6,
-    "a": 0,
+    "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 10,
-    "shots_off_target": 12
+    "shot_pct": 53.1,
+    "shots_saved": 11,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3962,6 +4223,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": true,
+     "pos": "FWD",
+     "num": "40",
+     "min": 64,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4075,14 +4352,14 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 57,
+    "min": 69,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4178,6 +4455,22 @@
      "pos": "MID",
      "num": "8",
      "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Yale",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 12,
      "sh": 0,
      "sog": 0,
      "g": 0,

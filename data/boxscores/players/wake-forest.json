@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 892,
+    "gp": 11,
+    "starts": 11,
+    "min": 982,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
+     "gp": 11,
      "ga": 5,
-     "saves": 29,
-     "save_pct": 85.3
+     "saves": 31,
+     "save_pct": 86.1
     }
    },
    "matches": [
@@ -240,6 +240,27 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -249,14 +270,14 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 183,
+    "min": 214,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -392,6 +413,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -457,14 +494,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 842,
+    "gp": 12,
+    "starts": 12,
+    "min": 932,
     "sh": 7,
     "sog": 2,
     "g": 1,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -648,6 +685,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -657,10 +710,10 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 386,
-    "sh": 7,
+    "min": 411,
+    "sh": 8,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -668,9 +721,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -848,6 +901,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": false,
+     "pos": "FWD",
+     "num": "8",
+     "min": 25,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -857,20 +926,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 853,
-    "sh": 18,
-    "sog": 8,
+    "gp": 12,
+    "starts": 12,
+    "min": 943,
+    "sh": 20,
+    "sog": 9,
     "g": 1,
     "a": 4,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 7,
-    "shots_off_target": 10
+    "shot_pct": 45.0,
+    "shots_saved": 8,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -1048,6 +1117,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1057,19 +1142,19 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 4,
-    "min": 560,
-    "sh": 5,
-    "sog": 2,
+    "gp": 12,
+    "starts": 5,
+    "min": 640,
+    "sh": 6,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 4,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 2,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
     "shots_off_target": 3
    },
    "matches": [
@@ -1248,6 +1333,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 80,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1257,10 +1358,10 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 755,
-    "sh": 23,
+    "gp": 12,
+    "starts": 12,
+    "min": 822,
+    "sh": 24,
     "sog": 9,
     "g": 2,
     "a": 3,
@@ -1268,9 +1369,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 39.1,
+    "shot_pct": 37.5,
     "shots_saved": 7,
-    "shots_off_target": 14
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -1448,6 +1549,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 67,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1577,14 +1694,14 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 832,
+    "gp": 12,
+    "starts": 11,
+    "min": 922,
     "sh": 32,
     "sog": 13,
     "g": 3,
     "a": 2,
-    "fouls": 16,
+    "fouls": 17,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1768,6 +1885,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "FWD",
+     "num": "31",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1777,14 +1910,14 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 921,
+    "gp": 12,
+    "starts": 12,
+    "min": 1011,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1965,6 +2098,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2169,14 +2318,14 @@
    "num": "24",
    "pos": null,
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 87,
+    "min": 97,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2280,6 +2429,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": false,
+     "pos": "",
+     "num": "24",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2289,14 +2454,14 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 553,
+    "gp": 12,
+    "starts": 10,
+    "min": 597,
     "sh": 15,
     "sog": 6,
     "g": 4,
     "a": 1,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2480,6 +2645,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2489,9 +2670,9 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 88,
+    "min": 129,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -2584,6 +2765,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": false,
+     "pos": "FWD",
+     "num": "33",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2593,10 +2790,10 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 982,
-    "sh": 15,
+    "gp": 12,
+    "starts": 12,
+    "min": 1072,
+    "sh": 16,
     "sog": 12,
     "g": 7,
     "a": 1,
@@ -2604,9 +2801,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 4,
-    "shot_pct": 80.0,
+    "shot_pct": 75.0,
     "shots_saved": 5,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2784,6 +2981,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2865,19 +3078,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 738,
-    "sh": 20,
-    "sog": 7,
+    "gp": 11,
+    "starts": 11,
+    "min": 800,
+    "sh": 21,
+    "sog": 8,
     "g": 3,
     "a": 2,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.0,
-    "shots_saved": 4,
+    "shot_pct": 38.1,
+    "shots_saved": 5,
     "shots_off_target": 13
    },
    "matches": [
@@ -3040,6 +3253,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 62,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3049,19 +3278,19 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 982,
-    "sh": 1,
-    "sog": 0,
+    "gp": 12,
+    "starts": 12,
+    "min": 1072,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -3234,6 +3463,22 @@
      "min": 90,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Miami (FL)",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
