@@ -47,7 +47,7 @@
     { key: "caa", label: "CAA", href: "caa.html" },
     { key: "recruiting", label: "Recruiting", href: "recruiting.html" },
     { key: "transfer", label: "Transfer Portal", href: "transfer.html" },
-    { key: "rpi", label: "RPI", href: "national_rpi.html" },
+    { key: "rpi", label: "Rankings", href: "national_rpi.html" },
     { key: "elo", label: "Elo Predictions", href: "elo.html" },
     // "Players" nav item removed 2026-09-28 per Colin: the directory-style
     // search wasn't useful for him, and it highlighted "Elo Predictions" as
@@ -65,7 +65,7 @@
 
   // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
   // HUB_VERSION_START
-  const HUB_VERSION = "3.30";
+  const HUB_VERSION = "3.32";
   const HUB_UPDATED = "11 Oct 2026";
   // HUB_VERSION_END
 

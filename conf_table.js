@@ -68,7 +68,7 @@
       (showSos ? '<th class="num" title="Average current RPI rank of every opponent on the full schedule. Lower = tougher.">SOS</th>' : "") +
       '<th title="Non-conference record (W-L-D).">Non-Conf</th><th title="Overall record (W-L-D).">Overall</th>' +
       '<th title="Last 5 results, oldest to newest.">Form</th>' +
-      '<th title="United Soccer Coaches poll: national rank, with the regional rank in brackets. NR = not ranked.">USC</th></tr></thead>';
+      (opts.noUsc ? "" : '<th title="United Soccer Coaches poll: national rank, with the regional rank in brackets. NR = not ranked.">USC</th>') + '</tr></thead>';
     var body = rows.map(function (t, i) {
       var link = opts.href ? '<a class="team-link" href="' + esc(opts.href(t.name)) + '">' + esc(t.name) + "</a>" : esc(t.name);
       var gd = t.gd > 0 ? "+" + t.gd : String(t.gd);
@@ -83,7 +83,7 @@
         (showSos ? '<td class="num">' + (t.sos != null ? t.sos : "—") + "</td>" : "") +
         "<td>" + esc(t.nonConf || "—") + "</td><td>" + esc(t.overall || "—") + "</td>" +
         "<td>" + formCircles(t.form) + "</td>" +
-        '<td class="usc">' + esc(uscLabel(opts.usc, t.name)) + "</td></tr>";
+        (opts.noUsc ? "" : '<td class="usc">' + esc(uscLabel(opts.usc, t.name)) + "</td>") + "</tr>";
     }).join("");
     return '<div class="ct-wrap"><table class="std ct">' + hdr + "<tbody>" + body + "</tbody></table></div>";
   }
