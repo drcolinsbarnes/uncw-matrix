@@ -181,5 +181,24 @@ try {
   document.getElementById("caa-sub").textContent = "Couldn't load standings (see browser console).";
 }
 </script>
+<script>
+// Tab switcher for Standings / Players (re-added 2026-10-11 after the Players
+// tab became a link card; the old Players script had been handling the clicks).
+(function () {
+  const btns = document.querySelectorAll(".tab-btn");
+  function show(name) {
+    btns.forEach(b => {
+      const on = b.dataset.tab === name;
+      b.classList.toggle("active", on);
+      b.setAttribute("aria-selected", String(on));
+    });
+    document.getElementById("tab-standings").hidden = name !== "standings";
+    document.getElementById("tab-players").hidden = name !== "players";
+    history.replaceState(null, "", name === "players" ? "#players" : location.pathname + location.search);
+  }
+  btns.forEach(b => b.addEventListener("click", () => show(b.dataset.tab)));
+  if (location.hash === "#players") show("players");
+})();
+</script>
 </body>
 </html>
