@@ -30,6 +30,7 @@
     recruiting: '<path d="M12 3.5l2.5 5.2 5.7.8-4.1 4 1 5.6L12 16.4l-5.1 2.7 1-5.6-4.1-4 5.7-.8L12 3.5Z"/>',
     transfer: '<path d="M4 8h14"/><path d="M14.5 4.5 18 8l-3.5 3.5"/><path d="M20 16H6"/><path d="M9.5 12.5 6 16l3.5 3.5"/>',
     elo: '<path d="M3.5 20.5h17"/><path d="M4.5 16l4.5-5 4 3 6.5-8"/><path d="M15 6h4.5v4.5"/>',
+    bracketology: '<path d="M3.5 5h5v5h-5"/><path d="M3.5 14h5v5h-5"/><path d="M8.5 7.5h4v9h-4"/><path d="M12.5 12h3"/><path d="M15.5 9.5h5v5h-5Z"/>',
     players: '<circle cx="9" cy="8" r="3.2"/><path d="M3.5 20c0-3.4 2.5-5.8 5.5-5.8s5.5 2.4 5.5 5.8"/><circle cx="17" cy="8.5" r="2.4"/><path d="M15.5 14.5c2.3.3 4 2.3 4 5.5"/>',
   };
   function iconSvg(key) {
@@ -49,6 +50,7 @@
     { key: "transfer", label: "Transfer Portal", href: "transfer.html" },
     { key: "rpi", label: "Rankings", href: "national_rpi.html" },
     { key: "elo", label: "Elo Predictions", href: "elo.html" },
+    { key: "bracketology", label: "Bracketology", href: "bracketology.html" },
     // "Players" nav item removed 2026-09-28 per Colin: the directory-style
     // search wasn't useful for him, and it highlighted "Elo Predictions" as
     // active instead of itself (no page sets data-page="players", since
