@@ -9,20 +9,20 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 8,
-    "min": 676,
-    "sh": 5,
+    "gp": 10,
+    "starts": 9,
+    "min": 755,
+    "sh": 8,
     "sog": 0,
     "g": 0,
     "a": 3,
-    "fouls": 8,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 5
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -168,6 +168,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 79,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -177,20 +193,20 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 276,
-    "sh": 5,
+    "min": 324,
+    "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -336,6 +352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "MID",
+     "num": "26",
+     "min": 48,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -345,20 +377,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 435,
-    "sh": 15,
-    "sog": 8,
+    "gp": 10,
+    "starts": 6,
+    "min": 486,
+    "sh": 18,
+    "sog": 10,
     "g": 1,
     "a": 3,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 53.3,
-    "shots_saved": 7,
-    "shots_off_target": 7
+    "shot_pct": 55.6,
+    "shots_saved": 9,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -504,6 +536,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 51,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -513,9 +561,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 540,
+    "gp": 7,
+    "starts": 7,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -528,10 +576,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 9,
-     "saves": 23,
-     "save_pct": 71.9
+     "gp": 7,
+     "ga": 10,
+     "saves": 27,
+     "save_pct": 73.0
     }
    },
    "matches": [
@@ -660,6 +708,27 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -725,20 +794,20 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 632,
-    "sh": 31,
-    "sog": 18,
+    "gp": 10,
+    "starts": 10,
+    "min": 705,
+    "sh": 34,
+    "sog": 19,
     "g": 8,
     "a": 0,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.1,
-    "shots_saved": 10,
-    "shots_off_target": 13
+    "shot_pct": 55.9,
+    "shots_saved": 11,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -884,6 +953,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 73,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -965,9 +1050,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 780,
+    "gp": 10,
+    "starts": 10,
+    "min": 850,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1124,6 +1209,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1133,20 +1234,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 378,
-    "sh": 1,
+    "min": 409,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
-    "yc": 0,
+    "fouls": 5,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1292,6 +1393,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1301,18 +1418,18 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 464,
-    "sh": 11,
-    "sog": 4,
-    "g": 2,
+    "gp": 10,
+    "starts": 8,
+    "min": 518,
+    "sh": 12,
+    "sog": 5,
+    "g": 3,
     "a": 1,
     "fouls": 10,
     "yc": 0,
     "rc": 0,
-    "pk_g": 0,
-    "shot_pct": 36.4,
+    "pk_g": 1,
+    "shot_pct": 41.7,
     "shots_saved": 2,
     "shots_off_target": 7
    },
@@ -1460,6 +1577,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 54,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -1469,14 +1602,14 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 182,
+    "min": 230,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1596,6 +1729,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1605,9 +1754,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 702,
+    "gp": 10,
+    "starts": 10,
+    "min": 760,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1764,6 +1913,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1773,14 +1938,14 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 542,
+    "min": 590,
     "sh": 12,
     "sog": 5,
     "g": 1,
-    "a": 0,
-    "fouls": 18,
+    "a": 1,
+    "fouls": 19,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1932,6 +2097,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2034,9 +2215,9 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 4,
-    "min": 369,
+    "gp": 10,
+    "starts": 5,
+    "min": 411,
     "sh": 5,
     "sog": 3,
     "g": 2,
@@ -2193,6 +2374,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2202,9 +2399,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 95,
+    "min": 103,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -2297,6 +2494,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2306,19 +2519,19 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 517,
-    "sh": 5,
-    "sog": 3,
-    "g": 0,
+    "gp": 10,
+    "starts": 10,
+    "min": 575,
+    "sh": 8,
+    "sog": 6,
+    "g": 2,
     "a": 6,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
-    "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
+    "pk_g": 1,
+    "shot_pct": 75.0,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -2465,6 +2678,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 58,
+     "sh": 3,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -2474,14 +2703,14 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 292,
+    "min": 329,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2633,6 +2862,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2642,9 +2887,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 10,
+    "min": 25,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2665,6 +2910,22 @@
      "pos": "MID",
      "num": "9",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 15,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2834,14 +3095,14 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 478,
+    "gp": 9,
+    "starts": 7,
+    "min": 568,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 8,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2977,6 +3238,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2986,9 +3263,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 773,
+    "gp": 10,
+    "starts": 10,
+    "min": 863,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3133,6 +3410,22 @@
     {
      "date": "2026-10-08",
      "opponent": "TCU",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oklahoma State",
      "start": true,
      "pos": "MID",
      "num": "13",

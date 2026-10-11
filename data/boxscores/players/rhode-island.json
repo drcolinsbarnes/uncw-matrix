@@ -9,18 +9,18 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1021,
-    "sh": 7,
-    "sog": 3,
-    "g": 1,
+    "gp": 13,
+    "starts": 13,
+    "min": 1100,
+    "sh": 8,
+    "sog": 4,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 50.0,
     "shots_saved": 2,
     "shots_off_target": 4
    },
@@ -216,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "",
+     "num": "15",
+     "min": 79,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -265,9 +281,9 @@
    "num": "19",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 923,
+    "gp": 12,
+    "starts": 12,
+    "min": 1013,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -280,10 +296,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 19,
-     "saves": 52,
-     "save_pct": 73.2
+     "saves": 55,
+     "save_pct": 74.3
     }
    },
    "matches": [
@@ -517,6 +533,27 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "GK",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -524,17 +561,17 @@
    "name": "Hines, Lindsay",
    "slug": "hines-lindsay",
    "num": "21",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 47,
+    "min": 65,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -589,6 +626,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -598,9 +651,9 @@
    "num": "22",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 176,
+    "min": 183,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -733,6 +786,22 @@
      "pos": "FWD",
      "num": "22",
      "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 7,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -886,20 +955,20 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 429,
-    "sh": 8,
-    "sog": 4,
+    "gp": 7,
+    "starts": 7,
+    "min": 513,
+    "sh": 13,
+    "sog": 7,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 53.8,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -997,6 +1066,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "",
+     "num": "17",
+     "min": 84,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1006,20 +1091,20 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1013,
-    "sh": 52,
-    "sog": 12,
+    "gp": 14,
+    "starts": 14,
+    "min": 1087,
+    "sh": 57,
+    "sog": 15,
     "g": 2,
     "a": 3,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 23.1,
-    "shots_saved": 10,
-    "shots_off_target": 40
+    "shot_pct": 26.3,
+    "shots_saved": 13,
+    "shots_off_target": 42
    },
    "matches": [
     {
@@ -1229,6 +1314,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 74,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1342,10 +1443,10 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
-    "starts": 1,
-    "min": 303,
-    "sh": 2,
+    "gp": 13,
+    "starts": 2,
+    "min": 382,
+    "sh": 4,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -1353,9 +1454,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1549,6 +1650,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 79,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1558,9 +1675,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 291,
+    "min": 297,
     "sh": 5,
     "sog": 4,
     "g": 1,
@@ -1749,6 +1866,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1758,9 +1891,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1032,
+    "gp": 14,
+    "starts": 13,
+    "min": 1109,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1981,6 +2114,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2104,9 +2253,9 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 811,
+    "gp": 13,
+    "starts": 9,
+    "min": 879,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -2311,6 +2460,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "",
+     "num": "24",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2456,9 +2621,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1113,
+    "gp": 14,
+    "starts": 13,
+    "min": 1203,
     "sh": 3,
     "sog": 1,
     "g": 1,
@@ -2679,6 +2844,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2776,9 +2957,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 460,
+    "min": 485,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -2935,6 +3116,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2944,20 +3141,20 @@
    "num": "8",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 880,
-    "sh": 16,
-    "sog": 6,
+    "gp": 13,
+    "starts": 13,
+    "min": 955,
+    "sh": 19,
+    "sog": 7,
     "g": 2,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 4,
-    "shots_off_target": 10
+    "shot_pct": 36.8,
+    "shots_saved": 5,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3151,6 +3348,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "",
+     "num": "8",
+     "min": 75,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3200,20 +3413,20 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 830,
-    "sh": 24,
-    "sog": 11,
+    "gp": 14,
+    "starts": 11,
+    "min": 885,
+    "sh": 27,
+    "sog": 13,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.8,
-    "shots_saved": 10,
-    "shots_off_target": 13
+    "shot_pct": 48.1,
+    "shots_saved": 12,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -3423,6 +3636,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 55,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3430,11 +3659,11 @@
    "name": "Shannon, Basie",
    "slug": "shannon-basie",
    "num": "25",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 6,
-    "min": 729,
+    "min": 775,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3655,6 +3884,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 46,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3664,18 +3909,18 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 554,
-    "sh": 12,
-    "sog": 7,
-    "g": 1,
+    "min": 581,
+    "sh": 13,
+    "sog": 8,
+    "g": 2,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
+    "shot_pct": 61.5,
     "shots_saved": 6,
     "shots_off_target": 5
    },
@@ -3855,6 +4100,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": false,
+     "pos": "",
+     "num": "23",
+     "min": 27,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3864,10 +4125,10 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 975,
-    "sh": 1,
+    "gp": 13,
+    "starts": 13,
+    "min": 1065,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3875,9 +4136,9 @@
     "yc": 0,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -4064,6 +4325,22 @@
      "num": "18",
      "min": 81,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "St. Bonaventure",
+     "start": true,
+     "pos": "",
+     "num": "18",
+     "min": 90,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,

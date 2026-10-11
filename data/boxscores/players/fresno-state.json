@@ -291,9 +291,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 2,
-    "min": 131,
+    "min": 161,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -367,6 +367,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -547,9 +563,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 68,
+    "min": 94,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -602,6 +618,22 @@
      "pos": "MID",
      "num": "12",
      "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "MID",
+     "num": "12",
+     "min": 26,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -787,20 +819,20 @@
    "num": "77",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1116,
-    "sh": 14,
+    "gp": 15,
+    "starts": 15,
+    "min": 1190,
+    "sh": 15,
     "sog": 9,
     "g": 4,
     "a": 0,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
+    "shot_pct": 60.0,
     "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1026,6 +1058,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "MID",
+     "num": "77",
+     "min": 74,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1137,16 +1185,16 @@
    "name": "Druian, Scarlette",
    "slug": "druian-scarlette-2",
    "num": "22",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 1,
-    "min": 73,
+    "min": 96,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1218,6 +1266,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1227,9 +1291,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 4,
-    "min": 580,
+    "min": 619,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1450,6 +1514,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "DEF",
+     "num": "7",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1459,14 +1539,14 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 9,
-    "min": 899,
+    "gp": 14,
+    "starts": 10,
+    "min": 969,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -1682,6 +1762,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1784,20 +1880,20 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 1068,
-    "sh": 14,
+    "gp": 15,
+    "starts": 13,
+    "min": 1131,
+    "sh": 15,
     "sog": 5,
     "g": 0,
     "a": 0,
-    "fouls": 8,
-    "yc": 0,
+    "fouls": 9,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 33.3,
     "shots_saved": 5,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2023,6 +2119,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 63,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2088,14 +2200,14 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 295,
+    "gp": 8,
+    "starts": 4,
+    "min": 340,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2215,6 +2327,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2224,9 +2352,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 1065,
+    "gp": 15,
+    "starts": 13,
+    "min": 1155,
     "sh": 8,
     "sog": 6,
     "g": 0,
@@ -2463,6 +2591,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2584,9 +2728,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 885,
+    "gp": 15,
+    "starts": 15,
+    "min": 926,
     "sh": 15,
     "sog": 9,
     "g": 1,
@@ -2823,6 +2967,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2832,9 +2992,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 2,
-    "min": 149,
+    "gp": 3,
+    "starts": 3,
+    "min": 239,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2847,10 +3007,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
-     "ga": 6,
-     "saves": 8,
-     "save_pct": 57.1
+     "gp": 3,
+     "ga": 12,
+     "saves": 14,
+     "save_pct": 53.8
     }
    },
    "matches": [
@@ -2894,6 +3054,27 @@
       "min": "90:00",
       "ga": 4,
       "saves": 5
+     }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 6,
+      "saves": 6
      }
     }
    ]
@@ -3060,15 +3241,15 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 863,
+    "gp": 15,
+    "starts": 12,
+    "min": 927,
     "sh": 13,
     "sog": 2,
     "g": 1,
     "a": 1,
-    "fouls": 16,
-    "yc": 0,
+    "fouls": 17,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 15.4,
@@ -3299,6 +3480,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3308,10 +3505,10 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 5,
-    "min": 707,
-    "sh": 2,
+    "min": 756,
+    "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -3319,9 +3516,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3547,6 +3744,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "DEF",
+     "num": "20",
+     "min": 49,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3674,21 +3887,21 @@
    "name": "Said, Jinan",
    "slug": "said-jinan-2",
    "num": "31",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 84,
-    "sh": 1,
-    "sog": 1,
+    "min": 107,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -3755,6 +3968,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "FWD",
+     "num": "31",
+     "min": 23,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3764,19 +3993,19 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 914,
-    "sh": 14,
-    "sog": 9,
+    "gp": 15,
+    "starts": 11,
+    "min": 981,
+    "sh": 15,
+    "sog": 10,
     "g": 1,
     "a": 2,
     "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
-    "shots_saved": 8,
+    "shot_pct": 66.7,
+    "shots_saved": 9,
     "shots_off_target": 5
    },
    "matches": [
@@ -4003,6 +4232,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 67,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4012,9 +4257,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 262,
+    "min": 293,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4235,6 +4480,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4244,19 +4505,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 5,
-    "min": 400,
-    "sh": 4,
-    "sog": 1,
+    "gp": 6,
+    "starts": 6,
+    "min": 459,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -4339,6 +4600,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 59,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4348,9 +4625,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 743,
+    "min": 788,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4539,6 +4816,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4652,9 +4945,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 303,
+    "gp": 6,
+    "starts": 4,
+    "min": 348,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4747,6 +5040,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4756,9 +5065,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 293,
+    "min": 309,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4976,6 +5285,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Gonzaga",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

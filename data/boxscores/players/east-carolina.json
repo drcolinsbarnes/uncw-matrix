@@ -145,9 +145,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 5,
-    "min": 596,
+    "gp": 13,
+    "starts": 6,
+    "min": 686,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -352,6 +352,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -361,14 +377,14 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1151,
+    "gp": 14,
+    "starts": 14,
+    "min": 1241,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -584,6 +600,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -593,9 +625,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1033,
+    "gp": 14,
+    "starts": 13,
+    "min": 1123,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -608,10 +640,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
-     "ga": 20,
-     "saves": 69,
-     "save_pct": 77.5
+     "gp": 14,
+     "ga": 22,
+     "saves": 78,
+     "save_pct": 78.0
     }
    },
    "matches": [
@@ -886,6 +918,27 @@
       "min": "90:00",
       "ga": 4,
       "saves": 8
+     }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 9
      }
     }
    ]
@@ -1344,9 +1397,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 1,
-    "min": 385,
+    "min": 402,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1551,6 +1604,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1560,10 +1629,10 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 1,
-    "min": 304,
-    "sh": 5,
+    "min": 328,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -1571,9 +1640,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1783,6 +1852,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": false,
+     "pos": "FWD",
+     "num": "2",
+     "min": 24,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1792,20 +1877,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 482,
-    "sh": 11,
-    "sog": 4,
-    "g": 1,
+    "gp": 7,
+    "starts": 7,
+    "min": 572,
+    "sh": 16,
+    "sog": 6,
+    "g": 2,
     "a": 2,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
-    "shots_saved": 3,
-    "shots_off_target": 7
+    "shot_pct": 37.5,
+    "shots_saved": 4,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1900,6 +1985,22 @@
      "g": 1,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 5,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2016,15 +2117,15 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 78,
+    "min": 98,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
-    "fouls": 2,
-    "yc": 1,
+    "a": 1,
+    "fouls": 3,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -2127,6 +2228,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2136,15 +2253,15 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1146,
+    "gp": 14,
+    "starts": 14,
+    "min": 1236,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 7,
-    "yc": 3,
+    "fouls": 8,
+    "yc": 4,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -2359,6 +2476,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2368,20 +2501,20 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 987,
-    "sh": 18,
-    "sog": 6,
+    "gp": 13,
+    "starts": 13,
+    "min": 1060,
+    "sh": 21,
+    "sog": 7,
     "g": 2,
     "a": 0,
-    "fouls": 18,
+    "fouls": 21,
     "yc": 5,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
-    "shots_saved": 4,
-    "shots_off_target": 12
+    "shots_saved": 5,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -2575,6 +2708,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "MID",
+     "num": "33",
+     "min": 73,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2720,15 +2869,15 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 941,
+    "gp": 14,
+    "starts": 13,
+    "min": 1020,
     "sh": 10,
     "sog": 3,
     "g": 2,
     "a": 1,
     "fouls": 5,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 30.0,
@@ -2943,6 +3092,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2952,9 +3117,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 238,
+    "min": 305,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3063,6 +3228,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3072,18 +3253,18 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 958,
-    "sh": 6,
-    "sog": 2,
-    "g": 0,
+    "gp": 14,
+    "starts": 14,
+    "min": 1035,
+    "sh": 7,
+    "sog": 3,
+    "g": 1,
     "a": 1,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 42.9,
     "shots_saved": 2,
     "shots_off_target": 4
    },
@@ -3295,6 +3476,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 77,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3397,10 +3594,10 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 519,
-    "sh": 6,
+    "gp": 13,
+    "starts": 8,
+    "min": 568,
+    "sh": 7,
     "sog": 5,
     "g": 1,
     "a": 2,
@@ -3408,9 +3605,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 83.3,
+    "shot_pct": 71.4,
     "shots_saved": 4,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3604,6 +3801,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 49,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3613,16 +3826,16 @@
    "num": "9",
    "pos": null,
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 974,
+    "gp": 14,
+    "starts": 14,
+    "min": 993,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 1,
-    "rc": 0,
+    "rc": 1,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
@@ -3836,6 +4049,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 1,
+     "pk_g": 0
     }
    ]
   },
@@ -3845,9 +4074,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1026,
+    "gp": 14,
+    "starts": 14,
+    "min": 1070,
     "sh": 16,
     "sog": 7,
     "g": 1,
@@ -4065,6 +4294,22 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Rice",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

@@ -9,19 +9,19 @@
    "num": "22",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 302,
-    "sh": 4,
-    "sog": 0,
+    "gp": 7,
+    "starts": 4,
+    "min": 387,
+    "sh": 5,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 7,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 20.0,
+    "shots_saved": 1,
     "shots_off_target": 4
    },
    "matches": [
@@ -118,6 +118,22 @@
      "a": 0,
      "fouls": 3,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "",
+     "num": "22",
+     "min": 85,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -249,9 +265,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 343,
+    "min": 358,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -472,6 +488,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": false,
+     "pos": "DEF",
+     "num": "16",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -521,20 +553,20 @@
    "num": "25",
    "pos": null,
    "totals": {
-    "gp": 17,
-    "starts": 13,
-    "min": 795,
-    "sh": 16,
-    "sog": 3,
+    "gp": 18,
+    "starts": 14,
+    "min": 847,
+    "sh": 18,
+    "sog": 4,
     "g": 0,
-    "a": 2,
-    "fouls": 17,
+    "a": 3,
+    "fouls": 19,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 18.8,
-    "shots_saved": 3,
-    "shots_off_target": 13
+    "shot_pct": 22.2,
+    "shots_saved": 4,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -808,6 +840,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "",
+     "num": "25",
+     "min": 52,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -817,9 +865,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1318,
+    "gp": 17,
+    "starts": 17,
+    "min": 1408,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -832,10 +880,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 23,
-     "saves": 59,
-     "save_pct": 72.0
+     "gp": 11,
+     "ga": 26,
+     "saves": 61,
+     "save_pct": 70.1
     }
    },
    "matches": [
@@ -1144,6 +1192,27 @@
       "ga": 2,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 2
+     }
     }
    ]
   },
@@ -1151,7 +1220,7 @@
    "name": "Brooks, Jane",
    "slug": "brooks-jane",
    "num": "13",
-   "pos": "DEF",
+   "pos": "D",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -1209,13 +1278,13 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1223,
+    "gp": 16,
+    "starts": 16,
+    "min": 1313,
     "sh": 6,
     "sog": 0,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
@@ -1464,6 +1533,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1593,20 +1678,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
-    "starts": 16,
-    "min": 1156,
-    "sh": 30,
-    "sog": 12,
+    "gp": 18,
+    "starts": 17,
+    "min": 1203,
+    "sh": 33,
+    "sog": 13,
     "g": 0,
     "a": 2,
-    "fouls": 33,
+    "fouls": 35,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 12,
-    "shots_off_target": 18
+    "shot_pct": 39.4,
+    "shots_saved": 13,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -1880,6 +1965,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 47,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2020,18 +2121,18 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 17,
-    "starts": 13,
-    "min": 1048,
-    "sh": 16,
-    "sog": 7,
-    "g": 3,
-    "a": 0,
-    "fouls": 25,
+    "gp": 18,
+    "starts": 14,
+    "min": 1123,
+    "sh": 17,
+    "sog": 8,
+    "g": 4,
+    "a": 1,
+    "fouls": 26,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.8,
+    "shot_pct": 47.1,
     "shots_saved": 4,
     "shots_off_target": 9
    },
@@ -2307,6 +2408,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 75,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2567,9 +2684,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 572,
+    "gp": 12,
+    "starts": 10,
+    "min": 591,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2756,6 +2873,22 @@
      "a": 0,
      "fouls": 2,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -3255,19 +3388,19 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 80,
-    "sh": 3,
-    "sog": 3,
-    "g": 0,
-    "a": 0,
-    "fouls": 0,
+    "min": 123,
+    "sh": 5,
+    "sog": 5,
+    "g": 1,
+    "a": 1,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 3,
+    "shots_saved": 4,
     "shots_off_target": 0
    },
    "matches": [
@@ -3315,6 +3448,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": false,
+     "pos": "FWD",
+     "num": "6",
+     "min": 43,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 1,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3863,18 +4012,18 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 410,
-    "sh": 6,
-    "sog": 2,
-    "g": 0,
-    "a": 2,
+    "min": 453,
+    "sh": 7,
+    "sog": 3,
+    "g": 1,
+    "a": 3,
     "fouls": 3,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 42.9,
     "shots_saved": 2,
     "shots_off_target": 4
    },
@@ -3990,6 +4139,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": false,
+     "pos": "MID",
+     "num": "19",
+     "min": 43,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4039,14 +4204,14 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 4,
-    "min": 691,
+    "min": 713,
     "sh": 18,
     "sog": 6,
     "g": 4,
     "a": 0,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 2,
@@ -4310,6 +4475,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4319,20 +4500,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 12,
-    "min": 1063,
-    "sh": 2,
+    "gp": 18,
+    "starts": 13,
+    "min": 1153,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 11,
-    "yc": 2,
+    "fouls": 12,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -4606,6 +4787,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4695,19 +4892,19 @@
    "num": "28",
    "pos": null,
    "totals": {
-    "gp": 17,
-    "starts": 16,
-    "min": 1348,
-    "sh": 6,
-    "sog": 2,
+    "gp": 18,
+    "starts": 17,
+    "min": 1438,
+    "sh": 7,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 42.9,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -4982,6 +5179,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "",
+     "num": "28",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4991,14 +5204,14 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 12,
-    "min": 823,
+    "min": 894,
     "sh": 11,
     "sog": 2,
     "g": 2,
     "a": 0,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -5246,6 +5459,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5335,20 +5564,20 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 14,
-    "starts": 8,
-    "min": 799,
-    "sh": 13,
+    "gp": 15,
+    "starts": 9,
+    "min": 867,
+    "sh": 15,
     "sog": 8,
     "g": 1,
     "a": 2,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.5,
+    "shot_pct": 53.3,
     "shots_saved": 7,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5574,6 +5803,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 68,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5623,20 +5868,20 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 15,
-    "min": 1205,
-    "sh": 19,
-    "sog": 7,
+    "gp": 18,
+    "starts": 16,
+    "min": 1295,
+    "sh": 22,
+    "sog": 8,
     "g": 0,
     "a": 3,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.8,
-    "shots_saved": 7,
-    "shots_off_target": 12
+    "shot_pct": 36.4,
+    "shots_saved": 8,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -5906,6 +6151,22 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Texas State",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
      "fouls": 1,
      "yc": 0,
      "rc": 0,

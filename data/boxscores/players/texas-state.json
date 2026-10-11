@@ -9,10 +9,10 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 508,
-    "sh": 9,
+    "gp": 13,
+    "starts": 9,
+    "min": 603,
+    "sh": 11,
     "sog": 4,
     "g": 2,
     "a": 4,
@@ -20,9 +20,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 36.4,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -81,6 +81,22 @@
      "num": "17",
      "min": 27,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 45,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -200,6 +216,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 50,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,19 +241,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 842,
-    "sh": 12,
-    "sog": 4,
+    "gp": 13,
+    "starts": 13,
+    "min": 993,
+    "sh": 13,
+    "sog": 5,
     "g": 2,
     "a": 1,
-    "fouls": 4,
-    "yc": 3,
+    "fouls": 7,
+    "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 38.5,
+    "shots_saved": 3,
     "shots_off_target": 8
    },
    "matches": [
@@ -286,6 +318,22 @@
      "a": 0,
      "fouls": 1,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     },
@@ -400,6 +448,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 87,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -409,9 +473,9 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 105,
+    "min": 118,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -448,6 +512,22 @@
      "pos": "FWD",
      "num": "24",
      "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 13,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -545,9 +625,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 783,
+    "gp": 11,
+    "starts": 11,
+    "min": 963,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -560,10 +640,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 14,
-     "saves": 52,
-     "save_pct": 78.8
+     "gp": 11,
+     "ga": 17,
+     "saves": 62,
+     "save_pct": 78.5
     }
    },
    "matches": [
@@ -648,6 +728,27 @@
      "goalie": {
       "min": "90:00",
       "ga": 1,
+      "saves": 4
+     }
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
       "saves": 4
      }
     },
@@ -755,6 +856,27 @@
       "ga": 1,
       "saves": 14
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 6
+     }
     }
    ]
   },
@@ -764,20 +886,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 4,
-    "min": 549,
-    "sh": 4,
+    "gp": 13,
+    "starts": 6,
+    "min": 715,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 2,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -841,6 +963,22 @@
      "a": 0,
      "fouls": 1,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 84,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     },
@@ -955,6 +1093,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -964,9 +1118,9 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 56,
+    "min": 62,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -1003,6 +1157,22 @@
      "pos": "fwd",
      "num": "25",
      "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 6,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1145,18 +1315,18 @@
    "num": "28",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 13,
     "starts": 2,
-    "min": 363,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
+    "min": 428,
+    "sh": 5,
+    "sog": 3,
+    "g": 1,
     "a": 1,
     "fouls": 3,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
     "shots_off_target": 2
    },
@@ -1219,6 +1389,22 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 43,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1336,6 +1522,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": false,
+     "pos": "MID",
+     "num": "28",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1345,9 +1547,9 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 9,
     "starts": 3,
-    "min": 268,
+    "min": 295,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1400,6 +1602,22 @@
      "pos": "FWD",
      "num": "18",
      "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 12,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1464,6 +1682,22 @@
      "pos": "FWD",
      "num": "18",
      "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 15,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1617,9 +1851,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 779,
+    "gp": 13,
+    "starts": 11,
+    "min": 947,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1688,6 +1922,22 @@
      "pos": "MID",
      "num": "5",
      "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 78,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1808,6 +2058,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1815,11 +2081,11 @@
    "name": "Kooker, Ava",
    "slug": "kooker-ava",
    "num": "2",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 380,
+    "min": 400,
     "sh": 7,
     "sog": 1,
     "g": 0,
@@ -1892,6 +2158,22 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -2015,12 +2297,12 @@
    "name": "Lek-Miro, Marivic",
    "slug": "lek-miro-marivic",
    "num": "11",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 252,
-    "sh": 5,
+    "min": 274,
+    "sh": 6,
     "sog": 4,
     "g": 2,
     "a": 1,
@@ -2028,9 +2310,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 80.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2160,6 +2442,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 22,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2169,9 +2467,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 145,
+    "min": 169,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2312,6 +2610,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2321,20 +2635,20 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 784,
-    "sh": 34,
-    "sog": 14,
+    "gp": 11,
+    "starts": 11,
+    "min": 874,
+    "sh": 38,
+    "sog": 16,
     "g": 8,
     "a": 4,
     "fouls": 5,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.2,
-    "shots_saved": 6,
-    "shots_off_target": 20
+    "shot_pct": 42.1,
+    "shots_saved": 8,
+    "shots_off_target": 22
    },
    "matches": [
     {
@@ -2397,6 +2711,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2505,19 +2835,19 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 787,
-    "sh": 9,
-    "sog": 3,
+    "gp": 13,
+    "starts": 13,
+    "min": 955,
+    "sh": 10,
+    "sog": 4,
     "g": 1,
     "a": 0,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 40.0,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -2581,6 +2911,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2696,6 +3042,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2705,18 +3067,18 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 811,
-    "sh": 9,
-    "sog": 7,
-    "g": 2,
-    "a": 4,
-    "fouls": 3,
+    "gp": 13,
+    "starts": 13,
+    "min": 978,
+    "sh": 10,
+    "sog": 8,
+    "g": 3,
+    "a": 5,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 77.8,
+    "shot_pct": 80.0,
     "shots_saved": 5,
     "shots_off_target": 2
    },
@@ -2781,6 +3143,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2896,6 +3274,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 83,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2905,20 +3299,20 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 870,
-    "sh": 5,
-    "sog": 4,
-    "g": 3,
+    "gp": 13,
+    "starts": 12,
+    "min": 1050,
+    "sh": 11,
+    "sog": 7,
+    "g": 5,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 80.0,
-    "shots_saved": 1,
-    "shots_off_target": 1
+    "shot_pct": 63.6,
+    "shots_saved": 2,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2981,6 +3375,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3096,6 +3506,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3177,10 +3603,10 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
-    "starts": 3,
-    "min": 364,
-    "sh": 9,
+    "gp": 13,
+    "starts": 4,
+    "min": 476,
+    "sh": 10,
     "sog": 5,
     "g": 0,
     "a": 0,
@@ -3188,9 +3614,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 50.0,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3248,6 +3674,22 @@
      "pos": "FWD",
      "num": "8",
      "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 45,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3368,6 +3810,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 67,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3377,10 +3835,10 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 10,
     "starts": 1,
-    "min": 184,
-    "sh": 1,
+    "min": 201,
+    "sh": 2,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -3388,9 +3846,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 0,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3417,6 +3875,22 @@
      "num": "19",
      "min": 14,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 12,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3520,6 +3994,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3529,20 +4019,20 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 797,
-    "sh": 12,
+    "gp": 13,
+    "starts": 13,
+    "min": 937,
+    "sh": 13,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 30.8,
     "shots_saved": 3,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3606,6 +4096,22 @@
      "a": 0,
      "fouls": 0,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 72,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     },
@@ -3720,6 +4226,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3801,9 +4323,9 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 9,
     "starts": 0,
-    "min": 149,
+    "min": 185,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3861,6 +4383,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3928,6 +4466,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": false,
+     "pos": "FWD",
+     "num": "13",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3937,12 +4491,12 @@
    "num": "TM",
    "pos": null,
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
     "min": 0,
     "sh": 0,
     "sog": 0,
-    "g": 1,
+    "g": 2,
     "a": 0,
     "fouls": 0,
     "yc": 0,
@@ -3968,6 +4522,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3977,20 +4547,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 709,
-    "sh": 13,
+    "gp": 13,
+    "starts": 12,
+    "min": 842,
+    "sh": 15,
     "sog": 5,
     "g": 3,
-    "a": 5,
-    "fouls": 1,
+    "a": 6,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -4051,6 +4621,22 @@
      "sh": 2,
      "sog": 2,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-27",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -4165,6 +4751,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Oregon State",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

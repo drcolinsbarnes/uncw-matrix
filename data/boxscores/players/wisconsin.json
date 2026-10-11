@@ -9,20 +9,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 583,
-    "sh": 15,
-    "sog": 4,
-    "g": 0,
+    "gp": 14,
+    "starts": 10,
+    "min": 683,
+    "sh": 17,
+    "sog": 5,
+    "g": 1,
     "a": 1,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.7,
+    "shot_pct": 29.4,
     "shots_saved": 4,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -69,6 +69,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "FWD",
+     "num": "3",
+     "min": 39,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -216,6 +232,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -225,19 +257,19 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1073,
-    "sh": 10,
-    "sog": 5,
+    "gp": 14,
+    "starts": 14,
+    "min": 1253,
+    "sh": 11,
+    "sog": 6,
     "g": 2,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 54.5,
+    "shots_saved": 4,
     "shots_off_target": 5
    },
    "matches": [
@@ -276,6 +308,22 @@
     {
      "date": "2026-08-23",
      "opponent": "Marquette",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
      "start": true,
      "pos": "DEF",
      "num": "32",
@@ -432,6 +480,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -441,18 +505,18 @@
    "num": "22",
    "pos": null,
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 307,
-    "sh": 3,
-    "sog": 2,
-    "g": 0,
+    "gp": 9,
+    "starts": 4,
+    "min": 378,
+    "sh": 5,
+    "sog": 4,
+    "g": 2,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 80.0,
     "shots_saved": 2,
     "shots_off_target": 1
    },
@@ -501,6 +565,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "",
+     "num": "22",
+     "min": 51,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -568,6 +648,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": false,
+     "pos": "",
+     "num": "22",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -577,9 +673,9 @@
    "num": "13",
    "pos": null,
    "totals": {
-    "gp": 5,
+    "gp": 7,
     "starts": 0,
-    "min": 105,
+    "min": 150,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -593,6 +689,22 @@
     "shots_off_target": 1
    },
    "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "13",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-09-03",
      "opponent": "Wisconsin-Milwaukee",
@@ -672,6 +784,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": false,
+     "pos": "",
+     "num": "13",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -681,9 +809,9 @@
    "num": "9",
    "pos": null,
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 5,
+    "min": 15,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -697,6 +825,22 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "9",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-09-06",
      "opponent": "Central Michigan",
@@ -721,9 +865,9 @@
    "num": "2",
    "pos": null,
    "totals": {
-    "gp": 6,
-    "starts": 5,
-    "min": 523,
+    "gp": 7,
+    "starts": 6,
+    "min": 610,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -832,6 +976,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -841,20 +1001,20 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1074,
-    "sh": 24,
-    "sog": 9,
+    "gp": 14,
+    "starts": 14,
+    "min": 1233,
+    "sh": 31,
+    "sog": 11,
     "g": 3,
-    "a": 0,
+    "a": 1,
     "fouls": 11,
     "yc": 2,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 37.5,
-    "shots_saved": 6,
-    "shots_off_target": 15
+    "shot_pct": 35.5,
+    "shots_saved": 8,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -904,6 +1064,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 69,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     },
     {
      "date": "2026-09-03",
@@ -1048,6 +1224,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1057,13 +1249,13 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 480,
+    "gp": 9,
+    "starts": 8,
+    "min": 535,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
@@ -1100,6 +1292,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1209,14 +1417,14 @@
    "num": "8",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1037,
+    "gp": 14,
+    "starts": 14,
+    "min": 1190,
     "sh": 8,
     "sog": 3,
     "g": 0,
-    "a": 0,
-    "fouls": 5,
+    "a": 1,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1268,6 +1476,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "",
+     "num": "8",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1416,6 +1640,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1425,9 +1665,9 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 4,
+    "min": 11,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -1441,6 +1681,22 @@
     "shots_off_target": 0
    },
    "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-09-06",
      "opponent": "Central Michigan",
@@ -1465,9 +1721,9 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1080,
+    "gp": 14,
+    "starts": 14,
+    "min": 1253,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -1521,6 +1777,22 @@
      "num": "11",
      "min": 90,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 83,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1672,6 +1944,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1681,20 +1969,20 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 14,
     "starts": 0,
-    "min": 428,
-    "sh": 14,
-    "sog": 7,
+    "min": 500,
+    "sh": 17,
+    "sog": 8,
     "g": 3,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 47.1,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -1741,6 +2029,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 38,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1888,6 +2192,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": false,
+     "pos": "FWD",
+     "num": "4",
+     "min": 34,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1897,19 +2217,19 @@
    "num": "21",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 808,
-    "sh": 19,
-    "sog": 7,
+    "gp": 14,
+    "starts": 14,
+    "min": 928,
+    "sh": 20,
+    "sog": 8,
     "g": 2,
-    "a": 0,
-    "fouls": 10,
+    "a": 1,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.8,
-    "shots_saved": 5,
+    "shot_pct": 40.0,
+    "shots_saved": 6,
     "shots_off_target": 12
    },
    "matches": [
@@ -1957,6 +2277,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2104,6 +2440,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 76,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2113,14 +2465,14 @@
    "num": "26",
    "pos": null,
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 37,
+    "min": 58,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2129,6 +2481,22 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "26",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-09-03",
      "opponent": "Wisconsin-Milwaukee",
@@ -2212,24 +2580,75 @@
    ]
   },
   {
+   "name": "Nelson, Brooke",
+   "slug": "nelson-brooke",
+   "num": "24",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 12,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 1,
+     "save_pct": 100.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "GK",
+     "num": "24",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "12:43",
+      "ga": 0,
+      "saves": 1
+     }
+    }
+   ]
+  },
+  {
    "name": "Panella, KK",
    "slug": "panella-kk",
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1044,
-    "sh": 13,
-    "sog": 4,
+    "gp": 14,
+    "starts": 14,
+    "min": 1207,
+    "sh": 14,
+    "sog": 5,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.8,
-    "shots_saved": 3,
+    "shot_pct": 35.7,
+    "shots_saved": 4,
     "shots_off_target": 9
    },
    "matches": [
@@ -2276,6 +2695,22 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -2424,6 +2859,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2433,20 +2884,20 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 865,
-    "sh": 18,
-    "sog": 7,
-    "g": 2,
-    "a": 1,
+    "gp": 14,
+    "starts": 14,
+    "min": 984,
+    "sh": 22,
+    "sog": 9,
+    "g": 3,
+    "a": 2,
     "fouls": 13,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.9,
-    "shots_saved": 5,
-    "shots_off_target": 11
+    "shot_pct": 40.9,
+    "shots_saved": 6,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2493,6 +2944,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 55,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2640,6 +3107,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 64,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2649,9 +3132,9 @@
    "num": "18",
    "pos": null,
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 4,
+    "min": 11,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2665,6 +3148,22 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "18",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-09-06",
      "opponent": "Central Michigan",
@@ -2689,14 +3188,14 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 0,
-    "min": 22,
+    "min": 49,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2705,6 +3204,22 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "20",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-09-03",
      "opponent": "Wisconsin-Milwaukee",
@@ -2745,14 +3260,14 @@
    "num": "15",
    "pos": null,
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 68,
+    "min": 90,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2789,6 +3304,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2897,19 +3428,19 @@
    "num": "7",
    "pos": null,
    "totals": {
-    "gp": 12,
+    "gp": 14,
     "starts": 0,
-    "min": 254,
-    "sh": 8,
-    "sog": 4,
-    "g": 2,
+    "min": 320,
+    "sh": 10,
+    "sog": 6,
+    "g": 3,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 60.0,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -2957,6 +3488,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 43,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3104,6 +3651,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 23,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3113,9 +3676,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1080,
+    "gp": 14,
+    "starts": 14,
+    "min": 1248,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3128,10 +3691,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 10,
-     "saves": 23,
-     "save_pct": 69.7
+     "gp": 14,
+     "ga": 12,
+     "saves": 30,
+     "save_pct": 71.4
     }
    },
    "matches": [
@@ -3196,6 +3759,27 @@
       "min": "90:00",
       "ga": 1,
       "saves": 2
+     }
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "77:17",
+      "ga": 1,
+      "saves": 1
      }
     },
     {
@@ -3386,6 +3970,27 @@
       "ga": 3,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 6
+     }
     }
    ]
   },
@@ -3395,13 +4000,13 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 732,
+    "gp": 11,
+    "starts": 11,
+    "min": 875,
     "sh": 10,
     "sog": 6,
     "g": 1,
-    "a": 3,
+    "a": 5,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
@@ -3455,6 +4060,22 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-08-30",
+     "opponent": "UIC",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3551,6 +4172,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Michigan",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

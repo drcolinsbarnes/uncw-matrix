@@ -9,9 +9,9 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 2,
-    "min": 221,
+    "min": 232,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -144,6 +144,22 @@
      "pos": "FWD",
      "num": "28",
      "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": false,
+     "pos": "fwd",
+     "num": "28",
+     "min": 11,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -401,9 +417,9 @@
    "num": "3",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 102,
+    "min": 147,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -456,6 +472,22 @@
      "pos": "def",
      "num": "3",
      "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 45,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1813,9 +1845,9 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 889,
+    "gp": 13,
+    "starts": 13,
+    "min": 968,
     "sh": 18,
     "sog": 8,
     "g": 3,
@@ -2020,6 +2052,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2029,9 +2077,9 @@
    "num": "99",
    "pos": "GK",
    "totals": {
-    "gp": 3,
-    "starts": 2,
-    "min": 187,
+    "gp": 4,
+    "starts": 3,
+    "min": 232,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2044,10 +2092,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
-     "ga": 3,
-     "saves": 10,
-     "save_pct": 76.9
+     "gp": 4,
+     "ga": 5,
+     "saves": 11,
+     "save_pct": 68.8
     }
    },
    "matches": [
@@ -2112,6 +2160,27 @@
       "min": "90:00",
       "ga": 1,
       "saves": 6
+     }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "GK",
+     "num": "99",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 2,
+      "saves": 1
      }
     }
    ]
@@ -2421,13 +2490,13 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 753,
+    "gp": 13,
+    "starts": 10,
+    "min": 822,
     "sh": 5,
     "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
@@ -2628,6 +2697,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "FWD",
+     "num": "31",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2741,10 +2826,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 727,
-    "sh": 4,
+    "gp": 11,
+    "starts": 8,
+    "min": 817,
+    "sh": 7,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -2752,9 +2837,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 28.6,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2916,6 +3001,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2925,9 +3026,9 @@
    "num": "37",
    "pos": "GK",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 5,
-    "min": 438,
+    "min": 483,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2940,10 +3041,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
+     "gp": 7,
      "ga": 19,
-     "saves": 29,
-     "save_pct": 60.4
+     "saves": 32,
+     "save_pct": 62.7
     }
    },
    "matches": [
@@ -3072,6 +3173,27 @@
       "ga": 3,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": false,
+     "pos": "gk",
+     "num": "37",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -3121,9 +3243,9 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 591,
+    "gp": 9,
+    "starts": 7,
+    "min": 681,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -3264,6 +3386,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3273,9 +3411,9 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 714,
+    "gp": 13,
+    "starts": 9,
+    "min": 748,
     "sh": 11,
     "sog": 6,
     "g": 1,
@@ -3480,6 +3618,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3489,9 +3643,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 669,
+    "gp": 9,
+    "starts": 8,
+    "min": 759,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3632,6 +3786,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3641,9 +3811,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 7,
-    "min": 544,
+    "min": 610,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3816,6 +3986,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": false,
+     "pos": "def",
+     "num": "16",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3905,19 +4091,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 778,
-    "sh": 10,
-    "sog": 5,
-    "g": 1,
+    "gp": 13,
+    "starts": 11,
+    "min": 868,
+    "sh": 12,
+    "sog": 7,
+    "g": 2,
     "a": 0,
     "fouls": 6,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
+    "shot_pct": 58.3,
+    "shots_saved": 5,
     "shots_off_target": 5
    },
    "matches": [
@@ -4112,6 +4298,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4121,9 +4323,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 2,
-    "min": 126,
+    "min": 143,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4184,6 +4386,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": false,
+     "pos": "def",
+     "num": "15",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4193,9 +4411,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 565,
+    "gp": 9,
+    "starts": 7,
+    "min": 649,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -4336,6 +4554,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4385,9 +4619,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 929,
+    "gp": 13,
+    "starts": 13,
+    "min": 1019,
     "sh": 3,
     "sog": 3,
     "g": 0,
@@ -4592,6 +4826,22 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4601,9 +4851,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 137,
+    "min": 147,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4744,6 +4994,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4753,9 +5019,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 431,
+    "gp": 7,
+    "starts": 5,
+    "min": 466,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -4856,6 +5122,22 @@
      "pos": "DEF",
      "num": "2",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Hofstra",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 35,
      "sh": 0,
      "sog": 0,
      "g": 0,

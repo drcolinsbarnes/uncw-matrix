@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 727,
+    "gp": 10,
+    "starts": 10,
+    "min": 817,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,13 +24,34 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 22,
-     "saves": 40,
-     "save_pct": 64.5
+     "gp": 10,
+     "ga": 23,
+     "saves": 42,
+     "save_pct": 64.6
     }
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 2
+     }
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -226,11 +247,11 @@
    "name": "Bumgarner, Mariyah",
    "slug": "bumgarner-mariyah",
    "num": "17",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 385,
+    "min": 395,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -244,6 +265,22 @@
     "shots_off_target": 2
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "def",
+     "num": "17",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -396,9 +433,9 @@
    "num": "25",
    "pos": null,
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 200,
+    "min": 203,
     "sh": 4,
     "sog": 3,
     "g": 0,
@@ -412,6 +449,22 @@
     "shots_off_target": 1
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "",
+     "num": "25",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -548,10 +601,10 @@
    "num": "13",
    "pos": null,
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 4,
-    "min": 250,
-    "sh": 1,
+    "min": 305,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -561,9 +614,25 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "",
+     "num": "13",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -700,15 +769,15 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 318,
+    "gp": 8,
+    "starts": 8,
+    "min": 401,
     "sh": 14,
     "sog": 7,
     "g": 5,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 1,
     "shot_pct": 50.0,
@@ -716,6 +785,22 @@
     "shots_off_target": 7
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -836,11 +921,11 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 432,
-    "sh": 3,
-    "sog": 1,
+    "gp": 10,
+    "starts": 10,
+    "min": 522,
+    "sh": 6,
+    "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 0,
@@ -848,10 +933,26 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_saved": 1,
+    "shots_off_target": 4
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1004,11 +1105,11 @@
    "num": "26",
    "pos": "mid",
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 328,
-    "sh": 8,
-    "sog": 4,
+    "gp": 8,
+    "starts": 2,
+    "min": 367,
+    "sh": 10,
+    "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 0,
@@ -1016,10 +1117,26 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_saved": 4,
+    "shots_off_target": 5
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 39,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1140,9 +1257,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 4,
-    "min": 334,
+    "gp": 9,
+    "starts": 5,
+    "min": 375,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1156,6 +1273,22 @@
     "shots_off_target": 1
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1292,9 +1425,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 324,
+    "min": 353,
     "sh": 8,
     "sog": 7,
     "g": 1,
@@ -1308,6 +1441,22 @@
     "shots_off_target": 1
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "mid",
+     "num": "3",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1460,9 +1609,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 733,
+    "gp": 10,
+    "starts": 10,
+    "min": 823,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1476,6 +1625,22 @@
     "shots_off_target": 3
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1628,9 +1793,9 @@
    "num": "19",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 552,
+    "min": 572,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -1644,6 +1809,22 @@
     "shots_off_target": 0
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1796,9 +1977,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 470,
+    "min": 513,
     "sh": 7,
     "sog": 4,
     "g": 0,
@@ -1812,6 +1993,22 @@
     "shots_off_target": 3
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -1964,9 +2161,9 @@
    "num": "2",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
-    "starts": 1,
-    "min": 262,
+    "gp": 9,
+    "starts": 2,
+    "min": 302,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1980,6 +2177,22 @@
     "shots_off_target": 1
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -2116,10 +2329,10 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 610,
-    "sh": 3,
+    "gp": 10,
+    "starts": 10,
+    "min": 694,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -2127,11 +2340,27 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 84,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -2282,7 +2511,7 @@
    "name": "Mathis, Aliyah",
    "slug": "mathis-aliyah",
    "num": "23",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -2476,9 +2705,9 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 337,
+    "min": 365,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2492,6 +2721,22 @@
     "shots_off_target": 2
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -2818,9 +3063,9 @@
    "num": "7",
    "pos": null,
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 110,
+    "min": 121,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2834,6 +3079,22 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-30",
      "opponent": "Oklahoma State",
@@ -3026,9 +3287,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 631,
+    "gp": 9,
+    "starts": 9,
+    "min": 721,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -3042,6 +3303,22 @@
     "shots_off_target": 0
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -3178,9 +3455,9 @@
    "num": "6",
    "pos": null,
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 626,
+    "gp": 10,
+    "starts": 10,
+    "min": 702,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3194,6 +3471,22 @@
     "shots_off_target": 0
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -3344,11 +3637,11 @@
    "name": "Smith, Millicent",
    "slug": "smith-millicent",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 361,
+    "min": 400,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3362,6 +3655,22 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",
@@ -3554,9 +3863,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 326,
+    "gp": 10,
+    "starts": 6,
+    "min": 355,
     "sh": 8,
     "sog": 3,
     "g": 0,
@@ -3570,6 +3879,22 @@
     "shots_off_target": 5
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "East Texas A&M",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-23",
      "opponent": "Nicholls",

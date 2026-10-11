@@ -9,18 +9,18 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 715,
-    "sh": 19,
-    "sog": 11,
-    "g": 0,
+    "min": 769,
+    "sh": 20,
+    "sog": 12,
+    "g": 1,
     "a": 1,
     "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.9,
+    "shot_pct": 60.0,
     "shots_saved": 11,
     "shots_off_target": 8
    },
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "FWD",
+     "num": "31",
+     "min": 54,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -305,20 +321,20 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 846,
-    "sh": 2,
+    "gp": 12,
+    "starts": 11,
+    "min": 936,
+    "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -493,6 +509,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -745,20 +777,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 787,
-    "sh": 47,
-    "sog": 25,
+    "gp": 12,
+    "starts": 12,
+    "min": 873,
+    "sh": 50,
+    "sog": 27,
     "g": 8,
     "a": 2,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.2,
-    "shots_saved": 17,
-    "shots_off_target": 22
+    "shot_pct": 54.0,
+    "shots_saved": 19,
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -936,6 +968,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 86,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -945,20 +993,20 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 54,
-    "sh": 0,
-    "sog": 0,
+    "min": 62,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1020,6 +1068,22 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "DEF",
+     "num": "28",
+     "min": 8,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1126,9 +1190,9 @@
    "num": "21",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 765,
+    "gp": 10,
+    "starts": 10,
+    "min": 855,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1141,10 +1205,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 13,
-     "saves": 36,
-     "save_pct": 73.5
+     "gp": 10,
+     "ga": 15,
+     "saves": 37,
+     "save_pct": 71.2
     }
    },
    "matches": [
@@ -1336,6 +1400,27 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "GK",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1345,9 +1430,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 793,
+    "min": 805,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -1536,6 +1621,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "DEF",
+     "num": "25",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1545,14 +1646,14 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 741,
+    "gp": 12,
+    "starts": 12,
+    "min": 809,
     "sh": 16,
     "sog": 9,
     "g": 1,
     "a": 4,
-    "fouls": 11,
+    "fouls": 13,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -1736,6 +1837,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "",
+     "num": "17",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1745,13 +1862,13 @@
    "num": "15",
    "pos": null,
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 20,
+    "min": 45,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -1824,6 +1941,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "",
+     "num": "15",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1833,15 +1966,15 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 964,
+    "gp": 12,
+    "starts": 12,
+    "min": 1054,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 10,
-    "yc": 1,
+    "fouls": 11,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -2024,6 +2157,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2073,9 +2222,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 2,
-    "min": 195,
+    "min": 203,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2184,6 +2333,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2193,9 +2358,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 397,
+    "gp": 11,
+    "starts": 4,
+    "min": 452,
     "sh": 9,
     "sog": 4,
     "g": 2,
@@ -2368,6 +2533,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2377,20 +2558,20 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 635,
-    "sh": 24,
+    "gp": 12,
+    "starts": 9,
+    "min": 703,
+    "sh": 25,
     "sog": 11,
     "g": 1,
     "a": 3,
-    "fouls": 22,
+    "fouls": 24,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.8,
+    "shot_pct": 44.0,
     "shots_saved": 10,
-    "shots_off_target": 13
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -2565,6 +2746,22 @@
      "g": 0,
      "a": 1,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 68,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2969,9 +3166,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 764,
+    "gp": 12,
+    "starts": 11,
+    "min": 825,
     "sh": 11,
     "sog": 1,
     "g": 0,
@@ -3160,6 +3357,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3169,9 +3382,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 249,
+    "min": 268,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -3328,6 +3541,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3337,14 +3566,14 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 434,
+    "gp": 11,
+    "starts": 6,
+    "min": 506,
     "sh": 5,
     "sog": 3,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -3512,6 +3741,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3625,9 +3870,9 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 94,
+    "min": 114,
     "sh": 9,
     "sog": 5,
     "g": 2,
@@ -3720,6 +3965,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": false,
+     "pos": "FWD",
+     "num": "29",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3729,20 +3990,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 693,
-    "sh": 12,
+    "gp": 12,
+    "starts": 11,
+    "min": 775,
+    "sh": 13,
     "sog": 7,
     "g": 2,
     "a": 2,
-    "fouls": 14,
+    "fouls": 15,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
+    "shot_pct": 53.8,
     "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3920,6 +4181,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "",
+     "num": "14",
+     "min": 82,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3969,19 +4246,19 @@
    "num": "35",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 791,
-    "sh": 5,
-    "sog": 3,
+    "gp": 12,
+    "starts": 12,
+    "min": 873,
+    "sh": 6,
+    "sog": 4,
     "g": 0,
     "a": 0,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -4157,6 +4434,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Memphis",
+     "start": true,
+     "pos": "FWD",
+     "num": "35",
+     "min": 82,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

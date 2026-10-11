@@ -9,20 +9,20 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 714,
-    "sh": 10,
+    "min": 787,
+    "sh": 11,
     "sog": 4,
     "g": 1,
     "a": 0,
     "fouls": 4,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 36.4,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 73,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,19 +225,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 720,
-    "sh": 14,
-    "sog": 6,
-    "g": 2,
+    "min": 784,
+    "sh": 16,
+    "sog": 8,
+    "g": 3,
     "a": 0,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 4,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
     "shots_off_target": 8
    },
    "matches": [
@@ -398,6 +414,22 @@
      "a": 0,
      "fouls": 2,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 64,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -969,19 +1001,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 757,
-    "sh": 7,
-    "sog": 6,
+    "gp": 12,
+    "starts": 12,
+    "min": 838,
+    "sh": 8,
+    "sog": 7,
     "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 85.7,
-    "shots_saved": 5,
+    "shot_pct": 87.5,
+    "shots_saved": 6,
     "shots_off_target": 1
    },
    "matches": [
@@ -1160,6 +1192,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 81,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1167,11 +1215,11 @@
    "name": "Jernigan, Berkleigh",
    "slug": "jernigan-berkleigh",
    "num": "27",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 2,
-    "min": 345,
+    "gp": 10,
+    "starts": 3,
+    "min": 411,
     "sh": 5,
     "sog": 3,
     "g": 0,
@@ -1328,6 +1376,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1337,9 +1401,9 @@
    "num": "30",
    "pos": "GK",
    "totals": {
-    "gp": 3,
-    "starts": 1,
-    "min": 154,
+    "gp": 4,
+    "starts": 2,
+    "min": 244,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1352,10 +1416,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
-     "ga": 2,
-     "saves": 9,
-     "save_pct": 81.8
+     "gp": 4,
+     "ga": 5,
+     "saves": 13,
+     "save_pct": 72.2
     }
    },
    "matches": [
@@ -1421,6 +1485,27 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "GK",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 4
+     }
     }
    ]
   },
@@ -1430,9 +1515,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 4,
-    "starts": 0,
-    "min": 103,
+    "gp": 5,
+    "starts": 1,
+    "min": 158,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1509,6 +1594,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1518,9 +1619,9 @@
    "num": "23",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 256,
+    "min": 315,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1661,6 +1762,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1670,15 +1787,15 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 881,
+    "gp": 11,
+    "starts": 10,
+    "min": 971,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 5,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
@@ -1843,6 +1960,22 @@
      "a": 0,
      "fouls": 4,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2054,9 +2187,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 630,
+    "gp": 12,
+    "starts": 9,
+    "min": 687,
     "sh": 9,
     "sog": 4,
     "g": 1,
@@ -2245,6 +2378,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2254,15 +2403,15 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 6,
-    "min": 337,
+    "min": 361,
     "sh": 3,
     "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
@@ -2397,6 +2546,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2406,19 +2571,19 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 928,
-    "sh": 6,
-    "sog": 3,
+    "gp": 12,
+    "starts": 12,
+    "min": 959,
+    "sh": 7,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 57.1,
+    "shots_saved": 4,
     "shots_off_target": 3
    },
    "matches": [
@@ -2597,6 +2762,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 31,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2606,9 +2787,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 642,
+    "gp": 12,
+    "starts": 12,
+    "min": 732,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2794,6 +2975,22 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3046,9 +3243,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 652,
+    "gp": 12,
+    "starts": 9,
+    "min": 730,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -3237,6 +3434,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3246,9 +3459,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 599,
+    "gp": 10,
+    "starts": 10,
+    "min": 616,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3405,6 +3618,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3414,9 +3643,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 5,
     "sog": 3,
     "g": 0,
@@ -3605,6 +3834,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3614,10 +3859,10 @@
    "num": "26",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 88,
-    "sh": 0,
+    "min": 113,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -3625,9 +3870,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3702,6 +3947,22 @@
      "num": "26",
      "min": 17,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "Central Arkansas",
+     "start": false,
+     "pos": "fwd",
+     "num": "26",
+     "min": 25,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

@@ -9,19 +9,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 305,
-    "sh": 7,
-    "sog": 3,
+    "min": 351,
+    "sh": 8,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 3,
+    "shot_pct": 50.0,
+    "shots_saved": 4,
     "shots_off_target": 4
    },
    "matches": [
@@ -200,6 +200,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -209,9 +225,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -224,10 +240,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 11,
-     "saves": 38,
-     "save_pct": 77.6
+     "saves": 40,
+     "save_pct": 78.4
     }
    },
    "matches": [
@@ -461,6 +477,27 @@
       "ga": 2,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -582,19 +619,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 742,
-    "sh": 5,
-    "sog": 0,
+    "gp": 12,
+    "starts": 10,
+    "min": 832,
+    "sh": 6,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 16.7,
+    "shots_saved": 1,
     "shots_off_target": 5
    },
    "matches": [
@@ -773,6 +810,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -782,19 +835,19 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 620,
-    "sh": 10,
-    "sog": 3,
+    "gp": 12,
+    "starts": 12,
+    "min": 664,
+    "sh": 11,
+    "sog": 4,
     "g": 1,
     "a": 2,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.0,
-    "shots_saved": 2,
+    "shot_pct": 36.4,
+    "shots_saved": 3,
     "shots_off_target": 7
    },
    "matches": [
@@ -973,6 +1026,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 44,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -982,9 +1051,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 4,
-    "min": 217,
+    "gp": 6,
+    "starts": 5,
+    "min": 273,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1077,6 +1146,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 56,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1086,19 +1171,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 398,
-    "sh": 6,
-    "sog": 2,
+    "min": 444,
+    "sh": 7,
+    "sog": 3,
     "g": 0,
     "a": 2,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 42.9,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -1261,6 +1346,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1270,14 +1371,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 832,
+    "gp": 12,
+    "starts": 12,
+    "min": 909,
     "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 3,
-    "fouls": 9,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1461,6 +1562,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1470,10 +1587,10 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 944,
-    "sh": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 1034,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -1481,9 +1598,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1661,6 +1778,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1710,9 +1843,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 0,
-    "min": 282,
+    "gp": 10,
+    "starts": 1,
+    "min": 336,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1869,6 +2002,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2014,20 +2163,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 8,
-    "min": 593,
-    "sh": 14,
-    "sog": 9,
-    "g": 4,
-    "a": 0,
+    "gp": 12,
+    "starts": 9,
+    "min": 663,
+    "sh": 21,
+    "sog": 12,
+    "g": 5,
+    "a": 1,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
-    "shots_saved": 5,
-    "shots_off_target": 5
+    "shot_pct": 57.1,
+    "shots_saved": 7,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2205,6 +2354,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 70,
+     "sh": 7,
+     "sog": 3,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2214,19 +2379,19 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 571,
-    "sh": 16,
-    "sog": 9,
+    "min": 631,
+    "sh": 17,
+    "sog": 10,
     "g": 1,
     "a": 0,
     "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.2,
-    "shots_saved": 8,
+    "shot_pct": 58.8,
+    "shots_saved": 9,
     "shots_off_target": 7
    },
    "matches": [
@@ -2405,6 +2570,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": false,
+     "pos": "MID",
+     "num": "15",
+     "min": 60,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2414,9 +2595,9 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 566,
+    "min": 636,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -2605,6 +2786,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2614,14 +2811,14 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 919,
+    "gp": 12,
+    "starts": 12,
+    "min": 999,
     "sh": 21,
     "sog": 8,
     "g": 3,
-    "a": 0,
-    "fouls": 7,
+    "a": 1,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2802,6 +2999,22 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3014,20 +3227,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 831,
-    "sh": 10,
-    "sog": 5,
-    "g": 0,
+    "gp": 12,
+    "starts": 12,
+    "min": 904,
+    "sh": 13,
+    "sog": 6,
+    "g": 1,
     "a": 3,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 46.2,
     "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3205,6 +3418,22 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 73,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3214,19 +3443,19 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 489,
-    "sh": 6,
-    "sog": 3,
+    "gp": 12,
+    "starts": 10,
+    "min": 533,
+    "sh": 7,
+    "sog": 4,
     "g": 2,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 57.1,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -3399,6 +3628,22 @@
      "min": 48,
      "sh": 1,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "NJIT",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 44,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
