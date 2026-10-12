@@ -546,7 +546,7 @@ function paintPlayer() {
   const tile = (v, l) => `<div class="stat-tile"><div class="v">${v ?? "\u2014"}</div><div class="l">${l}</div></div>`;
   const tiles = [
     tile(t.gp, "GP"), tile(t.starts, "GS"), tile(t.min, "Min"),
-    tile(t.g, "G"), tile(t.a, "A"), tile(t.sh, "Sh"), tile(t.sog, "SOG"),
+    tile(t.g, "G"), tile(t.a, "A"), tile(t.g != null ? 2 * t.g + (t.a || 0) : null, "Pts"), tile(t.sh, "Sh"), tile(t.sog, "SOG"),
     tile(t.pk_g, "PK"), tile(t.fouls, "FLS"), tile(t.yc, "YC"), tile(t.rc, "RC"),
   ];
   if (isGK) tiles.push(tile(t.goalie.ga, "GA"), tile(t.goalie.saves, "SV"));
@@ -644,6 +644,7 @@ function playerMatchCols(gk) {
     {key: "min", label: "Min", dir: -1, val: m => m.min},
     {key: "g", label: "G", dir: -1, val: m => m.g},
     {key: "a", label: "A", dir: -1, val: m => m.a},
+    {key: "pts", label: "Pts", dir: -1, val: m => 2 * m.g + m.a},
     {key: "sh", label: "Sh", dir: -1, val: m => m.sh},
     {key: "sog", label: "SOG", dir: -1, val: m => m.sog},
     {key: "pk_g", label: "PK", dir: -1, val: m => m.pk_g || 0},
@@ -671,14 +672,14 @@ function playerResultCell(m, team, linkGame) {
 function playerMatchRow(m, team, gk, linkGame, showYear) {
   const d = showYear && m.date ? fmtDate(m.date) + ", " + m.date.slice(0, 4) : fmtDate(m.date);
   return `<tr><td class="l">${d}</td><td class="l">${playerOppCell(m, team)}</td><td class="l">${playerResultCell(m, team, linkGame)}</td>
-    <td>${m.start ? "Y" : ""}</td><td>${esc(m.pos || "")}</td><td>${m.min}</td><td>${m.g}</td><td>${m.a}</td><td>${m.sh}</td><td>${m.sog}</td>
+    <td>${m.start ? "Y" : ""}</td><td>${esc(m.pos || "")}</td><td>${m.min}</td><td>${m.g}</td><td>${m.a}</td><td>${2 * m.g + m.a}</td><td>${m.sh}</td><td>${m.sog}</td>
     <td>${m.pk_g || 0}</td><td>${m.fouls}</td><td>${m.yc}</td><td>${m.rc}</td>` +
     (gk ? `<td>${m.goalie ? m.goalie.ga : ""}</td><td>${m.goalie ? m.goalie.saves : ""}</td>` : "") + `</tr>`;
 }
 function playerTotalsRow(t, gk, label) {
   const gl = t.goalie || {};
   return `<tr class="tot-row"><td class="l" colspan="3"><b>${esc(label)}</b> &middot; ${t.gp} GP</td>
-    <td><b>${t.starts}</b></td><td></td><td><b>${t.min}</b></td><td><b>${t.g}</b></td><td><b>${t.a}</b></td><td><b>${t.sh}</b></td><td><b>${t.sog}</b></td>
+    <td><b>${t.starts}</b></td><td></td><td><b>${t.min}</b></td><td><b>${t.g}</b></td><td><b>${t.a}</b></td><td><b>${2 * t.g + t.a}</b></td><td><b>${t.sh}</b></td><td><b>${t.sog}</b></td>
     <td><b>${t.pk_g || 0}</b></td><td><b>${t.fouls}</b></td><td><b>${t.yc}</b></td><td><b>${t.rc}</b></td>` +
     (gk ? `<td><b>${gl.ga != null ? gl.ga : ""}</b></td><td><b>${gl.saves != null ? gl.saves : ""}</b></td>` : "") + `</tr>`;
 }
@@ -703,32 +704,32 @@ function sumSeasonTotals(list) {
 function careerPaneHtml() {
   if (!PLAYER_DATA) return "";
   const { team, player: pe, prior } = PLAYER_DATA;
-  const seasons = (prior || []).map(s => ({ season: s.season, totals: s.totals, matches: s.matches, linkGame: false }));
-  seasons.push({ season: 2026, totals: pe.totals || {}, matches: pe.matches || [], linkGame: true });
+  const seasons = (prior || []).map(s => ({ season: s.season, team: s.team || team, totals: s.totals, matches: s.matches, linkGame: false }));
+  seasons.push({ season: 2026, team, totals: pe.totals || {}, matches: pe.matches || [], linkGame: true });
   const gk = seasons.some(s => playerHasGK(s.matches));
   const num = (v) => v == null ? "—" : v;
-  const sumRow = (label, t, strong) => {
+  const sumRow = (label, tm, t, strong) => {
     const b = x => strong ? `<b>${num(x)}</b>` : num(x), gl = t.goalie || {};
-    return `<tr${strong ? ' class="tot-row"' : ""}><td class="l">${strong ? `<b>${label}</b>` : label}</td><td>${b(t.gp)}</td><td>${b(t.starts)}</td><td>${b(t.min)}</td>
-      <td>${b(t.g)}</td><td>${b(t.a)}</td><td>${b(t.sh)}</td><td>${b(t.sog)}</td><td>${b(t.pk_g || 0)}</td><td>${b(t.fouls)}</td><td>${b(t.yc)}</td><td>${b(t.rc)}</td>` +
+    return `<tr${strong ? ' class="tot-row"' : ""}><td class="l">${strong ? `<b>${label}</b>` : label}</td><td class="l">${esc(tm || "")}</td><td>${b(t.gp)}</td><td>${b(t.starts)}</td><td>${b(t.min)}</td>
+      <td>${b(t.g)}</td><td>${b(t.a)}</td><td>${b(2 * t.g + t.a)}</td><td>${b(t.sh)}</td><td>${b(t.sog)}</td><td>${b(t.pk_g || 0)}</td><td>${b(t.fouls)}</td><td>${b(t.yc)}</td><td>${b(t.rc)}</td>` +
       (gk ? `<td>${b(gl.ga)}</td><td>${b(gl.saves)}</td>` : "") + `</tr>`;
   };
-  const head = ["Season", "GP", "GS", "Min", "G", "A", "Sh", "SOG", "PK", "FLS", "YC", "RC"].concat(gk ? ["GA", "SV"] : []);
+  const head = ["Season", "Team", "GP", "GS", "Min", "G", "A", "Pts", "Sh", "SOG", "PK", "FLS", "YC", "RC"].concat(gk ? ["GA", "SV"] : []);
   const career = sumSeasonTotals(seasons.map(s => Object.assign({}, s.totals, { goalie: s.totals.goalie })));
   const summary = `<div class="panel"><h3>Career summary</h3>
-    <div class="cap">Totals by season at ${esc(team)}. Career row adds every season shown.</div>
-    <div class="table-wrap"><table class="nat"><thead><tr>${head.map((h, i) => `<th${i === 0 ? ' class="l"' : ""}>${h}</th>`).join("")}</tr></thead><tbody>
-      ${seasons.slice().reverse().map(s => sumRow(s.season, s.totals, false)).join("")}
-      ${seasons.length > 1 ? sumRow("Career", career, true) : ""}
+    <div class="cap">Totals by season and school. Pts = 2 per goal + 1 per assist. Career row adds every season shown.</div>
+    <div class="table-wrap"><table class="nat"><thead><tr>${head.map((h, i) => `<th${i < 2 ? ' class="l"' : ""}>${h}</th>`).join("")}</tr></thead><tbody>
+      ${seasons.slice().reverse().map(s => sumRow(s.season, s.team, s.totals, false)).join("")}
+      ${seasons.length > 1 ? sumRow("Career", "", career, true) : ""}
     </tbody></table></div></div>`;
   const cols = playerMatchCols(gk);
-  const logs = seasons.slice().reverse().map((s, i) => `<details class="panel"${i === 0 ? " open" : ""}><summary><b>${s.season} game log</b> &middot; ${s.totals.gp || 0} GP, ${s.totals.g || 0} G, ${s.totals.a || 0} A</summary>
+  const logs = seasons.slice().reverse().map((s, i) => `<details class="panel"${i === 0 ? " open" : ""}><summary><b>${s.season} game log</b> &middot; ${esc(s.team)} &middot; ${s.totals.gp || 0} GP, ${s.totals.g || 0} G, ${s.totals.a || 0} A, ${2 * (s.totals.g || 0) + (s.totals.a || 0)} Pts</summary>
     <div class="table-wrap"><table class="nat"><thead><tr>${cols.map(c => `<th${c.left ? ' class="l"' : ""}>${c.label}</th>`).join("")}</tr></thead><tbody>
       ${s.matches.map(m => playerMatchRow(m, team, gk, s.linkGame, false)).join("")}</tbody>
       <tfoot>${playerTotalsRow(s.totals, gk, s.season + " totals")}</tfoot></table></div></details>`).join("");
-  const note = (prior || []).length ? "" : `<div class="cap" style="margin:8px 0">No 2022–2025 box scores on file for this player at ${esc(team)} (freshman, transfer, or not in the archived box scores). Prior-school seasons are not linked.</div>`;
+  const note = (prior || []).length ? "" : `<div class="cap" style="margin:8px 0">No 2022–2025 box scores on file for this player (freshman, redshirt or injured year, or not in the archived box scores).</div>`;
   return summary + note + logs +
-    `<div class="cap" style="margin-top:8px">Career history covers 2022–2026 box scores at this school only, built from the archived box scores. Games before 2026 are not linked to game pages.</div>`;
+    `<div class="cap" style="margin-top:8px">Career history comes from the 2022–2026 archived box scores. Seasons at other schools are matched by exact name, so a very common name could occasionally be mismatched. Games before 2026 are not linked to game pages.</div>`;
 }
 
 // ---- Players directory (Phase 9): a dedicated searchable page over every
