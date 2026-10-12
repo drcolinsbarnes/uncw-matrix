@@ -164,7 +164,8 @@
   .p4tag { font-size: 9px; font-weight: 700; color: #fff; background: var(--navy); border-radius: 3px; padding: 0 4px; margin-left: 5px; vertical-align: 1px; }
   .cur-h { background: #fff6d6; color: var(--navy); border-left: 2px solid var(--navy); }
   td.cur-first { border-left: 2px solid var(--navy); }
-  #pr-table td, #pr-table th { text-align: center; }
+  #pr-table td, #pr-table th { text-align: center; padding: 4px 4px; }
+  #pr-table thead th { white-space: normal; line-height: 1.15; vertical-align: bottom; }
   #pr-table td.l, #pr-table th.l { text-align: left; }
   #pr-table td.gs, #pr-table th.gs { border-left: 2px solid var(--navy); }
   #pr-table td.rnk { font-weight: 700; color: var(--navy); }
@@ -848,19 +849,19 @@ const PR_COLS = [
   {key: "conf", label: "Conf", left: true, dir: 1, val: r => r.conf},
   {key: "rpi", label: "RPI", dir: 1, grp: true, val: r => prRankVal(r.rpi)},
   {key: "elo", label: "Elo", dir: 1, val: r => prRankVal(r.elo)},
-  {key: "cstand", label: "Conf Standing", dir: 1, val: r => prRankVal(r.cstand)},
-  {key: "uscn", label: "USC Nat", dir: 1, grp: true, val: r => r.uscn != null ? r.uscn : r.rv ? 1000 : 9999},
-  {key: "uscr", label: "USC Region", dir: 1, val: r => prRankVal(r.uscr)},
+  {key: "cstand", label: "Conf\nStand", dir: 1, val: r => prRankVal(r.cstand)},
+  {key: "uscn", label: "Nat", dir: 1, grp: true, val: r => r.uscn != null ? r.uscn : r.rv ? 1000 : 9999},
+  {key: "uscr", label: "Reg", dir: 1, val: r => prRankVal(r.uscr)},
   {key: "rec", label: "Record", dir: -1, grp: true, val: r => r.recv ? r.recv.pct : -1},
-  {key: "b1", label: "vs 1-25", dir: -1, val: r => r.b1 ? r.b1.pct : -1},
-  {key: "b2", label: "vs 26-50", dir: -1, val: r => r.b2 ? r.b2.pct : -1},
-  {key: "b3", label: "vs 51-100", dir: -1, val: r => r.b3 ? r.b3.pct : -1},
+  {key: "b1", label: "vs\n1-25", dir: -1, val: r => r.b1 ? r.b1.pct : -1},
+  {key: "b2", label: "vs\n26-50", dir: -1, val: r => r.b2 ? r.b2.pct : -1},
+  {key: "b3", label: "vs\n51-100", dir: -1, val: r => r.b3 ? r.b3.pct : -1},
   {key: "home", label: "Home", dir: -1, val: r => r.home ? r.home.pct : -1},
   {key: "away", label: "Away", dir: -1, val: r => r.away ? r.away.pct : -1},
-  {key: "noncon", label: "Non-Con", dir: -1, val: r => r.noncon ? r.noncon.pct : -1},
+  {key: "noncon", label: "Non-\nCon", dir: -1, val: r => r.noncon ? r.noncon.pct : -1},
   {key: "con", label: "Con", dir: -1, val: r => r.con ? r.con.pct : -1},
-  {key: "form", label: "Form (last 5)", dir: -1, grp: true, val: r => r.form ? r.form.reduce((a, x) => a + (x === "W" ? 3 : x === "D" ? 1 : 0), 0) : -1},
-  {key: "cur", label: "Current week", dir: -1, grp: true, val: r => r.cur.length ? prCurPts(r.cur) : -1},
+  {key: "form", label: "Form\n(last 5)", dir: -1, grp: true, val: r => r.form ? r.form.reduce((a, x) => a + (x === "W" ? 3 : x === "D" ? 1 : 0), 0) : -1},
+  {key: "cur", label: "Current\nweek", dir: -1, grp: true, val: r => r.cur.length ? prCurPts(r.cur) : -1},
 ];
 function prRows() {
   const U = NATIONAL.usc, last = U.table.length - 1, pollDate = U.polls[last].date;
@@ -914,7 +915,8 @@ function renderPoll() {
   tr.innerHTML = "";
   PR_COLS.forEach(c => {
     const th = document.createElement("th");
-    th.textContent = c.label;
+    th.innerHTML = c.label.split("\n").map(esc).join("<br>");
+    th.title = c.label.replace("\n", " ");
     if (c.left) th.className = "l";
     if (c.grp) th.classList.add("gs");
     if (prSort.key === c.key) { th.classList.add("sorted"); th.dataset.arrow = prSort.dir === 1 ? "▲" : "▼"; }
@@ -942,7 +944,7 @@ function renderPoll() {
   document.getElementById("pr-note").innerHTML =
     `<b>Conf Standing</b> = the team's place in its own conference table. ` +
     `Records are the RPI splits (W-L-D): vs RPI 1–25, 26–50, 51–100, home, away, non-conference, conference; sorting a record column orders by win percentage (draws count half). ` +
-    `USC Nat shows RV for teams receiving votes; USC Region is the regional top 10. USC regions follow conferences (Atlantic = ACC). ` +
+    `Nat = United Soccer Coaches national rank (RV = receiving votes); Reg = regional rank (top 10 only). USC regions follow conferences (Atlantic = ACC). ` +
     (asm.length ? `<b>Assumed placement</b> (these conferences never appear in a regional top 10, so check them against USC's list): ${esc(asm.join(", "))}. ` : "") +
     (prRegion === "All" && unmapped.length ? `${unmapped.length} independent teams have no region.` : "");
 }
