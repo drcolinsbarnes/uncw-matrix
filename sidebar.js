@@ -24,6 +24,7 @@
     home: '<path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1V9.5"/>',
     squad: '<circle cx="8.5" cy="8" r="3"/><circle cx="16.5" cy="9" r="2.5"/><path d="M2.5 20c0-3.6 2.7-6 6-6s6 2.4 6 6"/><path d="M14.5 14.5c2.6.3 4.5 2.4 4.5 5.5"/>',
     stats: '<path d="M4 20V10"/><path d="M11 20V4"/><path d="M18 20v-7"/><path d="M2.5 20.5h19"/>',
+    matrix: '<rect x="3.5" y="3.5" width="17" height="17" rx="1.5"/><path d="M3.5 9.2h17"/><path d="M3.5 14.8h17"/><path d="M9.2 3.5v17"/><path d="M14.8 3.5v17"/>',
     fixtures: '<rect x="3.5" y="5" width="17" height="15" rx="1.5"/><path d="M3.5 9.5h17"/><path d="M8 3v3.5"/><path d="M16 3v3.5"/>',
     caa: '<path d="M7 4h10v5a5 5 0 0 1-10 0V4Z"/><path d="M7 6H4.5A1.5 1.5 0 0 0 3 7.5C3 9.4 4.4 11 7 11"/><path d="M17 6h2.5A1.5 1.5 0 0 1 21 7.5c0 1.9-1.4 3.5-4 3.5"/><path d="M12 14v3.5"/><path d="M8.5 21h7"/><path d="M9.5 17.5h5l1 3.5h-7l1-3.5Z"/>',
     rpi: '<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17"/><path d="M12 3.5c2.6 2.3 4 5.3 4 8.5s-1.4 6.2-4 8.5c-2.6-2.3-4-5.3-4-8.5s1.4-6.2 4-8.5Z"/>',
@@ -45,6 +46,7 @@
     { key: "squad", label: "Squad", href: "squad.html" },
     { key: "stats", label: "Stats", href: "stats.html" },
     { key: "fixtures", label: "Fixtures", href: "fixtures.html" },
+    { key: "matrix", label: "Matrix", href: "matrix.html" },
     { key: "caa", label: "CAA", href: "caa.html" },
     { key: "recruiting", label: "Recruiting", href: "recruiting.html" },
     { key: "transfer", label: "Transfer Portal", href: "transfer.html" },
@@ -67,7 +69,7 @@
 
   // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
   // HUB_VERSION_START
-  const HUB_VERSION = "4.4";
+  const HUB_VERSION = "4.5";
   const HUB_UPDATED = "12 Oct 2026";
   // HUB_VERSION_END
 

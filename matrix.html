@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Matrix — UNCW Coaching Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="sidebar.css?v=4.5">
+<style>
+  /* Matrix page (added 2026-10-12, Colin: "this needs to be a separate side menu below Fixtures and above CAA").
+     Frames the schedule / RPI matrix (index.html, built by weekly_update.py) inside the hub shell so it keeps the sidebar. */
+  .matrix-wrap { margin: 6px 0 0; }
+  .matrix-frame { width: 100%; min-height: 700px; border: 1px solid #d9e1ea; border-radius: 8px; background: #fff; display: block; }
+  .matrix-open { font-size: 13px; margin: 0 0 8px; }
+</style>
+</head>
+<body data-page="matrix">
+<div class="app-layout">
+  <nav class="app-sidebar" id="app-sidebar"></nav>
+  <main class="app-main">
+    <h1 class="page-title">Matrix</h1>
+    <p class="sub">UNCW schedule / RPI matrix: opponents down the side, weeks across, results feeding the live RPI. Refreshes with every weekly score update.</p>
+    <p class="matrix-open"><a href="index.html" target="_blank" rel="noopener">Open on its own page &#8599;</a></p>
+    <div class="matrix-wrap">
+      <iframe id="matrix-frame" class="matrix-frame" src="index.html" title="UNCW schedule and RPI matrix"></iframe>
+    </div>
+  </main>
+</div>
+<script src="sidebar.js?v=4.5"></script>
+<script>
+try {
+  const f = document.getElementById("matrix-frame");
+  const fit = () => {
+    try { f.style.height = (f.contentDocument.documentElement.scrollHeight + 24) + "px"; }
+    catch (e) { f.style.height = "1500px"; }
+  };
+  f.addEventListener("load", () => { fit(); setTimeout(fit, 600); setTimeout(fit, 2000); });
+  window.addEventListener("resize", fit);
+} catch (e) { /* the frame still works at its minimum height */ }
+</script>
+</body>
+</html>
