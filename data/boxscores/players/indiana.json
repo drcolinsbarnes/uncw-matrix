@@ -190,10 +190,10 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 660,
-    "sh": 8,
+    "gp": 14,
+    "starts": 12,
+    "min": 733,
+    "sh": 10,
     "sog": 5,
     "g": 2,
     "a": 2,
@@ -201,9 +201,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -452,6 +452,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 73,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -461,13 +480,13 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1126,
+    "gp": 14,
+    "starts": 14,
+    "min": 1216,
     "sh": 10,
     "sog": 6,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
@@ -723,6 +742,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -732,19 +770,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 13,
-    "min": 646,
-    "sh": 12,
-    "sog": 5,
+    "min": 665,
+    "sh": 13,
+    "sog": 6,
     "g": 0,
     "a": 1,
     "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 5,
+    "shot_pct": 46.2,
+    "shots_saved": 6,
     "shots_off_target": 7
    },
    "matches": [
@@ -994,6 +1032,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "MID",
+     "num": "13",
+     "min": 19,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1003,19 +1060,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 0,
-    "min": 469,
-    "sh": 5,
-    "sog": 3,
+    "gp": 14,
+    "starts": 1,
+    "min": 521,
+    "sh": 6,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -1265,6 +1322,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 52,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1274,18 +1350,18 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 1,
-    "min": 385,
-    "sh": 3,
-    "sog": 2,
-    "g": 0,
+    "min": 407,
+    "sh": 4,
+    "sog": 3,
+    "g": 1,
     "a": 1,
-    "fouls": 14,
-    "yc": 1,
+    "fouls": 15,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 75.0,
     "shots_saved": 2,
     "shots_off_target": 1
    },
@@ -1536,6 +1612,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 22,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1702,10 +1797,10 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 11,
-    "min": 712,
-    "sh": 10,
+    "min": 745,
+    "sh": 11,
     "sog": 4,
     "g": 0,
     "a": 1,
@@ -1713,9 +1808,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 36.4,
     "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1964,6 +2059,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 33,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1973,19 +2087,19 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1026,
-    "sh": 7,
-    "sog": 3,
+    "gp": 14,
+    "starts": 14,
+    "min": 1116,
+    "sh": 8,
+    "sog": 4,
     "g": 3,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 4
    },
    "matches": [
@@ -2235,6 +2349,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2244,20 +2377,20 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 794,
-    "sh": 18,
-    "sog": 6,
-    "g": 0,
+    "gp": 14,
+    "starts": 11,
+    "min": 884,
+    "sh": 20,
+    "sog": 7,
+    "g": 1,
     "a": 2,
-    "fouls": 13,
+    "fouls": 15,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 35.0,
     "shots_saved": 6,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2506,6 +2639,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2515,9 +2667,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1125,
+    "gp": 14,
+    "starts": 14,
+    "min": 1215,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2530,10 +2682,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
-     "ga": 26,
-     "saves": 21,
-     "save_pct": 44.7
+     "gp": 14,
+     "ga": 28,
+     "saves": 22,
+     "save_pct": 44.0
     }
    },
    "matches": [
@@ -2848,6 +3000,30 @@
       "ga": 5,
       "saves": 9
      }
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 1
+     }
     }
    ]
   },
@@ -2857,20 +3033,20 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 969,
-    "sh": 31,
+    "gp": 14,
+    "starts": 14,
+    "min": 1043,
+    "sh": 32,
     "sog": 15,
     "g": 5,
     "a": 2,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 48.4,
+    "shot_pct": 46.9,
     "shots_saved": 10,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -3113,6 +3289,25 @@
      "min": 67,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 74,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 1,
@@ -3380,9 +3575,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 3,
-    "min": 439,
+    "gp": 14,
+    "starts": 4,
+    "min": 495,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -3642,6 +3837,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 56,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3651,20 +3865,20 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1140,
-    "sh": 15,
+    "gp": 14,
+    "starts": 14,
+    "min": 1226,
+    "sh": 16,
     "sog": 4,
     "g": 2,
-    "a": 1,
-    "fouls": 15,
+    "a": 3,
+    "fouls": 16,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.7,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3913,6 +4127,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 86,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4114,9 +4347,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1031,
+    "gp": 14,
+    "starts": 14,
+    "min": 1121,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4376,6 +4609,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4385,9 +4637,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 0,
-    "min": 470,
+    "gp": 14,
+    "starts": 1,
+    "min": 546,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -4647,6 +4899,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4656,9 +4927,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 22,
+    "min": 37,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4747,6 +5018,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4756,14 +5046,14 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 13,
-    "min": 1062,
+    "min": 1096,
     "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 2,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -5015,6 +5305,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-11",
+     "opponent": "USC",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "20",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
