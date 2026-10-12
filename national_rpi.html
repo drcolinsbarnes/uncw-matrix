@@ -833,7 +833,6 @@ const PR_COLS = [
   {key: "rpi", label: "RPI", dir: 1, grp: true, val: r => prRankVal(r.rpi)},
   {key: "elo", label: "Elo", dir: 1, val: r => prRankVal(r.elo)},
   {key: "cstand", label: "Conf Standing", dir: 1, val: r => prRankVal(r.cstand)},
-  {key: "crpi", label: "Conf Rank", dir: 1, val: r => prRankVal(r.crpi)},
   {key: "uscn", label: "USC Nat", dir: 1, grp: true, val: r => r.uscn != null ? r.uscn : r.rv ? 1000 : 9999},
   {key: "uscr", label: "USC Region", dir: 1, val: r => prRankVal(r.uscr)},
   {key: "rec", label: "Record", dir: -1, grp: true, val: r => r.recv ? r.recv.pct : -1},
@@ -914,7 +913,7 @@ function renderPoll() {
     return `<tr${r.name === "UNC Wilmington" ? ' class="me"' : ""}>
       <td class="l"><span class="tl">${logo}<a href="elo.html#/team/${encodeURIComponent(r.name)}">${esc(r.name)}</a></span></td>
       <td class="l">${esc(r.conf || "")}</td>
-      ${rk(r.rpi, " gs")}${rk(r.elo)}${rk(r.cstand)}${rk(r.crpi)}
+      ${rk(r.rpi, " gs")}${rk(r.elo)}${rk(r.cstand)}
       ${r.uscn != null ? rk(r.uscn, " gs") : r.rv ? `<td class="nr gs">RV</td>` : `<td class="nr gs">NR</td>`}${rk(r.uscr)}
       ${rec(r.rawRec, true)}${rec(r.b1s)}${rec(r.b2s)}${rec(r.b3s)}${rec(r.homes)}${rec(r.aways)}${rec(r.ncs)}${rec(r.cs)}
       <td class="gs">${r.form ? renderForm(r.form) : "\u2014"}</td>
@@ -925,7 +924,7 @@ function renderPoll() {
   const asm = Object.entries(RA).filter(([c, r]) => prRegion === "All" || r === prRegion).map(([c]) => c);
   const unmapped = Object.values(NATIONAL.teams).filter(t => !(NATIONAL.uscRegionOf || {})[t.conference]);
   document.getElementById("pr-note").innerHTML =
-    `<b>Conf Rank</b> = where the conference ranks among all Division I conferences by RPI; <b>Conf Standing</b> = the team's place in its own conference table. ` +
+    `<b>Conf Standing</b> = the team's place in its own conference table. ` +
     `Records are the RPI splits (W-L-D): vs RPI 1–25, 26–50, 51–100, home, away, non-conference, conference; sorting a record column orders by win percentage (draws count half). ` +
     `USC Nat shows RV for teams receiving votes; USC Region is the regional top 10. USC regions follow conferences (Atlantic = ACC). ` +
     (asm.length ? `<b>Assumed placement</b> (these conferences never appear in a regional top 10, so check them against USC's list): ${esc(asm.join(", "))}. ` : "") +
