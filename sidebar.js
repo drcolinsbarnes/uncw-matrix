@@ -69,7 +69,7 @@
 
   // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
   // HUB_VERSION_START
-  const HUB_VERSION = "4.8";
+  const HUB_VERSION = "4.9";
   const HUB_UPDATED = "12 Oct 2026";
   // HUB_VERSION_END
 
@@ -154,4 +154,161 @@
   } else {
     render();
   }
+})();
+
+/* ======================================================================
+   Site-wide norms (added 2026-10-12, Colin): every page gets
+   1. a Back button at the top of the page (returns to wherever the visitor
+      started before going down a team/player/game rabbit hole),
+   2. fixed (sticky) table headers and a frozen Team / Player / Opponent
+      column on every data table, with no per-page code,
+   3. links from every Division I team name to its Elo/RPI/box-score team page.
+   Tables and names that a page draws later (innerHTML re-renders) are picked
+   up by a MutationObserver. Opt a table out with class "no-sticky"; opt an
+   element out of auto-linking with data-nolink.
+   ====================================================================== */
+// TEAM_INDEX_START
+const TEAM_INDEX = ["Abilene Christian","Air Force","Akron","Alabama","Alabama A&M","Alabama State","Albany","Alcorn State","American","Appalachian State","Arizona","Arizona State","Arkansas","Arkansas State","Army","Auburn","Austin Peay","BYU","Ball State","Baylor","Bellarmine","Belmont","Binghamton","Boise State","Boston College","Boston University","Bowling Green","Brown","Bryant","Bucknell","Buffalo","Butler","CSU Bakersfield","CSUN","Cal Poly","Cal State Fullerton","California","California Baptist","Campbell","Canisius","Central Arkansas","Central Connecticut","Central Michigan","Charleston Southern","Charlotte","Chicago State","Cincinnati","Clemson","Cleveland State","Coastal Carolina","Colgate","College of Charleston","Colorado","Colorado College","Colorado State","Columbia","Connecticut","Cornell","Creighton","Dartmouth","Davidson","Dayton","DePaul","Delaware","Delaware State","Denver","Detroit Mercy","Drake","Drexel","Duke","Duquesne","East Carolina","East Tennessee State","East Texas A&M","Eastern Illinois","Eastern Kentucky","Eastern Michigan","Eastern Washington","Elon","Evansville","FGCU","Fairfield","Fairleigh Dickinson","Florida","Florida Atlantic","Florida International","Florida State","Fordham","Fresno State","Furman","Gardner-Webb","George Mason","George Washington","Georgetown","Georgia","Georgia Southern","Georgia State","Gonzaga","Grambling State","Grand Canyon","Hampton University","Harvard","Hawaii","High Point","Hofstra","Holy Cross","Houston","Houston Christian","Howard","IU Indianapolis","Idaho","Idaho State","Illinois","Illinois State","Incarnate Word","Indiana","Indiana State","Iona University","Iowa","Iowa State","Jackson State","Jacksonville","Jacksonville State","James Madison","Kansas","Kansas City","Kansas State","Kennesaw State","Kent State","Kentucky","LIU","LSU","La Salle","Lafayette","Lamar","Le Moyne","Lehigh","Liberty","Lindenwood","Lipscomb","Little Rock","Long Beach State","Longwood","Louisiana","Louisiana Tech","Louisiana-Monroe","Louisville","Loyola (MD)","Loyola Chicago","Loyola Marymount","Maine","Manhattan","Marist","Marquette","Marshall","Maryland","Massachusetts","Massachusetts-Lowell","Memphis","Mercer","Mercyhurst","Merrimack","Miami (FL)","Miami (OH)","Michigan","Michigan State","Middle Tennessee","Minnesota","Mississippi","Mississippi State","Missouri","Missouri State","Monmouth","Montana","Morehead State","Mount St. Mary's","Murray State","NC State","NJIT","Navy","Nebraska","Nevada","New Hampshire","New Haven","New Mexico","New Mexico State","Niagara","Nicholls","North Alabama","North Carolina","North Dakota","North Dakota State","North Florida","North Texas","Northeastern","Northern Arizona","Northern Colorado","Northern Illinois","Northern Iowa","Northern Kentucky","Northwestern","Northwestern State","Notre Dame","Oakland","Ohio State","Ohio University","Oklahoma","Oklahoma State","Old Dominion","Omaha","Oral Roberts","Oregon","Oregon State","Pacific","Penn","Penn State","Pepperdine","Pittsburgh","Portland","Portland State","Prairie View A&M","Presbyterian","Princeton","Providence","Purdue","Purdue Fort Wayne","Queens (N.C.)","Quinnipiac","Radford","Rhode Island","Rice","Richmond","Rider","Robert Morris","Rutgers","SIUE","SMU","Sacramento State","Sacred Heart","Saint Joseph's","Saint Louis","Saint Peter's","Sam Houston State","Samford","San Diego","San Diego State","San Francisco","San Jose State","Santa Clara","Seattle","Seton Hall","Siena College","South Alabama","South Carolina","South Carolina State","South Dakota","South Dakota State","South Florida","Southeast Missouri State","Southeastern Louisiana","Southern Illinois","Southern Indiana","Southern Mississippi","Southern University","Southern Utah","St. Bonaventure","St. John's","St. Mary's (CA)","St. Thomas (Minn.)","Stanford","Stephen F. Austin","Stetson","Stonehill","Stony Brook","Syracuse","TCU","Tarleton State","Temple","Tennessee","Tennessee Tech","Texas","Texas A&M","Texas A&M-Corpus Christi","Texas Southern","Texas State","Texas Tech","The Citadel","Toledo","Towson","Troy","Tulsa","UAB","UC Davis","UC Irvine","UC Riverside","UC San Diego","UC Santa Barbara","UCF","UCLA","UIC","UMBC","UNC Asheville","UNC Greensboro","UNC Wilmington","UNLV","USC","USC Upstate","UT Chattanooga","UT Martin","UTEP","UTSA","Utah","Utah State","Utah Tech","Utah Valley","VCU","VMI","Valparaiso","Vanderbilt","Vermont","Villanova","Virginia","Virginia Tech","Wagner","Wake Forest","Washington","Washington State","Weber State","West Georgia","West Virginia","Western Carolina","Western Illinois","Western Kentucky","Western Michigan","William & Mary","Winthrop","Wisconsin","Wisconsin-Green Bay","Wisconsin-Milwaukee","Wofford","Wright State","Wyoming","Xavier","Yale","Youngstown State"];
+// TEAM_INDEX_END
+(function () {
+  const TEAMS = new Set(TEAM_INDEX);
+  const ALIAS = { "UNCW": "UNC Wilmington" };
+
+  /* ---------- 1. Back button ---------- */
+  function addBackBar() {
+    const main = document.querySelector(".app-main");
+    if (!main || main.querySelector(".back-bar")) return;
+    const bar = document.createElement("div");
+    bar.className = "back-bar";
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "back-btn";
+    const canBack = window.history.length > 1;
+    btn.innerHTML = canBack ? "&#8592; Back" : "&#8592; Home";
+    btn.title = canBack ? "Return to the page you came from" : "Go to the Home page";
+    btn.addEventListener("click", () => {
+      if (window.history.length > 1) window.history.back();
+      else window.location.href = "home.html";
+    });
+    bar.appendChild(btn);
+    main.insertBefore(bar, main.firstChild);
+  }
+
+  /* ---------- 2. Sticky headers + frozen team column ---------- */
+  const SKIP = ".no-sticky, #pdrawer, .cal, .cal-grid";
+  function wrapFor(t) {
+    const p = t.parentElement;
+    if (!p) return null;
+    if (p.classList.contains("stk-wrap")) return p;
+    if (p.children.length === 1 && (p.classList.contains("table-wrap") || p.classList.contains("scroll-wrap"))) {
+      p.classList.add("stk-wrap");
+      return p;
+    }
+    const w = document.createElement("div");
+    w.className = "stk-wrap";
+    p.insertBefore(w, t);
+    w.appendChild(t);
+    return w;
+  }
+  function stickTable(t) {
+    if (t.closest(SKIP) || !t.tHead || !t.tHead.rows.length) return;
+    if (t.rows.length < 6) return;
+    const w = wrapFor(t);
+    if (!w) return;
+    t.classList.add("stk");
+    // header rows: each row sticks under the one above it
+    let top = 0;
+    [...t.tHead.rows].forEach(r => {
+      [...r.cells].forEach(c => {
+        c.classList.add("stk-h");
+        c.style.top = top + "px";
+        if (getComputedStyle(c).backgroundColor === "rgba(0, 0, 0, 0)") { c.style.backgroundColor = "#e9f0f3"; }
+      });
+      top += r.offsetHeight;
+    });
+    freezeLeft(t, w);
+  }
+  function freezeLeft(t, w) {
+    const hr = t.tHead.rows[t.tHead.rows.length - 1];
+    const hc = [...hr.cells];
+    let idx = -1;
+    for (let i = 0; i < Math.min(hc.length, 5); i++) {
+      if (hc[i].colSpan > 1) break;
+      if (/^(team|player|name|opponent|opp\b|school)/i.test(hc[i].textContent.trim())) { idx = i; break; }
+    }
+    const rows = [...t.querySelectorAll("tbody tr")];
+    const clear = () => t.querySelectorAll(".stk-l").forEach(c => { c.classList.remove("stk-l", "stk-last"); c.style.left = ""; });
+    if (idx < 0 || !rows.length) { clear(); return; }
+    // rows with row/col spans in the frozen area would misalign: leave those tables alone
+    if (rows.slice(0, 4).some(r => r.cells.length !== hc.length)) { clear(); return; }
+    const lefts = []; let left = 0;
+    for (let i = 0; i <= idx; i++) { lefts.push(left); left += hc[i].offsetWidth; }
+    if (left > w.clientWidth * 0.55) { clear(); return; }   // too wide a frozen block on a small screen
+    const mark = (row) => {
+      for (let i = 0; i <= idx; i++) {
+        const c = row.cells[i];
+        if (!c) continue;
+        c.classList.add("stk-l");
+        c.style.left = lefts[i] + "px";
+        if (i === idx) c.classList.add("stk-last");
+      }
+    };
+    mark(hr);
+    rows.forEach(mark);
+  }
+
+  /* ---------- 3. Team links ---------- */
+  function colHeader(td) {
+    const t = td.closest("table");
+    if (!t || !t.tHead) return "";
+    const hr = t.tHead.rows[t.tHead.rows.length - 1];
+    const c = hr && hr.cells[td.cellIndex];
+    return c ? c.textContent : "";
+  }
+  const NOLINK_TAGS = new Set(["A", "BUTTON", "SELECT", "OPTION", "TEXTAREA", "SCRIPT", "STYLE", "TH", "LABEL", "H1", "H2", "SUMMARY", "TITLE"]);
+  function linkTeams(root) {
+    if (!TEAMS.size) return;
+    const onElo = document.body.dataset.page === "elo";
+    if (onElo) return;   // the Elo page links its own teams
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null);
+    const todo = [];
+    let n;
+    while ((n = walker.nextNode())) {
+      const s = n.nodeValue.trim();
+      if (!s || s.length > 40) continue;
+      const name = TEAMS.has(s) ? s : (ALIAS[s] || null);
+      if (!name) continue;
+      const p = n.parentElement;
+      if (!p || NOLINK_TAGS.has(p.tagName) || p.closest("a,button,select,th,[data-nolink],.app-sidebar,.back-bar")) continue;
+      const td = p.closest("td");
+      if (td && /conf/i.test(colHeader(td))) continue;   // "American" the league is not "American" the team
+      todo.push([n, name]);
+    }
+    todo.forEach(([node, name]) => {
+      const a = document.createElement("a");
+      a.className = "auto-tl";
+      a.href = "elo.html#/team/" + encodeURIComponent(name);
+      a.title = "Open " + name + " (Elo, RPI, schedule, box scores)";
+      node.parentNode.insertBefore(a, node);
+      a.appendChild(node);
+    });
+  }
+
+  let timer = null;
+  function pass() {
+    timer = null;
+    const main = document.querySelector(".app-main");
+    if (!main) return;
+    addBackBar();
+    main.querySelectorAll("table").forEach(t => { try { stickTable(t); } catch (e) {} });
+    try { linkTeams(main); } catch (e) {}
+  }
+  function schedule() { if (!timer) timer = setTimeout(pass, 180); }
+  function start() {
+    pass();
+    new MutationObserver(schedule).observe(document.body, { childList: true, subtree: true });
+    window.addEventListener("resize", schedule);
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start);
+  else start();
 })();

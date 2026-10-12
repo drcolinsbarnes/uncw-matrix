@@ -36,6 +36,10 @@
   .tables-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 8px; }
 
   .scroll-wrap { overflow-x: auto; padding-bottom: 8px; }
+  /* Fixed matrix header (2026-10-12): the grid scrolls inside its own box so the week header stays put */
+  .scroll-wrap { overflow: auto; max-height: calc(100vh - 70px); }
+  table.matrix thead th { position: sticky; top: 0; z-index: 4; background: var(--bg); }
+  table.matrix th.opp-col { z-index: 6; }
   table.matrix { border-collapse: separate; border-spacing: 3px; font-size: 11px; }
   table.matrix th { text-align: center; color: var(--navy); font-weight: 600; padding: 3px 2px; min-width: 82px; }
   table.matrix th.opp-col { position: sticky; left: 0; background: var(--bg); text-align: left; padding: 4px 8px; min-width: 130px; z-index: 2; }
@@ -912,5 +916,16 @@ ROW_ORDER.forEach(name => {
 });
 </script>
 
+<script>
+// When shown inside the hub's Matrix page, open scrolled to the schedule matrix (2026-10-12).
+try {
+  if (window.self !== window.top) {
+    window.addEventListener("load", () => setTimeout(() => {
+      const h = [...document.querySelectorAll("h2")].find(x => /Schedule matrix/i.test(x.textContent));
+      if (h) h.scrollIntoView();
+    }, 400));
+  }
+} catch (e) {}
+</script>
 </body>
 </html>
