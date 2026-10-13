@@ -9,20 +9,20 @@
    "num": "29",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 2,
-    "min": 360,
-    "sh": 4,
-    "sog": 0,
+    "gp": 10,
+    "starts": 4,
+    "min": 498,
+    "sh": 8,
+    "sog": 2,
     "g": 0,
-    "a": 1,
-    "fouls": 7,
+    "a": 2,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 4
+    "shot_pct": 25.0,
+    "shots_saved": 2,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -140,6 +140,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 48,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -176,6 +195,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -185,20 +223,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 3,
-    "min": 420,
-    "sh": 13,
+    "gp": 12,
+    "starts": 4,
+    "min": 496,
+    "sh": 15,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.8,
+    "shot_pct": 26.7,
     "shots_saved": 3,
-    "shots_off_target": 9
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -354,6 +392,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 52,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -390,6 +447,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 24,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -399,15 +475,15 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 8,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
@@ -568,6 +644,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -604,6 +699,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -613,20 +727,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 670,
-    "sh": 14,
-    "sog": 8,
-    "g": 2,
-    "a": 1,
-    "fouls": 9,
+    "gp": 12,
+    "starts": 12,
+    "min": 801,
+    "sh": 19,
+    "sog": 11,
+    "g": 3,
+    "a": 2,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 6,
-    "shots_off_target": 6
+    "shot_pct": 57.9,
+    "shots_saved": 8,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -782,6 +896,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 60,
+     "sh": 4,
+     "sog": 3,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -818,6 +951,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 71,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -827,9 +979,9 @@
    "num": "30",
    "pos": "GK",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -842,10 +994,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
+     "gp": 12,
      "ga": 5,
-     "saves": 35,
-     "save_pct": 87.5
+     "saves": 41,
+     "save_pct": 89.1
     }
    },
    "matches": [
@@ -1042,6 +1194,30 @@
      }
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "GK",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -1088,6 +1264,30 @@
       "ga": 2,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -1097,14 +1297,14 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 119,
+    "min": 171,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1209,6 +1409,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "27",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -1230,25 +1449,68 @@
    ]
   },
   {
+   "name": "Hudepohl, Harper",
+   "slug": "hudepohl-harper",
+   "num": "24",
+   "pos": "MID",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 7,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 7,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Ihrfelt, Lykke",
    "slug": "ihrfelt-lykke",
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 862,
-    "sh": 8,
+    "gp": 12,
+    "starts": 12,
+    "min": 1035,
+    "sh": 10,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1404,6 +1666,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -1440,6 +1721,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1449,20 +1749,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 400,
-    "sh": 17,
-    "sog": 1,
-    "g": 1,
+    "gp": 10,
+    "starts": 6,
+    "min": 469,
+    "sh": 19,
+    "sog": 2,
+    "g": 2,
     "a": 0,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 5.9,
+    "shot_pct": 10.5,
     "shots_saved": 0,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -1635,6 +1935,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 69,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1644,10 +1963,10 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 638,
-    "sh": 3,
+    "gp": 10,
+    "starts": 10,
+    "min": 818,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -1655,9 +1974,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1775,6 +2094,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -1811,6 +2149,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1820,19 +2177,19 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 900,
-    "sh": 6,
-    "sog": 3,
-    "g": 1,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
+    "sh": 10,
+    "sog": 7,
+    "g": 3,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 70.0,
+    "shots_saved": 4,
     "shots_off_target": 3
    },
    "matches": [
@@ -1989,6 +2346,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 4,
+     "sog": 4,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -2025,6 +2401,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2034,9 +2429,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 2,
-    "min": 181,
+    "min": 201,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2106,6 +2501,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "5",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Morse, Lily",
+   "slug": "morse-lily",
+   "num": "17",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 7,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2115,20 +2572,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 7,
-    "min": 482,
-    "sh": 12,
-    "sog": 9,
-    "g": 3,
-    "a": 4,
-    "fouls": 4,
-    "yc": 1,
+    "gp": 10,
+    "starts": 8,
+    "min": 598,
+    "sh": 16,
+    "sog": 11,
+    "g": 4,
+    "a": 5,
+    "fouls": 5,
+    "yc": 2,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 75.0,
-    "shots_saved": 6,
-    "shots_off_target": 3
+    "shot_pct": 68.8,
+    "shots_saved": 7,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2246,6 +2703,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 38,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -2282,6 +2758,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 78,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2291,20 +2786,20 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 898,
-    "sh": 5,
+    "gp": 12,
+    "starts": 12,
+    "min": 1078,
+    "sh": 6,
     "sog": 2,
     "g": 0,
-    "a": 0,
-    "fouls": 2,
-    "yc": 0,
+    "a": 1,
+    "fouls": 3,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2460,6 +2955,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -2494,6 +3008,25 @@
      "a": 0,
      "fouls": 1,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2610,20 +3143,20 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 8,
-    "min": 618,
-    "sh": 7,
-    "sog": 4,
+    "gp": 12,
+    "starts": 9,
+    "min": 745,
+    "sh": 10,
+    "sog": 5,
     "g": 2,
-    "a": 1,
-    "fouls": 7,
+    "a": 3,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 2,
-    "shots_off_target": 3
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2779,6 +3312,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "12",
+     "min": 51,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -2812,6 +3364,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 76,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 5,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2924,20 +3495,20 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 2,
-    "min": 195,
-    "sh": 8,
+    "gp": 8,
+    "starts": 3,
+    "min": 275,
+    "sh": 9,
     "sog": 2,
     "g": 1,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 22.2,
     "shots_saved": 1,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3036,6 +3607,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 65,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -3053,6 +3643,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "20",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3062,10 +3671,10 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 10,
     "starts": 2,
-    "min": 363,
-    "sh": 4,
+    "min": 431,
+    "sh": 7,
     "sog": 2,
     "g": 0,
     "a": 1,
@@ -3073,9 +3682,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 28.6,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3193,6 +3802,25 @@
      "pk_g": 0
     },
     {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 41,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
      "date": "2026-09-26",
      "opponent": "Penn",
      "home": true,
@@ -3229,6 +3857,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-10",
+     "opponent": "Harvard",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 27,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3238,10 +3885,10 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 714,
-    "sh": 10,
+    "gp": 9,
+    "starts": 9,
+    "min": 730,
+    "sh": 11,
     "sog": 5,
     "g": 2,
     "a": 1,
@@ -3249,9 +3896,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 45.5,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3398,6 +4045,25 @@
      "num": "13",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-09-20",
+     "opponent": "Bryant",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 16,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
