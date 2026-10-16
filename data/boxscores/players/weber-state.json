@@ -9,20 +9,20 @@
    "num": "19",
    "pos": null,
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 902,
-    "sh": 23,
+    "gp": 15,
+    "starts": 13,
+    "min": 968,
+    "sh": 25,
     "sog": 15,
     "g": 2,
-    "a": 2,
+    "a": 3,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 65.2,
+    "shot_pct": 60.0,
     "shots_saved": 13,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -290,6 +290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 66,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -299,9 +318,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 606,
+    "min": 647,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -580,6 +599,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -670,20 +708,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1068,
-    "sh": 32,
-    "sog": 16,
-    "g": 7,
+    "gp": 15,
+    "starts": 15,
+    "min": 1148,
+    "sh": 35,
+    "sog": 17,
+    "g": 8,
     "a": 2,
     "fouls": 9,
     "yc": 3,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 50.0,
+    "shot_pct": 48.6,
     "shots_saved": 9,
-    "shots_off_target": 16
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -951,6 +989,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 80,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1198,10 +1255,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 477,
-    "sh": 5,
+    "min": 519,
+    "sh": 7,
     "sog": 2,
     "g": 1,
     "a": 3,
@@ -1209,9 +1266,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 28.6,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1460,6 +1517,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 42,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1469,9 +1545,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1233,
+    "gp": 15,
+    "starts": 15,
+    "min": 1323,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1484,10 +1560,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
-     "ga": 21,
-     "saves": 62,
-     "save_pct": 74.7
+     "gp": 15,
+     "ga": 23,
+     "saves": 64,
+     "save_pct": 73.6
     }
    },
    "matches": [
@@ -1826,6 +1902,30 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 2
+     }
     }
    ]
   },
@@ -1835,9 +1935,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 745,
+    "gp": 14,
+    "starts": 11,
+    "min": 804,
     "sh": 9,
     "sog": 4,
     "g": 1,
@@ -2097,6 +2197,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2160,10 +2279,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 860,
-    "sh": 8,
+    "gp": 15,
+    "starts": 13,
+    "min": 931,
+    "sh": 10,
     "sog": 4,
     "g": 0,
     "a": 1,
@@ -2171,9 +2290,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2441,6 +2560,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 71,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2450,9 +2588,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 12,
-    "min": 1005,
+    "min": 1021,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2712,6 +2850,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2721,9 +2878,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 230,
+    "min": 257,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2945,6 +3102,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "def",
+     "num": "15",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2954,9 +3130,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 2,
-    "min": 489,
+    "min": 511,
     "sh": 7,
     "sog": 4,
     "g": 1,
@@ -3235,6 +3411,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3244,19 +3439,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 843,
-    "sh": 1,
-    "sog": 0,
+    "gp": 13,
+    "starts": 11,
+    "min": 911,
+    "sh": 3,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 8,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
     "shots_off_target": 1
    },
    "matches": [
@@ -3487,6 +3682,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 68,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3496,9 +3710,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 3,
-    "min": 412,
+    "gp": 12,
+    "starts": 4,
+    "min": 502,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3720,6 +3934,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3869,9 +4102,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 82,
+    "min": 90,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -3998,6 +4231,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4007,9 +4259,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 11,
-    "min": 829,
+    "min": 855,
     "sh": 4,
     "sog": 4,
     "g": 1,
@@ -4288,6 +4540,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "def",
+     "num": "12",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4297,20 +4568,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 963,
-    "sh": 23,
-    "sog": 10,
+    "gp": 15,
+    "starts": 15,
+    "min": 1040,
+    "sh": 26,
+    "sog": 12,
     "g": 3,
     "a": 0,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 43.5,
-    "shots_saved": 7,
-    "shots_off_target": 13
+    "shot_pct": 46.2,
+    "shots_saved": 9,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -4578,6 +4849,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 77,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4630,9 +4920,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1056,
+    "gp": 14,
+    "starts": 14,
+    "min": 1130,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -4892,6 +5182,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4901,20 +5210,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 365,
-    "sh": 11,
-    "sog": 8,
+    "gp": 7,
+    "starts": 5,
+    "min": 434,
+    "sh": 17,
+    "sog": 11,
     "g": 2,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 72.7,
-    "shots_saved": 6,
-    "shots_off_target": 3
+    "shot_pct": 64.7,
+    "shots_saved": 9,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -5030,6 +5339,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 69,
+     "sh": 6,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5039,10 +5367,10 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 6,
-    "min": 588,
-    "sh": 7,
+    "min": 592,
+    "sh": 8,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -5050,9 +5378,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -5301,6 +5629,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "28",
+     "min": 4,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5396,10 +5743,10 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 781,
-    "sh": 6,
+    "gp": 15,
+    "starts": 11,
+    "min": 841,
+    "sh": 7,
     "sog": 0,
     "g": 0,
     "a": 2,
@@ -5409,7 +5756,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5670,6 +6017,25 @@
      "num": "20",
      "min": 29,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Portland State",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 60,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

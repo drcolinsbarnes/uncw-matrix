@@ -9,9 +9,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 1084,
+    "gp": 15,
+    "starts": 11,
+    "min": 1174,
     "sh": 11,
     "sog": 6,
     "g": 3,
@@ -290,6 +290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -418,20 +437,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1027,
-    "sh": 22,
-    "sog": 7,
+    "gp": 15,
+    "starts": 15,
+    "min": 1106,
+    "sh": 25,
+    "sog": 8,
     "g": 6,
     "a": 2,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.8,
-    "shots_saved": 1,
-    "shots_off_target": 15
+    "shot_pct": 32.0,
+    "shots_saved": 2,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -694,6 +713,25 @@
      "sh": 2,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 79,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -979,10 +1017,10 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 922,
-    "sh": 33,
+    "gp": 15,
+    "starts": 15,
+    "min": 987,
+    "sh": 34,
     "sog": 19,
     "g": 6,
     "a": 2,
@@ -990,9 +1028,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.6,
+    "shot_pct": 55.9,
     "shots_saved": 13,
-    "shots_off_target": 14
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -1260,6 +1298,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 65,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1464,9 +1521,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1260,
+    "gp": 15,
+    "starts": 15,
+    "min": 1350,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1479,10 +1536,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
+     "gp": 15,
      "ga": 15,
-     "saves": 56,
-     "save_pct": 78.9
+     "saves": 59,
+     "save_pct": 79.7
     }
    },
    "matches": [
@@ -1821,6 +1878,30 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1830,9 +1911,9 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 1,
-    "min": 255,
+    "min": 280,
     "sh": 7,
     "sog": 1,
     "g": 0,
@@ -2104,6 +2185,25 @@
      "num": "13",
      "min": 32,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 25,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -2510,10 +2610,10 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 791,
-    "sh": 2,
+    "gp": 15,
+    "starts": 13,
+    "min": 853,
+    "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -2521,9 +2621,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2791,6 +2891,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 62,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2800,10 +2919,10 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 249,
-    "sh": 18,
+    "min": 267,
+    "sh": 19,
     "sog": 8,
     "g": 2,
     "a": 0,
@@ -2811,9 +2930,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 42.1,
     "shots_saved": 6,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -3062,6 +3181,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 18,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3290,10 +3428,10 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 3,
-    "min": 391,
-    "sh": 8,
+    "min": 446,
+    "sh": 9,
     "sog": 4,
     "g": 0,
     "a": 1,
@@ -3301,9 +3439,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.4,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3571,6 +3709,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3699,10 +3856,10 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 562,
-    "sh": 2,
+    "gp": 10,
+    "starts": 6,
+    "min": 652,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -3710,9 +3867,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3885,6 +4042,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4013,9 +4189,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 650,
+    "gp": 10,
+    "starts": 10,
+    "min": 740,
     "sh": 10,
     "sog": 4,
     "g": 0,
@@ -4199,6 +4375,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4208,9 +4403,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1179,
+    "gp": 15,
+    "starts": 15,
+    "min": 1269,
     "sh": 8,
     "sog": 5,
     "g": 3,
@@ -4489,6 +4684,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4498,9 +4712,9 @@
    "num": "34",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 526,
+    "min": 540,
     "sh": 15,
     "sog": 3,
     "g": 0,
@@ -4760,6 +4974,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "34",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4769,19 +5002,19 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 14,
-    "starts": 5,
-    "min": 746,
-    "sh": 13,
-    "sog": 10,
+    "gp": 15,
+    "starts": 6,
+    "min": 792,
+    "sh": 14,
+    "sog": 11,
     "g": 3,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 76.9,
-    "shots_saved": 7,
+    "shot_pct": 78.6,
+    "shots_saved": 8,
     "shots_off_target": 3
    },
    "matches": [
@@ -5050,6 +5283,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5290,7 +5542,7 @@
    "name": "Sarver, Bryce",
    "slug": "sarver-bryce",
    "num": "20",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
     "gp": 8,
     "starts": 4,
@@ -5468,19 +5720,19 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 8,
-    "min": 649,
-    "sh": 24,
-    "sog": 8,
+    "gp": 15,
+    "starts": 9,
+    "min": 707,
+    "sh": 25,
+    "sog": 9,
     "g": 1,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 7,
+    "shot_pct": 36.0,
+    "shots_saved": 8,
     "shots_off_target": 16
    },
    "matches": [
@@ -5749,6 +6001,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5758,9 +6029,9 @@
    "num": "18",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 561,
+    "min": 589,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -6039,6 +6310,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6048,9 +6338,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 720,
+    "gp": 15,
+    "starts": 15,
+    "min": 810,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -6322,6 +6612,25 @@
      "num": "5",
      "min": 48,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Binghamton",
+     "home": true,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,

@@ -9,15 +9,15 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 2,
-    "min": 400,
+    "gp": 11,
+    "starts": 3,
+    "min": 476,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 12,
-    "yc": 1,
+    "fouls": 14,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -214,6 +214,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "27",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -223,20 +242,20 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 3,
-    "min": 412,
-    "sh": 14,
+    "gp": 14,
+    "starts": 4,
+    "min": 497,
+    "sh": 16,
     "sog": 5,
     "g": 3,
     "a": 3,
-    "fouls": 10,
+    "fouls": 13,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 31.2,
     "shots_saved": 2,
-    "shots_off_target": 9
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -482,6 +501,25 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "29",
+     "min": 85,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -781,9 +819,9 @@
    "num": "14",
    "pos": null,
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 848,
+    "gp": 14,
+    "starts": 14,
+    "min": 883,
     "sh": 20,
     "sog": 7,
     "g": 1,
@@ -1043,6 +1081,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "",
+     "num": "14",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1176,20 +1233,20 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 264,
-    "sh": 6,
-    "sog": 5,
+    "min": 284,
+    "sh": 8,
+    "sog": 6,
     "g": 2,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 83.3,
-    "shots_saved": 3,
-    "shots_off_target": 1
+    "shot_pct": 75.0,
+    "shots_saved": 4,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1343,6 +1400,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "22",
+     "min": 20,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1352,9 +1428,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 1031,
+    "gp": 13,
+    "starts": 12,
+    "min": 1108,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1367,10 +1443,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 12,
-     "saves": 27,
-     "save_pct": 69.2
+     "gp": 13,
+     "ga": 15,
+     "saves": 32,
+     "save_pct": 68.1
     }
    },
    "matches": [
@@ -1661,6 +1737,30 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "76:11",
+      "ga": 3,
+      "saves": 5
+     }
     }
    ]
   },
@@ -1751,9 +1851,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 950,
+    "gp": 14,
+    "starts": 14,
+    "min": 1009,
     "sh": 10,
     "sog": 3,
     "g": 0,
@@ -2013,6 +2113,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2022,9 +2141,9 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 100,
+    "min": 130,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2170,6 +2289,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "",
+     "num": "12",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2179,20 +2317,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 709,
-    "sh": 21,
-    "sog": 11,
+    "gp": 14,
+    "starts": 13,
+    "min": 773,
+    "sh": 23,
+    "sog": 12,
     "g": 1,
     "a": 2,
     "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.4,
-    "shots_saved": 10,
-    "shots_off_target": 10
+    "shot_pct": 52.2,
+    "shots_saved": 11,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2441,6 +2579,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 64,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2450,14 +2607,14 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 945,
+    "gp": 14,
+    "starts": 11,
+    "min": 1019,
     "sh": 9,
     "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2712,6 +2869,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2721,14 +2897,14 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 6,
-    "min": 571,
+    "min": 601,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2983,6 +3159,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2992,14 +3187,14 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 9,
-    "min": 511,
+    "min": 556,
     "sh": 6,
     "sog": 3,
     "g": 2,
     "a": 0,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
@@ -3197,6 +3392,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "11",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3206,14 +3420,14 @@
    "num": "99",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 1,
-    "min": 401,
+    "min": 419,
     "sh": 10,
     "sog": 3,
     "g": 3,
     "a": 1,
-    "fouls": 13,
+    "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3468,6 +3682,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "99",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3477,9 +3710,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 934,
+    "gp": 14,
+    "starts": 14,
+    "min": 1002,
     "sh": 37,
     "sog": 20,
     "g": 5,
@@ -3739,6 +3972,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3748,14 +4000,14 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 425,
+    "gp": 11,
+    "starts": 5,
+    "min": 478,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3953,6 +4205,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4005,15 +4276,15 @@
    "num": "32",
    "pos": null,
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 53,
+    "min": 67,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -4096,6 +4367,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "",
+     "num": "32",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4105,9 +4395,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 115,
+    "min": 129,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4234,6 +4524,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4286,9 +4595,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 2,
+    "gp": 3,
     "starts": 2,
-    "min": 134,
+    "min": 147,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4301,7 +4610,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
+     "gp": 3,
      "ga": 6,
      "saves": 1,
      "save_pct": 14.3
@@ -4355,6 +4664,30 @@
       "ga": 2,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "GK",
+     "num": "0",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "13:49",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -4364,14 +4697,14 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 420,
+    "min": 453,
     "sh": 9,
     "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -4626,6 +4959,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4635,14 +4987,14 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 6,
-    "min": 483,
+    "min": 503,
     "sh": 12,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4840,6 +5192,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "18",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4849,19 +5220,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 580,
-    "sh": 15,
-    "sog": 3,
+    "gp": 8,
+    "starts": 7,
+    "min": 656,
+    "sh": 16,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 2,
+    "shot_pct": 25.0,
+    "shots_saved": 3,
     "shots_off_target": 12
    },
    "matches": [
@@ -4997,6 +5368,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 76,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5006,9 +5396,9 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 650,
+    "gp": 12,
+    "starts": 10,
+    "min": 713,
     "sh": 24,
     "sog": 13,
     "g": 6,
@@ -5230,6 +5620,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5401,9 +5810,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 590,
+    "min": 613,
     "sh": 15,
     "sog": 9,
     "g": 1,
@@ -5660,6 +6069,25 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Vanderbilt",
+     "home": false,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "MID",
+     "num": "26",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

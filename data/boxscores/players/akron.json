@@ -9,14 +9,14 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 468,
+    "min": 492,
     "sh": 7,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -271,6 +271,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -280,9 +299,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1148,
+    "gp": 14,
+    "starts": 14,
+    "min": 1238,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -542,6 +561,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -653,13 +691,13 @@
    "num": "33",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1051,
+    "gp": 14,
+    "starts": 14,
+    "min": 1141,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -668,10 +706,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
+     "gp": 14,
      "ga": 14,
-     "saves": 56,
-     "save_pct": 80.0
+     "saves": 62,
+     "save_pct": 81.6
     }
    },
    "matches": [
@@ -986,6 +1024,30 @@
       "ga": 1,
       "saves": 13
      }
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 6
+     }
     }
    ]
   },
@@ -1038,9 +1100,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 1030,
+    "gp": 14,
+    "starts": 11,
+    "min": 1120,
     "sh": 11,
     "sog": 6,
     "g": 1,
@@ -1300,6 +1362,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1309,14 +1390,14 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 727,
+    "gp": 14,
+    "starts": 12,
+    "min": 768,
     "sh": 13,
     "sog": 9,
     "g": 2,
     "a": 2,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1571,6 +1652,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1578,7 +1678,7 @@
    "name": "Hendrickson, Hadley",
    "slug": "hendrickson-hadley",
    "num": "6",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
     "gp": 6,
     "starts": 0,
@@ -1718,9 +1818,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 388,
+    "min": 414,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -1961,6 +2061,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "8",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2013,20 +2132,20 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 392,
-    "sh": 5,
+    "gp": 13,
+    "starts": 4,
+    "min": 482,
+    "sh": 6,
     "sog": 2,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2256,6 +2375,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2265,19 +2403,19 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 411,
-    "sh": 8,
-    "sog": 4,
-    "g": 1,
+    "gp": 8,
+    "starts": 6,
+    "min": 470,
+    "sh": 10,
+    "sog": 6,
+    "g": 2,
     "a": 0,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 60.0,
+    "shots_saved": 4,
     "shots_off_target": 4
    },
    "matches": [
@@ -2413,6 +2551,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 59,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2422,9 +2579,9 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 4,
-    "min": 420,
+    "min": 451,
     "sh": 13,
     "sog": 5,
     "g": 1,
@@ -2684,6 +2841,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2693,9 +2869,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1163,
+    "gp": 14,
+    "starts": 14,
+    "min": 1253,
     "sh": 11,
     "sog": 3,
     "g": 0,
@@ -2955,6 +3131,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2964,10 +3159,10 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 3,
-    "min": 383,
-    "sh": 7,
+    "gp": 14,
+    "starts": 4,
+    "min": 412,
+    "sh": 8,
     "sog": 3,
     "g": 0,
     "a": 2,
@@ -2975,9 +3170,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -3226,6 +3421,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 29,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3449,10 +3663,10 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1085,
-    "sh": 6,
+    "gp": 14,
+    "starts": 14,
+    "min": 1175,
+    "sh": 7,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3460,9 +3674,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 16.7,
+    "shot_pct": 14.3,
     "shots_saved": 1,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3711,6 +3925,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3720,9 +3953,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 4,
-    "min": 384,
+    "gp": 9,
+    "starts": 5,
+    "min": 474,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3887,6 +4120,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3896,9 +4148,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 5,
-    "min": 408,
+    "min": 419,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -4158,6 +4410,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4324,9 +4595,9 @@
    "num": "37",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 424,
+    "min": 459,
     "sh": 11,
     "sog": 6,
     "g": 1,
@@ -4586,6 +4857,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "37",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4595,9 +4885,9 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 12,
-    "min": 885,
+    "min": 915,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4838,6 +5128,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "MID",
+     "num": "30",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4847,20 +5156,20 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 730,
-    "sh": 16,
+    "gp": 14,
+    "starts": 13,
+    "min": 782,
+    "sh": 18,
     "sog": 11,
     "g": 5,
     "a": 0,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 68.8,
+    "shot_pct": 61.1,
     "shots_saved": 6,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5109,6 +5418,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 52,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5118,20 +5446,20 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 482,
-    "sh": 8,
+    "min": 504,
+    "sh": 9,
     "sog": 6,
     "g": 2,
     "a": 2,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 66.7,
     "shots_saved": 4,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -5377,6 +5705,25 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Central Michigan",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "MID",
+     "num": "2",
+     "min": 22,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

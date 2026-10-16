@@ -9,9 +9,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 382,
+    "min": 404,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -176,6 +176,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -285,9 +304,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 25,
+    "min": 29,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -357,6 +376,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -366,9 +404,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 255,
+    "min": 277,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -533,6 +571,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "",
+     "num": "9",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -542,10 +599,10 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 622,
-    "sh": 11,
+    "gp": 9,
+    "starts": 9,
+    "min": 693,
+    "sh": 13,
     "sog": 5,
     "g": 2,
     "a": 1,
@@ -553,9 +610,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
+    "shot_pct": 38.5,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -709,6 +766,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 71,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -718,9 +794,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 720,
+    "gp": 9,
+    "starts": 9,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -733,10 +809,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 6,
-     "saves": 29,
-     "save_pct": 82.9
+     "gp": 9,
+     "ga": 8,
+     "saves": 30,
+     "save_pct": 78.9
     }
    },
    "matches": [
@@ -931,6 +1007,30 @@
       "ga": 1,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 1
+     }
     }
    ]
   },
@@ -940,10 +1040,10 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
-    "starts": 2,
-    "min": 258,
-    "sh": 4,
+    "gp": 8,
+    "starts": 3,
+    "min": 306,
+    "sh": 6,
     "sog": 4,
     "g": 2,
     "a": 0,
@@ -951,9 +1051,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1088,6 +1188,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 48,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1097,19 +1216,19 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 695,
-    "sh": 18,
-    "sog": 9,
+    "gp": 9,
+    "starts": 9,
+    "min": 785,
+    "sh": 19,
+    "sog": 10,
     "g": 4,
     "a": 3,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 5,
+    "shot_pct": 52.6,
+    "shots_saved": 6,
     "shots_off_target": 9
    },
    "matches": [
@@ -1264,6 +1383,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1273,20 +1411,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 99,
-    "sh": 0,
+    "min": 130,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1421,6 +1559,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1430,20 +1587,20 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 619,
-    "sh": 21,
-    "sog": 10,
+    "gp": 9,
+    "starts": 9,
+    "min": 709,
+    "sh": 23,
+    "sog": 11,
     "g": 3,
     "a": 0,
-    "fouls": 21,
+    "fouls": 23,
     "yc": 1,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 47.6,
-    "shots_saved": 7,
-    "shots_off_target": 11
+    "shot_pct": 47.8,
+    "shots_saved": 8,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1597,6 +1754,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1606,9 +1782,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 6,
-    "min": 500,
+    "gp": 8,
+    "starts": 7,
+    "min": 590,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -1754,6 +1930,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1763,9 +1958,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 22,
+    "min": 32,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1835,6 +2030,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1844,20 +2058,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 564,
-    "sh": 12,
-    "sog": 4,
+    "gp": 9,
+    "starts": 9,
+    "min": 637,
+    "sh": 14,
+    "sog": 5,
     "g": 1,
     "a": 2,
-    "fouls": 12,
+    "fouls": 14,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
-    "shots_off_target": 8
+    "shot_pct": 35.7,
+    "shots_saved": 4,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2011,6 +2225,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 73,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2020,19 +2253,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 456,
-    "sh": 14,
-    "sog": 7,
+    "gp": 7,
+    "starts": 7,
+    "min": 542,
+    "sh": 15,
+    "sog": 8,
     "g": 0,
     "a": 1,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 7,
+    "shot_pct": 53.3,
+    "shots_saved": 8,
     "shots_off_target": 7
    },
    "matches": [
@@ -2149,6 +2382,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 86,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2158,19 +2410,19 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 712,
-    "sh": 10,
-    "sog": 0,
+    "gp": 9,
+    "starts": 9,
+    "min": 799,
+    "sh": 11,
+    "sog": 1,
     "g": 0,
     "a": 2,
-    "fouls": 13,
-    "yc": 2,
+    "fouls": 14,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 9.1,
+    "shots_saved": 1,
     "shots_off_target": 10
    },
    "matches": [
@@ -2323,6 +2575,25 @@
      "a": 0,
      "fouls": 4,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 87,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2572,19 +2843,19 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 503,
-    "sh": 1,
-    "sog": 0,
+    "gp": 7,
+    "starts": 7,
+    "min": 589,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -2701,6 +2972,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 86,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,9 +3000,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 695,
+    "gp": 9,
+    "starts": 9,
+    "min": 785,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2865,6 +3155,25 @@
      "home": true,
      "result": "W",
      "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-15",
+     "opponent": "Oklahoma",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
      "start": true,
      "pos": "DEF",
      "num": "5",
