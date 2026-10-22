@@ -247,19 +247,19 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 655,
-    "sh": 19,
-    "sog": 10,
+    "min": 697,
+    "sh": 20,
+    "sog": 11,
     "g": 2,
     "a": 1,
     "fouls": 2,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.6,
-    "shots_saved": 8,
+    "shot_pct": 55.0,
+    "shots_saved": 9,
     "shots_off_target": 9
    },
    "matches": [
@@ -528,6 +528,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 42,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -537,19 +556,19 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 536,
-    "sh": 12,
-    "sog": 5,
+    "min": 570,
+    "sh": 13,
+    "sog": 6,
     "g": 2,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 3,
+    "shot_pct": 46.2,
+    "shots_saved": 4,
     "shots_off_target": 7
    },
    "matches": [
@@ -818,6 +837,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 34,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -827,9 +865,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 945,
+    "gp": 13,
+    "starts": 11,
+    "min": 1035,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -842,10 +880,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 5,
-     "saves": 30,
-     "save_pct": 85.7
+     "saves": 32,
+     "save_pct": 86.5
     }
    },
    "matches": [
@@ -1135,6 +1173,30 @@
       "min": "90:00",
       "ga": 1,
       "saves": 1
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
      }
     }
    ]
@@ -1435,20 +1497,20 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 679,
-    "sh": 9,
-    "sog": 2,
+    "gp": 15,
+    "starts": 13,
+    "min": 735,
+    "sh": 11,
+    "sog": 3,
     "g": 0,
-    "a": 3,
+    "a": 4,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 2,
-    "shots_off_target": 7
+    "shot_pct": 27.3,
+    "shots_saved": 3,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1716,6 +1778,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 56,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1723,7 +1804,7 @@
    "name": "Harris, Gianna",
    "slug": "harris-gianna",
    "num": "18",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
     "gp": 4,
     "starts": 0,
@@ -1825,10 +1906,10 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 923,
-    "sh": 6,
+    "gp": 14,
+    "starts": 14,
+    "min": 968,
+    "sh": 7,
     "sog": 3,
     "g": 1,
     "a": 1,
@@ -1836,9 +1917,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2087,6 +2168,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 45,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2096,19 +2196,19 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 763,
-    "sh": 31,
-    "sog": 18,
+    "gp": 15,
+    "starts": 15,
+    "min": 819,
+    "sh": 32,
+    "sog": 19,
     "g": 4,
     "a": 4,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.1,
-    "shots_saved": 14,
+    "shot_pct": 59.4,
+    "shots_saved": 15,
     "shots_off_target": 13
    },
    "matches": [
@@ -2377,6 +2477,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2386,9 +2505,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 498,
+    "min": 543,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2610,6 +2729,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2619,9 +2757,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1037,
+    "gp": 15,
+    "starts": 15,
+    "min": 1122,
     "sh": 23,
     "sog": 10,
     "g": 1,
@@ -2900,6 +3038,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2909,9 +3066,9 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 339,
+    "min": 355,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -3171,6 +3328,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "",
+     "num": "12",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3330,19 +3506,19 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 207,
-    "sh": 5,
-    "sog": 1,
+    "min": 243,
+    "sh": 7,
+    "sog": 3,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 0,
+    "shot_pct": 42.9,
+    "shots_saved": 2,
     "shots_off_target": 4
    },
    "matches": [
@@ -3459,6 +3635,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 36,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3468,18 +3663,18 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 8,
-    "min": 825,
-    "sh": 2,
-    "sog": 1,
-    "g": 1,
+    "gp": 15,
+    "starts": 9,
+    "min": 908,
+    "sh": 3,
+    "sog": 2,
+    "g": 2,
     "a": 1,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 66.7,
     "shots_saved": 0,
     "shots_off_target": 1
    },
@@ -3749,6 +3944,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 83,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3758,9 +3972,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 769,
+    "gp": 15,
+    "starts": 12,
+    "min": 813,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4039,6 +4253,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4048,15 +4281,15 @@
    "num": "2",
    "pos": null,
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 792,
+    "gp": 15,
+    "starts": 15,
+    "min": 851,
     "sh": 16,
     "sog": 7,
     "g": 4,
     "a": 2,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 43.8,
@@ -4329,6 +4562,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4338,20 +4590,20 @@
    "num": "24",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 253,
-    "sh": 3,
-    "sog": 2,
+    "min": 287,
+    "sh": 5,
+    "sog": 3,
     "g": 0,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
-    "shots_off_target": 1
+    "shot_pct": 60.0,
+    "shots_saved": 3,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -4505,6 +4757,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 34,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4514,19 +4785,19 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 6,
-    "min": 541,
-    "sh": 14,
-    "sog": 5,
+    "gp": 14,
+    "starts": 7,
+    "min": 591,
+    "sh": 15,
+    "sog": 6,
     "g": 2,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 3,
+    "shot_pct": 40.0,
+    "shots_saved": 4,
     "shots_off_target": 9
    },
    "matches": [
@@ -4776,6 +5047,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4785,20 +5075,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 777,
-    "sh": 25,
-    "sog": 14,
-    "g": 7,
+    "gp": 15,
+    "starts": 15,
+    "min": 842,
+    "sh": 27,
+    "sog": 15,
+    "g": 8,
     "a": 2,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.0,
+    "shot_pct": 55.6,
     "shots_saved": 7,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -5066,6 +5356,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 65,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5075,9 +5384,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 326,
+    "min": 340,
     "sh": 14,
     "sog": 5,
     "g": 2,
@@ -5318,6 +5627,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5327,9 +5655,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1055,
+    "gp": 15,
+    "starts": 15,
+    "min": 1145,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5608,6 +5936,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5615,11 +5962,11 @@
    "name": "Zangara, Lauren",
    "slug": "zangara-lauren",
    "num": "20",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 732,
+    "min": 778,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -5890,6 +6237,25 @@
      "pos": "def",
      "num": "20",
      "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Richmond",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "20",
+     "min": 46,
      "sh": 0,
      "sog": 0,
      "g": 0,

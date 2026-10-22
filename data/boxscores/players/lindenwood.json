@@ -9,20 +9,20 @@
    "num": "77",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1021,
-    "sh": 30,
-    "sog": 8,
-    "g": 4,
+    "gp": 14,
+    "starts": 14,
+    "min": 1092,
+    "sh": 35,
+    "sog": 11,
+    "g": 6,
     "a": 3,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.7,
-    "shots_saved": 4,
-    "shots_off_target": 22
+    "shot_pct": 31.4,
+    "shots_saved": 5,
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -269,6 +269,25 @@
      "a": 1,
      "fouls": 0,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "77",
+     "min": 71,
+     "sh": 5,
+     "sog": 3,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -551,19 +570,19 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 949,
-    "sh": 23,
-    "sog": 12,
+    "gp": 15,
+    "starts": 15,
+    "min": 1020,
+    "sh": 24,
+    "sog": 13,
     "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.2,
-    "shots_saved": 11,
+    "shot_pct": 54.2,
+    "shots_saved": 12,
     "shots_off_target": 11
    },
    "matches": [
@@ -832,6 +851,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 71,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -965,9 +1003,9 @@
    "num": "99",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 8,
-    "min": 671,
+    "min": 715,
     "sh": 17,
     "sog": 8,
     "g": 1,
@@ -1227,6 +1265,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "",
+     "num": "99",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1236,15 +1293,15 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 454,
+    "min": 479,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -1498,6 +1555,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1505,11 +1581,11 @@
    "name": "Hale, Lauren",
    "slug": "hale-lauren",
    "num": "30",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 1,
-    "min": 150,
+    "gp": 3,
+    "starts": 2,
+    "min": 240,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1522,10 +1598,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
+     "gp": 3,
      "ga": 1,
-     "saves": 5,
-     "save_pct": 83.3
+     "saves": 10,
+     "save_pct": 90.9
     }
    },
    "matches": [
@@ -1576,6 +1652,30 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -1585,9 +1685,9 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 144,
+    "min": 164,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1809,6 +1909,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1818,9 +1937,9 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 11,
+    "min": 14,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1882,6 +2001,25 @@
      "pos": "mid",
      "num": "11",
      "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 3,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1980,20 +2118,20 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1103,
-    "sh": 16,
-    "sog": 3,
+    "gp": 15,
+    "starts": 15,
+    "min": 1185,
+    "sh": 19,
+    "sog": 4,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 18.8,
-    "shots_saved": 3,
-    "shots_off_target": 13
+    "shot_pct": 21.1,
+    "shots_saved": 4,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -2261,6 +2399,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 82,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2270,9 +2427,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1260,
+    "gp": 15,
+    "starts": 15,
+    "min": 1350,
     "sh": 14,
     "sog": 8,
     "g": 1,
@@ -2551,6 +2708,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2560,13 +2736,13 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 920,
+    "gp": 14,
+    "starts": 14,
+    "min": 985,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -2822,6 +2998,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3064,13 +3259,13 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1045,
+    "gp": 15,
+    "starts": 15,
+    "min": 1123,
     "sh": 1,
     "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
@@ -3345,6 +3540,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "15",
+     "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3354,9 +3568,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 3,
-    "starts": 1,
-    "min": 147,
+    "gp": 4,
+    "starts": 2,
+    "min": 222,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -3420,6 +3634,25 @@
      "min": 78,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3777,10 +4010,10 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 7,
-    "min": 632,
-    "sh": 13,
+    "gp": 15,
+    "starts": 8,
+    "min": 689,
+    "sh": 14,
     "sog": 5,
     "g": 2,
     "a": 1,
@@ -3788,9 +4021,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
+    "shot_pct": 35.7,
     "shots_saved": 3,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4058,6 +4291,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4067,10 +4319,10 @@
    "num": "14",
    "pos": "mid",
    "totals": {
-    "gp": 12,
-    "starts": 1,
-    "min": 413,
-    "sh": 2,
+    "gp": 13,
+    "starts": 2,
+    "min": 503,
+    "sh": 3,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -4078,9 +4330,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -4310,6 +4562,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4319,9 +4590,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 5,
-    "min": 451,
+    "min": 480,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -4486,6 +4757,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "7",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4633,19 +4923,19 @@
    "num": "18",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 161,
-    "sh": 3,
-    "sog": 1,
+    "min": 169,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -4857,6 +5147,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 8,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4866,9 +5175,9 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 324,
+    "min": 343,
     "sh": 6,
     "sog": 3,
     "g": 1,
@@ -5128,6 +5437,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5256,9 +5584,9 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 935,
+    "gp": 15,
+    "starts": 15,
+    "min": 1008,
     "sh": 8,
     "sog": 3,
     "g": 0,
@@ -5530,6 +5858,25 @@
      "num": "24",
      "min": 63,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Southeast Missouri State",
+     "home": false,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "24",
+     "min": 73,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,

@@ -266,9 +266,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 936,
+    "gp": 13,
+    "starts": 12,
+    "min": 1026,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -281,10 +281,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 11,
-     "saves": 32,
-     "save_pct": 74.4
+     "saves": 34,
+     "save_pct": 75.6
     }
    },
    "matches": [
@@ -575,6 +575,30 @@
       "ga": 3,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -584,10 +608,10 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1002,
-    "sh": 9,
+    "gp": 14,
+    "starts": 14,
+    "min": 1090,
+    "sh": 10,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -595,9 +619,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
+    "shot_pct": 20.0,
     "shots_saved": 2,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -846,6 +870,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 88,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -855,19 +898,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 298,
-    "sh": 8,
-    "sog": 4,
+    "min": 329,
+    "sh": 9,
+    "sog": 5,
     "g": 2,
     "a": 0,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 55.6,
+    "shots_saved": 3,
     "shots_off_target": 4
    },
    "matches": [
@@ -1136,6 +1179,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 31,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1145,14 +1207,14 @@
    "num": "28",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 223,
+    "min": 250,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1366,6 +1428,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "MID",
+     "num": "28",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1723,10 +1804,10 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 905,
-    "sh": 18,
+    "gp": 15,
+    "starts": 13,
+    "min": 995,
+    "sh": 20,
     "sog": 7,
     "g": 2,
     "a": 1,
@@ -1734,9 +1815,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 38.9,
+    "shot_pct": 35.0,
     "shots_saved": 5,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2004,6 +2085,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2013,19 +2113,19 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 190,
-    "sh": 9,
-    "sog": 3,
+    "min": 214,
+    "sh": 10,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
+    "shot_pct": 40.0,
+    "shots_saved": 3,
     "shots_off_target": 6
    },
    "matches": [
@@ -2199,6 +2299,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "2",
+     "min": 24,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2208,20 +2327,20 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 781,
-    "sh": 21,
-    "sog": 9,
+    "gp": 15,
+    "starts": 13,
+    "min": 850,
+    "sh": 24,
+    "sog": 11,
     "g": 4,
     "a": 0,
     "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 5,
-    "shots_off_target": 12
+    "shot_pct": 45.8,
+    "shots_saved": 7,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2489,6 +2608,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 69,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2498,9 +2636,9 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 76,
+    "min": 87,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -2589,6 +2727,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "24",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2598,9 +2755,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1119,
+    "gp": 14,
+    "starts": 14,
+    "min": 1209,
     "sh": 7,
     "sog": 2,
     "g": 1,
@@ -2853,6 +3010,25 @@
      "num": "4",
      "min": 90,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3378,9 +3554,9 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 274,
+    "min": 282,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -3602,6 +3778,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "27",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3611,10 +3806,10 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 651,
-    "sh": 3,
+    "gp": 12,
+    "starts": 10,
+    "min": 741,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3622,9 +3817,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3835,6 +4030,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3844,9 +4058,9 @@
    "num": "31",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 952,
+    "gp": 15,
+    "starts": 12,
+    "min": 1042,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4125,6 +4339,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "31",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4134,9 +4367,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 1,
-    "min": 547,
+    "min": 551,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -4396,6 +4629,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "9",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4405,20 +4657,20 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 739,
-    "sh": 14,
-    "sog": 5,
-    "g": 3,
+    "gp": 15,
+    "starts": 14,
+    "min": 799,
+    "sh": 17,
+    "sog": 7,
+    "g": 4,
     "a": 3,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 2,
-    "shots_off_target": 9
+    "shot_pct": 41.2,
+    "shots_saved": 3,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -4683,6 +4935,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "33",
+     "min": 60,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -5196,20 +5467,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 995,
-    "sh": 23,
-    "sog": 7,
+    "gp": 15,
+    "starts": 15,
+    "min": 1077,
+    "sh": 26,
+    "sog": 8,
     "g": 1,
     "a": 4,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 30.4,
-    "shots_saved": 6,
-    "shots_off_target": 16
+    "shot_pct": 30.8,
+    "shots_saved": 7,
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -5477,6 +5748,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 82,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5543,15 +5833,58 @@
    ]
   },
   {
+   "name": "TEAM",
+   "slug": "team",
+   "num": "TM",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 0,
+    "sh": 0,
+    "sog": 0,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Townes, Mya",
    "slug": "townes-mya",
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 784,
-    "sh": 21,
+    "gp": 15,
+    "starts": 12,
+    "min": 866,
+    "sh": 23,
     "sog": 9,
     "g": 3,
     "a": 1,
@@ -5559,9 +5892,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 39.1,
     "shots_saved": 6,
-    "shots_off_target": 12
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -5829,6 +6162,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 82,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5881,14 +6233,14 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 5,
-    "min": 588,
+    "gp": 15,
+    "starts": 6,
+    "min": 642,
     "sh": 18,
     "sog": 3,
     "g": 2,
     "a": 1,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -6159,6 +6511,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Missouri",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

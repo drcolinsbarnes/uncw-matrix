@@ -63,19 +63,19 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 9,
-    "min": 693,
-    "sh": 2,
-    "sog": 1,
+    "min": 719,
+    "sh": 3,
+    "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 2,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
     "shots_off_target": 1
    },
    "matches": [
@@ -287,6 +287,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 26,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -296,9 +315,9 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 853,
+    "gp": 15,
+    "starts": 11,
+    "min": 943,
     "sh": 7,
     "sog": 6,
     "g": 3,
@@ -577,6 +596,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -586,9 +624,9 @@
    "num": "80",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1215,
+    "gp": 15,
+    "starts": 14,
+    "min": 1305,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -601,10 +639,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
+     "gp": 15,
      "ga": 21,
-     "saves": 58,
-     "save_pct": 73.4
+     "saves": 60,
+     "save_pct": 74.1
     }
    },
    "matches": [
@@ -943,6 +981,30 @@
       "ga": 2,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "GK",
+     "num": "80",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -952,9 +1014,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 212,
+    "min": 230,
     "sh": 6,
     "sog": 0,
     "g": 0,
@@ -1100,6 +1162,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1109,10 +1190,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 487,
-    "sh": 8,
+    "min": 505,
+    "sh": 9,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -1120,9 +1201,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 22.2,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1371,6 +1452,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 18,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1380,9 +1480,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 709,
+    "gp": 12,
+    "starts": 7,
+    "min": 746,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1604,6 +1704,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1613,9 +1732,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 58,
+    "min": 74,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1723,6 +1842,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "23",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1732,11 +1870,11 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 71,
-    "sh": 2,
-    "sog": 2,
+    "min": 79,
+    "sh": 3,
+    "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 1,
@@ -1744,7 +1882,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -1823,6 +1961,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 8,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1832,14 +1989,14 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 299,
+    "min": 321,
     "sh": 11,
     "sog": 5,
     "g": 2,
     "a": 1,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2018,6 +2175,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "25",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2027,20 +2203,20 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 65,
-    "sh": 0,
+    "min": 104,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2099,6 +2275,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 39,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2108,20 +2303,20 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 849,
-    "sh": 8,
-    "sog": 3,
+    "gp": 15,
+    "starts": 11,
+    "min": 913,
+    "sh": 10,
+    "sog": 4,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 16,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 3,
-    "shots_off_target": 5
+    "shot_pct": 40.0,
+    "shots_saved": 4,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2389,6 +2584,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 64,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2398,13 +2612,13 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 909,
+    "gp": 15,
+    "starts": 12,
+    "min": 956,
     "sh": 9,
     "sog": 3,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
@@ -2679,6 +2893,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2688,9 +2921,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 482,
+    "min": 525,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2931,6 +3164,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "18",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2940,9 +3192,9 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 528,
+    "min": 555,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -3164,6 +3416,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "26",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3330,20 +3601,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 5,
-    "min": 468,
-    "sh": 17,
+    "gp": 14,
+    "starts": 6,
+    "min": 509,
+    "sh": 18,
     "sog": 5,
     "g": 1,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 29.4,
+    "shot_pct": 27.8,
     "shots_saved": 4,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -3592,6 +3863,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3682,19 +3972,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 7,
-    "min": 802,
-    "sh": 9,
-    "sog": 2,
+    "gp": 15,
+    "starts": 8,
+    "min": 860,
+    "sh": 10,
+    "sog": 3,
     "g": 2,
-    "a": 2,
+    "a": 4,
     "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 22.2,
-    "shots_saved": 0,
+    "shot_pct": 30.0,
+    "shots_saved": 1,
     "shots_off_target": 7
    },
    "matches": [
@@ -3963,6 +4253,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3972,18 +4281,18 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 345,
-    "sh": 5,
-    "sog": 3,
-    "g": 1,
-    "a": 0,
-    "fouls": 6,
+    "gp": 12,
+    "starts": 7,
+    "min": 395,
+    "sh": 6,
+    "sog": 4,
+    "g": 2,
+    "a": 1,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
     "shots_off_target": 2
    },
@@ -4196,6 +4505,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "28",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4205,9 +4533,9 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 4,
-    "min": 522,
+    "gp": 14,
+    "starts": 5,
+    "min": 545,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4467,6 +4795,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4476,18 +4823,18 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 10,
-    "min": 746,
-    "sh": 16,
-    "sog": 5,
-    "g": 0,
+    "min": 786,
+    "sh": 17,
+    "sog": 6,
+    "g": 1,
     "a": 0,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.2,
+    "shot_pct": 35.3,
     "shots_saved": 5,
     "shots_off_target": 11
    },
@@ -4757,6 +5104,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 40,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4766,19 +5132,19 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 579,
-    "sh": 34,
-    "sog": 12,
-    "g": 1,
+    "gp": 13,
+    "starts": 8,
+    "min": 642,
+    "sh": 38,
+    "sog": 16,
+    "g": 2,
     "a": 2,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.3,
-    "shots_saved": 11,
+    "shot_pct": 42.1,
+    "shots_saved": 14,
     "shots_off_target": 22
    },
    "matches": [
@@ -5009,6 +5375,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 63,
+     "sh": 4,
+     "sog": 4,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5018,14 +5403,14 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 379,
+    "min": 412,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -5223,6 +5608,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5232,9 +5636,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 10,
-    "min": 785,
+    "min": 799,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -5437,6 +5841,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5446,9 +5869,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 826,
+    "gp": 13,
+    "starts": 11,
+    "min": 900,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5689,6 +6112,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 74,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5698,10 +6140,10 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 536,
-    "sh": 5,
+    "min": 585,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 1,
@@ -5709,9 +6151,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -5953,6 +6395,25 @@
      "num": "9",
      "min": 36,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Northwestern",
+     "home": false,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 49,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

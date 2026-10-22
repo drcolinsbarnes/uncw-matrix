@@ -9,9 +9,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 688,
+    "gp": 9,
+    "starts": 9,
+    "min": 767,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -176,6 +176,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -185,9 +204,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1170,
+    "gp": 14,
+    "starts": 14,
+    "min": 1260,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -200,10 +219,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
-     "ga": 15,
-     "saves": 73,
-     "save_pct": 83.0
+     "gp": 14,
+     "ga": 19,
+     "saves": 81,
+     "save_pct": 81.0
     }
    },
    "matches": [
@@ -518,6 +537,30 @@
       "ga": 3,
       "saves": 9
      }
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 8
+     }
     }
    ]
   },
@@ -527,9 +570,9 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 1,
-    "min": 271,
+    "min": 305,
     "sh": 7,
     "sog": 4,
     "g": 2,
@@ -770,6 +813,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -779,14 +841,14 @@
    "num": "19",
    "pos": "def",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 3,
-    "min": 552,
+    "min": 585,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1022,6 +1084,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "DEF",
+     "num": "19",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1031,9 +1112,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 268,
+    "min": 295,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1274,6 +1355,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "MID",
+     "num": "3",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1283,11 +1383,11 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 949,
-    "sh": 1,
-    "sog": 1,
+    "gp": 14,
+    "starts": 14,
+    "min": 1012,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 2,
     "fouls": 0,
@@ -1295,7 +1395,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -1545,6 +1645,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 63,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1597,14 +1716,14 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 942,
+    "gp": 13,
+    "starts": 13,
+    "min": 1032,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1840,6 +1959,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1849,14 +1987,14 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 6,
-    "min": 453,
+    "gp": 14,
+    "starts": 7,
+    "min": 504,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2111,6 +2249,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 51,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2120,9 +2277,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 819,
+    "gp": 14,
+    "starts": 14,
+    "min": 876,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -2382,6 +2539,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2389,11 +2565,11 @@
    "name": "Harmon, Emma",
    "slug": "harmon-emma",
    "num": "4",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 310,
+    "min": 349,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2577,6 +2753,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "MID",
+     "num": "4",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2586,9 +2781,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 114,
+    "min": 135,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2669,6 +2864,25 @@
      "pos": "mid",
      "num": "10",
      "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 21,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2938,19 +3152,19 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 190,
-    "sh": 1,
-    "sog": 0,
+    "min": 231,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -3162,6 +3376,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "MID",
+     "num": "2",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3171,10 +3404,10 @@
    "num": "25",
    "pos": "def",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 217,
-    "sh": 0,
+    "min": 248,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -3182,9 +3415,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3433,6 +3666,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "DEF",
+     "num": "25",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3442,9 +3694,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 13,
-    "starts": 4,
-    "min": 623,
+    "gp": 14,
+    "starts": 5,
+    "min": 675,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -3704,6 +3956,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3775,14 +4046,14 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 326,
+    "min": 337,
     "sh": 1,
     "sog": 1,
     "g": 1,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3923,6 +4194,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "DEF",
+     "num": "21",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4013,20 +4303,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 860,
-    "sh": 28,
-    "sog": 16,
+    "gp": 14,
+    "starts": 14,
+    "min": 926,
+    "sh": 31,
+    "sog": 18,
     "g": 2,
     "a": 1,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 14,
-    "shots_off_target": 12
+    "shot_pct": 58.1,
+    "shots_saved": 16,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -4275,6 +4565,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 66,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4284,14 +4593,14 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 759,
+    "gp": 14,
+    "starts": 14,
+    "min": 808,
     "sh": 13,
     "sog": 6,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4546,6 +4855,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4555,14 +4883,14 @@
    "num": "29",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 794,
+    "gp": 13,
+    "starts": 13,
+    "min": 853,
     "sh": 11,
     "sog": 6,
     "g": 1,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4798,6 +5126,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "MID",
+     "num": "29",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4807,9 +5154,9 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 481,
+    "min": 514,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -5069,6 +5416,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "MID",
+     "num": "22",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5078,9 +5444,9 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 10,
-    "min": 535,
+    "min": 543,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -5340,6 +5706,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": false,
+     "pos": "MID",
+     "num": "30",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5349,10 +5734,10 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1157,
-    "sh": 26,
+    "gp": 14,
+    "starts": 14,
+    "min": 1213,
+    "sh": 27,
     "sog": 17,
     "g": 5,
     "a": 2,
@@ -5360,9 +5745,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 65.4,
+    "shot_pct": 63.0,
     "shots_saved": 12,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -5604,6 +5989,25 @@
      "num": "20",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Army",
+     "home": false,
+     "result": "L",
+     "score": "0-4",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 56,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

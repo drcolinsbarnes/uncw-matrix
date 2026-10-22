@@ -9,9 +9,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 641,
+    "min": 650,
     "sh": 9,
     "sog": 2,
     "g": 1,
@@ -233,6 +233,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "23",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -242,9 +261,9 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 926,
+    "gp": 12,
+    "starts": 12,
+    "min": 1016,
     "sh": 19,
     "sog": 7,
     "g": 1,
@@ -466,6 +485,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -475,9 +513,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 4,
-    "min": 467,
+    "min": 483,
     "sh": 9,
     "sog": 0,
     "g": 0,
@@ -737,6 +775,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -746,14 +803,14 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1080,
+    "gp": 14,
+    "starts": 14,
+    "min": 1170,
     "sh": 5,
     "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1008,6 +1065,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1017,9 +1093,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1069,
+    "gp": 14,
+    "starts": 14,
+    "min": 1159,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1032,10 +1108,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
-     "ga": 11,
-     "saves": 46,
-     "save_pct": 80.7
+     "gp": 14,
+     "ga": 13,
+     "saves": 51,
+     "save_pct": 79.7
     }
    },
    "matches": [
@@ -1350,6 +1426,30 @@
       "ga": 2,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 5
+     }
     }
    ]
   },
@@ -1359,10 +1459,10 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 3,
-    "min": 375,
-    "sh": 4,
+    "gp": 14,
+    "starts": 4,
+    "min": 419,
+    "sh": 5,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -1370,9 +1470,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1621,6 +1721,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 44,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1630,14 +1749,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1000,
+    "gp": 14,
+    "starts": 14,
+    "min": 1090,
     "sh": 11,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -1892,6 +2011,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2058,20 +2196,20 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 114,
-    "sh": 0,
+    "min": 132,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2168,18 +2306,37 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "33",
+     "min": 18,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
   {
    "name": "Fitzmaurice, Abby",
    "slug": "fitzmaurice-abby",
-   "num": "5",
+   "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 661,
+    "gp": 13,
+    "starts": 10,
+    "min": 751,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -2420,6 +2577,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2429,9 +2605,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 162,
+    "min": 185,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2653,6 +2829,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2662,19 +2857,19 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 806,
-    "sh": 6,
-    "sog": 4,
+    "gp": 14,
+    "starts": 13,
+    "min": 896,
+    "sh": 7,
+    "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 3,
+    "shot_pct": 71.4,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -2924,6 +3119,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2933,20 +3147,20 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 1,
-    "min": 56,
-    "sh": 0,
+    "gp": 6,
+    "starts": 2,
+    "min": 108,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3043,6 +3257,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 52,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3052,9 +3285,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 7,
-    "min": 647,
+    "gp": 14,
+    "starts": 8,
+    "min": 693,
     "sh": 6,
     "sog": 2,
     "g": 1,
@@ -3314,6 +3547,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 46,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3323,9 +3575,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 48,
+    "min": 74,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3433,6 +3685,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3442,9 +3713,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 3,
-    "min": 351,
+    "gp": 10,
+    "starts": 4,
+    "min": 423,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -3628,6 +3899,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3637,10 +3927,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 4,
-    "min": 367,
-    "sh": 2,
+    "min": 396,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -3648,9 +3938,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3842,6 +4132,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 29,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3851,9 +4160,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 648,
+    "min": 671,
     "sh": 13,
     "sog": 5,
     "g": 1,
@@ -4075,6 +4384,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4084,9 +4412,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 705,
+    "min": 734,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4281,6 +4609,25 @@
      "pos": "def",
      "num": "24",
      "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 29,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -4593,9 +4940,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 458,
+    "min": 465,
     "sh": 7,
     "sog": 5,
     "g": 0,
@@ -4855,6 +5202,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4864,9 +5230,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 5,
-    "starts": 2,
-    "min": 110,
+    "gp": 6,
+    "starts": 3,
+    "min": 166,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4966,6 +5332,25 @@
      "pos": "mid",
      "num": "27",
      "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "Marquette",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "27",
+     "min": 56,
      "sh": 0,
      "sog": 0,
      "g": 0,

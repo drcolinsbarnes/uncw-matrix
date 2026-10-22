@@ -9,9 +9,9 @@
    "num": "50",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 540,
+    "gp": 8,
+    "starts": 6,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 15,
-     "saves": 40,
-     "save_pct": 72.7
+     "saves": 47,
+     "save_pct": 75.8
     }
    },
    "matches": [
@@ -197,6 +197,30 @@
       "min": "90:00",
       "ga": 1,
       "saves": 4
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "50",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 7
      }
     }
    ]
@@ -597,19 +621,19 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 757,
-    "sh": 18,
-    "sog": 6,
+    "gp": 14,
+    "starts": 14,
+    "min": 805,
+    "sh": 19,
+    "sog": 7,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 6,
+    "shot_pct": 36.8,
+    "shots_saved": 7,
     "shots_off_target": 12
    },
    "matches": [
@@ -859,6 +883,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 48,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -868,9 +911,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 10,
-    "min": 605,
+    "min": 622,
     "sh": 9,
     "sog": 6,
     "g": 0,
@@ -1110,6 +1153,25 @@
      "fouls": 0,
      "yc": 0,
      "rc": 1,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
      "pk_g": 0
     }
    ]
@@ -1372,10 +1434,10 @@
    "num": "38",
    "pos": "def",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 289,
-    "sh": 1,
+    "min": 340,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1383,9 +1445,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1520,6 +1582,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "def",
+     "num": "38",
+     "min": 51,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1529,9 +1610,9 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 12,
-    "starts": 8,
-    "min": 799,
+    "gp": 13,
+    "starts": 9,
+    "min": 889,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1772,6 +1853,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1781,19 +1881,19 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 439,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
+    "gp": 11,
+    "starts": 2,
+    "min": 506,
+    "sh": 6,
+    "sog": 4,
+    "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 66.7,
+    "shots_saved": 3,
     "shots_off_target": 2
    },
    "matches": [
@@ -1986,6 +2086,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 67,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1995,9 +2114,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1074,
+    "gp": 14,
+    "starts": 14,
+    "min": 1164,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2257,6 +2376,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2266,9 +2404,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 710,
+    "gp": 12,
+    "starts": 7,
+    "min": 800,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2490,6 +2628,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2499,15 +2656,15 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 978,
+    "gp": 14,
+    "starts": 14,
+    "min": 1068,
     "sh": 7,
     "sog": 2,
     "g": 1,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 28.6,
@@ -2761,6 +2918,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2770,10 +2946,10 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 901,
-    "sh": 10,
+    "gp": 14,
+    "starts": 13,
+    "min": 982,
+    "sh": 12,
     "sog": 8,
     "g": 1,
     "a": 0,
@@ -2781,9 +2957,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 80.0,
+    "shot_pct": 66.7,
     "shots_saved": 7,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3025,6 +3201,25 @@
      "num": "9",
      "min": 17,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 81,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3401,9 +3596,9 @@
    "num": "28",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 283,
+    "min": 292,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3625,6 +3820,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3632,7 +3846,7 @@
    "name": "Moroz, Julia",
    "slug": "moroz-julia",
    "num": "14",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -4029,20 +4243,20 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 5,
-    "min": 778,
-    "sh": 34,
-    "sog": 21,
+    "gp": 14,
+    "starts": 6,
+    "min": 844,
+    "sh": 38,
+    "sog": 23,
     "g": 3,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.8,
-    "shots_saved": 18,
-    "shots_off_target": 13
+    "shot_pct": 60.5,
+    "shots_saved": 20,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -4291,6 +4505,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 66,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4300,9 +4533,9 @@
    "num": "44",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 240,
+    "min": 273,
     "sh": 3,
     "sog": 2,
     "g": 2,
@@ -4486,6 +4719,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "44",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4493,11 +4745,11 @@
    "name": "Ruffus, Avery",
    "slug": "ruffus-avery",
    "num": "23",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 5,
-    "min": 322,
+    "min": 346,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4681,6 +4933,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4733,9 +5004,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 612,
+    "gp": 13,
+    "starts": 8,
+    "min": 702,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4976,6 +5247,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5104,9 +5394,9 @@
    "num": "40",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 843,
+    "gp": 14,
+    "starts": 13,
+    "min": 888,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -5366,6 +5656,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "40",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5375,9 +5684,9 @@
    "num": "13",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 78,
+    "min": 87,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5534,6 +5843,25 @@
      "pos": "mid",
      "num": "13",
      "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stonehill",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 9,
      "sh": 0,
      "sog": 0,
      "g": 0,

@@ -1,0 +1,2326 @@
+{
+ "id": "12thman.com-16832",
+ "source_url": "https://12thman.com/boxscore/16832",
+ "platform": "wmt",
+ "wmt_game_id": 6610912,
+ "wmt_school": "texas",
+ "title": "LSU at Texas A&M",
+ "date": "2026-10-18",
+ "site": "College Station, TX",
+ "stadium": "Ellis Field",
+ "attendance": 1761,
+ "neutral_site": false,
+ "stats_finalized": true,
+ "periods": [
+  "1",
+  "2"
+ ],
+ "away": {
+  "name": "LSU",
+  "abbr": "LSU",
+  "winner": true,
+  "periods": [
+   1,
+   3
+  ],
+  "total": 4
+ },
+ "home": {
+  "name": "Texas A&M",
+  "abbr": "Texas A&M",
+  "winner": false,
+  "periods": [
+   2,
+   1
+  ],
+  "total": 3
+ },
+ "team_stats": {
+  "away": {
+   "shots": 21,
+   "shots_on_goal": 8,
+   "shots_by_period": [
+    11,
+    10
+   ],
+   "saves": 3,
+   "saves_by_period": [
+    2,
+    1
+   ],
+   "corner_kicks": 9,
+   "corner_kicks_by_period": [
+    3,
+    6
+   ],
+   "fouls": 14,
+   "fouls_by_period": [
+    5,
+    9
+   ],
+   "offsides": 0
+  },
+  "home": {
+   "shots": 13,
+   "shots_on_goal": 6,
+   "shots_by_period": [
+    7,
+    6
+   ],
+   "saves": 4,
+   "saves_by_period": [
+    1,
+    3
+   ],
+   "corner_kicks": 3,
+   "corner_kicks_by_period": [
+    1,
+    2
+   ],
+   "fouls": 17,
+   "fouls_by_period": [
+    10,
+    7
+   ],
+   "offsides": 5
+  }
+ },
+ "players": [
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "20",
+   "name": "Diaz, Leah",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 39,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "D",
+   "num": "14",
+   "name": "Patterson, Hattie",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 16,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "16",
+   "name": "Buchanan, Trinity",
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "min": 81,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "17",
+   "name": "Scranton, Mia",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 81,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "GK",
+   "num": "12",
+   "name": "Fuller, Sydney",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "2",
+   "name": "Hoang, Emma",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 15,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "8",
+   "name": "Campbell, Kat",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 4,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "D",
+   "num": "11",
+   "name": "Crooks, Riley",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 14,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "D",
+   "num": "18",
+   "name": "Landherr, Lucy",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 29,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "21",
+   "name": "Storer, Holly",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "23",
+   "name": "Mitchell, Ciara Jade",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 41,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "3",
+   "name": "Landry, Morgan",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 39,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "4",
+   "name": "Haras, Juliet",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "6",
+   "name": "Sexton, Ava",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "min": 90,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "M",
+   "num": "7",
+   "name": "Knudsen, Brynja R\u00e1n",
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 41,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "M",
+   "num": "19",
+   "name": "Ruiz, Samantha",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 9,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "22",
+   "name": "Smith, Kieana",
+   "sh": 1,
+   "sog": 1,
+   "g": 1,
+   "a": 0,
+   "min": 44,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "55",
+   "name": "Churchill, Ireland",
+   "sh": 9,
+   "sog": 4,
+   "g": 2,
+   "a": 0,
+   "min": 83,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "M",
+   "num": "88",
+   "name": "Lindfors, Venla",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 7,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "15",
+   "name": "Ollivierre, Jocelyn",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 76,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "18",
+   "name": "Major, Kelsey",
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 55,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "20",
+   "name": "Galligan, Ava",
+   "sh": 4,
+   "sog": 2,
+   "g": 0,
+   "a": 2,
+   "min": 84,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "28",
+   "name": "Knowles, Brielyn",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 47,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "D",
+   "num": "2",
+   "name": "Alvord, Emma",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "min": 45,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "22",
+   "name": "Amsden, Ava",
+   "sh": 2,
+   "sog": 1,
+   "g": 1,
+   "a": 1,
+   "min": 83,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "14",
+   "name": "Bruser, Annaleigh",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 76,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "25",
+   "name": "Rogers, Senai",
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 45,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "GK",
+   "num": "1",
+   "name": "Scheving, Audur",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 90,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "F",
+   "num": "9",
+   "name": "Smith, Amy",
+   "sh": 3,
+   "sog": 2,
+   "g": 2,
+   "a": 0,
+   "min": 39,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "F",
+   "num": "7",
+   "name": "Denecour, Ryann",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 14,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "11",
+   "name": "Bailey, Sariyah",
+   "sh": 5,
+   "sog": 2,
+   "g": 1,
+   "a": 0,
+   "min": 84,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "4",
+   "name": "Albin, Ryleigh",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 58,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "F",
+   "num": "5",
+   "name": "Hansen, Alexia",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 17,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "F",
+   "num": "10",
+   "name": "Hlynsdottir, Berglind",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 36,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "D",
+   "num": "3",
+   "name": "Sigurdardottir, Rakel",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 64,
+   "fouls": 3,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "32",
+   "name": "Ono, Linka",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "min": 76,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  }
+ ],
+ "goalies": [
+  {
+   "team": "home",
+   "pos": "GK",
+   "num": "12",
+   "name": "Fuller, Sydney",
+   "min": "90:00",
+   "ga": 4,
+   "saves": 4
+  },
+  {
+   "team": "away",
+   "pos": "GK",
+   "num": "1",
+   "name": "Scheving, Audur",
+   "min": "90:00",
+   "ga": 3,
+   "saves": 3
+  }
+ ],
+ "goals": [
+  {
+   "clock": "11:08",
+   "abbr": "Texas A&M",
+   "scorer": "Churchill, Ireland",
+   "assists": [
+    "Buchanan, Trinity"
+   ],
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;) by Ireland Churchill Assist by Buchanan, Trinity.",
+   "period": 1,
+   "team": "home",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "18:28",
+   "abbr": "Texas A&M",
+   "scorer": "Churchill, Ireland",
+   "assists": [],
+   "text": "Goal (penaltykick;goalmouth:lowleft;) by Ireland Churchill",
+   "period": 1,
+   "team": "home",
+   "penalty": true,
+   "from": null
+  },
+  {
+   "clock": "43:00",
+   "abbr": "LSU",
+   "scorer": "Smith, Amy",
+   "assists": [
+    "Alvord, Emma",
+    "Ono, Linka"
+   ],
+   "text": "Goal (goalmouth:highleft;from:rightfoot;) by Amy Smith Assist by Alvord, Emma And Ono, Linka.",
+   "period": 1,
+   "team": "away",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "67:06",
+   "abbr": "LSU",
+   "scorer": "Bailey, Sariyah",
+   "assists": [
+    "Galligan, Ava",
+    "Amsden, Ava"
+   ],
+   "text": "Goal (goalmouth:lowright;from:rightfoot;) by Sariyah Bailey Assist by Galligan, Ava And Amsden, Ava.",
+   "period": 2,
+   "team": "away",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "67:50",
+   "abbr": "Texas A&M",
+   "scorer": "Smith, Kieana",
+   "assists": [
+    "Sexton, Ava"
+   ],
+   "text": "Goal (goalmouth:lowright;from:rightfoot;) by Kieana Smith Assist by Sexton, Ava.",
+   "period": 2,
+   "team": "home",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "79:58",
+   "abbr": "LSU",
+   "scorer": "Smith, Amy",
+   "assists": [
+    "Galligan, Ava"
+   ],
+   "text": "Goal (goalmouth:lowcenter;from:rightfoot;) by Amy Smith Assist by Galligan, Ava.",
+   "period": 2,
+   "team": "away",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "89:10",
+   "abbr": "LSU",
+   "scorer": "Amsden, Ava",
+   "assists": [],
+   "text": "Goal (penaltykick;goalmouth:highleft;) by Ava Amsden",
+   "period": 2,
+   "team": "away",
+   "penalty": true,
+   "from": null
+  }
+ ],
+ "cards": [
+  {
+   "type": "yellow",
+   "clock": "36:31",
+   "abbr": "Texas A&M",
+   "player": "Ruiz, Samantha",
+   "num": "19",
+   "reason": "unsporting"
+  },
+  {
+   "type": "yellow",
+   "clock": "74:40",
+   "abbr": "Texas A&M",
+   "player": "Fuller, Sydney",
+   "num": "12",
+   "reason": "timewasting"
+  },
+  {
+   "type": "yellow",
+   "clock": "81:52",
+   "abbr": "LSU",
+   "player": "Sigurdardottir, Rakel",
+   "num": "3",
+   "reason": "unsporting"
+  }
+ ],
+ "pbp": [
+  {
+   "period": 1,
+   "clock": "00:43",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:woodworkleft;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:woodworkleft;",
+   "x": 82,
+   "y": 43
+  },
+  {
+   "period": 1,
+   "clock": "01:35",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Brielyn Knowles",
+   "player": "Knowles, Brielyn",
+   "qual": "goalmouth:outhigh;",
+   "x": 22,
+   "y": 74
+  },
+  {
+   "period": 1,
+   "clock": "03:13",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Ava Sexton",
+   "player": "Sexton, Ava"
+  },
+  {
+   "period": 1,
+   "clock": "07:07",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Ava Galligan",
+   "player": "Galligan, Ava",
+   "qual": "goalmouth:outhigh;",
+   "x": 11,
+   "y": 49
+  },
+  {
+   "period": 1,
+   "clock": "08:04",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (blocked;) by Kelsey Major",
+   "player": "Major, Kelsey",
+   "qual": "blocked;",
+   "x": 20,
+   "y": 54
+  },
+  {
+   "period": 1,
+   "clock": "08:36",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "10:46",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Kelsey Major",
+   "player": "Major, Kelsey",
+   "qual": "goalmouth:lowcenter;",
+   "x": 16,
+   "y": 53
+  },
+  {
+   "period": 1,
+   "clock": "10:46",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Sydney Fuller",
+   "player": "Fuller, Sydney"
+  },
+  {
+   "period": 1,
+   "clock": "11:08",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:lowleft;",
+   "x": 83,
+   "y": 30
+  },
+  {
+   "period": 1,
+   "clock": "11:08",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:lowleft;from:rightfoot;",
+   "x": 83,
+   "y": 30
+  },
+  {
+   "period": 1,
+   "clock": "11:08",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Emma Hoang",
+   "player": "Hoang, Emma"
+  },
+  {
+   "period": 1,
+   "clock": "11:08",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Brynja R\u00e1n Knudsen",
+   "player": "Knudsen, Brynja R\u00e1n"
+  },
+  {
+   "period": 1,
+   "clock": "12:03",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Trinity Buchanan",
+   "player": "Buchanan, Trinity"
+  },
+  {
+   "period": 1,
+   "clock": "13:01",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "13:43",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (blocked;) by Senai Rogers",
+   "player": "Rogers, Senai",
+   "qual": "blocked;",
+   "x": 20,
+   "y": 34
+  },
+  {
+   "period": 1,
+   "clock": "14:18",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "15:41",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Morgan Landry",
+   "player": "Landry, Morgan"
+  },
+  {
+   "period": 1,
+   "clock": "15:41",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Lucy Landherr",
+   "player": "Landherr, Lucy"
+  },
+  {
+   "period": 1,
+   "clock": "17:30",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Trinity Buchanan",
+   "player": "Buchanan, Trinity",
+   "qual": "blocked;",
+   "x": 78,
+   "y": 43
+  },
+  {
+   "period": 1,
+   "clock": "18:28",
+   "team": "home",
+   "type": "pk",
+   "text": "Penaltykick(awarded) by Ireland Churchill",
+   "player": "Churchill, Ireland"
+  },
+  {
+   "period": 1,
+   "clock": "18:28",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Jocelyn Ollivierre",
+   "player": "Ollivierre, Jocelyn",
+   "x": 96,
+   "y": 25
+  },
+  {
+   "period": 1,
+   "clock": "18:28",
+   "team": "home",
+   "type": "pk",
+   "text": "Penaltykick(taken) (on target;goalmouth:lowleft;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "onTarget;goalmouth:lowleft;"
+  },
+  {
+   "period": 1,
+   "clock": "18:28",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (penaltykick;goalmouth:lowleft;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "penaltykick;goalmouth:lowleft;"
+  },
+  {
+   "period": 1,
+   "clock": "18:48",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Holly Storer",
+   "player": "Storer, Holly"
+  },
+  {
+   "period": 1,
+   "clock": "20:27",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Senai Rogers",
+   "player": "Rogers, Senai"
+  },
+  {
+   "period": 1,
+   "clock": "20:27",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 1,
+   "clock": "20:32",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Kelsey Major",
+   "player": "Major, Kelsey"
+  },
+  {
+   "period": 1,
+   "clock": "20:52",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "22:16",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Ryleigh Albin",
+   "player": "Albin, Ryleigh"
+  },
+  {
+   "period": 1,
+   "clock": "23:05",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "24:06",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Ciara Jade Mitchell",
+   "player": "Mitchell, Ciara Jade"
+  },
+  {
+   "period": 1,
+   "clock": "24:06",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Kieana Smith",
+   "player": "Smith, Kieana"
+  },
+  {
+   "period": 1,
+   "clock": "24:43",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:lowcenter;",
+   "x": 88,
+   "y": 43
+  },
+  {
+   "period": 1,
+   "clock": "24:43",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Audur Scheving",
+   "player": "Scheving, Audur"
+  },
+  {
+   "period": 1,
+   "clock": "25:26",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "25:26",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "blocked;",
+   "x": 86,
+   "y": 48
+  },
+  {
+   "period": 1,
+   "clock": "25:44",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Sariyah Bailey",
+   "player": "Bailey, Sariyah"
+  },
+  {
+   "period": 1,
+   "clock": "26:26",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Kat Campbell",
+   "player": "Campbell, Kat"
+  },
+  {
+   "period": 1,
+   "clock": "26:50",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Sariyah Bailey",
+   "player": "Bailey, Sariyah",
+   "qual": "goalmouth:outleft;",
+   "x": 26,
+   "y": 70
+  },
+  {
+   "period": 1,
+   "clock": "27:15",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Ava Amsden",
+   "player": "Amsden, Ava"
+  },
+  {
+   "period": 1,
+   "clock": "28:22",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (blocked;) by Ava Galligan",
+   "player": "Galligan, Ava",
+   "qual": "blocked;",
+   "x": 21,
+   "y": 65
+  },
+  {
+   "period": 1,
+   "clock": "29:25",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Brynja R\u00e1n Knudsen",
+   "player": "Knudsen, Brynja R\u00e1n",
+   "qual": "goalmouth:lowcenter;",
+   "x": 84,
+   "y": 37
+  },
+  {
+   "period": 1,
+   "clock": "29:25",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Audur Scheving",
+   "player": "Scheving, Audur"
+  },
+  {
+   "period": 1,
+   "clock": "30:23",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Brynja R\u00e1n Knudsen",
+   "player": "Knudsen, Brynja R\u00e1n"
+  },
+  {
+   "period": 1,
+   "clock": "31:04",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Jocelyn Ollivierre",
+   "player": "Ollivierre, Jocelyn"
+  },
+  {
+   "period": 1,
+   "clock": "31:04",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Emma Alvord",
+   "player": "Alvord, Emma"
+  },
+  {
+   "period": 1,
+   "clock": "31:04",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Kelsey Major",
+   "player": "Major, Kelsey"
+  },
+  {
+   "period": 1,
+   "clock": "31:04",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Berglind Hlynsdottir",
+   "player": "Hlynsdottir, Berglind"
+  },
+  {
+   "period": 1,
+   "clock": "31:51",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Lucy Landherr",
+   "player": "Landherr, Lucy"
+  },
+  {
+   "period": 1,
+   "clock": "33:08",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Brynja R\u00e1n Knudsen",
+   "player": "Knudsen, Brynja R\u00e1n"
+  },
+  {
+   "period": 1,
+   "clock": "33:08",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Leah Diaz",
+   "player": "Diaz, Leah"
+  },
+  {
+   "period": 1,
+   "clock": "33:08",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Brielyn Knowles",
+   "player": "Knowles, Brielyn"
+  },
+  {
+   "period": 1,
+   "clock": "33:08",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Amy Smith",
+   "player": "Smith, Amy"
+  },
+  {
+   "period": 1,
+   "clock": "33:33",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Ava Amsden",
+   "player": "Amsden, Ava",
+   "qual": "goalmouth:outhigh;",
+   "x": 23,
+   "y": 69
+  },
+  {
+   "period": 1,
+   "clock": "35:13",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Kat Campbell",
+   "player": "Campbell, Kat"
+  },
+  {
+   "period": 1,
+   "clock": "35:50",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Sariyah Bailey",
+   "player": "Bailey, Sariyah",
+   "qual": "goalmouth:outhigh;",
+   "x": 25,
+   "y": 51
+  },
+  {
+   "period": 1,
+   "clock": "36:21",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Trinity Buchanan",
+   "player": "Buchanan, Trinity"
+  },
+  {
+   "period": 1,
+   "clock": "36:21",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Samantha Ruiz",
+   "player": "Ruiz, Samantha"
+  },
+  {
+   "period": 1,
+   "clock": "36:31",
+   "team": "home",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Samantha Ruiz",
+   "player": "Ruiz, Samantha"
+  },
+  {
+   "period": 1,
+   "clock": "37:42",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Ireland Churchill",
+   "player": "Churchill, Ireland"
+  },
+  {
+   "period": 1,
+   "clock": "37:42",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Venla Lindfors",
+   "player": "Lindfors, Venla"
+  },
+  {
+   "period": 1,
+   "clock": "40:09",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "40:11",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (blocked;) by Sariyah Bailey",
+   "player": "Bailey, Sariyah",
+   "qual": "blocked;",
+   "x": 21,
+   "y": 34
+  },
+  {
+   "period": 1,
+   "clock": "41:20",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Leah Diaz",
+   "player": "Diaz, Leah"
+  },
+  {
+   "period": 1,
+   "clock": "42:37",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Lucy Landherr",
+   "player": "Landherr, Lucy"
+  },
+  {
+   "period": 1,
+   "clock": "43:00",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:highleft;) by Amy Smith",
+   "player": "Smith, Amy",
+   "qual": "goalmouth:highleft;",
+   "x": 11,
+   "y": 48
+  },
+  {
+   "period": 1,
+   "clock": "43:00",
+   "team": "away",
+   "type": "goal",
+   "text": "Goal (goalmouth:highleft;from:rightfoot;) by Amy Smith",
+   "player": "Smith, Amy",
+   "qual": "goalmouth:highleft;from:rightfoot;",
+   "x": 11,
+   "y": 48
+  },
+  {
+   "period": 1,
+   "clock": "43:36",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Venla Lindfors",
+   "player": "Lindfors, Venla"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Leah Diaz",
+   "player": "Diaz, Leah"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Emma Hoang",
+   "player": "Hoang, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Lucy Landherr",
+   "player": "Landherr, Lucy"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Morgan Landry",
+   "player": "Landry, Morgan"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Samantha Ruiz",
+   "player": "Ruiz, Samantha"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Trinity Buchanan",
+   "player": "Buchanan, Trinity"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Kieana Smith",
+   "player": "Smith, Kieana"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Ciara Jade Mitchell",
+   "player": "Mitchell, Ciara Jade"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Venla Lindfors",
+   "player": "Lindfors, Venla"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Ireland Churchill",
+   "player": "Churchill, Ireland"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ryleigh Albin",
+   "player": "Albin, Ryleigh"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Jocelyn Ollivierre",
+   "player": "Ollivierre, Jocelyn"
+  },
+  {
+   "period": 2,
+   "clock": "46:23",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhighright;) by Amy Smith",
+   "player": "Smith, Amy",
+   "qual": "goalmouth:outhighright;",
+   "x": 83,
+   "y": 68
+  },
+  {
+   "period": 2,
+   "clock": "46:53",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Linka Ono",
+   "player": "Ono, Linka"
+  },
+  {
+   "period": 2,
+   "clock": "47:55",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Kat Campbell",
+   "player": "Campbell, Kat"
+  },
+  {
+   "period": 2,
+   "clock": "49:11",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Emma Hoang",
+   "player": "Hoang, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "49:11",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Brynja R\u00e1n Knudsen",
+   "player": "Knudsen, Brynja R\u00e1n"
+  },
+  {
+   "period": 2,
+   "clock": "49:31",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "50:04",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "52:53",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "54:50",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:woodworkhigh;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:woodworkhigh;",
+   "x": 19,
+   "y": 63
+  },
+  {
+   "period": 2,
+   "clock": "55:45",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "56:15",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 2,
+   "clock": "57:38",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "58:07",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "58:10",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Linka Ono",
+   "player": "Ono, Linka",
+   "qual": "goalmouth:outleft;",
+   "x": 83,
+   "y": 56
+  },
+  {
+   "period": 2,
+   "clock": "58:34",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Sariyah Bailey",
+   "player": "Bailey, Sariyah"
+  },
+  {
+   "period": 2,
+   "clock": "58:34",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Kelsey Major",
+   "player": "Major, Kelsey"
+  },
+  {
+   "period": 2,
+   "clock": "58:34",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ava Galligan",
+   "player": "Galligan, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "58:34",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Alexia Hansen",
+   "player": "Hansen, Alexia"
+  },
+  {
+   "period": 2,
+   "clock": "59:17",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul(handball) by Ciara Jade Mitchell",
+   "player": "Mitchell, Ciara Jade"
+  },
+  {
+   "period": 2,
+   "clock": "59:28",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhighright;) by Alexia Hansen",
+   "player": "Hansen, Alexia",
+   "qual": "goalmouth:outhighright;",
+   "x": 81,
+   "y": 33
+  },
+  {
+   "period": 2,
+   "clock": "62:05",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Emma Alvord",
+   "player": "Alvord, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "62:05",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Senai Rogers",
+   "player": "Rogers, Senai"
+  },
+  {
+   "period": 2,
+   "clock": "62:05",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Linka Ono",
+   "player": "Ono, Linka"
+  },
+  {
+   "period": 2,
+   "clock": "62:05",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ryann Denecour",
+   "player": "Denecour, Ryann"
+  },
+  {
+   "period": 2,
+   "clock": "62:14",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Ciara Jade Mitchell",
+   "player": "Mitchell, Ciara Jade"
+  },
+  {
+   "period": 2,
+   "clock": "62:14",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Kieana Smith",
+   "player": "Smith, Kieana"
+  },
+  {
+   "period": 2,
+   "clock": "62:25",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Morgan Landry",
+   "player": "Landry, Morgan"
+  },
+  {
+   "period": 2,
+   "clock": "62:25",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Leah Diaz",
+   "player": "Diaz, Leah"
+  },
+  {
+   "period": 2,
+   "clock": "63:28",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Senai Rogers",
+   "player": "Rogers, Senai",
+   "qual": "goalmouth:outleft;",
+   "x": 81,
+   "y": 70
+  },
+  {
+   "period": 2,
+   "clock": "64:20",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Berglind Hlynsdottir",
+   "player": "Hlynsdottir, Berglind"
+  },
+  {
+   "period": 2,
+   "clock": "64:20",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ava Galligan",
+   "player": "Galligan, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "64:20",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Amy Smith",
+   "player": "Smith, Amy"
+  },
+  {
+   "period": 2,
+   "clock": "64:20",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Sariyah Bailey",
+   "player": "Bailey, Sariyah"
+  },
+  {
+   "period": 2,
+   "clock": "65:06",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Sariyah Bailey",
+   "player": "Bailey, Sariyah",
+   "qual": "goalmouth:lowleft;",
+   "x": 71,
+   "y": 53
+  },
+  {
+   "period": 2,
+   "clock": "65:06",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Sydney Fuller",
+   "player": "Fuller, Sydney"
+  },
+  {
+   "period": 2,
+   "clock": "66:10",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "67:06",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Sariyah Bailey",
+   "player": "Bailey, Sariyah",
+   "qual": "goalmouth:lowright;",
+   "x": 78,
+   "y": 41
+  },
+  {
+   "period": 2,
+   "clock": "67:06",
+   "team": "away",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowright;from:rightfoot;) by Sariyah Bailey",
+   "player": "Bailey, Sariyah",
+   "qual": "goalmouth:lowright;from:rightfoot;",
+   "x": 78,
+   "y": 41
+  },
+  {
+   "period": 2,
+   "clock": "67:22",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Jocelyn Ollivierre",
+   "player": "Ollivierre, Jocelyn"
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Kieana Smith",
+   "player": "Smith, Kieana",
+   "qual": "goalmouth:lowright;",
+   "x": 38,
+   "y": 90
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowright;from:rightfoot;) by Kieana Smith",
+   "player": "Smith, Kieana",
+   "qual": "goalmouth:lowright;from:rightfoot;",
+   "x": 38,
+   "y": 90
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Brynja R\u00e1n Knudsen",
+   "player": "Knudsen, Brynja R\u00e1n"
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Hattie Patterson",
+   "player": "Patterson, Hattie"
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Annaleigh Bruser",
+   "player": "Bruser, Annaleigh"
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ryleigh Albin",
+   "player": "Albin, Ryleigh"
+  },
+  {
+   "period": 2,
+   "clock": "67:50",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Alexia Hansen",
+   "player": "Hansen, Alexia"
+  },
+  {
+   "period": 2,
+   "clock": "68:56",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 2,
+   "clock": "72:16",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Kat Campbell",
+   "player": "Campbell, Kat"
+  },
+  {
+   "period": 2,
+   "clock": "72:57",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ava Amsden",
+   "player": "Amsden, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "72:57",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Brielyn Knowles",
+   "player": "Knowles, Brielyn"
+  },
+  {
+   "period": 2,
+   "clock": "73:16",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "74:04",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "74:40",
+   "team": "home",
+   "type": "yellow",
+   "text": "Cardyellow(timewasting) by Sydney Fuller",
+   "player": "Fuller, Sydney"
+  },
+  {
+   "period": 2,
+   "clock": "75:14",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Trinity Buchanan",
+   "player": "Buchanan, Trinity",
+   "qual": "goalmouth:outleft;",
+   "x": 24,
+   "y": 47
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Kelsey Major",
+   "player": "Major, Kelsey"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Linka Ono",
+   "player": "Ono, Linka"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Alexia Hansen",
+   "player": "Hansen, Alexia"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Amy Smith",
+   "player": "Smith, Amy"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ryann Denecour",
+   "player": "Denecour, Ryann"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Emma Alvord",
+   "player": "Alvord, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Kieana Smith",
+   "player": "Smith, Kieana"
+  },
+  {
+   "period": 2,
+   "clock": "75:45",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Riley Crooks",
+   "player": "Crooks, Riley"
+  },
+  {
+   "period": 2,
+   "clock": "76:28",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Linka Ono",
+   "player": "Ono, Linka"
+  },
+  {
+   "period": 2,
+   "clock": "79:55",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Ava Galligan",
+   "player": "Galligan, Ava",
+   "qual": "goalmouth:lowcenter;",
+   "x": 80,
+   "y": 45
+  },
+  {
+   "period": 2,
+   "clock": "79:55",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Sydney Fuller",
+   "player": "Fuller, Sydney"
+  },
+  {
+   "period": 2,
+   "clock": "79:58",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Amy Smith",
+   "player": "Smith, Amy",
+   "qual": "goalmouth:lowcenter;",
+   "x": 87,
+   "y": 48
+  },
+  {
+   "period": 2,
+   "clock": "79:58",
+   "team": "away",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowcenter;from:rightfoot;) by Amy Smith",
+   "player": "Smith, Amy",
+   "qual": "goalmouth:lowcenter;from:rightfoot;",
+   "x": 87,
+   "y": 48
+  },
+  {
+   "period": 2,
+   "clock": "80:22",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ryleigh Albin",
+   "player": "Albin, Ryleigh"
+  },
+  {
+   "period": 2,
+   "clock": "80:22",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Kelsey Major",
+   "player": "Major, Kelsey"
+  },
+  {
+   "period": 2,
+   "clock": "80:22",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Senai Rogers",
+   "player": "Rogers, Senai"
+  },
+  {
+   "period": 2,
+   "clock": "80:22",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ava Amsden",
+   "player": "Amsden, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "80:47",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outright;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:outright;",
+   "x": 22,
+   "y": 75
+  },
+  {
+   "period": 2,
+   "clock": "80:49",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Mia Scranton",
+   "player": "Scranton, Mia"
+  },
+  {
+   "period": 2,
+   "clock": "80:49",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Kieana Smith",
+   "player": "Smith, Kieana"
+  },
+  {
+   "period": 2,
+   "clock": "81:03",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Holly Storer",
+   "player": "Storer, Holly"
+  },
+  {
+   "period": 2,
+   "clock": "81:51",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 2,
+   "clock": "81:52",
+   "team": "away",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 2,
+   "clock": "81:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 2,
+   "clock": "81:52",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Annaleigh Bruser",
+   "player": "Bruser, Annaleigh"
+  },
+  {
+   "period": 2,
+   "clock": "82:36",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Ireland Churchill",
+   "player": "Churchill, Ireland"
+  },
+  {
+   "period": 2,
+   "clock": "83:42",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Brielyn Knowles",
+   "player": "Knowles, Brielyn"
+  },
+  {
+   "period": 2,
+   "clock": "84:01",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Hattie Patterson",
+   "player": "Patterson, Hattie"
+  },
+  {
+   "period": 2,
+   "clock": "84:01",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Morgan Landry",
+   "player": "Landry, Morgan"
+  },
+  {
+   "period": 2,
+   "clock": "84:01",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Amy Smith",
+   "player": "Smith, Amy"
+  },
+  {
+   "period": 2,
+   "clock": "84:01",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Senai Rogers",
+   "player": "Rogers, Senai"
+  },
+  {
+   "period": 2,
+   "clock": "86:34",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:lowcenter;",
+   "x": 16,
+   "y": 34
+  },
+  {
+   "period": 2,
+   "clock": "86:34",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Audur Scheving",
+   "player": "Scheving, Audur"
+  },
+  {
+   "period": 2,
+   "clock": "86:55",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Kelsey Major",
+   "player": "Major, Kelsey"
+  },
+  {
+   "period": 2,
+   "clock": "86:55",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Rakel Sigurdardottir",
+   "player": "Sigurdardottir, Rakel"
+  },
+  {
+   "period": 2,
+   "clock": "86:55",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Brielyn Knowles",
+   "player": "Knowles, Brielyn"
+  },
+  {
+   "period": 2,
+   "clock": "86:55",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Berglind Hlynsdottir",
+   "player": "Hlynsdottir, Berglind"
+  },
+  {
+   "period": 2,
+   "clock": "87:09",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowright;) by Ava Galligan",
+   "player": "Galligan, Ava",
+   "qual": "goalmouth:lowright;",
+   "x": 79,
+   "y": 45
+  },
+  {
+   "period": 2,
+   "clock": "87:09",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Sydney Fuller",
+   "player": "Fuller, Sydney"
+  },
+  {
+   "period": 2,
+   "clock": "87:35",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "87:39",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Emma Alvord",
+   "player": "Alvord, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "88:03",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Ireland Churchill",
+   "player": "Churchill, Ireland",
+   "qual": "goalmouth:outhigh;",
+   "x": 27,
+   "y": 74
+  },
+  {
+   "period": 2,
+   "clock": "88:29",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Trinity Buchanan",
+   "player": "Buchanan, Trinity"
+  },
+  {
+   "period": 2,
+   "clock": "89:10",
+   "team": "away",
+   "type": "pk",
+   "text": "Penaltykick(awarded) by Ava Amsden",
+   "player": "Amsden, Ava"
+  },
+  {
+   "period": 2,
+   "clock": "89:10",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul(handball) by Leah Diaz",
+   "player": "Diaz, Leah",
+   "x": 85,
+   "y": 49
+  },
+  {
+   "period": 2,
+   "clock": "89:10",
+   "team": "away",
+   "type": "pk",
+   "text": "Penaltykick(taken) (on target;goalmouth:highleft;) by Ava Amsden",
+   "player": "Amsden, Ava",
+   "qual": "onTarget;goalmouth:highleft;"
+  },
+  {
+   "period": 2,
+   "clock": "89:10",
+   "team": "away",
+   "type": "goal",
+   "text": "Goal (penaltykick;goalmouth:highleft;) by Ava Amsden",
+   "player": "Amsden, Ava",
+   "qual": "penaltykick;goalmouth:highleft;"
+  }
+ ],
+ "pbp_abbr": {
+  "away": "LSU",
+  "home": "Texas A&M"
+ },
+ "home_team": "Texas A&M",
+ "away_team": "LSU",
+ "scrape_score": "3-4"
+}

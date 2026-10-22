@@ -9,10 +9,10 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 494,
-    "sh": 12,
+    "min": 549,
+    "sh": 14,
     "sog": 7,
     "g": 2,
     "a": 0,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
+    "shot_pct": 50.0,
     "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -271,6 +271,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 55,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -280,9 +299,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 771,
+    "gp": 14,
+    "starts": 12,
+    "min": 823,
     "sh": 25,
     "sog": 13,
     "g": 2,
@@ -542,6 +561,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -594,13 +632,13 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1130,
+    "gp": 14,
+    "starts": 14,
+    "min": 1220,
     "sh": 0,
     "sog": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -609,10 +647,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
+     "gp": 14,
      "ga": 15,
-     "saves": 39,
-     "save_pct": 72.2
+     "saves": 41,
+     "save_pct": 73.2
     }
    },
    "matches": [
@@ -927,6 +965,30 @@
       "ga": 2,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -936,10 +998,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1166,
-    "sh": 8,
+    "gp": 14,
+    "starts": 14,
+    "min": 1256,
+    "sh": 10,
     "sog": 3,
     "g": 1,
     "a": 1,
@@ -947,9 +1009,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 30.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -1198,6 +1260,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1207,9 +1288,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 646,
+    "min": 684,
     "sh": 15,
     "sog": 4,
     "g": 1,
@@ -1464,6 +1545,25 @@
      "sh": 4,
      "sog": 2,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1871,9 +1971,9 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 175,
+    "min": 188,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2000,6 +2100,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2009,20 +2128,20 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1132,
-    "sh": 14,
-    "sog": 6,
-    "g": 1,
+    "gp": 14,
+    "starts": 14,
+    "min": 1222,
+    "sh": 19,
+    "sog": 8,
+    "g": 2,
     "a": 4,
     "fouls": 1,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 5,
-    "shots_off_target": 8
+    "shot_pct": 42.1,
+    "shots_saved": 6,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2271,6 +2390,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 5,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2380,15 +2518,15 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 682,
+    "gp": 14,
+    "starts": 12,
+    "min": 716,
     "sh": 18,
     "sog": 8,
     "g": 6,
-    "a": 2,
+    "a": 3,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -2642,6 +2780,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2737,20 +2894,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1067,
-    "sh": 34,
+    "gp": 14,
+    "starts": 14,
+    "min": 1157,
+    "sh": 37,
     "sog": 15,
     "g": 3,
-    "a": 1,
+    "a": 2,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.1,
+    "shot_pct": 40.5,
     "shots_saved": 12,
-    "shots_off_target": 19
+    "shots_off_target": 22
    },
    "matches": [
     {
@@ -2999,6 +3156,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3008,10 +3184,10 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 225,
-    "sh": 3,
+    "min": 257,
+    "sh": 5,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -3019,9 +3195,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 20.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -3270,6 +3446,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 32,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3279,20 +3474,20 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 936,
-    "sh": 15,
-    "sog": 6,
-    "g": 2,
+    "gp": 13,
+    "starts": 13,
+    "min": 1013,
+    "sh": 18,
+    "sog": 8,
+    "g": 3,
     "a": 4,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 4,
-    "shots_off_target": 9
+    "shot_pct": 44.4,
+    "shots_saved": 5,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3517,6 +3712,25 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 77,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -3755,15 +3969,15 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 9,
-    "min": 642,
+    "gp": 14,
+    "starts": 10,
+    "min": 669,
     "sh": 27,
     "sog": 12,
     "g": 3,
     "a": 6,
     "fouls": 0,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -4017,6 +4231,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4026,9 +4259,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 340,
+    "gp": 13,
+    "starts": 4,
+    "min": 403,
     "sh": 6,
     "sog": 4,
     "g": 1,
@@ -4269,6 +4502,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4321,9 +4573,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1012,
+    "gp": 13,
+    "starts": 13,
+    "min": 1102,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4564,6 +4816,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4573,9 +4844,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1135,
+    "gp": 14,
+    "starts": 14,
+    "min": 1225,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -4835,6 +5106,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4844,10 +5134,10 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 176,
-    "sh": 13,
+    "min": 199,
+    "sh": 14,
     "sog": 9,
     "g": 2,
     "a": 2,
@@ -4855,9 +5145,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 69.2,
+    "shot_pct": 64.3,
     "shots_saved": 7,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -5061,6 +5351,25 @@
      "num": "22",
      "min": 10,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "22",
+     "min": 23,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -5384,9 +5693,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 4,
-    "min": 318,
+    "min": 333,
     "sh": 8,
     "sog": 2,
     "g": 0,
@@ -5608,6 +5917,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5617,9 +5945,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 4,
-    "min": 471,
+    "min": 492,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -5871,6 +6199,25 @@
      "pos": "mid",
      "num": "6",
      "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Stetson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 21,
      "sh": 0,
      "sog": 0,
      "g": 0,

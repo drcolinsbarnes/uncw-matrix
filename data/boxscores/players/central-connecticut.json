@@ -9,19 +9,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 13,
-    "min": 857,
-    "sh": 7,
-    "sog": 5,
+    "min": 876,
+    "sh": 8,
+    "sog": 6,
     "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.4,
-    "shots_saved": 4,
+    "shot_pct": 75.0,
+    "shots_saved": 5,
     "shots_off_target": 2
    },
    "matches": [
@@ -271,6 +271,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 19,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -280,10 +299,10 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 4,
-    "min": 383,
-    "sh": 4,
+    "gp": 13,
+    "starts": 5,
+    "min": 420,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -291,9 +310,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -523,6 +542,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 37,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -530,11 +568,11 @@
    "name": "DeFlorio, Taylor",
    "slug": "deflorio-taylor",
    "num": "31",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
-    "gp": 1,
-    "starts": 0,
-    "min": 45,
+    "gp": 2,
+    "starts": 1,
+    "min": 90,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -547,9 +585,9 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 1,
+     "gp": 2,
      "ga": 0,
-     "saves": 1,
+     "saves": 3,
      "save_pct": 100.0
     }
    },
@@ -577,6 +615,30 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "GK",
+     "num": "31",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -586,9 +648,9 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 221,
+    "min": 247,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -829,6 +891,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -838,20 +919,20 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 403,
-    "sh": 15,
-    "sog": 8,
+    "min": 442,
+    "sh": 18,
+    "sog": 10,
     "g": 2,
     "a": 3,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
-    "shots_saved": 6,
-    "shots_off_target": 7
+    "shot_pct": 55.6,
+    "shots_saved": 8,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -1024,6 +1105,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 39,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1033,9 +1133,9 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 301,
+    "min": 319,
     "sh": 4,
     "sog": 4,
     "g": 1,
@@ -1295,6 +1395,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1304,9 +1423,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 990,
+    "min": 1030,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1319,10 +1438,10 @@
     "shots_saved": 1,
     "shots_off_target": 0,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 15,
-     "saves": 60,
-     "save_pct": 80.0
+     "saves": 62,
+     "save_pct": 80.5
     }
    },
    "matches": [
@@ -1589,6 +1708,30 @@
       "ga": 2,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "gk",
+     "num": "1",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "39:13",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -1598,9 +1741,9 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 84,
+    "min": 87,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1727,6 +1870,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "",
+     "num": "12",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1736,18 +1898,18 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 10,
-    "min": 562,
-    "sh": 13,
-    "sog": 8,
-    "g": 4,
+    "min": 581,
+    "sh": 14,
+    "sog": 9,
+    "g": 5,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.5,
+    "shot_pct": 64.3,
     "shots_saved": 4,
     "shots_off_target": 5
    },
@@ -1979,6 +2141,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 19,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1988,9 +2169,9 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 290,
+    "min": 303,
     "sh": 4,
     "sog": 3,
     "g": 0,
@@ -2231,6 +2412,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2240,9 +2440,9 @@
    "num": "26",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 175,
+    "min": 193,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2445,6 +2645,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2454,9 +2673,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 11,
-    "min": 975,
+    "min": 980,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -2697,6 +2916,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2706,9 +2944,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 895,
+    "gp": 13,
+    "starts": 12,
+    "min": 967,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2949,6 +3187,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "",
+     "num": "14",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3101,9 +3358,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 7,
-    "min": 575,
+    "min": 588,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3260,6 +3517,25 @@
      "pos": "def",
      "num": "20",
      "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "20",
+     "min": 13,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3548,9 +3824,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 4,
-    "starts": 0,
-    "min": 46,
+    "gp": 5,
+    "starts": 1,
+    "min": 131,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3639,6 +3915,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3648,9 +3943,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 4,
-    "min": 267,
+    "min": 286,
     "sh": 5,
     "sog": 2,
     "g": 2,
@@ -3834,6 +4129,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3843,20 +4157,20 @@
    "num": "27",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 2,
-    "min": 183,
-    "sh": 0,
+    "min": 238,
+    "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3953,6 +4267,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3960,22 +4293,22 @@
    "name": "Powers, Riley",
    "slug": "powers-riley",
    "num": "2",
-   "pos": "FWD",
+   "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 717,
-    "sh": 20,
-    "sog": 10,
-    "g": 4,
-    "a": 2,
+    "gp": 14,
+    "starts": 12,
+    "min": 789,
+    "sh": 29,
+    "sog": 16,
+    "g": 5,
+    "a": 3,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 6,
-    "shots_off_target": 10
+    "shot_pct": 55.2,
+    "shots_saved": 11,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -4224,6 +4557,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 72,
+     "sh": 9,
+     "sog": 6,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4233,20 +4585,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 11,
-    "min": 824,
-    "sh": 9,
-    "sog": 2,
-    "g": 1,
-    "a": 0,
+    "gp": 13,
+    "starts": 12,
+    "min": 909,
+    "sh": 11,
+    "sog": 3,
+    "g": 2,
+    "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
+    "shot_pct": 27.3,
     "shots_saved": 1,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -4476,6 +4828,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 85,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4485,19 +4856,19 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 492,
-    "sh": 2,
-    "sog": 1,
+    "gp": 10,
+    "starts": 8,
+    "min": 563,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
-    "a": 1,
+    "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -4671,6 +5042,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 71,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4680,9 +5070,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1101,
+    "gp": 14,
+    "starts": 13,
+    "min": 1191,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -4942,6 +5332,79 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Smith, Kayleigh",
+   "slug": "smith-kayleigh",
+   "num": "30",
+   "pos": "gk",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 5,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 0,
+     "save_pct": null
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "gk",
+     "num": "30",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "05:47",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -4951,9 +5414,9 @@
    "num": "15",
    "pos": "def",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 233,
+    "min": 252,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5099,6 +5562,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "15",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5108,19 +5590,19 @@
    "num": "29",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
-    "starts": 1,
-    "min": 292,
-    "sh": 7,
-    "sog": 4,
+    "gp": 13,
+    "starts": 2,
+    "min": 324,
+    "sh": 8,
+    "sog": 5,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 4,
+    "shot_pct": 62.5,
+    "shots_saved": 5,
     "shots_off_target": 3
    },
    "matches": [
@@ -5351,6 +5833,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "29",
+     "min": 32,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5438,19 +5939,19 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
-    "starts": 1,
-    "min": 377,
-    "sh": 12,
-    "sog": 8,
-    "g": 2,
+    "gp": 14,
+    "starts": 2,
+    "min": 430,
+    "sh": 14,
+    "sog": 10,
+    "g": 3,
     "a": 1,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 6,
+    "shot_pct": 71.4,
+    "shots_saved": 7,
     "shots_off_target": 4
    },
    "matches": [
@@ -5700,6 +6201,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 53,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5709,20 +6229,20 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 12,
-    "starts": 4,
-    "min": 460,
-    "sh": 13,
-    "sog": 7,
+    "gp": 13,
+    "starts": 5,
+    "min": 497,
+    "sh": 16,
+    "sog": 8,
     "g": 1,
     "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.8,
-    "shots_saved": 6,
-    "shots_off_target": 6
+    "shot_pct": 50.0,
+    "shots_saved": 7,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -5945,6 +6465,25 @@
      "num": "5",
      "min": 9,
      "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Delaware State",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 37,
+     "sh": 3,
      "sog": 1,
      "g": 0,
      "a": 0,

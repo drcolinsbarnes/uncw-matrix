@@ -9,10 +9,10 @@
    "num": "13",
    "pos": "mid",
    "totals": {
-    "gp": 11,
-    "starts": 2,
-    "min": 278,
-    "sh": 5,
+    "gp": 12,
+    "starts": 3,
+    "min": 312,
+    "sh": 6,
     "sog": 3,
     "g": 0,
     "a": 1,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -233,6 +233,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 34,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -359,12 +378,12 @@
    "name": "Beck, Jess",
    "slug": "beck-jess",
    "num": "21",
-   "pos": null,
+   "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 5,
-    "min": 397,
-    "sh": 11,
+    "gp": 14,
+    "starts": 6,
+    "min": 428,
+    "sh": 12,
     "sog": 8,
     "g": 3,
     "a": 2,
@@ -372,9 +391,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 72.7,
+    "shot_pct": 66.7,
     "shots_saved": 5,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -623,6 +642,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -808,9 +846,9 @@
    "num": "0",
    "pos": "gk",
    "totals": {
-    "gp": 6,
-    "starts": 1,
-    "min": 296,
+    "gp": 7,
+    "starts": 2,
+    "min": 386,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -823,10 +861,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
+     "gp": 7,
      "ga": 3,
-     "saves": 12,
-     "save_pct": 80.0
+     "saves": 17,
+     "save_pct": 85.0
     }
    },
    "matches": [
@@ -973,6 +1011,30 @@
       "ga": 3,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -982,10 +1044,10 @@
    "num": "20",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 2,
-    "min": 628,
-    "sh": 3,
+    "min": 684,
+    "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 3,
@@ -993,9 +1055,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1263,6 +1325,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "20",
+     "min": 56,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1272,9 +1353,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1070,
+    "gp": 15,
+    "starts": 14,
+    "min": 1157,
     "sh": 12,
     "sog": 4,
     "g": 1,
@@ -1553,6 +1634,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1562,10 +1662,10 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 869,
-    "sh": 17,
+    "gp": 15,
+    "starts": 14,
+    "min": 937,
+    "sh": 19,
     "sog": 5,
     "g": 1,
     "a": 6,
@@ -1573,9 +1673,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 29.4,
+    "shot_pct": 26.3,
     "shots_saved": 4,
-    "shots_off_target": 12
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -1843,6 +1943,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 68,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1852,10 +1971,10 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 949,
-    "sh": 21,
+    "gp": 14,
+    "starts": 11,
+    "min": 1039,
+    "sh": 22,
     "sog": 9,
     "g": 1,
     "a": 5,
@@ -1863,9 +1982,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 40.9,
     "shots_saved": 8,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2114,6 +2233,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2121,7 +2259,7 @@
    "name": "Gordon, Alexis",
    "slug": "gordon-alexis",
    "num": "2",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 10,
     "starts": 4,
@@ -2335,11 +2473,11 @@
    "name": "Green, Jordan",
    "slug": "green-jordan",
    "num": "16",
-   "pos": "DEF",
+   "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 936,
+    "gp": 15,
+    "starts": 13,
+    "min": 981,
     "sh": 12,
     "sog": 9,
     "g": 3,
@@ -2618,6 +2756,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2706,11 +2863,11 @@
    "name": "Grimes, Charlise",
    "slug": "grimes-charlise",
    "num": "8",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 4,
-    "min": 415,
+    "min": 418,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -2970,6 +3127,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "def",
+     "num": "8",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2979,10 +3155,10 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 749,
-    "sh": 8,
+    "gp": 12,
+    "starts": 12,
+    "min": 839,
+    "sh": 10,
     "sog": 2,
     "g": 2,
     "a": 0,
@@ -2990,9 +3166,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 0,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3203,6 +3379,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3212,9 +3407,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 1007,
+    "gp": 15,
+    "starts": 13,
+    "min": 1097,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -3493,6 +3688,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3502,20 +3716,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 648,
-    "sh": 15,
-    "sog": 10,
+    "min": 693,
+    "sh": 19,
+    "sog": 13,
     "g": 3,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 7,
-    "shots_off_target": 5
+    "shot_pct": 68.4,
+    "shots_saved": 10,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3764,6 +3978,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 45,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3771,21 +4004,21 @@
    "name": "McCauley , Lauren",
    "slug": "mccauley-lauren",
    "num": "17",
-   "pos": null,
+   "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 201,
-    "sh": 5,
-    "sog": 3,
-    "g": 1,
+    "min": 260,
+    "sh": 8,
+    "sog": 6,
+    "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 2,
+    "shot_pct": 75.0,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -3898,6 +4131,25 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 59,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -4204,21 +4456,21 @@
    "name": "Milano, Gia",
    "slug": "milano-gia",
    "num": "9",
-   "pos": null,
+   "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 258,
-    "sh": 4,
-    "sog": 2,
+    "min": 267,
+    "sh": 5,
+    "sog": 3,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
+    "shot_pct": 60.0,
+    "shots_saved": 3,
     "shots_off_target": 2
    },
    "matches": [
@@ -4392,6 +4644,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 9,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4401,20 +4672,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1039,
-    "sh": 53,
-    "sog": 28,
+    "gp": 15,
+    "starts": 15,
+    "min": 1115,
+    "sh": 57,
+    "sog": 30,
     "g": 6,
     "a": 5,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.8,
-    "shots_saved": 22,
-    "shots_off_target": 25
+    "shot_pct": 52.6,
+    "shots_saved": 24,
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -4678,6 +4949,25 @@
      "sog": 1,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 76,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -5033,15 +5323,15 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1174,
+    "gp": 15,
+    "starts": 14,
+    "min": 1264,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -5314,6 +5604,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5399,14 +5708,57 @@
    ]
   },
   {
+   "name": "TM TEAM",
+   "slug": "tm-team",
+   "num": "TM",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 0,
+    "sh": 0,
+    "sog": 0,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Tirado, Gabby",
    "slug": "tirado-gabby",
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 10,
-    "min": 805,
+    "min": 832,
     "sh": 23,
     "sog": 10,
     "g": 4,
@@ -5679,6 +6031,25 @@
      "min": 57,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "William & Mary",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "3",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,

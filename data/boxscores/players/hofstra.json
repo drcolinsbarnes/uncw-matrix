@@ -9,9 +9,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1260,
+    "gp": 15,
+    "starts": 15,
+    "min": 1350,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
-     "ga": 19,
-     "saves": 31,
-     "save_pct": 62.0
+     "gp": 15,
+     "ga": 21,
+     "saves": 35,
+     "save_pct": 62.5
     }
    },
    "matches": [
@@ -366,6 +366,30 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 4
+     }
     }
    ]
   },
@@ -375,9 +399,9 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 296,
+    "min": 316,
     "sh": 3,
     "sog": 1,
     "g": 1,
@@ -637,6 +661,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -646,19 +689,19 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 9,
-    "min": 686,
-    "sh": 15,
-    "sog": 6,
-    "g": 2,
-    "a": 1,
+    "gp": 15,
+    "starts": 10,
+    "min": 748,
+    "sh": 17,
+    "sog": 8,
+    "g": 3,
+    "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 4,
+    "shot_pct": 47.1,
+    "shots_saved": 5,
     "shots_off_target": 9
    },
    "matches": [
@@ -927,6 +970,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 62,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1150,20 +1212,20 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 880,
-    "sh": 12,
-    "sog": 4,
+    "gp": 15,
+    "starts": 14,
+    "min": 953,
+    "sh": 15,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
-    "shots_saved": 4,
-    "shots_off_target": 8
+    "shots_saved": 5,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1431,6 +1493,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 73,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1438,7 +1519,7 @@
    "name": "Conlon, Jill",
    "slug": "conlon-jill",
    "num": "34",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -1502,9 +1583,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1251,
+    "gp": 15,
+    "starts": 15,
+    "min": 1341,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -1783,6 +1864,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1792,20 +1892,20 @@
    "num": "28",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 5,
-    "min": 323,
-    "sh": 3,
-    "sog": 1,
-    "g": 0,
+    "min": 353,
+    "sh": 7,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
-    "shots_off_target": 2
+    "shot_pct": 42.9,
+    "shots_saved": 2,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2054,6 +2154,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "28",
+     "min": 30,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2063,19 +2182,19 @@
    "num": "40",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1260,
-    "sh": 17,
-    "sog": 9,
+    "gp": 15,
+    "starts": 15,
+    "min": 1350,
+    "sh": 18,
+    "sog": 10,
     "g": 3,
     "a": 2,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.9,
-    "shots_saved": 6,
+    "shot_pct": 55.6,
+    "shots_saved": 7,
     "shots_off_target": 8
    },
    "matches": [
@@ -2344,6 +2463,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "40",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2396,9 +2534,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 8,
-    "min": 800,
+    "min": 813,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2639,6 +2777,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2648,9 +2805,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1146,
+    "gp": 14,
+    "starts": 13,
+    "min": 1236,
     "sh": 4,
     "sog": 2,
     "g": 1,
@@ -2910,6 +3067,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2919,19 +3095,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1153,
-    "sh": 25,
-    "sog": 13,
-    "g": 6,
+    "gp": 15,
+    "starts": 15,
+    "min": 1243,
+    "sh": 27,
+    "sog": 15,
+    "g": 7,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.0,
-    "shots_saved": 7,
+    "shot_pct": 55.6,
+    "shots_saved": 8,
     "shots_off_target": 12
    },
    "matches": [
@@ -3200,6 +3376,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3209,20 +3404,20 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1144,
-    "sh": 40,
+    "gp": 15,
+    "starts": 15,
+    "min": 1225,
+    "sh": 41,
     "sog": 17,
     "g": 1,
     "a": 2,
     "fouls": 4,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.5,
+    "shot_pct": 41.5,
     "shots_saved": 16,
-    "shots_off_target": 23
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -3490,6 +3685,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 81,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3499,9 +3713,9 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 9,
-    "min": 490,
+    "gp": 14,
+    "starts": 10,
+    "min": 515,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3761,6 +3975,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3770,10 +4003,10 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 336,
-    "sh": 3,
+    "min": 375,
+    "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -3781,9 +4014,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3956,6 +4189,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 39,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3965,9 +4217,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1253,
+    "gp": 15,
+    "starts": 15,
+    "min": 1343,
     "sh": 8,
     "sog": 2,
     "g": 0,
@@ -4246,6 +4498,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4255,9 +4526,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1210,
+    "gp": 15,
+    "starts": 15,
+    "min": 1300,
     "sh": 12,
     "sog": 2,
     "g": 0,
@@ -4536,6 +4807,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4545,19 +4835,19 @@
    "num": "16",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 158,
-    "sh": 3,
-    "sog": 1,
+    "min": 175,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -4668,6 +4958,25 @@
      "min": 31,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "Monmouth",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 17,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

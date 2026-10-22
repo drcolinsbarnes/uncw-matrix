@@ -9,10 +9,10 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 15,
-    "min": 1091,
-    "sh": 14,
+    "min": 1161,
+    "sh": 16,
     "sog": 6,
     "g": 0,
     "a": 1,
@@ -20,9 +20,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 6,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -309,6 +309,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "12",
+     "min": 70,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -532,9 +551,9 @@
    "num": "6",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 165,
+    "min": 187,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -661,6 +680,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "6",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -670,9 +708,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1170,
+    "gp": 16,
+    "starts": 16,
+    "min": 1260,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -970,6 +1008,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -977,12 +1034,12 @@
    "name": "Brown, Claire",
    "slug": "brown-claire",
    "num": "26",
-   "pos": null,
+   "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 9,
-    "min": 803,
-    "sh": 14,
+    "gp": 14,
+    "starts": 10,
+    "min": 879,
+    "sh": 15,
     "sog": 3,
     "g": 1,
     "a": 2,
@@ -990,9 +1047,9 @@
     "yc": 0,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 21.4,
+    "shot_pct": 20.0,
     "shots_saved": 2,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1237,6 +1294,25 @@
      "sog": 0,
      "g": 0,
      "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -1502,9 +1578,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 6,
-    "starts": 6,
-    "min": 495,
+    "gp": 7,
+    "starts": 7,
+    "min": 585,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1517,10 +1593,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 9,
-     "saves": 36,
-     "save_pct": 80.0
+     "gp": 7,
+     "ga": 11,
+     "saves": 43,
+     "save_pct": 79.6
     }
    },
    "matches": [
@@ -1666,6 +1742,30 @@
       "min": "90:00",
       "ga": 0,
       "saves": 6
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 7
      }
     }
    ]
@@ -1898,9 +1998,9 @@
    "num": "23",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 197,
+    "min": 229,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -2084,6 +2184,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2093,9 +2212,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 11,
-    "min": 1134,
+    "min": 1221,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2393,6 +2512,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2668,14 +2806,57 @@
    ]
   },
   {
+   "name": "Gamo, Sachiko",
+   "slug": "gamo-sachiko",
+   "num": "19",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 14,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Gelinas, Mya",
    "slug": "gelinas-mya",
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 1,
-    "min": 299,
+    "min": 311,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2935,6 +3116,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3101,9 +3301,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1223,
+    "gp": 16,
+    "starts": 14,
+    "min": 1313,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3401,6 +3601,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3608,10 +3827,10 @@
    "num": "25",
    "pos": "def",
    "totals": {
-    "gp": 11,
-    "starts": 4,
-    "min": 425,
-    "sh": 2,
+    "gp": 12,
+    "starts": 5,
+    "min": 476,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -3621,7 +3840,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3832,6 +4051,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 51,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3841,19 +4079,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1016,
-    "sh": 11,
-    "sog": 7,
+    "gp": 16,
+    "starts": 14,
+    "min": 1106,
+    "sh": 12,
+    "sog": 8,
     "g": 1,
     "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.6,
-    "shots_saved": 6,
+    "shot_pct": 66.7,
+    "shots_saved": 7,
     "shots_off_target": 4
    },
    "matches": [
@@ -4141,6 +4379,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4150,20 +4407,20 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 806,
-    "sh": 15,
-    "sog": 8,
+    "gp": 16,
+    "starts": 14,
+    "min": 886,
+    "sh": 18,
+    "sog": 10,
     "g": 4,
     "a": 0,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 55.6,
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -4450,6 +4707,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 80,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4597,9 +4873,9 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 491,
+    "gp": 13,
+    "starts": 11,
+    "min": 518,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4840,6 +5116,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4849,9 +5144,9 @@
    "num": "16",
    "pos": "mid",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 129,
+    "min": 137,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4932,6 +5227,25 @@
      "pos": "mid",
      "num": "16",
      "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 8,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -5125,9 +5439,9 @@
    "num": "9",
    "pos": "def",
    "totals": {
-    "gp": 10,
-    "starts": 0,
-    "min": 144,
+    "gp": 11,
+    "starts": 1,
+    "min": 147,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5330,6 +5644,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5337,7 +5670,7 @@
    "name": "Steenhold, Rikkie",
    "slug": "steenhold-rikkie",
    "num": "9",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -5401,9 +5734,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1254,
+    "gp": 16,
+    "starts": 16,
+    "min": 1339,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -5701,6 +6034,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5753,9 +6105,9 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 6,
-    "min": 442,
+    "min": 505,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -5874,6 +6226,25 @@
      "pos": "MID",
      "num": "15",
      "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-18",
+     "opponent": "UT Martin",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 63,
      "sh": 0,
      "sog": 0,
      "g": 0,

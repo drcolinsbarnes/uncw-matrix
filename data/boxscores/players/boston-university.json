@@ -52,20 +52,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1025,
-    "sh": 26,
-    "sog": 15,
+    "gp": 14,
+    "starts": 13,
+    "min": 1086,
+    "sh": 30,
+    "sog": 16,
     "g": 2,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 57.7,
-    "shots_saved": 13,
-    "shots_off_target": 11
+    "shot_pct": 53.3,
+    "shots_saved": 14,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -314,6 +314,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 61,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -323,13 +342,13 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 13,
-    "min": 741,
+    "min": 783,
     "sh": 22,
     "sog": 13,
     "g": 3,
-    "a": 1,
+    "a": 2,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
@@ -585,6 +604,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "30",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -637,9 +675,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 585,
+    "gp": 8,
+    "starts": 8,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -652,10 +690,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 11,
-     "saves": 16,
-     "save_pct": 59.3
+     "gp": 8,
+     "ga": 12,
+     "saves": 18,
+     "save_pct": 60.0
     }
    },
    "matches": [
@@ -825,6 +863,30 @@
       "min": "45:00",
       "ga": 1,
       "saves": 1
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 2
      }
     }
    ]
@@ -1199,10 +1261,10 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 643,
-    "sh": 1,
+    "gp": 11,
+    "starts": 10,
+    "min": 733,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1212,7 +1274,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1401,6 +1463,25 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1708,9 +1789,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 6,
-    "min": 585,
+    "min": 630,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1723,10 +1804,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
+     "gp": 8,
      "ga": 12,
-     "saves": 18,
-     "save_pct": 60.0
+     "saves": 19,
+     "save_pct": 61.3
     }
    },
    "matches": [
@@ -1897,6 +1978,30 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "gk",
+     "num": "1",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1906,19 +2011,19 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1030,
-    "sh": 14,
-    "sog": 7,
+    "gp": 14,
+    "starts": 14,
+    "min": 1120,
+    "sh": 17,
+    "sog": 10,
     "g": 1,
     "a": 1,
     "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 6,
+    "shot_pct": 58.8,
+    "shots_saved": 9,
     "shots_off_target": 7
    },
    "matches": [
@@ -2168,6 +2273,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2177,20 +2301,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 6,
-    "min": 540,
-    "sh": 12,
-    "sog": 7,
+    "gp": 14,
+    "starts": 7,
+    "min": 588,
+    "sh": 16,
+    "sog": 9,
     "g": 0,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
-    "shots_saved": 7,
-    "shots_off_target": 5
+    "shot_pct": 56.2,
+    "shots_saved": 9,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2439,6 +2563,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 48,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2639,9 +2782,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 2,
-    "min": 293,
+    "min": 301,
     "sh": 10,
     "sog": 4,
     "g": 1,
@@ -2901,6 +3044,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2953,9 +3115,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 810,
+    "gp": 13,
+    "starts": 8,
+    "min": 900,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3196,6 +3358,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3205,20 +3386,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 5,
-    "min": 590,
-    "sh": 16,
-    "sog": 6,
-    "g": 2,
+    "min": 632,
+    "sh": 18,
+    "sog": 7,
+    "g": 3,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 38.9,
     "shots_saved": 4,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -3443,6 +3624,25 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 42,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -3681,20 +3881,20 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 568,
-    "sh": 14,
+    "gp": 8,
+    "starts": 8,
+    "min": 658,
+    "sh": 15,
     "sog": 5,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 33.3,
     "shots_saved": 4,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3825,6 +4025,25 @@
      "sog": 1,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -4014,20 +4233,20 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 8,
-    "min": 539,
-    "sh": 17,
-    "sog": 7,
+    "gp": 14,
+    "starts": 9,
+    "min": 609,
+    "sh": 21,
+    "sog": 8,
     "g": 3,
     "a": 1,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.2,
-    "shots_saved": 4,
-    "shots_off_target": 10
+    "shot_pct": 38.1,
+    "shots_saved": 5,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -4276,6 +4495,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 70,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4285,20 +4523,20 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 3,
-    "min": 209,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
+    "min": 238,
+    "sh": 8,
+    "sog": 5,
+    "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
-    "shots_off_target": 2
+    "shot_pct": 62.5,
+    "shots_saved": 4,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -4452,6 +4690,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "24",
+     "min": 29,
+     "sh": 4,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4504,20 +4761,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 5,
-    "min": 702,
-    "sh": 33,
-    "sog": 18,
+    "gp": 14,
+    "starts": 6,
+    "min": 762,
+    "sh": 37,
+    "sog": 20,
     "g": 6,
-    "a": 1,
+    "a": 2,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 54.5,
-    "shots_saved": 12,
-    "shots_off_target": 15
+    "shot_pct": 54.1,
+    "shots_saved": 14,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -4766,6 +5023,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 60,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4894,10 +5170,10 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 944,
-    "sh": 4,
+    "gp": 12,
+    "starts": 12,
+    "min": 1034,
+    "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -4905,9 +5181,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 16.7,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -5118,6 +5394,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5127,9 +5422,9 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1130,
+    "gp": 14,
+    "starts": 14,
+    "min": 1220,
     "sh": 6,
     "sog": 4,
     "g": 0,
@@ -5383,6 +5678,25 @@
      "min": 90,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-17",
+     "opponent": "American",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
