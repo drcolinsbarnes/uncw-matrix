@@ -9,9 +9,9 @@
    "num": "18",
    "pos": "GK",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 3,
-    "min": 274,
+    "min": 287,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
-     "ga": 7,
-     "saves": 5,
-     "save_pct": 41.7
+     "gp": 5,
+     "ga": 8,
+     "saves": 6,
+     "save_pct": 42.9
     }
    },
    "matches": [
@@ -126,6 +126,30 @@
       "ga": 0,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "GK",
+     "num": "18",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "13:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -135,20 +159,20 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 142,
-    "sh": 4,
+    "min": 179,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -302,6 +326,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "MID",
+     "num": "22",
+     "min": 37,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -311,9 +354,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 9,
-    "min": 819,
+    "gp": 15,
+    "starts": 10,
+    "min": 909,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -592,6 +635,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -601,10 +663,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 929,
-    "sh": 15,
+    "gp": 15,
+    "starts": 13,
+    "min": 959,
+    "sh": 16,
     "sog": 7,
     "g": 1,
     "a": 0,
@@ -612,9 +674,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.7,
+    "shot_pct": 43.8,
     "shots_saved": 6,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -882,6 +944,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 30,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -891,9 +972,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1134,
+    "gp": 15,
+    "starts": 15,
+    "min": 1224,
     "sh": 19,
     "sog": 7,
     "g": 2,
@@ -1172,6 +1253,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1181,9 +1281,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 274,
+    "min": 311,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1405,6 +1505,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1609,9 +1728,9 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 35,
+    "min": 39,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1681,6 +1800,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1690,20 +1828,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1049,
-    "sh": 9,
+    "gp": 15,
+    "starts": 14,
+    "min": 1127,
+    "sh": 10,
     "sog": 5,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 50.0,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1971,6 +2109,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 78,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1980,9 +2137,9 @@
    "num": "29",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 540,
+    "gp": 10,
+    "starts": 8,
+    "min": 606,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2166,6 +2323,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "29",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2218,9 +2394,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 1081,
+    "gp": 15,
+    "starts": 13,
+    "min": 1171,
     "sh": 13,
     "sog": 5,
     "g": 2,
@@ -2499,6 +2675,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2508,9 +2703,9 @@
    "num": "2",
    "pos": null,
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 116,
+    "min": 140,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2648,6 +2843,25 @@
      "pos": "",
      "num": "2",
      "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "",
+     "num": "2",
+     "min": 24,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2998,9 +3212,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 686,
+    "gp": 11,
+    "starts": 8,
+    "min": 693,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3203,6 +3417,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3212,9 +3445,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 10,
+    "min": 19,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3246,6 +3479,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3255,9 +3507,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1243,
+    "gp": 15,
+    "starts": 15,
+    "min": 1275,
     "sh": 8,
     "sog": 4,
     "g": 1,
@@ -3536,6 +3788,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3545,15 +3816,15 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 559,
+    "min": 599,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 4,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -3788,6 +4059,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "20",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3992,9 +4282,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 986,
+    "gp": 12,
+    "starts": 12,
+    "min": 1063,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4007,10 +4297,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 9,
-     "saves": 31,
-     "save_pct": 77.5
+     "gp": 12,
+     "ga": 11,
+     "saves": 35,
+     "save_pct": 76.1
     }
    },
    "matches": [
@@ -4277,6 +4567,30 @@
       "ga": 3,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "77:00",
+      "ga": 2,
+      "saves": 4
+     }
     }
    ]
   },
@@ -4286,20 +4600,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 2,
-    "min": 172,
-    "sh": 4,
-    "sog": 1,
-    "g": 0,
+    "gp": 11,
+    "starts": 3,
+    "min": 225,
+    "sh": 6,
+    "sog": 2,
+    "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -4491,6 +4805,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 53,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4500,9 +4833,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 374,
+    "min": 400,
     "sh": 7,
     "sog": 2,
     "g": 1,
@@ -4705,6 +5038,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4714,9 +5066,9 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 9,
-    "min": 620,
+    "min": 682,
     "sh": 13,
     "sog": 4,
     "g": 0,
@@ -4995,6 +5347,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "MID",
+     "num": "34",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5004,10 +5375,10 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 130,
-    "sh": 3,
+    "min": 165,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -5017,7 +5388,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -5190,6 +5561,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "6",
+     "min": 35,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5199,10 +5589,10 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1177,
-    "sh": 9,
+    "gp": 15,
+    "starts": 14,
+    "min": 1267,
+    "sh": 10,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -5210,9 +5600,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 40.0,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -5473,6 +5863,25 @@
      "num": "24",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "SMU",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "",
+     "num": "24",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

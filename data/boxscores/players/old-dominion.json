@@ -52,20 +52,20 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 537,
-    "sh": 8,
-    "sog": 4,
+    "gp": 12,
+    "starts": 7,
+    "min": 589,
+    "sh": 11,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
-    "shots_off_target": 4
+    "shot_pct": 45.5,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -276,6 +276,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 52,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -430,18 +449,18 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 6,
-    "min": 514,
-    "sh": 13,
-    "sog": 7,
-    "g": 2,
+    "gp": 12,
+    "starts": 7,
+    "min": 558,
+    "sh": 15,
+    "sog": 9,
+    "g": 4,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.8,
+    "shot_pct": 60.0,
     "shots_saved": 5,
     "shots_off_target": 6
    },
@@ -654,6 +673,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 44,
+     "sh": 2,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -706,9 +744,9 @@
    "num": "33",
    "pos": "M",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 6,
+    "min": 29,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -740,6 +778,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "33",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -749,9 +806,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 1035,
+    "gp": 14,
+    "starts": 11,
+    "min": 1125,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -764,10 +821,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 8,
-     "saves": 22,
-     "save_pct": 73.3
+     "saves": 23,
+     "save_pct": 74.2
     }
    },
    "matches": [
@@ -1075,6 +1132,30 @@
      "goalie": {
       "min": "90:00",
       "ga": 1,
+      "saves": 1
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
       "saves": 1
      }
     }
@@ -1395,20 +1476,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 9,
-    "min": 798,
-    "sh": 7,
-    "sog": 3,
+    "gp": 11,
+    "starts": 10,
+    "min": 888,
+    "sh": 9,
+    "sog": 4,
     "g": 1,
-    "a": 0,
-    "fouls": 7,
+    "a": 1,
+    "fouls": 8,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
-    "shots_saved": 2,
-    "shots_off_target": 4
+    "shot_pct": 44.4,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1600,6 +1681,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1609,9 +1709,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 18,
+    "min": 31,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1640,6 +1740,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "15",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1961,9 +2080,9 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 181,
+    "min": 204,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2109,6 +2228,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "25",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2118,14 +2256,14 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1334,
+    "gp": 16,
+    "starts": 16,
+    "min": 1424,
     "sh": 9,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2418,6 +2556,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2427,20 +2584,20 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 2,
-    "min": 423,
-    "sh": 10,
-    "sog": 2,
-    "g": 1,
+    "min": 459,
+    "sh": 15,
+    "sog": 5,
+    "g": 2,
     "a": 1,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 1,
-    "shots_off_target": 8
+    "shot_pct": 33.3,
+    "shots_saved": 3,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2708,6 +2865,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "24",
+     "min": 36,
+     "sh": 5,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2717,9 +2893,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 12,
-    "min": 957,
+    "min": 991,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -3017,6 +3193,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3026,9 +3221,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1345,
+    "gp": 16,
+    "starts": 16,
+    "min": 1435,
     "sh": 9,
     "sog": 3,
     "g": 1,
@@ -3326,6 +3521,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3335,20 +3549,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 11,
-    "min": 748,
-    "sh": 19,
-    "sog": 12,
+    "min": 780,
+    "sh": 21,
+    "sog": 13,
     "g": 6,
     "a": 0,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 3,
-    "shot_pct": 63.2,
-    "shots_saved": 6,
-    "shots_off_target": 7
+    "shot_pct": 61.9,
+    "shots_saved": 7,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3635,6 +3849,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 32,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3644,19 +3877,19 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 11,
-    "starts": 9,
-    "min": 730,
-    "sh": 24,
-    "sog": 9,
-    "g": 2,
+    "gp": 12,
+    "starts": 10,
+    "min": 784,
+    "sh": 26,
+    "sog": 11,
+    "g": 3,
     "a": 3,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 7,
+    "shot_pct": 42.3,
+    "shots_saved": 8,
     "shots_off_target": 15
    },
    "matches": [
@@ -3868,6 +4101,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 54,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3877,9 +4129,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 309,
+    "min": 313,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4101,6 +4353,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4110,14 +4381,14 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1069,
+    "gp": 16,
+    "starts": 16,
+    "min": 1155,
     "sh": 5,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 10,
+    "fouls": 13,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -4410,6 +4681,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4419,9 +4709,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 0,
-    "min": 76,
+    "min": 86,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4567,6 +4857,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4576,20 +4885,20 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 1,
-    "min": 228,
-    "sh": 4,
-    "sog": 2,
+    "gp": 13,
+    "starts": 2,
+    "min": 285,
+    "sh": 8,
+    "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 2,
-    "shots_off_target": 2
+    "shot_pct": 37.5,
+    "shots_saved": 3,
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4819,6 +5128,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 57,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4828,10 +5156,10 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1130,
-    "sh": 10,
+    "gp": 16,
+    "starts": 14,
+    "min": 1188,
+    "sh": 11,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -4839,9 +5167,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 36.4,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5128,6 +5456,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 58,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5137,9 +5484,9 @@
    "num": "29",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 207,
+    "min": 221,
     "sh": 3,
     "sog": 3,
     "g": 0,
@@ -5361,6 +5708,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "29",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5370,20 +5736,20 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 11,
-    "min": 896,
-    "sh": 13,
+    "gp": 16,
+    "starts": 12,
+    "min": 986,
+    "sh": 14,
     "sog": 7,
     "g": 3,
-    "a": 1,
-    "fouls": 9,
+    "a": 2,
+    "fouls": 11,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.8,
+    "shot_pct": 50.0,
     "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5667,6 +6033,25 @@
      "g": 1,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Louisiana Tech",
+     "home": false,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

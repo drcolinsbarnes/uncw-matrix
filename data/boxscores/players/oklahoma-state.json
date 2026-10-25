@@ -9,9 +9,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 899,
+    "gp": 12,
+    "starts": 11,
+    "min": 989,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 16,
-     "saves": 32,
-     "save_pct": 66.7
+     "gp": 12,
+     "ga": 18,
+     "saves": 35,
+     "save_pct": 66.0
     }
    },
    "matches": [
@@ -277,6 +277,30 @@
      "home": true,
      "result": "L",
      "score": "1-2",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
      "start": true,
      "pos": "GK",
      "num": "00",
@@ -560,20 +584,20 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 793,
-    "sh": 31,
-    "sog": 10,
-    "g": 5,
+    "gp": 13,
+    "starts": 13,
+    "min": 872,
+    "sh": 34,
+    "sog": 11,
+    "g": 6,
     "a": 2,
-    "fouls": 14,
+    "fouls": 17,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 32.3,
+    "shot_pct": 32.4,
     "shots_saved": 5,
-    "shots_off_target": 21
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -803,6 +827,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 79,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -812,9 +855,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 1040,
+    "gp": 14,
+    "starts": 12,
+    "min": 1130,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -1074,6 +1117,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1083,10 +1145,10 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
-    "starts": 5,
-    "min": 485,
-    "sh": 3,
+    "gp": 8,
+    "starts": 6,
+    "min": 565,
+    "sh": 4,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1096,7 +1158,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1231,6 +1293,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 80,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1240,14 +1321,14 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1104,
+    "gp": 15,
+    "starts": 15,
+    "min": 1184,
     "sh": 9,
     "sog": 5,
     "g": 2,
     "a": 5,
-    "fouls": 14,
+    "fouls": 15,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
@@ -1521,6 +1602,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1530,15 +1630,15 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1223,
+    "gp": 15,
+    "starts": 15,
+    "min": 1313,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 1,
     "fouls": 16,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -1811,6 +1911,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1820,20 +1939,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 518,
-    "sh": 20,
-    "sog": 8,
-    "g": 2,
+    "min": 552,
+    "sh": 23,
+    "sog": 9,
+    "g": 3,
     "a": 4,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 39.1,
     "shots_saved": 6,
-    "shots_off_target": 12
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -2101,6 +2220,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 34,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2110,19 +2248,19 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 2,
-    "min": 400,
-    "sh": 16,
-    "sog": 3,
+    "gp": 12,
+    "starts": 3,
+    "min": 450,
+    "sh": 17,
+    "sog": 4,
     "g": 1,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 18.8,
-    "shots_saved": 2,
+    "shot_pct": 23.5,
+    "shots_saved": 3,
     "shots_off_target": 13
    },
    "matches": [
@@ -2334,6 +2472,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 50,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2343,9 +2500,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 540,
+    "gp": 9,
+    "starts": 9,
+    "min": 566,
     "sh": 8,
     "sog": 4,
     "g": 3,
@@ -2502,6 +2659,25 @@
      "pos": "MID",
      "num": "24",
      "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 26,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2807,9 +2983,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 497,
+    "gp": 10,
+    "starts": 8,
+    "min": 587,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2993,6 +3169,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3002,20 +3197,20 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 969,
-    "sh": 35,
-    "sog": 18,
+    "gp": 15,
+    "starts": 14,
+    "min": 1056,
+    "sh": 37,
+    "sog": 19,
     "g": 4,
     "a": 1,
-    "fouls": 10,
+    "fouls": 12,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 51.4,
-    "shots_saved": 14,
-    "shots_off_target": 17
+    "shots_saved": 15,
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -3283,6 +3478,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 87,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3292,20 +3506,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 99,
-    "sh": 1,
+    "min": 144,
+    "sh": 2,
     "sog": 0,
     "g": 0,
-    "a": 0,
-    "fouls": 1,
+    "a": 1,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3383,6 +3597,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 45,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3392,9 +3625,9 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 5,
-    "min": 441,
+    "min": 452,
     "sh": 15,
     "sog": 6,
     "g": 3,
@@ -3654,6 +3887,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "31",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3663,14 +3915,14 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 2,
-    "min": 505,
+    "min": 524,
     "sh": 13,
     "sog": 4,
     "g": 0,
     "a": 1,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3941,6 +4193,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "",
+     "num": "16",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -4362,9 +4633,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 4,
-    "min": 600,
+    "min": 610,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4605,6 +4876,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "21",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4614,20 +4904,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 282,
-    "sh": 9,
+    "min": 322,
+    "sh": 10,
     "sog": 5,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 50.0,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4819,6 +5109,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "",
+     "num": "23",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4828,9 +5137,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 188,
+    "min": 198,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4976,6 +5285,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "13",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4985,20 +5313,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1037,
-    "sh": 33,
+    "gp": 15,
+    "starts": 15,
+    "min": 1096,
+    "sh": 34,
     "sog": 7,
     "g": 4,
     "a": 1,
-    "fouls": 12,
+    "fouls": 13,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 21.2,
+    "shot_pct": 20.6,
     "shots_saved": 3,
-    "shots_off_target": 26
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -5266,6 +5594,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Utah",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 59,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },

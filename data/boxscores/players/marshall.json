@@ -9,10 +9,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 4,
-    "min": 459,
-    "sh": 4,
+    "min": 480,
+    "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -22,7 +22,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -271,6 +271,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 21,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -280,10 +299,10 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 1124,
-    "sh": 4,
+    "gp": 15,
+    "starts": 13,
+    "min": 1214,
+    "sh": 5,
     "sog": 4,
     "g": 3,
     "a": 0,
@@ -291,9 +310,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 80.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -561,6 +580,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -570,9 +608,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1260,
+    "gp": 15,
+    "starts": 15,
+    "min": 1350,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -585,10 +623,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
-     "ga": 19,
-     "saves": 54,
-     "save_pct": 74.0
+     "gp": 15,
+     "ga": 21,
+     "saves": 57,
+     "save_pct": 73.1
     }
    },
    "matches": [
@@ -927,6 +965,30 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -934,7 +996,7 @@
    "name": "Fisher, Bailey",
    "slug": "fisher-bailey",
    "num": "7",
-   "pos": "FWD",
+   "pos": "MID",
    "totals": {
     "gp": 2,
     "starts": 2,
@@ -1269,20 +1331,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 12,
-    "min": 882,
-    "sh": 20,
-    "sog": 7,
+    "gp": 16,
+    "starts": 13,
+    "min": 956,
+    "sh": 23,
+    "sog": 9,
     "g": 3,
     "a": 2,
     "fouls": 11,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.0,
-    "shots_saved": 4,
-    "shots_off_target": 13
+    "shot_pct": 39.1,
+    "shots_saved": 6,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -1569,6 +1631,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 74,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1621,19 +1702,19 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 7,
-    "min": 686,
-    "sh": 13,
-    "sog": 5,
+    "gp": 11,
+    "starts": 8,
+    "min": 765,
+    "sh": 15,
+    "sog": 7,
     "g": 2,
     "a": 4,
     "fouls": 7,
     "yc": 2,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 3,
+    "shot_pct": 46.7,
+    "shots_saved": 5,
     "shots_off_target": 8
    },
    "matches": [
@@ -1826,6 +1907,25 @@
      "yc": 1,
      "rc": 1,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 79,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1835,19 +1935,19 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 11,
-    "min": 1039,
-    "sh": 11,
-    "sog": 5,
+    "gp": 16,
+    "starts": 12,
+    "min": 1113,
+    "sh": 12,
+    "sog": 6,
     "g": 0,
     "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 5,
+    "shot_pct": 50.0,
+    "shots_saved": 6,
     "shots_off_target": 6
    },
    "matches": [
@@ -2135,6 +2235,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 74,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2374,20 +2493,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1037,
-    "sh": 52,
-    "sog": 19,
+    "gp": 16,
+    "starts": 15,
+    "min": 1117,
+    "sh": 54,
+    "sog": 20,
     "g": 7,
     "a": 3,
     "fouls": 16,
     "yc": 4,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 36.5,
-    "shots_saved": 12,
-    "shots_off_target": 33
+    "shot_pct": 37.0,
+    "shots_saved": 13,
+    "shots_off_target": 34
    },
    "matches": [
     {
@@ -2674,6 +2793,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 80,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2683,9 +2821,9 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 11,
-    "min": 973,
+    "gp": 16,
+    "starts": 12,
+    "min": 1054,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -2983,6 +3121,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3187,9 +3344,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 314,
+    "min": 322,
     "sh": 6,
     "sog": 4,
     "g": 0,
@@ -3411,6 +3568,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3474,10 +3650,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 9,
-    "min": 921,
-    "sh": 14,
+    "min": 963,
+    "sh": 15,
     "sog": 9,
     "g": 2,
     "a": 0,
@@ -3485,9 +3661,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
+    "shot_pct": 60.0,
     "shots_saved": 7,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -3774,6 +3950,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 42,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3864,19 +4059,19 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 11,
-    "min": 1045,
-    "sh": 11,
-    "sog": 6,
+    "gp": 16,
+    "starts": 12,
+    "min": 1096,
+    "sh": 12,
+    "sog": 7,
     "g": 3,
     "a": 4,
     "fouls": 14,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
-    "shots_saved": 3,
+    "shot_pct": 58.3,
+    "shots_saved": 4,
     "shots_off_target": 5
    },
    "matches": [
@@ -4164,6 +4359,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 51,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4173,9 +4387,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 3,
-    "min": 194,
+    "min": 210,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4313,6 +4527,25 @@
      "pos": "DEF",
      "num": "5",
      "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 16,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -4492,9 +4725,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1123,
+    "gp": 16,
+    "starts": 16,
+    "min": 1213,
     "sh": 5,
     "sog": 3,
     "g": 0,
@@ -4792,6 +5025,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4801,10 +5053,10 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 7,
-    "min": 768,
-    "sh": 2,
+    "gp": 15,
+    "starts": 8,
+    "min": 858,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 2,
@@ -4814,7 +5066,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -5082,6 +5334,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5091,10 +5362,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 8,
-    "min": 710,
-    "sh": 10,
+    "gp": 16,
+    "starts": 9,
+    "min": 767,
+    "sh": 11,
     "sog": 3,
     "g": 0,
     "a": 3,
@@ -5102,9 +5373,9 @@
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.0,
+    "shot_pct": 27.3,
     "shots_saved": 3,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -5391,6 +5662,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5481,19 +5771,19 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 291,
-    "sh": 4,
-    "sog": 2,
+    "min": 338,
+    "sh": 5,
+    "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 60.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -5621,6 +5911,25 @@
      "pos": "MID",
      "num": "27",
      "min": 56,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Georgia State",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 47,
      "sh": 1,
      "sog": 1,
      "g": 0,

@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 997,
+    "gp": 13,
+    "starts": 13,
+    "min": 1087,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,7 +24,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 23,
      "saves": 48,
      "save_pct": 67.6
@@ -318,6 +318,30 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -327,20 +351,20 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 465,
-    "sh": 4,
+    "gp": 12,
+    "starts": 6,
+    "min": 519,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 1,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -549,6 +573,25 @@
      "a": 1,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 54,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -1007,20 +1050,20 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 10,
-    "min": 547,
-    "sh": 26,
-    "sog": 15,
-    "g": 9,
+    "gp": 11,
+    "starts": 11,
+    "min": 585,
+    "sh": 29,
+    "sog": 16,
+    "g": 10,
     "a": 1,
     "fouls": 0,
     "yc": 2,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 57.7,
+    "shot_pct": 55.2,
     "shots_saved": 6,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -1212,6 +1255,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 38,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1221,9 +1283,9 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 642,
+    "gp": 13,
+    "starts": 13,
+    "min": 707,
     "sh": 8,
     "sog": 3,
     "g": 2,
@@ -1464,6 +1526,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1473,15 +1554,15 @@
    "num": "26",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 2,
-    "min": 417,
+    "min": 477,
     "sh": 10,
     "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -1678,6 +1759,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 60,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1687,10 +1787,10 @@
    "num": "14",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 440,
-    "sh": 2,
+    "min": 474,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -1698,9 +1798,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1911,6 +2011,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "def",
+     "num": "14",
+     "min": 34,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1920,19 +2039,19 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 428,
-    "sh": 8,
-    "sog": 7,
-    "g": 1,
+    "min": 479,
+    "sh": 10,
+    "sog": 9,
+    "g": 2,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 87.5,
-    "shots_saved": 6,
+    "shot_pct": 90.0,
+    "shots_saved": 7,
     "shots_off_target": 1
    },
    "matches": [
@@ -2163,6 +2282,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "3",
+     "min": 51,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2172,10 +2310,10 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1003,
-    "sh": 5,
+    "gp": 13,
+    "starts": 13,
+    "min": 1093,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -2183,9 +2321,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -2415,6 +2553,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2424,9 +2581,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 5,
-    "min": 752,
+    "gp": 13,
+    "starts": 6,
+    "min": 842,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -2667,6 +2824,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2676,20 +2852,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 6,
-    "min": 584,
-    "sh": 9,
-    "sog": 5,
-    "g": 0,
+    "gp": 13,
+    "starts": 7,
+    "min": 639,
+    "sh": 11,
+    "sog": 6,
+    "g": 1,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
+    "shot_pct": 54.5,
     "shots_saved": 5,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -2919,6 +3095,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 55,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2928,15 +3123,15 @@
    "num": "2",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 3,
-    "min": 387,
+    "min": 423,
     "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 25.0,
@@ -3152,6 +3347,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "2",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3161,13 +3375,13 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 844,
+    "gp": 13,
+    "starts": 13,
+    "min": 934,
     "sh": 5,
     "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
@@ -3404,6 +3618,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3411,7 +3644,7 @@
    "name": "Mathis, Aliyah",
    "slug": "mathis-aliyah",
    "num": "23",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -3475,9 +3708,9 @@
    "num": "4",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 362,
+    "min": 363,
     "sh": 9,
     "sog": 6,
     "g": 0,
@@ -3661,6 +3894,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "4",
+     "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3670,15 +3922,15 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
-    "starts": 4,
-    "min": 444,
+    "gp": 13,
+    "starts": 5,
+    "min": 498,
     "sh": 6,
     "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 66.7,
@@ -3911,6 +4163,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -4406,9 +4677,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 901,
+    "gp": 12,
+    "starts": 12,
+    "min": 991,
     "sh": 2,
     "sog": 2,
     "g": 1,
@@ -4628,6 +4899,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -4891,9 +5181,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 5,
-    "min": 414,
+    "min": 449,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5115,6 +5405,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5167,20 +5476,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 6,
-    "min": 407,
-    "sh": 10,
-    "sog": 4,
+    "gp": 13,
+    "starts": 7,
+    "min": 464,
+    "sh": 13,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 4,
-    "shots_off_target": 6
+    "shot_pct": 38.5,
+    "shots_saved": 5,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -5404,6 +5713,25 @@
      "min": 16,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Texas Southern",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 57,
+     "sh": 3,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

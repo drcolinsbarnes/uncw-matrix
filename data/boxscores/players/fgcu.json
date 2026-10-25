@@ -9,9 +9,9 @@
    "num": "20",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 3,
-    "min": 549,
+    "min": 592,
     "sh": 14,
     "sog": 7,
     "g": 2,
@@ -290,6 +290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -299,19 +318,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 823,
-    "sh": 25,
-    "sog": 13,
-    "g": 2,
+    "gp": 15,
+    "starts": 13,
+    "min": 869,
+    "sh": 27,
+    "sog": 15,
+    "g": 3,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.0,
-    "shots_saved": 11,
+    "shot_pct": 55.6,
+    "shots_saved": 12,
     "shots_off_target": 12
    },
    "matches": [
@@ -580,6 +599,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 46,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -632,9 +670,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1220,
+    "gp": 15,
+    "starts": 15,
+    "min": 1310,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -647,10 +685,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
+     "gp": 15,
      "ga": 15,
-     "saves": 41,
-     "save_pct": 73.2
+     "saves": 46,
+     "save_pct": 75.4
     }
    },
    "matches": [
@@ -989,6 +1027,30 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -998,13 +1060,13 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1256,
+    "gp": 15,
+    "starts": 15,
+    "min": 1346,
     "sh": 10,
     "sog": 3,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
@@ -1279,6 +1341,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Boyd, Ava",
+   "slug": "boyd-ava",
+   "num": "31",
+   "pos": "fwd",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 3,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "31",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1286,11 +1410,11 @@
    "name": "Brooks, Tessa",
    "slug": "brooks-tessa",
    "num": "9",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 7,
-    "min": 684,
+    "min": 745,
     "sh": 15,
     "sog": 4,
     "g": 1,
@@ -1561,6 +1685,25 @@
      "pos": "mid",
      "num": "9",
      "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 61,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2128,9 +2271,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1222,
+    "gp": 15,
+    "starts": 15,
+    "min": 1312,
     "sh": 19,
     "sog": 8,
     "g": 2,
@@ -2409,6 +2552,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2518,15 +2680,15 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 716,
+    "gp": 15,
+    "starts": 13,
+    "min": 754,
     "sh": 18,
     "sog": 8,
     "g": 6,
     "a": 3,
     "fouls": 1,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -2799,6 +2961,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2894,20 +3075,20 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1157,
-    "sh": 37,
-    "sog": 15,
+    "gp": 15,
+    "starts": 15,
+    "min": 1247,
+    "sh": 39,
+    "sog": 16,
     "g": 3,
     "a": 2,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.5,
-    "shots_saved": 12,
-    "shots_off_target": 22
+    "shot_pct": 41.0,
+    "shots_saved": 13,
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -3175,6 +3356,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3184,9 +3384,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 257,
+    "min": 273,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -3465,6 +3665,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3474,9 +3693,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1013,
+    "gp": 14,
+    "starts": 14,
+    "min": 1103,
     "sh": 18,
     "sog": 8,
     "g": 3,
@@ -3736,6 +3955,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3969,15 +4207,15 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 669,
+    "gp": 15,
+    "starts": 11,
+    "min": 730,
     "sh": 27,
     "sog": 12,
     "g": 3,
     "a": 6,
     "fouls": 0,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -4250,6 +4488,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 61,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4259,9 +4516,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 13,
-    "starts": 4,
-    "min": 403,
+    "gp": 14,
+    "starts": 5,
+    "min": 457,
     "sh": 6,
     "sog": 4,
     "g": 1,
@@ -4521,6 +4778,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4573,9 +4849,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1102,
+    "gp": 14,
+    "starts": 14,
+    "min": 1192,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4835,6 +5111,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4844,10 +5139,10 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1225,
-    "sh": 5,
+    "gp": 15,
+    "starts": 15,
+    "min": 1315,
+    "sh": 6,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -4855,9 +5150,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -5125,6 +5420,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5134,9 +5448,9 @@
    "num": "22",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 199,
+    "min": 209,
     "sh": 14,
     "sog": 9,
     "g": 2,
@@ -5370,6 +5684,25 @@
      "num": "22",
      "min": 23,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "22",
+     "min": 10,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -5693,9 +6026,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 4,
-    "min": 333,
+    "min": 342,
     "sh": 8,
     "sog": 2,
     "g": 0,
@@ -5936,6 +6269,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5945,10 +6297,10 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 492,
-    "sh": 5,
+    "min": 511,
+    "sh": 6,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -5956,9 +6308,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -6219,6 +6571,25 @@
      "num": "6",
      "min": 21,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-22",
+     "opponent": "Jacksonville",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 19,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
