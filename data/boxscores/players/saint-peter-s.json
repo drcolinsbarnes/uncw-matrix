@@ -9,19 +9,19 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
-    "starts": 2,
-    "min": 153,
-    "sh": 1,
-    "sog": 0,
+    "gp": 4,
+    "starts": 3,
+    "min": 178,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -75,6 +75,25 @@
      "min": 26,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "24",
+     "min": 25,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -285,9 +304,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 11,
-    "min": 997,
+    "min": 1021,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -566,6 +585,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -737,10 +775,10 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 4,
-    "min": 275,
-    "sh": 1,
+    "gp": 8,
+    "starts": 5,
+    "min": 322,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -748,9 +786,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -885,6 +923,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 47,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -894,9 +951,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1211,
+    "gp": 15,
+    "starts": 15,
+    "min": 1283,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1175,6 +1232,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1182,11 +1258,11 @@
    "name": "Fries, Savanna",
    "slug": "fries-savanna",
    "num": "21",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 2,
-    "min": 81,
+    "min": 90,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1294,6 +1370,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "21",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1303,20 +1398,20 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1148,
-    "sh": 5,
-    "sog": 2,
+    "gp": 15,
+    "starts": 14,
+    "min": 1238,
+    "sh": 7,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 1,
-    "shots_off_target": 3
+    "shot_pct": 42.9,
+    "shots_saved": 2,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1584,6 +1679,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1593,9 +1707,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 7,
-    "min": 626,
+    "min": 678,
     "sh": 10,
     "sog": 3,
     "g": 2,
@@ -1760,6 +1874,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1769,9 +1902,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 965,
+    "gp": 12,
+    "starts": 11,
+    "min": 1055,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1784,10 +1917,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
-     "ga": 22,
-     "saves": 86,
-     "save_pct": 79.6
+     "gp": 12,
+     "ga": 25,
+     "saves": 89,
+     "save_pct": 78.1
     }
    },
    "matches": [
@@ -2054,6 +2187,30 @@
       "ga": 2,
       "saves": 7
      }
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 3
+     }
     }
    ]
   },
@@ -2063,13 +2220,13 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 500,
+    "min": 559,
     "sh": 9,
     "sog": 6,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
@@ -2306,6 +2463,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "12",
+     "min": 59,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2453,9 +2629,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1105,
+    "gp": 14,
+    "starts": 14,
+    "min": 1195,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -2715,6 +2891,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2724,20 +2919,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 1138,
-    "sh": 30,
-    "sog": 18,
-    "g": 3,
+    "gp": 15,
+    "starts": 14,
+    "min": 1228,
+    "sh": 33,
+    "sog": 20,
+    "g": 4,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 15,
-    "shots_off_target": 12
+    "shot_pct": 60.6,
+    "shots_saved": 16,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -3005,6 +3200,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3014,19 +3228,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 1039,
-    "sh": 21,
-    "sog": 10,
-    "g": 1,
+    "gp": 15,
+    "starts": 12,
+    "min": 1111,
+    "sh": 23,
+    "sog": 12,
+    "g": 2,
     "a": 2,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.6,
-    "shots_saved": 9,
+    "shot_pct": 52.2,
+    "shots_saved": 10,
     "shots_off_target": 11
    },
    "matches": [
@@ -3295,6 +3509,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 72,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3304,19 +3537,19 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 4,
-    "min": 327,
-    "sh": 4,
-    "sog": 1,
+    "min": 336,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -3547,6 +3780,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 9,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3554,12 +3806,12 @@
    "name": "Ragland, Sydney",
    "slug": "ragland-sydney",
    "num": "22",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 4,
-    "min": 542,
-    "sh": 3,
+    "gp": 13,
+    "starts": 5,
+    "min": 591,
+    "sh": 4,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -3567,9 +3819,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 3,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3792,6 +4044,25 @@
      "num": "22",
      "min": 47,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 49,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -4091,9 +4362,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1069,
+    "gp": 14,
+    "starts": 14,
+    "min": 1159,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -4353,6 +4624,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4360,11 +4650,11 @@
    "name": "Viggiano, Elise",
    "slug": "viggiano-elise",
    "num": "8",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 10,
-    "min": 819,
+    "min": 857,
     "sh": 11,
     "sog": 7,
     "g": 2,
@@ -4643,6 +4933,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4652,9 +4961,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 5,
-    "min": 498,
+    "gp": 10,
+    "starts": 6,
+    "min": 582,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -4830,6 +5139,25 @@
      "pos": "def",
      "num": "3",
      "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Canisius",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 84,
      "sh": 0,
      "sog": 0,
      "g": 0,
