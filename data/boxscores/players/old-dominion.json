@@ -52,9 +52,9 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 7,
-    "min": 589,
+    "min": 644,
     "sh": 11,
     "sog": 5,
     "g": 0,
@@ -295,6 +295,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "M",
+     "num": "12",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -304,9 +323,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 5,
-    "min": 314,
+    "min": 356,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -319,10 +338,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 4,
+     "gp": 5,
      "ga": 4,
-     "saves": 7,
-     "save_pct": 63.6
+     "saves": 10,
+     "save_pct": 71.4
     }
    },
    "matches": [
@@ -440,6 +459,30 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "GK",
+     "num": "1",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "42:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -449,20 +492,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 7,
-    "min": 558,
-    "sh": 15,
-    "sog": 9,
-    "g": 4,
+    "gp": 13,
+    "starts": 8,
+    "min": 602,
+    "sh": 18,
+    "sog": 10,
+    "g": 5,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 55.6,
     "shots_saved": 5,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -692,6 +735,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "F",
+     "num": "18",
+     "min": 44,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -742,7 +804,7 @@
    "name": "Flammia, Molly",
    "slug": "flammia-molly",
    "num": "33",
-   "pos": "M",
+   "pos": "MID",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -806,9 +868,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 1125,
+    "gp": 15,
+    "starts": 12,
+    "min": 1173,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -821,10 +883,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
+     "gp": 14,
      "ga": 8,
-     "saves": 23,
-     "save_pct": 74.2
+     "saves": 24,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -1158,6 +1220,30 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "48:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1476,10 +1562,10 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 888,
-    "sh": 9,
+    "gp": 12,
+    "starts": 11,
+    "min": 978,
+    "sh": 10,
     "sog": 4,
     "g": 1,
     "a": 1,
@@ -1487,9 +1573,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
+    "shot_pct": 40.0,
     "shots_saved": 3,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1697,6 +1783,25 @@
      "g": 0,
      "a": 1,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "D",
+     "num": "6",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2078,16 +2183,16 @@
    "name": "Kline, Emerson",
    "slug": "kline-emerson",
    "num": "25",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 204,
+    "min": 208,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -2247,6 +2352,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "F",
+     "num": "25",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2256,20 +2380,20 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1424,
-    "sh": 9,
-    "sog": 2,
+    "gp": 17,
+    "starts": 17,
+    "min": 1514,
+    "sh": 11,
+    "sog": 3,
     "g": 0,
     "a": 0,
-    "fouls": 10,
+    "fouls": 12,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 2,
-    "shots_off_target": 7
+    "shot_pct": 27.3,
+    "shots_saved": 3,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2575,6 +2699,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "D",
+     "num": "14",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2584,9 +2727,9 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 2,
-    "min": 459,
+    "min": 500,
     "sh": 15,
     "sog": 5,
     "g": 2,
@@ -2884,6 +3027,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "F",
+     "num": "24",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2893,14 +3055,14 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 12,
-    "min": 991,
+    "gp": 17,
+    "starts": 13,
+    "min": 1062,
     "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 3,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
@@ -3212,6 +3374,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "M",
+     "num": "7",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3221,20 +3402,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1435,
-    "sh": 9,
-    "sog": 3,
-    "g": 1,
+    "gp": 17,
+    "starts": 17,
+    "min": 1525,
+    "sh": 12,
+    "sog": 4,
+    "g": 2,
     "a": 2,
-    "fouls": 9,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3540,6 +3721,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "D",
+     "num": "5",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3549,10 +3749,10 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 11,
-    "min": 780,
-    "sh": 21,
+    "min": 826,
+    "sh": 22,
     "sog": 13,
     "g": 6,
     "a": 0,
@@ -3560,9 +3760,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 3,
-    "shot_pct": 61.9,
+    "shot_pct": 59.1,
     "shots_saved": 7,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3868,6 +4068,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "F",
+     "num": "19",
+     "min": 46,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3877,20 +4096,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 784,
-    "sh": 26,
-    "sog": 11,
+    "gp": 13,
+    "starts": 11,
+    "min": 833,
+    "sh": 31,
+    "sog": 12,
     "g": 3,
     "a": 3,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.3,
-    "shots_saved": 8,
-    "shots_off_target": 15
+    "shot_pct": 38.7,
+    "shots_saved": 9,
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -4120,6 +4339,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "M",
+     "num": "8",
+     "min": 49,
+     "sh": 5,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4129,9 +4367,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 313,
+    "min": 358,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4372,6 +4610,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "M",
+     "num": "23",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4379,11 +4636,11 @@
    "name": "Richardson, Ally",
    "slug": "richardson-ally",
    "num": "9",
-   "pos": "MID",
+   "pos": "MD",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1155,
+    "gp": 17,
+    "starts": 17,
+    "min": 1245,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -4700,6 +4957,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MD",
+     "num": "9",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4885,19 +5161,19 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 2,
-    "min": 285,
-    "sh": 8,
-    "sog": 3,
+    "gp": 14,
+    "starts": 3,
+    "min": 315,
+    "sh": 9,
+    "sog": 4,
     "g": 0,
-    "a": 0,
-    "fouls": 2,
-    "yc": 1,
+    "a": 1,
+    "fouls": 3,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 3,
+    "shot_pct": 44.4,
+    "shots_saved": 4,
     "shots_off_target": 5
    },
    "matches": [
@@ -5147,6 +5423,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "M",
+     "num": "21",
+     "min": 30,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5156,13 +5451,13 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 1188,
+    "gp": 17,
+    "starts": 15,
+    "min": 1252,
     "sh": 11,
     "sog": 4,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 9,
     "yc": 0,
     "rc": 0,
@@ -5475,6 +5770,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "D",
+     "num": "4",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5736,20 +6050,20 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 12,
-    "min": 986,
-    "sh": 14,
-    "sog": 7,
+    "gp": 17,
+    "starts": 13,
+    "min": 1076,
+    "sh": 17,
+    "sog": 8,
     "g": 3,
     "a": 2,
     "fouls": 11,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 47.1,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -6052,6 +6366,25 @@
      "g": 0,
      "a": 1,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Coastal Carolina",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "M",
+     "num": "26",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

@@ -9,20 +9,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1198,
-    "sh": 34,
-    "sog": 19,
+    "gp": 17,
+    "starts": 17,
+    "min": 1288,
+    "sh": 36,
+    "sog": 20,
     "g": 10,
     "a": 3,
     "fouls": 5,
     "yc": 2,
     "rc": 0,
     "pk_g": 4,
-    "shot_pct": 55.9,
-    "shots_saved": 9,
-    "shots_off_target": 15
+    "shot_pct": 55.6,
+    "shots_saved": 10,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -328,6 +328,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -337,10 +356,10 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 601,
-    "sh": 1,
+    "min": 659,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -348,9 +367,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -615,6 +634,25 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "def",
+     "num": "11",
+     "min": 58,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -960,9 +998,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 136,
+    "min": 144,
     "sh": 4,
     "sog": 3,
     "g": 0,
@@ -1089,6 +1127,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1098,9 +1155,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1255,
+    "gp": 17,
+    "starts": 16,
+    "min": 1345,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1113,10 +1170,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 16,
-     "ga": 22,
-     "saves": 56,
-     "save_pct": 71.8
+     "gp": 17,
+     "ga": 24,
+     "saves": 59,
+     "save_pct": 71.1
     }
    },
    "matches": [
@@ -1503,6 +1560,30 @@
       "ga": 4,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1512,9 +1593,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 10,
-    "min": 886,
+    "min": 935,
     "sh": 10,
     "sog": 1,
     "g": 0,
@@ -1793,6 +1874,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "",
+     "num": "5",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1802,20 +1902,20 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 884,
-    "sh": 11,
+    "gp": 13,
+    "starts": 13,
+    "min": 959,
+    "sh": 12,
     "sog": 1,
     "g": 1,
     "a": 1,
     "fouls": 12,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 9.1,
+    "shot_pct": 8.3,
     "shots_saved": 0,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2045,6 +2145,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 75,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2054,9 +2173,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 455,
+    "gp": 11,
+    "starts": 6,
+    "min": 522,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2259,6 +2378,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2268,9 +2406,9 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 10,
-    "min": 658,
+    "min": 684,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -2587,6 +2725,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "def",
+     "num": "27",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2639,9 +2796,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 6,
-    "min": 622,
+    "gp": 17,
+    "starts": 7,
+    "min": 658,
     "sh": 8,
     "sog": 3,
     "g": 0,
@@ -2950,6 +3107,25 @@
      "pos": "MID",
      "num": "22",
      "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 36,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3357,9 +3533,9 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 341,
+    "min": 353,
     "sh": 7,
     "sog": 3,
     "g": 1,
@@ -3619,6 +3795,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "29",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3628,9 +3823,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 204,
+    "min": 207,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -3871,6 +4066,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "9",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3880,9 +4094,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 11,
-    "min": 829,
+    "min": 860,
     "sh": 19,
     "sog": 8,
     "g": 1,
@@ -4180,6 +4394,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4189,9 +4422,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1293,
+    "gp": 17,
+    "starts": 16,
+    "min": 1325,
     "sh": 5,
     "sog": 1,
     "g": 0,
@@ -4508,6 +4741,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4517,19 +4769,19 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 10,
-    "min": 1003,
-    "sh": 19,
-    "sog": 6,
+    "gp": 17,
+    "starts": 11,
+    "min": 1076,
+    "sh": 22,
+    "sog": 9,
     "g": 2,
     "a": 2,
     "fouls": 15,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.6,
-    "shots_saved": 4,
+    "shot_pct": 40.9,
+    "shots_saved": 7,
     "shots_off_target": 13
    },
    "matches": [
@@ -4836,6 +5088,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 73,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4845,9 +5116,9 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 13,
-    "min": 1216,
+    "gp": 17,
+    "starts": 14,
+    "min": 1306,
     "sh": 1,
     "sog": 1,
     "g": 1,
@@ -5164,6 +5435,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5173,10 +5463,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1099,
-    "sh": 17,
+    "gp": 17,
+    "starts": 17,
+    "min": 1169,
+    "sh": 18,
     "sog": 9,
     "g": 2,
     "a": 2,
@@ -5184,9 +5474,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.9,
+    "shot_pct": 50.0,
     "shots_saved": 7,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -5492,6 +5782,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 70,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5651,10 +5960,10 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 1002,
-    "sh": 30,
+    "gp": 17,
+    "starts": 15,
+    "min": 1092,
+    "sh": 34,
     "sog": 10,
     "g": 2,
     "a": 2,
@@ -5662,9 +5971,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 29.4,
     "shots_saved": 8,
-    "shots_off_target": 20
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -5970,6 +6279,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 90,
+     "sh": 4,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5979,19 +6307,19 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1259,
-    "sh": 11,
-    "sog": 4,
+    "gp": 17,
+    "starts": 16,
+    "min": 1349,
+    "sh": 12,
+    "sog": 5,
     "g": 2,
     "a": 2,
     "fouls": 10,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
-    "shots_saved": 2,
+    "shot_pct": 41.7,
+    "shots_saved": 3,
     "shots_off_target": 7
    },
    "matches": [
@@ -6295,6 +6623,25 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Campbell",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

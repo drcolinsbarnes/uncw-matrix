@@ -63,20 +63,20 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 9,
-    "min": 776,
-    "sh": 5,
+    "min": 824,
+    "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 2,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -325,6 +325,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 48,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -334,14 +353,14 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 12,
-    "min": 1033,
+    "gp": 17,
+    "starts": 13,
+    "min": 1112,
     "sh": 7,
     "sog": 6,
     "g": 3,
     "a": 0,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -653,6 +672,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -662,9 +700,9 @@
    "num": "80",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1395,
+    "gp": 17,
+    "starts": 16,
+    "min": 1485,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -677,10 +715,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 16,
-     "ga": 21,
-     "saves": 66,
-     "save_pct": 75.9
+     "gp": 17,
+     "ga": 24,
+     "saves": 71,
+     "save_pct": 74.7
     }
    },
    "matches": [
@@ -1067,6 +1105,30 @@
       "ga": 0,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "GK",
+     "num": "80",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 5
+     }
     }
    ]
   },
@@ -1271,9 +1333,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 7,
-    "min": 533,
+    "min": 559,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -1571,6 +1633,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1580,9 +1661,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 8,
-    "min": 779,
+    "gp": 14,
+    "starts": 9,
+    "min": 814,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1842,6 +1923,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1851,9 +1951,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 74,
+    "min": 85,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1980,6 +2080,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "23",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1989,14 +2108,14 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 100,
+    "min": 108,
     "sh": 3,
     "sog": 3,
     "g": 1,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2118,6 +2237,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2127,20 +2265,20 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 337,
-    "sh": 12,
-    "sog": 5,
+    "min": 361,
+    "sh": 15,
+    "sog": 6,
     "g": 2,
     "a": 1,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 3,
-    "shots_off_target": 7
+    "shot_pct": 40.0,
+    "shots_saved": 4,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2351,6 +2489,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "25",
+     "min": 24,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2360,9 +2517,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 161,
+    "min": 203,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2470,6 +2627,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2479,14 +2655,14 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 12,
-    "min": 946,
+    "gp": 17,
+    "starts": 13,
+    "min": 988,
     "sh": 10,
     "sog": 4,
     "g": 0,
     "a": 1,
-    "fouls": 16,
+    "fouls": 17,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -2798,6 +2974,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2807,10 +3002,10 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 13,
-    "min": 985,
-    "sh": 9,
+    "gp": 17,
+    "starts": 14,
+    "min": 1049,
+    "sh": 10,
     "sog": 3,
     "g": 0,
     "a": 3,
@@ -2818,9 +3013,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 30.0,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -3126,6 +3321,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 64,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3135,15 +3349,15 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 2,
-    "min": 586,
+    "min": 627,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 2,
     "fouls": 5,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
@@ -3414,6 +3628,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "18",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -3853,20 +4086,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 7,
-    "min": 551,
-    "sh": 19,
-    "sog": 6,
+    "gp": 16,
+    "starts": 8,
+    "min": 605,
+    "sh": 23,
+    "sog": 9,
     "g": 1,
     "a": 1,
-    "fouls": 4,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.6,
-    "shots_saved": 5,
-    "shots_off_target": 13
+    "shot_pct": 39.1,
+    "shots_saved": 8,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -4153,6 +4386,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 54,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4243,19 +4495,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 9,
-    "min": 895,
-    "sh": 10,
-    "sog": 3,
+    "gp": 17,
+    "starts": 10,
+    "min": 966,
+    "sh": 11,
+    "sog": 4,
     "g": 2,
     "a": 4,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 30.0,
-    "shots_saved": 1,
+    "shot_pct": 36.4,
+    "shots_saved": 2,
     "shots_off_target": 7
    },
    "matches": [
@@ -4562,6 +4814,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 71,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4571,20 +4842,20 @@
    "num": "28",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 8,
-    "min": 449,
-    "sh": 7,
-    "sog": 4,
-    "g": 2,
+    "gp": 14,
+    "starts": 9,
+    "min": 504,
+    "sh": 9,
+    "sog": 5,
+    "g": 3,
     "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
+    "shot_pct": 55.6,
     "shots_saved": 2,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -4833,6 +5104,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "28",
+     "min": 55,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4842,9 +5132,9 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 6,
-    "min": 598,
+    "gp": 16,
+    "starts": 7,
+    "min": 630,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -5142,6 +5432,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5151,9 +5460,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 10,
-    "min": 823,
+    "min": 871,
     "sh": 17,
     "sog": 6,
     "g": 1,
@@ -5470,6 +5779,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 48,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5479,20 +5807,20 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 9,
-    "min": 702,
-    "sh": 41,
+    "gp": 15,
+    "starts": 10,
+    "min": 778,
+    "sh": 44,
     "sog": 17,
     "g": 2,
     "a": 2,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.5,
+    "shot_pct": 38.6,
     "shots_saved": 15,
-    "shots_off_target": 24
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -5760,6 +6088,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 76,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5769,9 +6116,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 453,
+    "min": 478,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -6012,6 +6359,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "MID",
+     "num": "20",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6021,9 +6387,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 799,
+    "min": 823,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -6245,6 +6611,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6254,9 +6639,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 990,
+    "gp": 15,
+    "starts": 13,
+    "min": 1065,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -6535,6 +6920,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6544,14 +6948,14 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 7,
-    "min": 605,
+    "min": 625,
     "sh": 6,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -6841,6 +7245,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Iowa",
+     "home": false,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

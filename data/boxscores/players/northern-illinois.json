@@ -71,9 +71,9 @@
    "num": "9",
    "pos": "def",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 280,
+    "min": 309,
     "sh": 6,
     "sog": 2,
     "g": 1,
@@ -276,6 +276,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "def",
+     "num": "9",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -285,9 +304,9 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 12,
-    "min": 875,
+    "gp": 16,
+    "starts": 13,
+    "min": 925,
     "sh": 29,
     "sog": 9,
     "g": 1,
@@ -585,6 +604,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "30",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -713,20 +751,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1069,
-    "sh": 35,
-    "sog": 14,
-    "g": 3,
+    "gp": 16,
+    "starts": 16,
+    "min": 1141,
+    "sh": 39,
+    "sog": 16,
+    "g": 4,
     "a": 3,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 11,
-    "shots_off_target": 21
+    "shot_pct": 41.0,
+    "shots_saved": 12,
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -1013,6 +1051,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 72,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1022,9 +1079,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 9,
-    "min": 687,
+    "gp": 14,
+    "starts": 10,
+    "min": 754,
     "sh": 10,
     "sog": 6,
     "g": 1,
@@ -1284,6 +1341,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1293,9 +1369,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1277,
+    "gp": 16,
+    "starts": 16,
+    "min": 1367,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1308,10 +1384,10 @@
     "shots_saved": 1,
     "shots_off_target": 0,
     "goalie": {
-     "gp": 15,
-     "ga": 16,
-     "saves": 48,
-     "save_pct": 75.0
+     "gp": 16,
+     "ga": 18,
+     "saves": 51,
+     "save_pct": 73.9
     }
    },
    "matches": [
@@ -1674,6 +1750,30 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1683,20 +1783,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 9,
-    "min": 649,
-    "sh": 16,
+    "min": 687,
+    "sh": 17,
     "sog": 5,
     "g": 1,
-    "a": 2,
+    "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.2,
+    "shot_pct": 29.4,
     "shots_saved": 4,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1926,6 +2026,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 38,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1935,9 +2054,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1074,
+    "gp": 16,
+    "starts": 15,
+    "min": 1164,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2235,6 +2354,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2244,19 +2382,19 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 4,
-    "min": 566,
-    "sh": 12,
-    "sog": 5,
+    "min": 594,
+    "sh": 13,
+    "sog": 6,
     "g": 2,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 3,
+    "shot_pct": 46.2,
+    "shots_saved": 4,
     "shots_off_target": 7
    },
    "matches": [
@@ -2544,6 +2682,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 28,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2553,9 +2710,9 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 203,
+    "min": 214,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -2834,6 +2991,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2843,9 +3019,9 @@
    "num": "12",
    "pos": "mid",
    "totals": {
-    "gp": 14,
-    "starts": 3,
-    "min": 585,
+    "gp": 15,
+    "starts": 4,
+    "min": 637,
     "sh": 10,
     "sog": 5,
     "g": 1,
@@ -3124,6 +3300,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3185,11 +3380,11 @@
    "name": "McLauchlan, Zoe",
    "slug": "mclauchlan-zoe",
    "num": "13",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 1,
-    "min": 154,
+    "min": 192,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3289,6 +3484,25 @@
      "pos": "MID",
      "num": "13",
      "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 38,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3406,15 +3620,15 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 6,
-    "min": 781,
+    "gp": 16,
+    "starts": 7,
+    "min": 844,
     "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 3,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -3706,6 +3920,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3834,10 +4067,10 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1215,
-    "sh": 6,
+    "gp": 16,
+    "starts": 16,
+    "min": 1278,
+    "sh": 7,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -3845,9 +4078,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 28.6,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4134,6 +4367,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 63,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4316,10 +4568,10 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 3,
-    "min": 502,
-    "sh": 13,
+    "min": 540,
+    "sh": 15,
     "sog": 5,
     "g": 2,
     "a": 2,
@@ -4327,9 +4579,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -4616,6 +4868,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 38,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4625,19 +4896,19 @@
    "num": "32",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 993,
-    "sh": 22,
-    "sog": 7,
+    "gp": 16,
+    "starts": 16,
+    "min": 1045,
+    "sh": 24,
+    "sog": 9,
     "g": 2,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.8,
-    "shots_saved": 5,
+    "shot_pct": 37.5,
+    "shots_saved": 7,
     "shots_off_target": 15
    },
    "matches": [
@@ -4925,6 +5196,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "32",
+     "min": 52,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5091,9 +5381,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 2,
-    "min": 193,
+    "min": 222,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -5182,6 +5472,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 29,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "TM TEAM",
+   "slug": "tm-team",
+   "num": "TM",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 0,
+    "sh": 0,
+    "sog": 0,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5191,10 +5543,10 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1306,
-    "sh": 6,
+    "gp": 16,
+    "starts": 16,
+    "min": 1396,
+    "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 0,
@@ -5202,9 +5554,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 42.9,
     "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -5491,6 +5843,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5500,20 +5871,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1133,
-    "sh": 8,
-    "sog": 3,
+    "gp": 16,
+    "starts": 16,
+    "min": 1223,
+    "sh": 11,
+    "sog": 4,
     "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 2,
-    "shots_off_target": 5
+    "shot_pct": 36.4,
+    "shots_saved": 3,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5797,6 +6168,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Robert Morris",
+     "home": false,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

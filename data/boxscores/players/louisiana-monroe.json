@@ -90,18 +90,18 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 9,
-    "min": 702,
-    "sh": 7,
-    "sog": 3,
-    "g": 2,
+    "min": 760,
+    "sh": 8,
+    "sog": 4,
+    "g": 3,
     "a": 1,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 50.0,
     "shots_saved": 1,
     "shots_off_target": 4
    },
@@ -409,6 +409,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -418,19 +437,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 515,
-    "sh": 10,
-    "sog": 4,
+    "gp": 8,
+    "starts": 8,
+    "min": 585,
+    "sh": 11,
+    "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 4,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 3,
+    "shot_pct": 45.5,
+    "shots_saved": 4,
     "shots_off_target": 6
    },
    "matches": [
@@ -566,6 +585,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 70,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -575,9 +613,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1257,
+    "gp": 18,
+    "starts": 18,
+    "min": 1327,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -913,6 +951,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -920,7 +977,7 @@
    "name": "Franco, Giulia",
    "slug": "franco-giulia",
    "num": "8",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -1255,9 +1312,9 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 6,
-    "min": 634,
+    "min": 667,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -1593,6 +1650,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1602,9 +1678,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1502,
+    "gp": 18,
+    "starts": 18,
+    "min": 1592,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1617,10 +1693,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 17,
-     "ga": 24,
+     "gp": 18,
+     "ga": 26,
      "saves": 69,
-     "save_pct": 74.2
+     "save_pct": 72.6
     }
    },
    "matches": [
@@ -2031,6 +2107,30 @@
       "ga": 1,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 0
+     }
     }
    ]
   },
@@ -2040,10 +2140,10 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
-    "starts": 10,
-    "min": 981,
-    "sh": 29,
+    "gp": 18,
+    "starts": 11,
+    "min": 1059,
+    "sh": 32,
     "sog": 9,
     "g": 3,
     "a": 3,
@@ -2051,9 +2151,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.0,
+    "shot_pct": 28.1,
     "shots_saved": 6,
-    "shots_off_target": 20
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -2378,6 +2478,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 78,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2441,10 +2560,10 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 14,
-    "min": 1181,
-    "sh": 31,
+    "gp": 18,
+    "starts": 15,
+    "min": 1257,
+    "sh": 32,
     "sog": 20,
     "g": 2,
     "a": 3,
@@ -2452,9 +2571,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.5,
+    "shot_pct": 62.5,
     "shots_saved": 18,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -2779,6 +2898,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2788,9 +2926,9 @@
    "num": "2",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 100,
+    "min": 120,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2854,6 +2992,25 @@
      "min": 65,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -3083,9 +3240,9 @@
    "num": "29",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 3,
-    "min": 417,
+    "min": 444,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -3364,6 +3521,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "def",
+     "num": "29",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3373,9 +3549,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 10,
-    "min": 685,
+    "min": 695,
     "sh": 17,
     "sog": 8,
     "g": 1,
@@ -3692,6 +3868,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3701,10 +3896,10 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 11,
-    "min": 998,
-    "sh": 8,
+    "gp": 16,
+    "starts": 12,
+    "min": 1055,
+    "sh": 9,
     "sog": 4,
     "g": 0,
     "a": 0,
@@ -3712,9 +3907,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.4,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4001,6 +4196,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 57,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4010,9 +4224,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 3,
-    "min": 467,
+    "min": 474,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -4329,6 +4543,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "mid",
+     "num": "26",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4438,9 +4671,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 906,
+    "gp": 14,
+    "starts": 12,
+    "min": 973,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -4700,6 +4933,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "",
+     "num": "3",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4709,9 +4961,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 6,
-    "min": 548,
+    "min": 560,
     "sh": 11,
     "sog": 6,
     "g": 4,
@@ -5047,6 +5299,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5056,9 +5327,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1270,
+    "gp": 18,
+    "starts": 18,
+    "min": 1353,
     "sh": 14,
     "sog": 8,
     "g": 0,
@@ -5394,6 +5665,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 83,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5403,9 +5693,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1502,
+    "gp": 18,
+    "starts": 18,
+    "min": 1592,
     "sh": 8,
     "sog": 7,
     "g": 2,
@@ -5741,6 +6031,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5793,19 +6102,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 8,
-    "min": 1027,
-    "sh": 1,
-    "sog": 0,
+    "gp": 16,
+    "starts": 9,
+    "min": 1117,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -6093,6 +6402,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6102,9 +6430,9 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 10,
-    "min": 826,
+    "gp": 14,
+    "starts": 11,
+    "min": 878,
     "sh": 11,
     "sog": 6,
     "g": 1,
@@ -6356,6 +6684,25 @@
      "pos": "MID",
      "num": "15",
      "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "South Alabama",
+     "home": false,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "15",
+     "min": 52,
      "sh": 0,
      "sog": 0,
      "g": 0,

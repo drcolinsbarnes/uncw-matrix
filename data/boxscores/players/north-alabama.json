@@ -147,9 +147,9 @@
    "num": "29",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 143,
+    "min": 155,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -390,6 +390,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "29",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -453,9 +472,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 1068,
+    "gp": 13,
+    "starts": 13,
+    "min": 1158,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -468,10 +487,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
+     "gp": 13,
      "ga": 15,
-     "saves": 55,
-     "save_pct": 78.6
+     "saves": 59,
+     "save_pct": 79.7
     }
    },
    "matches": [
@@ -762,6 +781,30 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 4
+     }
     }
    ]
   },
@@ -771,9 +814,9 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 870,
+    "gp": 16,
+    "starts": 15,
+    "min": 919,
     "sh": 28,
     "sog": 13,
     "g": 1,
@@ -1071,6 +1114,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1080,9 +1142,9 @@
    "num": "27",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 1,
-    "min": 247,
+    "min": 254,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -1361,6 +1423,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "27",
+     "min": 7,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1370,9 +1451,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1338,
+    "gp": 16,
+    "starts": 16,
+    "min": 1428,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -1670,6 +1751,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1679,19 +1779,19 @@
    "num": "19",
    "pos": "mid",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 3,
-    "min": 664,
-    "sh": 25,
-    "sog": 12,
+    "min": 701,
+    "sh": 26,
+    "sog": 13,
     "g": 3,
     "a": 4,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 48.0,
-    "shots_saved": 9,
+    "shot_pct": 50.0,
+    "shots_saved": 10,
     "shots_off_target": 13
    },
    "matches": [
@@ -1979,6 +2079,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "19",
+     "min": 37,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2231,9 +2350,9 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 12,
-    "min": 604,
+    "gp": 16,
+    "starts": 13,
+    "min": 657,
     "sh": 20,
     "sog": 11,
     "g": 2,
@@ -2531,6 +2650,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "33",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2540,9 +2678,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 8,
-    "min": 920,
+    "gp": 16,
+    "starts": 9,
+    "min": 985,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -2840,6 +2978,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2849,20 +3006,20 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 696,
-    "sh": 14,
-    "sog": 7,
+    "gp": 16,
+    "starts": 15,
+    "min": 751,
+    "sh": 17,
+    "sog": 9,
     "g": 3,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 52.9,
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3149,6 +3306,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 55,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3158,9 +3334,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 1,
-    "min": 265,
+    "min": 281,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3439,6 +3615,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3448,19 +3643,19 @@
    "num": "23",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 269,
-    "sh": 2,
-    "sog": 1,
+    "min": 307,
+    "sh": 3,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 1,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
     "shots_off_target": 1
    },
    "matches": [
@@ -3691,6 +3886,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 38,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3700,9 +3914,9 @@
    "num": "16",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 362,
+    "min": 385,
     "sh": 18,
     "sog": 11,
     "g": 2,
@@ -3981,6 +4195,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3990,13 +4223,13 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 0,
-    "min": 291,
+    "min": 314,
     "sh": 9,
     "sog": 6,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -4290,6 +4523,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4299,9 +4551,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1138,
+    "gp": 16,
+    "starts": 16,
+    "min": 1209,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4599,6 +4851,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4705,18 +4976,18 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 1,
-    "min": 562,
-    "sh": 8,
-    "sog": 4,
-    "g": 1,
+    "min": 603,
+    "sh": 9,
+    "sog": 5,
+    "g": 2,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 55.6,
     "shots_saved": 3,
     "shots_off_target": 4
    },
@@ -5005,6 +5276,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5014,10 +5304,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1335,
-    "sh": 14,
+    "gp": 16,
+    "starts": 16,
+    "min": 1425,
+    "sh": 15,
     "sog": 7,
     "g": 2,
     "a": 1,
@@ -5025,9 +5315,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 46.7,
     "shots_saved": 5,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -5314,6 +5604,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5323,13 +5632,13 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1300,
+    "gp": 16,
+    "starts": 16,
+    "min": 1390,
     "sh": 11,
     "sog": 7,
     "g": 0,
-    "a": 4,
+    "a": 5,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
@@ -5623,6 +5932,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5632,9 +5960,9 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 250,
+    "min": 269,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -5856,20 +6184,39 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
   {
    "name": "Welsh, Meg",
    "slug": "welsh-meg",
-   "num": "20",
+   "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 915,
-    "sh": 24,
-    "sog": 12,
+    "gp": 16,
+    "starts": 15,
+    "min": 975,
+    "sh": 26,
+    "sog": 13,
     "g": 4,
     "a": 2,
     "fouls": 3,
@@ -5877,8 +6224,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 8,
-    "shots_off_target": 12
+    "shots_saved": 9,
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -6165,6 +6512,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 60,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6174,9 +6540,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 922,
+    "gp": 16,
+    "starts": 16,
+    "min": 983,
     "sh": 14,
     "sog": 5,
     "g": 2,
@@ -6466,6 +6832,25 @@
      "pos": "MID",
      "num": "6",
      "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Kentucky",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 61,
      "sh": 0,
      "sog": 0,
      "g": 0,

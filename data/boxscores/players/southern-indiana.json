@@ -9,20 +9,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 13,
-    "min": 1038,
-    "sh": 18,
-    "sog": 10,
+    "min": 1094,
+    "sh": 21,
+    "sog": 11,
     "g": 1,
     "a": 0,
     "fouls": 10,
     "yc": 5,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 9,
-    "shots_off_target": 8
+    "shot_pct": 52.4,
+    "shots_saved": 10,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -290,6 +290,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 56,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -299,20 +318,20 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1342,
-    "sh": 9,
-    "sog": 3,
+    "gp": 17,
+    "starts": 17,
+    "min": 1420,
+    "sh": 11,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 3,
-    "shots_off_target": 6
+    "shot_pct": 36.4,
+    "shots_saved": 4,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -618,6 +637,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 78,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -627,10 +665,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1299,
-    "sh": 30,
+    "gp": 17,
+    "starts": 17,
+    "min": 1386,
+    "sh": 31,
     "sog": 11,
     "g": 0,
     "a": 1,
@@ -638,9 +676,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.7,
+    "shot_pct": 35.5,
     "shots_saved": 11,
-    "shots_off_target": 19
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -946,6 +984,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 87,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -955,9 +1012,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 9,
-    "min": 844,
+    "gp": 17,
+    "starts": 10,
+    "min": 885,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -1274,6 +1331,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1457,21 +1533,21 @@
    "name": "Depenbrock, Anna",
    "slug": "depenbrock-anna",
    "num": "24",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 6,
-    "min": 520,
-    "sh": 10,
-    "sog": 4,
+    "min": 569,
+    "sh": 13,
+    "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 3,
+    "shot_pct": 53.8,
+    "shots_saved": 6,
     "shots_off_target": 6
    },
    "matches": [
@@ -1759,6 +1835,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 49,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1768,9 +1863,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 3,
-    "min": 486,
+    "min": 502,
     "sh": 10,
     "sog": 5,
     "g": 0,
@@ -2087,6 +2182,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "3",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2096,9 +2210,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 783,
+    "gp": 10,
+    "starts": 10,
+    "min": 873,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -2282,6 +2396,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2291,9 +2424,9 @@
    "num": "25",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 167,
+    "min": 171,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -2458,6 +2591,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "def",
+     "num": "25",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2467,9 +2619,9 @@
    "num": "2",
    "pos": "def",
    "totals": {
-    "gp": 13,
-    "starts": 5,
-    "min": 602,
+    "gp": 14,
+    "starts": 6,
+    "min": 687,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -2729,6 +2881,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2876,10 +3047,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 12,
-    "min": 998,
-    "sh": 18,
+    "gp": 16,
+    "starts": 13,
+    "min": 1088,
+    "sh": 21,
     "sog": 4,
     "g": 1,
     "a": 1,
@@ -2887,9 +3058,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
+    "shot_pct": 19.0,
     "shots_saved": 3,
-    "shots_off_target": 14
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -3176,6 +3347,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3185,9 +3375,9 @@
    "num": "14",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
-    "starts": 1,
-    "min": 400,
+    "gp": 15,
+    "starts": 2,
+    "min": 463,
     "sh": 13,
     "sog": 5,
     "g": 0,
@@ -3466,6 +3656,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 63,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3556,9 +3765,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1427,
+    "gp": 17,
+    "starts": 17,
+    "min": 1513,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -3875,6 +4084,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4041,9 +4269,9 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 283,
+    "min": 314,
     "sh": 6,
     "sog": 4,
     "g": 0,
@@ -4284,6 +4512,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4293,20 +4540,20 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1027,
-    "sh": 22,
-    "sog": 13,
+    "gp": 17,
+    "starts": 17,
+    "min": 1083,
+    "sh": 25,
+    "sog": 15,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 59.1,
-    "shots_saved": 13,
-    "shots_off_target": 9
+    "shot_pct": 60.0,
+    "shots_saved": 15,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -4612,6 +4859,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 56,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4707,9 +4973,9 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 4,
-    "min": 492,
+    "min": 512,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -5018,6 +5284,25 @@
      "pos": "fwd",
      "num": "23",
      "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 20,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -5363,9 +5648,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1440,
+    "gp": 17,
+    "starts": 17,
+    "min": 1530,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5378,10 +5663,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 16,
-     "ga": 18,
-     "saves": 62,
-     "save_pct": 77.5
+     "gp": 17,
+     "ga": 19,
+     "saves": 65,
+     "save_pct": 77.4
     }
    },
    "matches": [
@@ -5768,6 +6053,30 @@
       "ga": 0,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 3
+     }
     }
    ]
   },
@@ -5777,10 +6086,10 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 871,
-    "sh": 22,
+    "gp": 17,
+    "starts": 17,
+    "min": 919,
+    "sh": 23,
     "sog": 5,
     "g": 0,
     "a": 0,
@@ -5788,9 +6097,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.7,
+    "shot_pct": 21.7,
     "shots_saved": 5,
-    "shots_off_target": 17
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -6088,6 +6397,25 @@
      "pos": "FWD",
      "num": "18",
      "min": 69,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Eastern Illinois",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 48,
      "sh": 1,
      "sog": 0,
      "g": 0,

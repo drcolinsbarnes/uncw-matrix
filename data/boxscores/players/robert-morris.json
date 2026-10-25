@@ -9,10 +9,10 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1335,
-    "sh": 11,
+    "gp": 17,
+    "starts": 17,
+    "min": 1425,
+    "sh": 14,
     "sog": 2,
     "g": 2,
     "a": 0,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 18.2,
+    "shot_pct": 14.3,
     "shots_saved": 0,
-    "shots_off_target": 9
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -328,6 +328,79 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Butera, Cianna",
+   "slug": "butera-cianna",
+   "num": "31",
+   "pos": "gk",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 45,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 2,
+     "saves": 2,
+     "save_pct": 50.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "gk",
+     "num": "31",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 2,
+      "saves": 2
+     }
     }
    ]
   },
@@ -337,9 +410,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1317,
+    "gp": 16,
+    "starts": 16,
+    "min": 1362,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -352,10 +425,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
+     "gp": 16,
      "ga": 19,
-     "saves": 56,
-     "save_pct": 74.7
+     "saves": 59,
+     "save_pct": 75.6
     }
    },
    "matches": [
@@ -718,6 +791,30 @@
       "ga": 4,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 3
+     }
     }
    ]
   },
@@ -727,9 +824,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1425,
+    "gp": 17,
+    "starts": 17,
+    "min": 1515,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1046,6 +1143,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1055,10 +1171,10 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 11,
-    "min": 828,
-    "sh": 3,
+    "gp": 17,
+    "starts": 12,
+    "min": 883,
+    "sh": 4,
     "sog": 3,
     "g": 1,
     "a": 0,
@@ -1066,9 +1182,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 75.0,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1374,6 +1490,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1659,10 +1794,10 @@
    "num": "4",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 306,
-    "sh": 1,
+    "min": 338,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -1672,7 +1807,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -1883,6 +2018,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 32,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1892,9 +2046,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1151,
+    "gp": 17,
+    "starts": 17,
+    "min": 1226,
     "sh": 11,
     "sog": 5,
     "g": 1,
@@ -2211,6 +2365,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2320,9 +2493,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1314,
+    "gp": 17,
+    "starts": 17,
+    "min": 1404,
     "sh": 11,
     "sog": 6,
     "g": 2,
@@ -2639,6 +2812,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,9 +2902,9 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1438,
+    "gp": 17,
+    "starts": 17,
+    "min": 1528,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3029,6 +3221,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3038,9 +3249,9 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 9,
-    "min": 789,
+    "min": 824,
     "sh": 12,
     "sog": 7,
     "g": 0,
@@ -3319,6 +3530,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "",
+     "num": "3",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3328,9 +3558,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 8,
-    "min": 808,
+    "gp": 16,
+    "starts": 9,
+    "min": 881,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -3628,6 +3858,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3637,19 +3886,19 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1272,
-    "sh": 7,
-    "sog": 2,
-    "g": 1,
+    "gp": 16,
+    "starts": 16,
+    "min": 1362,
+    "sh": 9,
+    "sog": 4,
+    "g": 2,
     "a": 3,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 1,
+    "shot_pct": 44.4,
+    "shots_saved": 2,
     "shots_off_target": 5
    },
    "matches": [
@@ -3937,6 +4186,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4139,7 +4407,7 @@
    "name": "Prescott, Kally",
    "slug": "prescott-kally",
    "num": "1",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
     "gp": 2,
     "starts": 1,
@@ -4219,19 +4487,19 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1174,
-    "sh": 30,
-    "sog": 15,
+    "gp": 17,
+    "starts": 17,
+    "min": 1264,
+    "sh": 31,
+    "sog": 16,
     "g": 2,
-    "a": 4,
+    "a": 5,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 13,
+    "shot_pct": 51.6,
+    "shots_saved": 14,
     "shots_off_target": 15
    },
    "matches": [
@@ -4538,6 +4806,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4742,20 +5029,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1160,
-    "sh": 22,
-    "sog": 13,
-    "g": 1,
+    "gp": 16,
+    "starts": 15,
+    "min": 1250,
+    "sh": 26,
+    "sog": 15,
+    "g": 2,
     "a": 2,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 59.1,
-    "shots_saved": 12,
-    "shots_off_target": 9
+    "shot_pct": 57.7,
+    "shots_saved": 13,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -5037,6 +5324,25 @@
      "sh": 1,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Northern Illinois",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 90,
+     "sh": 4,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,

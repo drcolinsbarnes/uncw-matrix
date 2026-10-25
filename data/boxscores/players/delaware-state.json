@@ -9,9 +9,9 @@
    "num": "31",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 584,
+    "gp": 9,
+    "starts": 9,
+    "min": 629,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
+     "gp": 9,
      "ga": 26,
-     "saves": 45,
-     "save_pct": 63.4
+     "saves": 50,
+     "save_pct": 65.8
     }
    },
    "matches": [
@@ -222,6 +222,30 @@
       "ga": 2,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "GK",
+     "num": "31",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -231,10 +255,10 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 11,
-    "starts": 1,
-    "min": 333,
-    "sh": 4,
+    "gp": 12,
+    "starts": 2,
+    "min": 384,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -242,9 +266,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -455,6 +479,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 51,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -464,9 +507,9 @@
    "num": "23",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 2,
-    "min": 285,
+    "min": 313,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -650,6 +693,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -659,10 +721,10 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 880,
-    "sh": 19,
+    "gp": 12,
+    "starts": 12,
+    "min": 970,
+    "sh": 20,
     "sog": 6,
     "g": 0,
     "a": 0,
@@ -670,9 +732,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.6,
+    "shot_pct": 30.0,
     "shots_saved": 6,
-    "shots_off_target": 13
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -883,6 +945,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1011,9 +1092,9 @@
    "num": "30",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 275,
+    "gp": 11,
+    "starts": 2,
+    "min": 322,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1216,6 +1297,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "30",
+     "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1306,9 +1406,9 @@
    "num": "28",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 23,
+    "min": 34,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1378,6 +1478,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "28",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1387,10 +1506,10 @@
    "num": "18",
    "pos": null,
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 10,
-    "min": 703,
-    "sh": 2,
+    "min": 765,
+    "sh": 4,
     "sog": 1,
     "g": 1,
     "a": 0,
@@ -1398,9 +1517,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 25.0,
     "shots_saved": 0,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -1592,6 +1711,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "",
+     "num": "18",
+     "min": 62,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1601,11 +1739,11 @@
    "num": "2",
    "pos": "fwd",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 51,
-    "sh": 2,
-    "sog": 2,
+    "gp": 4,
+    "starts": 1,
+    "min": 79,
+    "sh": 4,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -1613,7 +1751,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 2,
+    "shots_saved": 4,
     "shots_off_target": 0
    },
    "matches": [
@@ -1667,6 +1805,25 @@
      "min": 19,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 28,
+     "sh": 2,
+     "sog": 2,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1927,9 +2084,9 @@
    "num": "13",
    "pos": "GK",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 3,
-    "min": 194,
+    "min": 239,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1942,10 +2099,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 3,
-     "ga": 11,
+     "gp": 4,
+     "ga": 12,
      "saves": 17,
-     "save_pct": 60.7
+     "save_pct": 58.6
     }
    },
    "matches": [
@@ -2019,6 +2176,30 @@
       "min": "63:13",
       "ga": 4,
       "saves": 7
+     }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "gk",
+     "num": "13",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 0
      }
     }
    ]
@@ -2209,15 +2390,15 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
-    "starts": 1,
-    "min": 344,
+    "gp": 11,
+    "starts": 2,
+    "min": 408,
     "sh": 6,
     "sog": 3,
     "g": 1,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -2414,6 +2595,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2423,10 +2623,10 @@
    "num": "32",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 826,
-    "sh": 2,
+    "gp": 12,
+    "starts": 11,
+    "min": 888,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -2434,9 +2634,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2647,6 +2847,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "32",
+     "min": 62,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2656,10 +2875,10 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 7,
-    "starts": 3,
-    "min": 297,
-    "sh": 0,
+    "gp": 8,
+    "starts": 4,
+    "min": 380,
+    "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -2667,9 +2886,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2804,6 +3023,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 83,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2813,9 +3051,9 @@
    "num": "35",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 696,
+    "min": 736,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -3037,6 +3275,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "35",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3046,9 +3303,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 11,
-    "min": 740,
+    "min": 782,
     "sh": 14,
     "sog": 5,
     "g": 0,
@@ -3270,6 +3527,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3279,10 +3555,10 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 10,
-    "min": 574,
-    "sh": 2,
+    "min": 614,
+    "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -3290,9 +3566,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 2,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -3503,6 +3779,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "15",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3688,9 +3983,9 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 636,
+    "gp": 12,
+    "starts": 12,
+    "min": 692,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -3912,6 +4207,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 56,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3921,19 +4235,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 561,
-    "sh": 8,
-    "sog": 4,
+    "min": 607,
+    "sh": 9,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
+    "shot_pct": 55.6,
+    "shots_saved": 5,
     "shots_off_target": 4
    },
    "matches": [
@@ -4145,6 +4459,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4154,9 +4487,9 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 269,
+    "min": 284,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -4378,6 +4711,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4387,9 +4739,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 430,
+    "gp": 11,
+    "starts": 6,
+    "min": 458,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4592,6 +4944,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "MID",
+     "num": "25",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4601,9 +4972,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 990,
+    "gp": 12,
+    "starts": 12,
+    "min": 1080,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4825,6 +5196,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4834,9 +5224,9 @@
    "num": "17",
    "pos": null,
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 214,
+    "min": 224,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -5039,6 +5429,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5048,9 +5457,9 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 392,
+    "min": 399,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -5264,6 +5673,25 @@
      "pos": "fwd",
      "num": "16",
      "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Mercyhurst",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "16",
+     "min": 7,
      "sh": 0,
      "sog": 0,
      "g": 0,

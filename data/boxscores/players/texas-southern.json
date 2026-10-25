@@ -7,12 +7,12 @@
    "name": "Aiken, Alana",
    "slug": "aiken-alana",
    "num": "26",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 6,
-    "starts": 3,
-    "min": 269,
-    "sh": 4,
+    "gp": 7,
+    "starts": 4,
+    "min": 319,
+    "sh": 6,
     "sog": 4,
     "g": 1,
     "a": 1,
@@ -20,9 +20,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 66.7,
     "shots_saved": 3,
-    "shots_off_target": 0
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -138,6 +138,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 50,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -147,9 +166,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1022,
+    "gp": 14,
+    "starts": 13,
+    "min": 1041,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -162,7 +181,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
+     "gp": 14,
      "ga": 25,
      "saves": 58,
      "save_pct": 69.9
@@ -480,6 +499,30 @@
       "ga": 2,
       "saves": 0
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "18:22",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -489,9 +532,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 4,
-    "min": 418,
+    "min": 489,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -504,10 +547,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 10,
-     "saves": 39,
-     "save_pct": 79.6
+     "gp": 8,
+     "ga": 12,
+     "saves": 46,
+     "save_pct": 79.3
     }
    },
    "matches": [
@@ -678,6 +721,30 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "gk",
+     "num": "1",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "71:38",
+      "ga": 2,
+      "saves": 7
+     }
     }
    ]
   },
@@ -687,19 +754,19 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1172,
-    "sh": 15,
-    "sog": 6,
+    "gp": 17,
+    "starts": 16,
+    "min": 1231,
+    "sh": 16,
+    "sog": 7,
     "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 5,
+    "shot_pct": 43.8,
+    "shots_saved": 6,
     "shots_off_target": 9
    },
    "matches": [
@@ -1006,6 +1073,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 59,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1227,11 +1313,11 @@
    "name": "Boah, Maya",
    "slug": "boah-maya",
    "num": "3",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 3,
-    "min": 382,
+    "min": 397,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1472,6 +1558,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1481,9 +1586,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 894,
+    "gp": 15,
+    "starts": 13,
+    "min": 960,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -1762,6 +1867,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1771,20 +1895,20 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 3,
-    "min": 373,
-    "sh": 9,
-    "sog": 6,
+    "min": 392,
+    "sh": 11,
+    "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 5,
-    "shots_off_target": 3
+    "shot_pct": 63.6,
+    "shots_saved": 6,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1957,6 +2081,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 19,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1966,9 +2109,9 @@
    "num": "34",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 12,
-    "min": 885,
+    "gp": 17,
+    "starts": 13,
+    "min": 975,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2285,6 +2428,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "34",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2294,20 +2456,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 953,
-    "sh": 40,
-    "sog": 18,
+    "gp": 15,
+    "starts": 14,
+    "min": 1041,
+    "sh": 47,
+    "sog": 20,
     "g": 9,
     "a": 1,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.0,
-    "shots_saved": 9,
-    "shots_off_target": 22
+    "shot_pct": 42.6,
+    "shots_saved": 11,
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -2573,6 +2735,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 88,
+     "sh": 7,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -2979,9 +3160,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 1117,
+    "gp": 17,
+    "starts": 15,
+    "min": 1184,
     "sh": 12,
     "sog": 7,
     "g": 0,
@@ -3298,6 +3479,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 67,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3307,9 +3507,9 @@
    "num": "10",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 1123,
+    "gp": 17,
+    "starts": 15,
+    "min": 1198,
     "sh": 8,
     "sog": 4,
     "g": 0,
@@ -3626,6 +3826,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "10",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3773,15 +3992,15 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 3,
-    "min": 266,
+    "min": 292,
     "sh": 3,
     "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 66.7,
@@ -3900,6 +4119,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "12",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -4287,9 +4525,9 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 193,
+    "min": 206,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -4416,6 +4654,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4423,11 +4680,11 @@
    "name": "Miller, Bianca",
    "slug": "miller-bianca",
    "num": "2",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 7,
-    "min": 769,
+    "min": 793,
     "sh": 4,
     "sog": 3,
     "g": 1,
@@ -4744,6 +5001,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4753,10 +5029,10 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 16,
-    "min": 1085,
-    "sh": 20,
+    "min": 1129,
+    "sh": 21,
     "sog": 10,
     "g": 4,
     "a": 1,
@@ -4764,9 +5040,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 47.6,
     "shots_saved": 6,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -5072,6 +5348,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "13",
+     "min": 44,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5081,9 +5376,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 9,
-    "min": 740,
+    "min": 780,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -5381,6 +5676,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "def",
+     "num": "28",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5471,9 +5785,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 5,
-    "min": 593,
+    "gp": 13,
+    "starts": 6,
+    "min": 643,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -5714,6 +6028,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5723,13 +6056,13 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 291,
+    "min": 323,
     "sh": 5,
     "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -5890,6 +6223,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 32,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5899,20 +6251,20 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 668,
-    "sh": 3,
-    "sog": 2,
+    "gp": 10,
+    "starts": 10,
+    "min": 737,
+    "sh": 5,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
-    "shots_off_target": 1
+    "shot_pct": 60.0,
+    "shots_saved": 3,
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -6085,6 +6437,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 69,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6232,20 +6603,20 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 788,
-    "sh": 10,
-    "sog": 3,
-    "g": 0,
+    "gp": 13,
+    "starts": 10,
+    "min": 861,
+    "sh": 13,
+    "sog": 5,
+    "g": 2,
     "a": 0,
     "fouls": 0,
-    "yc": 2,
+    "yc": 3,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 30.0,
+    "shot_pct": 38.5,
     "shots_saved": 3,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -6473,6 +6844,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Alcorn State",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 73,
+     "sh": 3,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
