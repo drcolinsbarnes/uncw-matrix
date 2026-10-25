@@ -9,9 +9,9 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 11,
-    "min": 697,
+    "min": 707,
     "sh": 13,
     "sog": 6,
     "g": 2,
@@ -309,6 +309,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -318,20 +337,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1068,
-    "sh": 14,
-    "sog": 5,
+    "gp": 15,
+    "starts": 15,
+    "min": 1140,
+    "sh": 17,
+    "sog": 6,
     "g": 2,
     "a": 1,
     "fouls": 7,
-    "yc": 5,
+    "yc": 6,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 3,
-    "shots_off_target": 9
+    "shot_pct": 35.3,
+    "shots_saved": 4,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -599,6 +618,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 72,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -803,9 +841,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1143,
+    "gp": 14,
+    "starts": 14,
+    "min": 1233,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -818,10 +856,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
-     "ga": 19,
-     "saves": 77,
-     "save_pct": 80.2
+     "gp": 14,
+     "ga": 20,
+     "saves": 86,
+     "save_pct": 81.1
     }
    },
    "matches": [
@@ -1136,6 +1174,30 @@
       "ga": 2,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 9
+     }
     }
    ]
   },
@@ -1145,20 +1207,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 8,
-    "min": 888,
-    "sh": 8,
+    "gp": 16,
+    "starts": 9,
+    "min": 964,
+    "sh": 9,
     "sog": 5,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 2,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 62.5,
+    "shot_pct": 55.6,
     "shots_saved": 5,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1445,6 +1507,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 76,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1694,10 +1775,10 @@
    "num": "28",
    "pos": "mid",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 2,
-    "min": 479,
-    "sh": 8,
+    "min": 489,
+    "sh": 9,
     "sog": 4,
     "g": 2,
     "a": 1,
@@ -1705,9 +1786,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.4,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -1994,6 +2075,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 10,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2003,9 +2103,9 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
-    "starts": 5,
-    "min": 470,
+    "gp": 12,
+    "starts": 6,
+    "min": 541,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2227,6 +2327,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 71,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2236,9 +2355,9 @@
    "num": "21",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 156,
+    "min": 195,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2403,6 +2522,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2412,9 +2550,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1120,
+    "gp": 16,
+    "starts": 14,
+    "min": 1200,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2712,6 +2850,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2721,9 +2878,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 424,
+    "min": 434,
     "sh": 7,
     "sog": 1,
     "g": 0,
@@ -2983,6 +3140,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2990,11 +3166,11 @@
    "name": "Lek-Miro, Marivic",
    "slug": "lek-miro-marivic",
    "num": "11",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 3,
-    "min": 281,
+    "min": 289,
     "sh": 7,
     "sog": 4,
     "g": 2,
@@ -3197,6 +3373,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3206,9 +3401,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 220,
+    "min": 242,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3430,6 +3625,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3482,18 +3696,18 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 940,
-    "sh": 41,
-    "sog": 19,
-    "g": 10,
+    "gp": 13,
+    "starts": 13,
+    "min": 1030,
+    "sh": 42,
+    "sog": 20,
+    "g": 11,
     "a": 6,
     "fouls": 5,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.3,
+    "shot_pct": 47.6,
     "shots_saved": 9,
     "shots_off_target": 22
    },
@@ -3725,6 +3939,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3734,9 +3967,9 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1128,
+    "gp": 16,
+    "starts": 16,
+    "min": 1218,
     "sh": 12,
     "sog": 5,
     "g": 1,
@@ -4034,6 +4267,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4043,10 +4295,10 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1138,
-    "sh": 13,
+    "gp": 16,
+    "starts": 16,
+    "min": 1218,
+    "sh": 14,
     "sog": 11,
     "g": 3,
     "a": 6,
@@ -4054,9 +4306,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 84.6,
+    "shot_pct": 78.6,
     "shots_saved": 8,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -4343,6 +4595,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 80,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4352,20 +4623,20 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1222,
-    "sh": 13,
-    "sog": 8,
+    "gp": 16,
+    "starts": 15,
+    "min": 1302,
+    "sh": 16,
+    "sog": 9,
     "g": 6,
     "a": 1,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.5,
-    "shots_saved": 2,
-    "shots_off_target": 5
+    "shot_pct": 56.2,
+    "shots_saved": 3,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -4646,6 +4917,25 @@
      "min": 82,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 80,
+     "sh": 3,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -5070,9 +5360,9 @@
    "num": "19",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 1,
-    "min": 225,
+    "min": 229,
     "sh": 2,
     "sog": 1,
     "g": 1,
@@ -5313,6 +5603,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "19",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5322,9 +5631,9 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1116,
+    "gp": 16,
+    "starts": 16,
+    "min": 1206,
     "sh": 14,
     "sog": 5,
     "g": 2,
@@ -5617,6 +5926,25 @@
      "sh": 1,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -6007,9 +6335,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 976,
+    "gp": 16,
+    "starts": 15,
+    "min": 1044,
     "sh": 17,
     "sog": 7,
     "g": 3,
@@ -6303,6 +6631,25 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-25",
+     "opponent": "Washington State",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
