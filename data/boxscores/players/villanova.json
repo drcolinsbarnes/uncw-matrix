@@ -147,9 +147,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 971,
+    "gp": 15,
+    "starts": 11,
+    "min": 1020,
     "sh": 17,
     "sog": 11,
     "g": 4,
@@ -428,6 +428,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 49,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -437,9 +456,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 985,
+    "gp": 13,
+    "starts": 13,
+    "min": 1072,
     "sh": 4,
     "sog": 1,
     "g": 1,
@@ -680,6 +699,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -689,10 +727,10 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 4,
-    "min": 469,
-    "sh": 12,
+    "min": 526,
+    "sh": 15,
     "sog": 6,
     "g": 3,
     "a": 0,
@@ -700,9 +738,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -970,6 +1008,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 57,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -979,15 +1036,15 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 9,
-    "min": 481,
+    "gp": 15,
+    "starts": 10,
+    "min": 502,
     "sh": 7,
     "sog": 3,
     "g": 2,
     "a": 3,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 42.9,
@@ -1260,6 +1317,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 21,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1269,9 +1345,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1187,
+    "gp": 15,
+    "starts": 15,
+    "min": 1277,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1284,10 +1360,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
-     "ga": 6,
-     "saves": 26,
-     "save_pct": 81.2
+     "gp": 15,
+     "ga": 7,
+     "saves": 27,
+     "save_pct": 79.4
     }
    },
    "matches": [
@@ -1626,6 +1702,30 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1635,9 +1735,9 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 1,
-    "min": 398,
+    "min": 408,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -1916,6 +2016,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1925,9 +2044,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 532,
+    "min": 582,
     "sh": 7,
     "sog": 3,
     "g": 1,
@@ -2187,6 +2306,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 50,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2353,9 +2491,9 @@
    "num": "13",
    "pos": "mid",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 282,
+    "min": 287,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -2615,6 +2753,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2624,20 +2781,20 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 13,
-    "min": 783,
-    "sh": 19,
+    "min": 852,
+    "sh": 21,
     "sog": 11,
     "g": 3,
     "a": 5,
     "fouls": 2,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 57.9,
+    "shot_pct": 52.4,
     "shots_saved": 8,
-    "shots_off_target": 8
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2905,6 +3062,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 69,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2914,20 +3090,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 839,
-    "sh": 47,
-    "sog": 21,
+    "gp": 15,
+    "starts": 12,
+    "min": 909,
+    "sh": 55,
+    "sog": 26,
     "g": 5,
     "a": 5,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.7,
-    "shots_saved": 16,
-    "shots_off_target": 26
+    "shot_pct": 47.3,
+    "shots_saved": 21,
+    "shots_off_target": 29
    },
    "matches": [
     {
@@ -3195,6 +3371,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 70,
+     "sh": 8,
+     "sog": 5,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3204,9 +3399,9 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 470,
+    "min": 511,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -3485,6 +3680,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3556,9 +3770,9 @@
    "num": "29",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 966,
+    "gp": 14,
+    "starts": 14,
+    "min": 1009,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -3818,6 +4032,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "29",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3905,20 +4138,20 @@
    "num": "6",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 901,
-    "sh": 16,
-    "sog": 11,
+    "gp": 15,
+    "starts": 15,
+    "min": 961,
+    "sh": 18,
+    "sog": 12,
     "g": 6,
     "a": 4,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 68.8,
-    "shots_saved": 5,
-    "shots_off_target": 5
+    "shot_pct": 66.7,
+    "shots_saved": 6,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -4186,6 +4419,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "6",
+     "min": 60,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4352,10 +4604,10 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1228,
-    "sh": 8,
+    "gp": 15,
+    "starts": 15,
+    "min": 1318,
+    "sh": 11,
     "sog": 4,
     "g": 1,
     "a": 1,
@@ -4363,9 +4615,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 36.4,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -4633,6 +4885,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4642,20 +4913,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 977,
-    "sh": 13,
-    "sog": 6,
+    "gp": 15,
+    "starts": 11,
+    "min": 1067,
+    "sh": 16,
+    "sog": 7,
     "g": 2,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.2,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 43.8,
+    "shots_saved": 5,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4923,6 +5194,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5029,11 +5319,11 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1053,
-    "sh": 1,
-    "sog": 1,
+    "gp": 14,
+    "starts": 14,
+    "min": 1143,
+    "sh": 2,
+    "sog": 2,
     "g": 0,
     "a": 2,
     "fouls": 0,
@@ -5041,7 +5331,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 1,
+    "shots_saved": 2,
     "shots_off_target": 0
    },
    "matches": [
@@ -5291,6 +5581,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5300,10 +5609,10 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 12,
-    "min": 756,
-    "sh": 17,
+    "gp": 15,
+    "starts": 13,
+    "min": 824,
+    "sh": 18,
     "sog": 9,
     "g": 5,
     "a": 6,
@@ -5311,9 +5620,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.9,
+    "shot_pct": 50.0,
     "shots_saved": 4,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -5578,6 +5887,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-24",
+     "opponent": "Butler",
+     "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 68,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
