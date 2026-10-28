@@ -69,7 +69,7 @@
 
   // Coaching Hub version -- stamped by bump_hub_version.py (do not hand-edit).
   // HUB_VERSION_START
-  const HUB_VERSION = "6.5";
+  const HUB_VERSION = "6.6";
   const HUB_UPDATED = "28 Oct 2026";
   // HUB_VERSION_END
 
