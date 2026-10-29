@@ -1,44 +1,44 @@
 {
  "team": "East Carolina",
  "season": 2026,
- "games": 17,
+ "games": 24,
  "record": {
   "w": 3,
-  "d": 9,
-  "l": 5
+  "d": 14,
+  "l": 7
  },
  "totals": {
   "for": {
-   "shots": 144,
-   "shots_on_goal": 59,
-   "saves": 105,
-   "corner_kicks": 48,
-   "fouls": 140,
-   "offsides": 14,
-   "yc": 19,
-   "rc": 1,
-   "pk_g": 1,
-   "goals": 18,
-   "shot_pct": 41.0,
-   "shots_saved": 41,
-   "shots_off_target": 85,
-   "gk_save_pct": 79.5
+   "shots": 208,
+   "shots_on_goal": 85,
+   "saves": 150,
+   "corner_kicks": 71,
+   "fouls": 193,
+   "offsides": 18,
+   "yc": 27,
+   "rc": 2,
+   "pk_g": 2,
+   "goals": 27,
+   "shot_pct": 40.9,
+   "shots_saved": 58,
+   "shots_off_target": 123,
+   "gk_save_pct": 78.5
   },
   "against": {
-   "shots": 275,
-   "shots_on_goal": 130,
-   "saves": 41,
-   "corner_kicks": 85,
-   "fouls": 196,
-   "offsides": 39,
-   "yc": 15,
-   "rc": 1,
+   "shots": 394,
+   "shots_on_goal": 189,
+   "saves": 58,
+   "corner_kicks": 131,
+   "fouls": 275,
+   "offsides": 60,
+   "yc": 22,
+   "rc": 2,
    "pk_g": 0,
-   "goals": 27,
-   "shot_pct": 47.3,
-   "shots_saved": 103,
-   "shots_off_target": 145,
-   "gk_save_pct": 69.5
+   "goals": 41,
+   "shot_pct": 48.0,
+   "shots_saved": 148,
+   "shots_off_target": 205,
+   "gk_save_pct": 68.2
   }
  },
  "matches": [
@@ -339,6 +339,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-08-20",
+   "opponent": "Campbell",
+   "home": true,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     1,
+     8
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     1,
+     3
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     5,
+     2
+    ],
+    "offsides": 1,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 11,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     4,
+     7
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     2,
+     3
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     3,
+     5
+    ],
+    "offsides": 5,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 36.4,
+    "shots_saved": 4,
+    "shots_off_target": 7,
+    "gk_save_pct": 100.0
+   },
+   "source": "gocamels.com-208300",
+   "source_url": "https://gocamels.com/sports/womens-soccer/stats/2026/east-carolina/boxscore/208300",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-08-23",
    "opponent": "High Point",
    "home": true,
@@ -410,6 +484,154 @@
    },
    "source": "ecupirates.com-14248",
    "source_url": "https://ecupirates.com:443/sports/womens-soccer/stats/2026/high-point/boxscore/14248",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-23",
+   "opponent": "High Point",
+   "home": true,
+   "result": "D",
+   "score": "2-2",
+   "for": {
+    "shots": 16,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     7,
+     9
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     5,
+     2
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     1,
+     9
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 37.5,
+    "shots_saved": 4,
+    "shots_off_target": 10,
+    "gk_save_pct": 60.0
+   },
+   "against": {
+    "shots": 10,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     6,
+     4
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 14,
+    "fouls_by_period": [
+     6,
+     8
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 5,
+    "gk_save_pct": 66.7
+   },
+   "source": "highpointpanthers.com-16318",
+   "source_url": "https://highpointpanthers.com/sports/womens-soccer/stats/2026/east-carolina/boxscore/16318",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-27",
+   "opponent": "Appalachian State",
+   "home": true,
+   "result": "L",
+   "score": "0-4",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     3,
+     2
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     2,
+     5
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 1,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 80.0,
+    "shots_saved": 4,
+    "shots_off_target": 1,
+    "gk_save_pct": 63.6
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 11,
+    "shots_by_period": [
+     7,
+     11
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 9,
+    "corner_kicks_by_period": [
+     5,
+     4
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     1,
+     5
+    ],
+    "offsides": 1,
+    "goals": 4,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 61.1,
+    "shots_saved": 7,
+    "shots_off_target": 7,
+    "gk_save_pct": 100.0
+   },
+   "source": "appstatesports.com-9970",
+   "source_url": "https://appstatesports.com/sports/womens-soccer/stats/2026/east-carolina/boxscore/9970",
    "platform": "sidearm"
   },
   {
@@ -709,6 +931,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-09-10",
+   "opponent": "VCU",
+   "home": true,
+   "result": "D",
+   "score": "2-2",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     1,
+     8
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     3,
+     5
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     0,
+     2
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     3,
+     2
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 6,
+    "gk_save_pct": 80.0
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     10,
+     9
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 15,
+    "fouls_by_period": [
+     9,
+     6
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 52.6,
+    "shots_saved": 8,
+    "shots_off_target": 9,
+    "gk_save_pct": 33.3
+   },
+   "source": "vcuathletics.com-9304",
+   "source_url": "https://vcuathletics.com/sports/womens-soccer/stats/2026/east-carolina/boxscore/9304",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-09-17",
    "opponent": "Tulsa",
    "home": false,
@@ -928,6 +1224,80 @@
    },
    "source": "ecupirates.com-14255",
    "source_url": "https://ecupirates.com:443/sports/womens-soccer/stats/2026/uab/boxscore/14255",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-27",
+   "opponent": "UAB",
+   "home": true,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 3,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     2,
+     1
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     1,
+     6
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     2,
+     2
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 1,
+    "shots_off_target": 1,
+    "gk_save_pct": 77.8
+   },
+   "against": {
+    "shots": 20,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     6,
+     14
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     2,
+     5
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     5,
+     6
+    ],
+    "offsides": 3,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 45.0,
+    "shots_saved": 7,
+    "shots_off_target": 11,
+    "gk_save_pct": 50.0
+   },
+   "source": "uabsports.com-23240",
+   "source_url": "https://uabsports.com:443/sports/womens-soccer/stats/2026/east-carolina/boxscore/23240",
    "platform": "sidearm"
   },
   {
@@ -1153,6 +1523,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-10-11",
+   "opponent": "Rice",
+   "home": true,
+   "result": "D",
+   "score": "2-2",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     5,
+     6
+    ],
+    "saves": 11,
+    "saves_by_period": [
+     3,
+     8
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     4,
+     2
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     3,
+     5
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 3,
+    "rc": 1,
+    "pk_g": 0,
+    "shot_pct": 36.4,
+    "shots_saved": 2,
+    "shots_off_target": 7,
+    "gk_save_pct": 84.6
+   },
+   "against": {
+    "shots": 23,
+    "shots_on_goal": 13,
+    "shots_by_period": [
+     8,
+     15
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 16,
+    "corner_kicks_by_period": [
+     7,
+     9
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     5,
+     6
+    ],
+    "offsides": 6,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 56.5,
+    "shots_saved": 11,
+    "shots_off_target": 10,
+    "gk_save_pct": 50.0
+   },
+   "source": "riceowls.com-28906",
+   "source_url": "https://riceowls.com/sports/womens-soccer/stats/2026/east-carolina/boxscore/28906",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-10-15",
    "opponent": "Florida Atlantic",
    "home": false,
@@ -1299,6 +1743,80 @@
    "source": "ecupirates.com-14260",
    "source_url": "https://ecupirates.com:443/sports/womens-soccer/stats/2026/north-texas/boxscore/14260",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-22",
+   "opponent": "North Texas",
+   "home": true,
+   "result": "D",
+   "score": "2-2",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     4,
+     7
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     4,
+     1
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 1,
+    "shot_pct": 36.4,
+    "shots_saved": 2,
+    "shots_off_target": 7,
+    "gk_save_pct": 71.4
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     13,
+     5
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     3,
+     4
+    ],
+    "fouls": 14,
+    "fouls_by_period": [
+     8,
+     6
+    ],
+    "offsides": 6,
+    "goals": 2,
+    "yc": 1,
+    "rc": 1,
+    "pk_g": 0,
+    "shot_pct": 38.9,
+    "shots_saved": 5,
+    "shots_off_target": 11,
+    "gk_save_pct": 50.0
+   },
+   "source": "meangreensports.com-7197",
+   "source_url": "https://meangreensports.com:443/sports/womens-soccer/stats/2026/east-carolina/boxscore/7197",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -1307,14 +1825,14 @@
    "slug": "cox-sydney",
    "num": "19",
    "pos": "DEF",
-   "gp": 17,
-   "starts": 17,
-   "min": 1511,
+   "gp": 24,
+   "starts": 24,
+   "min": 2122,
    "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 1,
-   "fouls": 4,
+   "fouls": 6,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
@@ -1325,35 +1843,13 @@
    "gk_save_pct": null
   },
   {
-   "name": "Mason, Amy",
-   "slug": "mason-amy",
-   "num": "25",
-   "pos": "FWD",
-   "gp": 16,
-   "starts": 16,
-   "min": 1415,
-   "sh": 4,
-   "sog": 2,
-   "g": 0,
-   "a": 0,
-   "fouls": 9,
-   "yc": 5,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 50.0,
-   "shots_saved": 2,
-   "shots_off_target": 2,
-   "no": 2,
-   "gk_save_pct": null
-  },
-  {
    "name": "Dietrich, Olivia",
    "slug": "dietrich-olivia",
    "num": "1",
    "pos": "GK",
-   "gp": 17,
-   "starts": 16,
-   "min": 1393,
+   "gp": 24,
+   "starts": 23,
+   "min": 1976,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1371,51 +1867,51 @@
     "saves": 85,
     "save_pct": 78.0
    },
-   "no": 3,
+   "no": 2,
    "gk_save_pct": 78.0
+  },
+  {
+   "name": "Mason, Amy",
+   "slug": "mason-amy",
+   "num": "25",
+   "pos": "FWD",
+   "gp": 22,
+   "starts": 22,
+   "min": 1955,
+   "sh": 5,
+   "sog": 2,
+   "g": 0,
+   "a": 0,
+   "fouls": 10,
+   "yc": 8,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 40.0,
+   "shots_saved": 2,
+   "shots_off_target": 3,
+   "no": 3,
+   "gk_save_pct": null
   },
   {
    "name": "Tucker, Alyssa",
    "slug": "tucker-alyssa",
    "num": "8",
    "pos": "FWD",
-   "gp": 17,
-   "starts": 17,
-   "min": 1302,
-   "sh": 19,
-   "sog": 7,
+   "gp": 24,
+   "starts": 24,
+   "min": 1807,
+   "sh": 25,
+   "sog": 10,
    "g": 1,
    "a": 1,
-   "fouls": 12,
+   "fouls": 13,
    "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 36.8,
-   "shots_saved": 6,
-   "shots_off_target": 12,
+   "shot_pct": 40.0,
+   "shots_saved": 9,
+   "shots_off_target": 15,
    "no": 4,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Mayock, AJ",
-   "slug": "mayock-aj",
-   "num": "33",
-   "pos": "MID",
-   "gp": 16,
-   "starts": 16,
-   "min": 1296,
-   "sh": 22,
-   "sog": 8,
-   "g": 2,
-   "a": 0,
-   "fouls": 26,
-   "yc": 7,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 36.4,
-   "shots_saved": 6,
-   "shots_off_target": 14,
-   "no": 5,
    "gk_save_pct": null
   },
   {
@@ -1423,20 +1919,42 @@
    "slug": "ridge-lily",
    "num": "11",
    "pos": "MID",
-   "gp": 17,
-   "starts": 15,
-   "min": 1229,
-   "sh": 11,
-   "sog": 4,
-   "g": 3,
-   "a": 1,
-   "fouls": 6,
-   "yc": 1,
+   "gp": 24,
+   "starts": 22,
+   "min": 1772,
+   "sh": 16,
+   "sog": 6,
+   "g": 5,
+   "a": 2,
+   "fouls": 7,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 36.4,
+   "shot_pct": 37.5,
    "shots_saved": 1,
-   "shots_off_target": 7,
+   "shots_off_target": 10,
+   "no": 5,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Mayock, AJ",
+   "slug": "mayock-aj",
+   "num": "33",
+   "pos": "MID",
+   "gp": 22,
+   "starts": 22,
+   "min": 1770,
+   "sh": 34,
+   "sog": 12,
+   "g": 3,
+   "a": 0,
+   "fouls": 31,
+   "yc": 9,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 35.3,
+   "shots_saved": 9,
+   "shots_off_target": 22,
    "no": 6,
    "gk_save_pct": null
   },
@@ -1445,20 +1963,20 @@
    "slug": "steck-ella",
    "num": "14",
    "pos": "DEF",
-   "gp": 17,
-   "starts": 17,
-   "min": 1216,
-   "sh": 7,
-   "sog": 3,
-   "g": 1,
+   "gp": 24,
+   "starts": 24,
+   "min": 1740,
+   "sh": 11,
+   "sog": 6,
+   "g": 2,
    "a": 1,
-   "fouls": 6,
+   "fouls": 8,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 42.9,
-   "shots_saved": 2,
-   "shots_off_target": 4,
+   "shot_pct": 54.5,
+   "shots_saved": 4,
+   "shots_off_target": 5,
    "no": 7,
    "gk_save_pct": null
   },
@@ -1467,20 +1985,20 @@
    "slug": "trick-olivia",
    "num": "9",
    "pos": null,
-   "gp": 16,
-   "starts": 16,
-   "min": 1164,
-   "sh": 3,
+   "gp": 23,
+   "starts": 23,
+   "min": 1616,
+   "sh": 4,
    "sog": 0,
    "g": 0,
    "a": 0,
-   "fouls": 6,
+   "fouls": 8,
    "yc": 1,
-   "rc": 1,
+   "rc": 2,
    "pk_g": 0,
    "shot_pct": 0.0,
    "shots_saved": 0,
-   "shots_off_target": 3,
+   "shots_off_target": 4,
    "no": 8,
    "gk_save_pct": null
   },
@@ -1489,21 +2007,43 @@
    "slug": "dolan-boodram-caitlen-star",
    "num": "10",
    "pos": "FWD",
-   "gp": 15,
-   "starts": 15,
-   "min": 974,
-   "sh": 23,
-   "sog": 12,
-   "g": 4,
+   "gp": 21,
+   "starts": 21,
+   "min": 1375,
+   "sh": 30,
+   "sog": 16,
+   "g": 5,
    "a": 1,
-   "fouls": 15,
+   "fouls": 17,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 52.2,
-   "shots_saved": 8,
-   "shots_off_target": 11,
+   "shot_pct": 53.3,
+   "shots_saved": 11,
+   "shots_off_target": 14,
    "no": 9,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Guti\u00e9rrez, Isabella",
+   "slug": "guti-rrez-isabella",
+   "num": "6",
+   "pos": "MID",
+   "gp": 13,
+   "starts": 13,
+   "min": 1075,
+   "sh": 25,
+   "sog": 11,
+   "g": 4,
+   "a": 4,
+   "fouls": 5,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 2,
+   "shot_pct": 44.0,
+   "shots_saved": 7,
+   "shots_off_target": 14,
+   "no": 10,
    "gk_save_pct": null
   },
   {
@@ -1511,9 +2051,9 @@
    "slug": "clements-laney",
    "num": "7",
    "pos": "DEF",
-   "gp": 16,
-   "starts": 6,
-   "min": 777,
+   "gp": 22,
+   "starts": 8,
+   "min": 1069,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -1525,7 +2065,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 10,
+   "no": 11,
    "gk_save_pct": null
   },
   {
@@ -1533,21 +2073,65 @@
    "slug": "taylor-lauryn",
    "num": "17",
    "pos": "FWD",
-   "gp": 16,
-   "starts": 11,
-   "min": 705,
-   "sh": 8,
-   "sog": 5,
-   "g": 1,
+   "gp": 23,
+   "starts": 17,
+   "min": 1057,
+   "sh": 10,
+   "sog": 6,
+   "g": 2,
    "a": 2,
    "fouls": 4,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 62.5,
+   "shot_pct": 60.0,
    "shots_saved": 4,
+   "shots_off_target": 4,
+   "no": 12,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Frazier, Alyssa",
+   "slug": "frazier-alyssa",
+   "num": "21",
+   "pos": "MID",
+   "gp": 22,
+   "starts": 2,
+   "min": 717,
+   "sh": 3,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 4,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
    "shots_off_target": 3,
-   "no": 11,
+   "no": 13,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Spinetti, Gia",
+   "slug": "spinetti-gia",
+   "num": "3",
+   "pos": "DEF",
+   "gp": 13,
+   "starts": 4,
+   "min": 688,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 3,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 14,
    "gk_save_pct": null
   },
   {
@@ -1569,72 +2153,6 @@
    "shot_pct": 42.1,
    "shots_saved": 5,
    "shots_off_target": 11,
-   "no": 12,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Frazier, Alyssa",
-   "slug": "frazier-alyssa",
-   "num": "21",
-   "pos": "MID",
-   "gp": 16,
-   "starts": 1,
-   "min": 513,
-   "sh": 2,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 3,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 0.0,
-   "shots_saved": 0,
-   "shots_off_target": 2,
-   "no": 13,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Guti\u00e9rrez, Isabella",
-   "slug": "guti-rrez-isabella",
-   "num": "6",
-   "pos": "MID",
-   "gp": 6,
-   "starts": 6,
-   "min": 503,
-   "sh": 7,
-   "sog": 3,
-   "g": 1,
-   "a": 3,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 1,
-   "shot_pct": 42.9,
-   "shots_saved": 2,
-   "shots_off_target": 4,
-   "no": 14,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Spinetti, Gia",
-   "slug": "spinetti-gia",
-   "num": "3",
-   "pos": "DEF",
-   "gp": 9,
-   "starts": 3,
-   "min": 485,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 2,
-   "yc": 1,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
    "no": 15,
    "gk_save_pct": null
   },
@@ -1643,10 +2161,10 @@
    "slug": "fuchs-emma",
    "num": "2",
    "pos": "FWD",
-   "gp": 17,
+   "gp": 24,
    "starts": 2,
-   "min": 426,
-   "sh": 7,
+   "min": 572,
+   "sh": 9,
    "sog": 2,
    "g": 0,
    "a": 0,
@@ -1654,9 +2172,9 @@
    "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 28.6,
+   "shot_pct": 22.2,
    "shots_saved": 2,
-   "shots_off_target": 5,
+   "shots_off_target": 7,
    "no": 16,
    "gk_save_pct": null
   },
@@ -1665,9 +2183,9 @@
    "slug": "miotto-anna",
    "num": "18",
    "pos": "FWD",
-   "gp": 8,
+   "gp": 11,
    "starts": 4,
-   "min": 369,
+   "min": 472,
    "sh": 5,
    "sog": 4,
    "g": 2,
@@ -1687,10 +2205,10 @@
    "slug": "farris-piper",
    "num": "16",
    "pos": "FWD",
-   "gp": 16,
+   "gp": 22,
    "starts": 0,
-   "min": 304,
-   "sh": 1,
+   "min": 412,
+   "sh": 2,
    "sog": 0,
    "g": 0,
    "a": 0,
@@ -1700,30 +2218,8 @@
    "pk_g": 0,
    "shot_pct": 0.0,
    "shots_saved": 0,
-   "shots_off_target": 1,
+   "shots_off_target": 2,
    "no": 18,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Ludlam, Emery",
-   "slug": "ludlam-emery",
-   "num": "15",
-   "pos": "FWD",
-   "gp": 10,
-   "starts": 0,
-   "min": 196,
-   "sh": 5,
-   "sog": 1,
-   "g": 0,
-   "a": 1,
-   "fouls": 4,
-   "yc": 2,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 20.0,
-   "shots_saved": 1,
-   "shots_off_target": 4,
-   "no": 19,
    "gk_save_pct": null
   },
   {
@@ -1731,9 +2227,9 @@
    "slug": "baity-ireland",
    "num": "5",
    "pos": "DEF",
-   "gp": 8,
+   "gp": 12,
    "starts": 0,
-   "min": 180,
+   "min": 291,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1745,6 +2241,28 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
+   "no": 19,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Ludlam, Emery",
+   "slug": "ludlam-emery",
+   "num": "15",
+   "pos": "FWD",
+   "gp": 14,
+   "starts": 0,
+   "min": 284,
+   "sh": 9,
+   "sog": 2,
+   "g": 0,
+   "a": 2,
+   "fouls": 5,
+   "yc": 4,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 22.2,
+   "shots_saved": 2,
+   "shots_off_target": 7,
    "no": 20,
    "gk_save_pct": null
   },
@@ -1753,9 +2271,9 @@
    "slug": "steinberg-sydney",
    "num": "30",
    "pos": "GK",
-   "gp": 3,
+   "gp": 4,
    "starts": 1,
-   "min": 137,
+   "min": 184,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1800,12 +2318,12 @@
   }
  ],
  "goal_buildup": {
-  "penalty": 1,
+  "penalty": 2,
   "corner_kick": 0,
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 11,
-  "categorized": 1
+  "unknown": 18,
+  "categorized": 2
  }
 }
