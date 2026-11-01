@@ -1,44 +1,44 @@
 {
  "team": "USC Upstate",
  "season": 2026,
- "games": 16,
+ "games": 24,
  "record": {
-  "w": 10,
-  "d": 4,
-  "l": 2
+  "w": 14,
+  "d": 6,
+  "l": 4
  },
  "totals": {
   "for": {
-   "shots": 208,
-   "shots_on_goal": 107,
-   "saves": 56,
-   "corner_kicks": 104,
-   "fouls": 115,
-   "offsides": 34,
-   "yc": 8,
-   "rc": 1,
-   "pk_g": 4,
-   "goals": 38,
-   "shot_pct": 51.4,
-   "shots_saved": 69,
-   "shots_off_target": 101,
-   "gk_save_pct": 80.0
+   "shots": 284,
+   "shots_on_goal": 150,
+   "saves": 93,
+   "corner_kicks": 150,
+   "fouls": 178,
+   "offsides": 50,
+   "yc": 13,
+   "rc": 2,
+   "pk_g": 5,
+   "goals": 51,
+   "shot_pct": 52.8,
+   "shots_saved": 99,
+   "shots_off_target": 134,
+   "gk_save_pct": 81.6
   },
   "against": {
-   "shots": 162,
-   "shots_on_goal": 70,
-   "saves": 69,
-   "corner_kicks": 47,
-   "fouls": 161,
-   "offsides": 20,
-   "yc": 19,
+   "shots": 261,
+   "shots_on_goal": 114,
+   "saves": 99,
+   "corner_kicks": 84,
+   "fouls": 253,
+   "offsides": 35,
+   "yc": 29,
    "rc": 0,
-   "pk_g": 3,
-   "goals": 14,
-   "shot_pct": 43.2,
-   "shots_saved": 56,
-   "shots_off_target": 92,
-   "gk_save_pct": 64.5
+   "pk_g": 4,
+   "goals": 21,
+   "shot_pct": 43.7,
+   "shots_saved": 93,
+   "shots_off_target": 147,
+   "gk_save_pct": 66.0
   }
  },
  "matches": [
@@ -114,6 +114,80 @@
    },
    "source": "cofcsports.com-13014",
    "source_url": "https://cofcsports.com:443/sports/womens-soccer/stats/2026/usc-upstate/boxscore/13014",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-16",
+   "opponent": "College of Charleston",
+   "home": false,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     5,
+     8
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     2,
+     5
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     5,
+     7
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 38.5,
+    "shots_saved": 4,
+    "shots_off_target": 8,
+    "gk_save_pct": 80.0
+   },
+   "against": {
+    "shots": 12,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     7,
+     5
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     1,
+     3
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     3,
+     4
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     3,
+     4
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 3,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 41.7,
+    "shots_saved": 4,
+    "shots_off_target": 7,
+    "gk_save_pct": 80.0
+   },
+   "source": "upstatespartans.com-6583",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/charleston/boxscore/6583",
    "platform": "sidearm"
   },
   {
@@ -262,6 +336,80 @@
    },
    "source": "charlotte49ers.com-20009",
    "source_url": "https://charlotte49ers.com/sports/womens-soccer/stats/2026/usc-upstate/boxscore/20009",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-23",
+   "opponent": "Charlotte",
+   "home": false,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 4,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     0,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     1,
+     4
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     7,
+     4
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 2,
+    "gk_save_pct": 85.7
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     8,
+     10
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     5,
+     2
+    ],
+    "fouls": 20,
+    "fouls_by_period": [
+     11,
+     9
+    ],
+    "offsides": 4,
+    "goals": 1,
+    "yc": 4,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 38.9,
+    "shots_saved": 6,
+    "shots_off_target": 11,
+    "gk_save_pct": 100.0
+   },
+   "source": "upstatespartans.com-6585",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/charlotte/boxscore/6585",
    "platform": "sidearm"
   },
   {
@@ -487,6 +635,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-09-06",
+   "opponent": "Eastern Kentucky",
+   "home": false,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     1,
+     4
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     4,
+     5
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     0,
+     1
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     5,
+     5
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 1,
+    "pk_g": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 2,
+    "shots_off_target": 2,
+    "gk_save_pct": 81.8
+   },
+   "against": {
+    "shots": 24,
+    "shots_on_goal": 11,
+    "shots_by_period": [
+     14,
+     10
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     5,
+     5
+    ],
+    "offsides": 2,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 45.8,
+    "shots_saved": 9,
+    "shots_off_target": 13,
+    "gk_save_pct": 66.7
+   },
+   "source": "upstatespartans.com-6588",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/eastern-kentucky/boxscore/6588",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-09-10",
    "opponent": "Furman",
    "home": false,
@@ -558,6 +780,80 @@
    },
    "source": "furmanpaladins.com-10291",
    "source_url": "https://furmanpaladins.com/sports/womens-soccer/stats/2026/usc-upstate/boxscore/10291",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-10",
+   "opponent": "Furman",
+   "home": false,
+   "result": "D",
+   "score": "2-2",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     1,
+     4
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     6,
+     2
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     0,
+     4
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     3,
+     2
+    ],
+    "offsides": 2,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 80.0,
+    "shots_saved": 2,
+    "shots_off_target": 1,
+    "gk_save_pct": 80.0
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     15,
+     4
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     5,
+     2
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     0,
+     8
+    ],
+    "offsides": 2,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 52.6,
+    "shots_saved": 8,
+    "shots_off_target": 9,
+    "gk_save_pct": 50.0
+   },
+   "source": "upstatespartans.com-6589",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/furman/boxscore/6589",
    "platform": "sidearm"
   },
   {
@@ -783,6 +1079,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-09-23",
+   "opponent": "Charleston Southern",
+   "home": false,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 10,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     4,
+     6
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     2,
+     0
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     2,
+     3
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     1,
+     3
+    ],
+    "offsides": 2,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 3,
+    "shots_off_target": 5,
+    "gk_save_pct": 66.7
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     5,
+     4
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     2,
+     3
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     3,
+     6
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 1,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
+    "shots_off_target": 6,
+    "gk_save_pct": 60.0
+   },
+   "source": "upstatespartans.com-6592",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/charleston-southern/boxscore/6592",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-09-26",
    "opponent": "Longwood",
    "home": false,
@@ -854,6 +1224,80 @@
    },
    "source": "longwoodlancers.com-11429",
    "source_url": "https://longwoodlancers.com/sports/womens-soccer/stats/2026/usc-upstate/boxscore/11429",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-26",
+   "opponent": "Longwood",
+   "home": false,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 14,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     6,
+     8
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 10,
+    "corner_kicks_by_period": [
+     5,
+     5
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     3,
+     5
+    ],
+    "offsides": 6,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 64.3,
+    "shots_saved": 7,
+    "shots_off_target": 5,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 4,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     1,
+     3
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     4,
+     3
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     7,
+     9
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3,
+    "gk_save_pct": 77.8
+   },
+   "source": "upstatespartans.com-6593",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/longwood/boxscore/6593",
    "platform": "sidearm"
   },
   {
@@ -1079,6 +1523,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-10-10",
+   "opponent": "High Point",
+   "home": false,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 12,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     6,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     2,
+     3
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     2,
+     3
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     4,
+     5
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     4,
+     1
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     4,
+     7
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 55.6,
+    "shots_saved": 5,
+    "shots_off_target": 4,
+    "gk_save_pct": 83.3
+   },
+   "source": "upstatespartans.com-6596",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/high-point/boxscore/6596",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-10-17",
    "opponent": "UNC Asheville",
    "home": true,
@@ -1225,6 +1743,80 @@
    "source": "upstatespartans.com-6598",
    "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/south-carolina-state/boxscore/6598",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-28",
+   "opponent": "Gardner-Webb",
+   "home": false,
+   "result": "W",
+   "score": "4-0",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     6,
+     7
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     2,
+     0
+    ],
+    "corner_kicks": 9,
+    "corner_kicks_by_period": [
+     3,
+     6
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     6,
+     2
+    ],
+    "offsides": 2,
+    "goals": 4,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 1,
+    "shot_pct": 69.2,
+    "shots_saved": 5,
+    "shots_off_target": 4,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 4,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     2,
+     2
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     0,
+     3
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     6,
+     5
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 2,
+    "gk_save_pct": 55.6
+   },
+   "source": "upstatespartans.com-6599",
+   "source_url": "https://upstatespartans.com:443/sports/womens-soccer/stats/2026/gardner-webb/boxscore/6599",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -1233,20 +1825,20 @@
    "slug": "trovato-danielle",
    "num": "4",
    "pos": "DEF",
-   "gp": 16,
-   "starts": 16,
-   "min": 1410,
-   "sh": 13,
-   "sog": 5,
-   "g": 2,
-   "a": 1,
-   "fouls": 5,
-   "yc": 2,
+   "gp": 24,
+   "starts": 24,
+   "min": 2126,
+   "sh": 18,
+   "sog": 7,
+   "g": 3,
+   "a": 2,
+   "fouls": 8,
+   "yc": 4,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 38.5,
-   "shots_saved": 3,
-   "shots_off_target": 8,
+   "shot_pct": 38.9,
+   "shots_saved": 4,
+   "shots_off_target": 11,
    "no": 1,
    "gk_save_pct": null
   },
@@ -1255,20 +1847,20 @@
    "slug": "wunderlich-annabelle",
    "num": "13",
    "pos": "DEF",
-   "gp": 16,
-   "starts": 16,
-   "min": 1369,
-   "sh": 17,
-   "sog": 10,
-   "g": 5,
-   "a": 1,
-   "fouls": 5,
-   "yc": 2,
+   "gp": 24,
+   "starts": 24,
+   "min": 2089,
+   "sh": 24,
+   "sog": 15,
+   "g": 6,
+   "a": 4,
+   "fouls": 9,
+   "yc": 4,
    "rc": 0,
-   "pk_g": 4,
-   "shot_pct": 58.8,
-   "shots_saved": 5,
-   "shots_off_target": 7,
+   "pk_g": 5,
+   "shot_pct": 62.5,
+   "shots_saved": 9,
+   "shots_off_target": 9,
    "no": 2,
    "gk_save_pct": null
   },
@@ -1277,20 +1869,20 @@
    "slug": "economopoulos-katelyn",
    "num": "12",
    "pos": "MID",
-   "gp": 16,
-   "starts": 16,
-   "min": 1331,
-   "sh": 14,
-   "sog": 7,
-   "g": 3,
-   "a": 2,
-   "fouls": 5,
+   "gp": 24,
+   "starts": 24,
+   "min": 2003,
+   "sh": 20,
+   "sog": 10,
+   "g": 4,
+   "a": 3,
+   "fouls": 11,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 50.0,
-   "shots_saved": 4,
-   "shots_off_target": 7,
+   "shots_saved": 6,
+   "shots_off_target": 10,
    "no": 3,
    "gk_save_pct": null
   },
@@ -1299,43 +1891,21 @@
    "slug": "bell-raegan",
    "num": "14",
    "pos": "MID",
-   "gp": 16,
-   "starts": 16,
-   "min": 1324,
-   "sh": 6,
+   "gp": 24,
+   "starts": 24,
+   "min": 1987,
+   "sh": 8,
    "sog": 2,
    "g": 1,
-   "a": 0,
-   "fouls": 4,
+   "a": 1,
+   "fouls": 9,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 33.3,
+   "shot_pct": 25.0,
    "shots_saved": 1,
-   "shots_off_target": 4,
+   "shots_off_target": 6,
    "no": 4,
-   "gk_save_pct": null
-  },
-  {
-   "name": "White, Kylie",
-   "slug": "white-kylie",
-   "num": "16",
-   "pos": "MID",
-   "gp": 16,
-   "starts": 16,
-   "min": 1258,
-   "sh": 8,
-   "sog": 4,
-   "g": 1,
-   "a": 1,
-   "fouls": 1,
-   "yc": 1,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 50.0,
-   "shots_saved": 3,
-   "shots_off_target": 4,
-   "no": 5,
    "gk_save_pct": null
   },
   {
@@ -1343,9 +1913,9 @@
    "slug": "wilt-hannah",
    "num": "1",
    "pos": "GK",
-   "gp": 15,
-   "starts": 15,
-   "min": 1232,
+   "gp": 23,
+   "starts": 23,
+   "min": 1952,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1358,34 +1928,34 @@
    "shots_saved": null,
    "shots_off_target": null,
    "goalie": {
-    "gp": 15,
+    "gp": 16,
     "ga": 13,
-    "saves": 53,
-    "save_pct": 80.3
+    "saves": 55,
+    "save_pct": 80.9
    },
-   "no": 6,
-   "gk_save_pct": 80.3
+   "no": 5,
+   "gk_save_pct": 80.9
   },
   {
-   "name": "Mitchner, Jasmyn",
-   "slug": "mitchner-jasmyn",
-   "num": "15",
-   "pos": "FWD",
-   "gp": 16,
-   "starts": 15,
-   "min": 1202,
-   "sh": 28,
-   "sog": 17,
-   "g": 7,
-   "a": 5,
-   "fouls": 16,
-   "yc": 0,
+   "name": "White, Kylie",
+   "slug": "white-kylie",
+   "num": "16",
+   "pos": "MID",
+   "gp": 24,
+   "starts": 24,
+   "min": 1938,
+   "sh": 11,
+   "sog": 5,
+   "g": 1,
+   "a": 1,
+   "fouls": 4,
+   "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 60.7,
-   "shots_saved": 10,
-   "shots_off_target": 11,
-   "no": 7,
+   "shot_pct": 45.5,
+   "shots_saved": 4,
+   "shots_off_target": 6,
+   "no": 6,
    "gk_save_pct": null
   },
   {
@@ -1393,43 +1963,43 @@
    "slug": "bryant-liana",
    "num": "32",
    "pos": "FWD",
-   "gp": 16,
-   "starts": 16,
-   "min": 1184,
-   "sh": 57,
-   "sog": 34,
-   "g": 9,
-   "a": 5,
-   "fouls": 11,
+   "gp": 24,
+   "starts": 24,
+   "min": 1842,
+   "sh": 78,
+   "sog": 47,
+   "g": 11,
+   "a": 8,
+   "fouls": 25,
    "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 59.6,
-   "shots_saved": 25,
-   "shots_off_target": 23,
-   "no": 8,
+   "shot_pct": 60.3,
+   "shots_saved": 36,
+   "shots_off_target": 31,
+   "no": 7,
    "gk_save_pct": null
   },
   {
-   "name": "Kara, Cansu",
-   "slug": "kara-cansu",
-   "num": "3",
-   "pos": "DEF",
-   "gp": 15,
-   "starts": 15,
-   "min": 1181,
-   "sh": 13,
-   "sog": 10,
-   "g": 2,
-   "a": 7,
-   "fouls": 1,
+   "name": "Mitchner, Jasmyn",
+   "slug": "mitchner-jasmyn",
+   "num": "15",
+   "pos": "FWD",
+   "gp": 24,
+   "starts": 22,
+   "min": 1823,
+   "sh": 38,
+   "sog": 26,
+   "g": 12,
+   "a": 5,
+   "fouls": 22,
    "yc": 0,
-   "rc": 1,
+   "rc": 0,
    "pk_g": 0,
-   "shot_pct": 76.9,
-   "shots_saved": 8,
-   "shots_off_target": 3,
-   "no": 9,
+   "shot_pct": 68.4,
+   "shots_saved": 14,
+   "shots_off_target": 12,
+   "no": 8,
    "gk_save_pct": null
   },
   {
@@ -1437,20 +2007,42 @@
    "slug": "maccausland-lily",
    "num": "7",
    "pos": "FWD",
-   "gp": 16,
-   "starts": 16,
-   "min": 1171,
-   "sh": 22,
-   "sog": 7,
-   "g": 4,
+   "gp": 24,
+   "starts": 24,
+   "min": 1820,
+   "sh": 29,
+   "sog": 9,
+   "g": 5,
    "a": 2,
-   "fouls": 10,
-   "yc": 1,
+   "fouls": 17,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 31.8,
-   "shots_saved": 3,
-   "shots_off_target": 15,
+   "shot_pct": 31.0,
+   "shots_saved": 4,
+   "shots_off_target": 20,
+   "no": 9,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Kara, Cansu",
+   "slug": "kara-cansu",
+   "num": "3",
+   "pos": "DEF",
+   "gp": 22,
+   "starts": 22,
+   "min": 1747,
+   "sh": 22,
+   "sog": 17,
+   "g": 3,
+   "a": 10,
+   "fouls": 3,
+   "yc": 0,
+   "rc": 2,
+   "pk_g": 0,
+   "shot_pct": 77.3,
+   "shots_saved": 14,
+   "shots_off_target": 5,
    "no": 10,
    "gk_save_pct": null
   },
@@ -1459,14 +2051,14 @@
    "slug": "black-gracie",
    "num": "19",
    "pos": "DEF",
-   "gp": 13,
-   "starts": 13,
-   "min": 963,
+   "gp": 19,
+   "starts": 19,
+   "min": 1437,
    "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 0,
-   "fouls": 4,
+   "fouls": 7,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
@@ -1481,43 +2073,21 @@
    "slug": "altomare-giulia",
    "num": "10",
    "pos": "MID",
-   "gp": 14,
-   "starts": 3,
-   "min": 548,
-   "sh": 6,
-   "sog": 3,
-   "g": 2,
+   "gp": 21,
+   "starts": 5,
+   "min": 844,
+   "sh": 7,
+   "sog": 4,
+   "g": 3,
    "a": 0,
-   "fouls": 5,
+   "fouls": 8,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 50.0,
+   "shot_pct": 57.1,
    "shots_saved": 1,
    "shots_off_target": 3,
    "no": 12,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Banks, Angie",
-   "slug": "banks-angie",
-   "num": "11",
-   "pos": "FWD",
-   "gp": 14,
-   "starts": 0,
-   "min": 262,
-   "sh": 8,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 3,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 12.5,
-   "shots_saved": 1,
-   "shots_off_target": 7,
-   "no": 13,
    "gk_save_pct": null
   },
   {
@@ -1525,20 +2095,42 @@
    "slug": "atwill-caroline",
    "num": "2",
    "pos": "MID",
-   "gp": 11,
-   "starts": 1,
-   "min": 232,
+   "gp": 17,
+   "starts": 2,
+   "min": 381,
    "sh": 2,
    "sog": 1,
    "g": 0,
    "a": 0,
-   "fouls": 2,
+   "fouls": 4,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 50.0,
    "shots_saved": 1,
    "shots_off_target": 1,
+   "no": 13,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Banks, Angie",
+   "slug": "banks-angie",
+   "num": "11",
+   "pos": "FWD",
+   "gp": 21,
+   "starts": 0,
+   "min": 335,
+   "sh": 11,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 4,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 9.1,
+   "shots_saved": 1,
+   "shots_off_target": 10,
    "no": 14,
    "gk_save_pct": null
   },
@@ -1547,21 +2139,43 @@
    "slug": "roark-nevaeh",
    "num": "21",
    "pos": "FWD",
-   "gp": 11,
-   "starts": 1,
-   "min": 218,
-   "sh": 8,
+   "gp": 17,
+   "starts": 2,
+   "min": 304,
+   "sh": 10,
    "sog": 2,
    "g": 0,
    "a": 0,
-   "fouls": 2,
+   "fouls": 4,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 25.0,
+   "shot_pct": 20.0,
    "shots_saved": 2,
-   "shots_off_target": 6,
+   "shots_off_target": 8,
    "no": 15,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Wisniew-Colwell, Rosalyn",
+   "slug": "wisniew-colwell-rosalyn",
+   "num": "18",
+   "pos": "MID",
+   "gp": 13,
+   "starts": 0,
+   "min": 253,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 16,
    "gk_save_pct": null
   },
   {
@@ -1589,39 +2203,17 @@
     "saves": 3,
     "save_pct": 75.0
    },
-   "no": 16,
-   "gk_save_pct": 75.0
-  },
-  {
-   "name": "Wisniew-Colwell, Rosalyn",
-   "slug": "wisniew-colwell-rosalyn",
-   "num": "18",
-   "pos": "MID",
-   "gp": 10,
-   "starts": 0,
-   "min": 195,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 1,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
    "no": 17,
-   "gk_save_pct": null
+   "gk_save_pct": 75.0
   },
   {
    "name": "Szamecki, Jorie",
    "slug": "szamecki-jorie",
    "num": "26",
-   "pos": "fwd",
-   "gp": 7,
+   "pos": "FWD",
+   "gp": 11,
    "starts": 0,
-   "min": 109,
+   "min": 140,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -1641,9 +2233,9 @@
    "slug": "schaetzly-jordan",
    "num": "22",
    "pos": "DEF",
-   "gp": 6,
+   "gp": 7,
    "starts": 0,
-   "min": 92,
+   "min": 105,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1663,9 +2255,9 @@
    "slug": "hicks-jasmine",
    "num": "23",
    "pos": "MID",
-   "gp": 3,
+   "gp": 4,
    "starts": 0,
-   "min": 76,
+   "min": 79,
    "sh": 2,
    "sog": 1,
    "g": 1,
@@ -1681,13 +2273,35 @@
    "gk_save_pct": null
   },
   {
+   "name": "Diaz, Jaimaris",
+   "slug": "diaz-jaimaris",
+   "num": "8",
+   "pos": "MID",
+   "gp": 6,
+   "starts": 0,
+   "min": 64,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 21,
+   "gk_save_pct": null
+  },
+  {
    "name": "Diemer, Arianna",
    "slug": "diemer-arianna",
    "num": "17",
    "pos": "DEF",
-   "gp": 4,
+   "gp": 5,
    "starts": 0,
-   "min": 59,
+   "min": 63,
    "sh": 1,
    "sog": 1,
    "g": 1,
@@ -1699,7 +2313,7 @@
    "shot_pct": 100.0,
    "shots_saved": 0,
    "shots_off_target": 0,
-   "no": 21,
+   "no": 22,
    "gk_save_pct": null
   },
   {
@@ -1721,28 +2335,6 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 22,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Diaz, Jaimaris",
-   "slug": "diaz-jaimaris",
-   "num": "8",
-   "pos": "MID",
-   "gp": 5,
-   "starts": 0,
-   "min": 51,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
    "no": 23,
    "gk_save_pct": null
   },
@@ -1792,12 +2384,12 @@
   }
  ],
  "goal_buildup": {
-  "penalty": 4,
+  "penalty": 5,
   "corner_kick": 0,
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 34,
-  "categorized": 4
+  "unknown": 46,
+  "categorized": 5
  }
 }

@@ -1,44 +1,44 @@
 {
  "team": "Rider",
  "season": 2026,
- "games": 13,
+ "games": 19,
  "record": {
-  "w": 3,
-  "d": 1,
-  "l": 9
+  "w": 4,
+  "d": 2,
+  "l": 13
  },
  "totals": {
   "for": {
-   "shots": 111,
-   "shots_on_goal": 49,
-   "saves": 79,
-   "corner_kicks": 36,
-   "fouls": 116,
-   "offsides": 24,
-   "yc": 11,
+   "shots": 149,
+   "shots_on_goal": 68,
+   "saves": 113,
+   "corner_kicks": 50,
+   "fouls": 167,
+   "offsides": 37,
+   "yc": 16,
    "rc": 0,
    "pk_g": 0,
-   "goals": 9,
-   "shot_pct": 44.1,
-   "shots_saved": 40,
-   "shots_off_target": 62,
-   "gk_save_pct": 76.7
+   "goals": 12,
+   "shot_pct": 45.6,
+   "shots_saved": 56,
+   "shots_off_target": 81,
+   "gk_save_pct": 77.4
   },
   "against": {
-   "shots": 243,
-   "shots_on_goal": 103,
-   "saves": 39,
-   "corner_kicks": 73,
-   "fouls": 116,
-   "offsides": 23,
-   "yc": 4,
+   "shots": 363,
+   "shots_on_goal": 146,
+   "saves": 55,
+   "corner_kicks": 109,
+   "fouls": 165,
+   "offsides": 33,
+   "yc": 6,
    "rc": 0,
    "pk_g": 0,
-   "goals": 24,
-   "shot_pct": 42.4,
-   "shots_saved": 79,
-   "shots_off_target": 140,
-   "gk_save_pct": 81.2
+   "goals": 33,
+   "shot_pct": 40.2,
+   "shots_saved": 113,
+   "shots_off_target": 217,
+   "gk_save_pct": 82.1
   }
  },
  "matches": [
@@ -114,6 +114,80 @@
    },
    "source": "wagnerathletics.com-14583",
    "source_url": "https://wagnerathletics.com/sports/womens-soccer/stats/2026/rider/boxscore/14583",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-16",
+   "opponent": "NJIT",
+   "home": false,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 6,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     3,
+     3
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     5,
+     3
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     2,
+     5
+    ],
+    "offsides": 2,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 3,
+    "gk_save_pct": 88.9
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     9,
+     10
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     2,
+     0
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     4,
+     2
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     6,
+     3
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 47.4,
+    "shots_saved": 8,
+    "shots_off_target": 10,
+    "gk_save_pct": 66.7
+   },
+   "source": "gobroncs.com-13658",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/njit/boxscore/13658",
    "platform": "sidearm"
   },
   {
@@ -339,6 +413,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-09-05",
+   "opponent": "Fairfield",
+   "home": false,
+   "result": "L",
+   "score": "0-3",
+   "for": {
+    "shots": 3,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     2,
+     1
+    ],
+    "saves": 10,
+    "saves_by_period": [
+     5,
+     5
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 1,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 2,
+    "shots_off_target": 1,
+    "gk_save_pct": 76.9
+   },
+   "against": {
+    "shots": 43,
+    "shots_on_goal": 13,
+    "shots_by_period": [
+     15,
+     28
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     1,
+     1
+    ],
+    "corner_kicks": 12,
+    "corner_kicks_by_period": [
+     4,
+     8
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     2,
+     2
+    ],
+    "offsides": 2,
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 30.2,
+    "shots_saved": 10,
+    "shots_off_target": 30,
+    "gk_save_pct": 100.0
+   },
+   "source": "gobroncs.com-13660",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/fairfield/boxscore/13660",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-09-12",
    "opponent": "Siena College",
    "home": true,
@@ -410,6 +558,80 @@
    },
    "source": "gobroncs.com-13661",
    "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/siena/boxscore/13661",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-19",
+   "opponent": "Canisius",
+   "home": false,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     6,
+     3
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     1,
+     4
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     8,
+     5
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
+    "shots_off_target": 6,
+    "gk_save_pct": 75.0
+   },
+   "against": {
+    "shots": 11,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     4,
+     7
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     4,
+     8
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 36.4,
+    "shots_saved": 3,
+    "shots_off_target": 7,
+    "gk_save_pct": 100.0
+   },
+   "source": "gobroncs.com-13662",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/canisius/boxscore/13662",
    "platform": "sidearm"
   },
   {
@@ -630,6 +852,80 @@
     "shots_off_target": 8,
     "gk_save_pct": 71.4
    },
+   "source": "gobroncs.com-13665",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/merrimack/boxscore/13665",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-30",
+   "opponent": "Merrimack",
+   "home": false,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 12,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     6,
+     6
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     5,
+     1
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     8,
+     2
+    ],
+    "offsides": 3,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 58.3,
+    "shots_saved": 5,
+    "shots_off_target": 5,
+    "gk_save_pct": 75.0
+   },
+   "against": {
+    "shots": 12,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     6,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     4,
+     1
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     2,
+     4
+    ],
+    "offsides": 4,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
+    "shots_off_target": 8,
+    "gk_save_pct": 71.4
+   },
    "source": "merrimackathletics.com-13758",
    "source_url": "https://merrimackathletics.com/sports/womens-soccer/stats/2026/rider-university/boxscore/13758",
    "platform": "sidearm"
@@ -706,6 +1002,80 @@
    },
    "source": "gobroncs.com-13666",
    "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/iona/boxscore/13666",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-07",
+   "opponent": "Manhattan",
+   "home": false,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 3,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     2,
+     1
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     3,
+     4
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     4,
+     2
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2,
+    "gk_save_pct": 87.5
+   },
+   "against": {
+    "shots": 22,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     8,
+     14
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     1,
+     5
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     5,
+     3
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 36.4,
+    "shots_saved": 7,
+    "shots_off_target": 14,
+    "gk_save_pct": 100.0
+   },
+   "source": "gobroncs.com-13667",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/manhattan/boxscore/13667",
    "platform": "sidearm"
   },
   {
@@ -1000,6 +1370,80 @@
     "shots_off_target": 8,
     "gk_save_pct": 100.0
    },
+   "source": "gobroncs.com-13672",
+   "source_url": "https://gobroncs.com/sports/womens-soccer/stats/2026/marist/boxscore/13672",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-24",
+   "opponent": "Marist",
+   "home": false,
+   "result": "L",
+   "score": "0-2",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     2,
+     3
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     0,
+     3
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     0,
+     1
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     3,
+     3
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 3,
+    "shots_off_target": 2,
+    "gk_save_pct": 60.0
+   },
+   "against": {
+    "shots": 13,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     5,
+     8
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     3,
+     3
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 4,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 38.5,
+    "shots_saved": 3,
+    "shots_off_target": 8,
+    "gk_save_pct": 100.0
+   },
    "source": "goredfoxes.com-15619",
    "source_url": "https://goredfoxes.com/sports/womens-soccer/stats/2026/rider/boxscore/15619",
    "platform": "sidearm"
@@ -1011,20 +1455,20 @@
    "slug": "morgan-bethie",
    "num": "6",
    "pos": "DEF",
-   "gp": 13,
-   "starts": 13,
-   "min": 1166,
-   "sh": 3,
-   "sog": 1,
-   "g": 1,
+   "gp": 19,
+   "starts": 19,
+   "min": 1706,
+   "sh": 5,
+   "sog": 2,
+   "g": 2,
    "a": 0,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 33.3,
+   "shot_pct": 40.0,
    "shots_saved": 0,
-   "shots_off_target": 2,
+   "shots_off_target": 3,
    "no": 1,
    "gk_save_pct": null
   },
@@ -1033,20 +1477,20 @@
    "slug": "carter-courtney",
    "num": "19",
    "pos": "DEF",
-   "gp": 13,
-   "starts": 13,
-   "min": 1150,
-   "sh": 8,
-   "sog": 6,
+   "gp": 19,
+   "starts": 19,
+   "min": 1670,
+   "sh": 11,
+   "sog": 7,
    "g": 1,
    "a": 0,
    "fouls": 0,
-   "yc": 2,
+   "yc": 3,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 75.0,
-   "shots_saved": 5,
-   "shots_off_target": 2,
+   "shot_pct": 63.6,
+   "shots_saved": 6,
+   "shots_off_target": 4,
    "no": 2,
    "gk_save_pct": null
   },
@@ -1055,9 +1499,9 @@
    "slug": "moore-ashley",
    "num": "00",
    "pos": "GK",
-   "gp": 13,
-   "starts": 13,
-   "min": 1150,
+   "gp": 19,
+   "starts": 19,
+   "min": 1670,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1083,20 +1527,20 @@
    "slug": "ferrie-ava",
    "num": "16",
    "pos": "MID",
-   "gp": 13,
-   "starts": 13,
-   "min": 1123,
-   "sh": 15,
-   "sog": 6,
+   "gp": 19,
+   "starts": 19,
+   "min": 1649,
+   "sh": 22,
+   "sog": 11,
    "g": 0,
-   "a": 0,
+   "a": 1,
    "fouls": 0,
-   "yc": 1,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 40.0,
-   "shots_saved": 6,
-   "shots_off_target": 9,
+   "shot_pct": 50.0,
+   "shots_saved": 11,
+   "shots_off_target": 11,
    "no": 4,
    "gk_save_pct": null
   },
@@ -1105,9 +1549,9 @@
    "slug": "marcell-leah",
    "num": "14",
    "pos": "DEF",
-   "gp": 13,
-   "starts": 13,
-   "min": 1117,
+   "gp": 19,
+   "starts": 19,
+   "min": 1645,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -1127,9 +1571,9 @@
    "slug": "ovares-isis",
    "num": "17",
    "pos": "MID",
-   "gp": 13,
-   "starts": 13,
-   "min": 1100,
+   "gp": 19,
+   "starts": 19,
+   "min": 1625,
    "sh": 5,
    "sog": 1,
    "g": 0,
@@ -1149,15 +1593,15 @@
    "slug": "baumgardt-ella",
    "num": "3",
    "pos": "DEF",
-   "gp": 13,
-   "starts": 13,
-   "min": 1076,
+   "gp": 19,
+   "starts": 19,
+   "min": 1537,
    "sh": 2,
    "sog": 2,
    "g": 1,
    "a": 0,
    "fouls": 0,
-   "yc": 1,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 100.0,
@@ -1171,10 +1615,10 @@
    "slug": "friedel-cali",
    "num": "10",
    "pos": "FWD",
-   "gp": 13,
-   "starts": 13,
-   "min": 1056,
-   "sh": 14,
+   "gp": 19,
+   "starts": 19,
+   "min": 1490,
+   "sh": 19,
    "sog": 4,
    "g": 1,
    "a": 1,
@@ -1182,9 +1626,9 @@
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 28.6,
+   "shot_pct": 21.1,
    "shots_saved": 3,
-   "shots_off_target": 10,
+   "shots_off_target": 15,
    "no": 8,
    "gk_save_pct": null
   },
@@ -1193,20 +1637,20 @@
    "slug": "degeorge-ava",
    "num": "20",
    "pos": "MID",
-   "gp": 13,
-   "starts": 12,
-   "min": 966,
-   "sh": 13,
-   "sog": 7,
-   "g": 2,
+   "gp": 19,
+   "starts": 17,
+   "min": 1407,
+   "sh": 17,
+   "sog": 9,
+   "g": 4,
    "a": 1,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 53.8,
+   "shot_pct": 52.9,
    "shots_saved": 5,
-   "shots_off_target": 6,
+   "shots_off_target": 8,
    "no": 9,
    "gk_save_pct": null
   },
@@ -1215,20 +1659,20 @@
    "slug": "small-annie",
    "num": "27",
    "pos": "MID",
-   "gp": 13,
-   "starts": 13,
-   "min": 941,
-   "sh": 9,
-   "sog": 3,
+   "gp": 19,
+   "starts": 19,
+   "min": 1380,
+   "sh": 13,
+   "sog": 5,
    "g": 1,
-   "a": 3,
+   "a": 4,
    "fouls": 0,
    "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 33.3,
-   "shots_saved": 2,
-   "shots_off_target": 6,
+   "shot_pct": 38.5,
+   "shots_saved": 4,
+   "shots_off_target": 8,
    "no": 10,
    "gk_save_pct": null
   },
@@ -1237,20 +1681,20 @@
    "slug": "ferrie-tess",
    "num": "9",
    "pos": "FWD",
-   "gp": 13,
-   "starts": 10,
-   "min": 896,
-   "sh": 33,
-   "sog": 15,
+   "gp": 19,
+   "starts": 14,
+   "min": 1249,
+   "sh": 44,
+   "sog": 22,
    "g": 2,
    "a": 0,
    "fouls": 0,
-   "yc": 3,
+   "yc": 5,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 45.5,
-   "shots_saved": 13,
-   "shots_off_target": 18,
+   "shot_pct": 50.0,
+   "shots_saved": 20,
+   "shots_off_target": 22,
    "no": 11,
    "gk_save_pct": null
   },
@@ -1259,21 +1703,43 @@
    "slug": "menzing-noa",
    "num": "30",
    "pos": "fwd",
-   "gp": 10,
-   "starts": 2,
-   "min": 316,
-   "sh": 4,
-   "sog": 2,
+   "gp": 15,
+   "starts": 3,
+   "min": 501,
+   "sh": 5,
+   "sog": 3,
    "g": 0,
    "a": 0,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 50.0,
-   "shots_saved": 2,
+   "shot_pct": 60.0,
+   "shots_saved": 3,
    "shots_off_target": 2,
    "no": 12,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Gu\u00f0mundsd\u00f3ttir, Kar\u00edtas",
+   "slug": "gu-mundsd-ttir-kar-tas",
+   "num": "4",
+   "pos": "def",
+   "gp": 8,
+   "starts": 1,
+   "min": 333,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 13,
    "gk_save_pct": null
   },
   {
@@ -1295,28 +1761,6 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 13,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Gu\u00f0mundsd\u00f3ttir, Kar\u00edtas",
-   "slug": "gu-mundsd-ttir-kar-tas",
-   "num": "4",
-   "pos": "def",
-   "gp": 3,
-   "starts": 0,
-   "min": 123,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
    "no": 14,
    "gk_save_pct": null
   },
@@ -1325,9 +1769,9 @@
    "slug": "mays-taylor",
    "num": "8",
    "pos": "fwd",
-   "gp": 5,
+   "gp": 8,
    "starts": 0,
-   "min": 116,
+   "min": 173,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1347,9 +1791,9 @@
    "slug": "black-lauren",
    "num": "15",
    "pos": "fwd",
-   "gp": 4,
-   "starts": 1,
-   "min": 72,
+   "gp": 6,
+   "starts": 2,
+   "min": 118,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -1369,10 +1813,10 @@
    "slug": "joy-elaine",
    "num": "26",
    "pos": null,
-   "gp": 6,
+   "gp": 10,
    "starts": 0,
-   "min": 71,
-   "sh": 1,
+   "min": 111,
+   "sh": 2,
    "sog": 0,
    "g": 0,
    "a": 1,
@@ -1382,7 +1826,7 @@
    "pk_g": 0,
    "shot_pct": 0.0,
    "shots_saved": 0,
-   "shots_off_target": 1,
+   "shots_off_target": 2,
    "no": 17,
    "gk_save_pct": null
   },
@@ -1391,9 +1835,9 @@
    "slug": "laidlaw-macy",
    "num": "18",
    "pos": "fwd",
-   "gp": 2,
+   "gp": 3,
    "starts": 0,
-   "min": 67,
+   "min": 78,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -1409,13 +1853,13 @@
    "gk_save_pct": null
   },
   {
-   "name": "Harris, CJ",
-   "slug": "harris-cj",
-   "num": "5",
+   "name": "Barresi, Sophia",
+   "slug": "barresi-sophia",
+   "num": "12",
    "pos": "def",
-   "gp": 4,
+   "gp": 2,
    "starts": 0,
-   "min": 36,
+   "min": 66,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1431,13 +1875,13 @@
    "gk_save_pct": null
   },
   {
-   "name": "Barresi, Sophia",
-   "slug": "barresi-sophia",
-   "num": "12",
+   "name": "Harris, CJ",
+   "slug": "harris-cj",
+   "num": "5",
    "pos": "def",
-   "gp": 1,
+   "gp": 7,
    "starts": 0,
-   "min": 33,
+   "min": 60,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1450,6 +1894,56 @@
    "shots_saved": null,
    "shots_off_target": null,
    "no": 20,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Ibrahim , Sophie",
+   "slug": "ibrahim-sophie",
+   "num": "21",
+   "pos": "fwd",
+   "gp": 4,
+   "starts": 0,
+   "min": 42,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 21,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Brennan, Ella",
+   "slug": "brennan-ella",
+   "num": "1",
+   "pos": "gk",
+   "gp": 2,
+   "starts": 0,
+   "min": 40,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "goalie": {
+    "gp": 1,
+    "ga": 0,
+    "saves": 0,
+    "save_pct": null
+   },
+   "no": 22,
    "gk_save_pct": null
   },
   {
@@ -1471,7 +1965,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 21,
+   "no": 23,
    "gk_save_pct": null
   },
   {
@@ -1493,56 +1987,6 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 22,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Brennan, Ella",
-   "slug": "brennan-ella",
-   "num": "1",
-   "pos": "gk",
-   "gp": 1,
-   "starts": 0,
-   "min": 20,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "goalie": {
-    "gp": 1,
-    "ga": 0,
-    "saves": 0,
-    "save_pct": null
-   },
-   "no": 23,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Ibrahim , Sophie",
-   "slug": "ibrahim-sophie",
-   "num": "21",
-   "pos": null,
-   "gp": 1,
-   "starts": 0,
-   "min": 14,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
    "no": 24,
    "gk_save_pct": null
   }
@@ -1553,7 +1997,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 8,
+  "unknown": 11,
   "categorized": 0
  }
 }

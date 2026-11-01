@@ -9,9 +9,9 @@
    "num": "50",
    "pos": "GK",
    "totals": {
-    "gp": 9,
-    "starts": 7,
-    "min": 720,
+    "gp": 10,
+    "starts": 8,
+    "min": 810,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 15,
-     "saves": 50,
-     "save_pct": 76.9
+     "gp": 10,
+     "ga": 16,
+     "saves": 55,
+     "save_pct": 77.5
     }
    },
    "matches": [
@@ -246,6 +246,30 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "GK",
+     "num": "50",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
+     }
     }
    ]
   },
@@ -255,9 +279,9 @@
    "num": "6",
    "pos": null,
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 30,
+    "min": 35,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -271,6 +295,25 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "",
+     "num": "6",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -374,9 +417,9 @@
    "num": "10",
    "pos": null,
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 851,
+    "gp": 14,
+    "starts": 14,
+    "min": 920,
     "sh": 7,
     "sog": 5,
     "g": 2,
@@ -390,6 +433,25 @@
     "shots_off_target": 2
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -645,22 +707,41 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 867,
-    "sh": 21,
-    "sog": 8,
-    "g": 0,
-    "a": 3,
+    "gp": 17,
+    "starts": 17,
+    "min": 990,
+    "sh": 24,
+    "sog": 9,
+    "g": 1,
+    "a": 4,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.1,
+    "shot_pct": 37.5,
     "shots_saved": 8,
-    "shots_off_target": 13
+    "shots_off_target": 15
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 63,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -945,6 +1026,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 60,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -954,22 +1054,41 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 626,
-    "sh": 10,
-    "sog": 7,
+    "gp": 16,
+    "starts": 11,
+    "min": 719,
+    "sh": 14,
+    "sog": 9,
     "g": 0,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 70.0,
-    "shots_saved": 7,
-    "shots_off_target": 3
+    "shot_pct": 64.3,
+    "shots_saved": 9,
+    "shots_off_target": 5
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 63,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -1235,6 +1354,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 30,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1244,22 +1382,41 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 791,
-    "sh": 3,
-    "sog": 1,
+    "gp": 15,
+    "starts": 13,
+    "min": 932,
+    "sh": 5,
+    "sog": 2,
     "g": 1,
     "a": 1,
     "fouls": 0,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 0,
-    "shots_off_target": 2
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -1506,6 +1663,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 68,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1515,19 +1691,19 @@
    "num": "38",
    "pos": "def",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 1,
-    "min": 389,
-    "sh": 3,
-    "sog": 1,
+    "min": 422,
+    "sh": 4,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 1,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
     "shots_off_target": 2
    },
    "matches": [
@@ -1701,6 +1877,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "def",
+     "num": "38",
+     "min": 33,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1710,9 +1905,9 @@
    "num": "20",
    "pos": null,
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 979,
+    "gp": 16,
+    "starts": 12,
+    "min": 1159,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -1726,6 +1921,25 @@
     "shots_off_target": 2
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -1991,6 +2205,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2000,9 +2233,9 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 12,
-    "starts": 3,
-    "min": 581,
+    "gp": 14,
+    "starts": 4,
+    "min": 685,
     "sh": 8,
     "sog": 4,
     "g": 1,
@@ -2016,6 +2249,25 @@
     "shots_off_target": 4
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -2243,6 +2495,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2295,9 +2566,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1245,
+    "gp": 17,
+    "starts": 17,
+    "min": 1425,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2311,6 +2582,25 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -2595,6 +2885,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2604,13 +2913,13 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 8,
-    "min": 890,
+    "gp": 14,
+    "starts": 9,
+    "min": 980,
     "sh": 2,
     "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
@@ -2866,6 +3175,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2875,9 +3203,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1147,
+    "gp": 17,
+    "starts": 17,
+    "min": 1311,
     "sh": 7,
     "sog": 2,
     "g": 1,
@@ -2891,6 +3219,25 @@
     "shots_off_target": 5
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -3175,6 +3522,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3184,22 +3550,41 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 13,
-    "min": 982,
-    "sh": 12,
-    "sog": 8,
+    "gp": 15,
+    "starts": 14,
+    "min": 1023,
+    "sh": 13,
+    "sog": 9,
     "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 7,
+    "shot_pct": 69.2,
+    "shots_saved": 8,
     "shots_off_target": 4
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 41,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -3474,9 +3859,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 630,
+    "gp": 9,
+    "starts": 9,
+    "min": 720,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3519,6 +3904,25 @@
       "ga": 3,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     },
     {
      "date": "2026-08-16",
@@ -3834,9 +4238,9 @@
    "num": "28",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 292,
+    "min": 297,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -3850,6 +4254,25 @@
     "shots_off_target": 1
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "mid",
+     "num": "28",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -4084,7 +4507,7 @@
    "name": "Moroz, Julia",
    "slug": "moroz-julia",
    "num": "14",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -4148,9 +4571,9 @@
    "num": "18",
    "pos": "def",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 83,
+    "min": 93,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4164,6 +4587,25 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "def",
+     "num": "18",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -4524,22 +4966,41 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 7,
-    "min": 918,
-    "sh": 39,
-    "sog": 24,
-    "g": 3,
+    "gp": 17,
+    "starts": 8,
+    "min": 1039,
+    "sh": 46,
+    "sog": 27,
+    "g": 4,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.5,
-    "shots_saved": 21,
-    "shots_off_target": 15
+    "shot_pct": 58.7,
+    "shots_saved": 23,
+    "shots_off_target": 19
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "4",
+     "min": 61,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -4824,6 +5285,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 60,
+     "sh": 6,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4833,9 +5313,9 @@
    "num": "44",
    "pos": "mid",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 1,
-    "min": 308,
+    "min": 335,
     "sh": 3,
     "sog": 2,
     "g": 2,
@@ -5057,6 +5537,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "44",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5066,10 +5565,10 @@
    "num": "23",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 13,
     "starts": 5,
-    "min": 372,
-    "sh": 5,
+    "min": 440,
+    "sh": 6,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -5077,11 +5576,30 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -5290,6 +5808,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5299,9 +5836,9 @@
    "num": "47",
    "pos": "fwd",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 5,
+    "min": 10,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5333,6 +5870,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "47",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5342,10 +5898,10 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 9,
-    "min": 792,
-    "sh": 2,
+    "gp": 16,
+    "starts": 11,
+    "min": 955,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
@@ -5355,9 +5911,28 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 79,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -5623,6 +6198,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5770,22 +6364,41 @@
    "num": "40",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 933,
-    "sh": 9,
-    "sog": 5,
+    "gp": 17,
+    "starts": 16,
+    "min": 1094,
+    "sh": 11,
+    "sog": 6,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 4,
+    "yc": 5,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 5,
-    "shots_off_target": 4
+    "shot_pct": 54.5,
+    "shots_saved": 6,
+    "shots_off_target": 5
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": true,
+     "pos": "MID",
+     "num": "40",
+     "min": 85,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -6070,6 +6683,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "40",
+     "min": 76,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6079,9 +6711,9 @@
    "num": "13",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 12,
     "starts": 0,
-    "min": 97,
+    "min": 114,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -6095,6 +6727,25 @@
     "shots_off_target": null
    },
    "matches": [
+    {
+     "date": "2026-08-13",
+     "opponent": "Oakland",
+     "home": true,
+     "result": "L",
+     "score": "0-3",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
     {
      "date": "2026-08-13",
      "opponent": "Oakland",
@@ -6276,6 +6927,25 @@
      "pos": "mid",
      "num": "13",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Wagner",
+     "home": true,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 6,
      "sh": 0,
      "sog": 0,
      "g": 0,

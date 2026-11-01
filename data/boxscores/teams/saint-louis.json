@@ -1,44 +1,44 @@
 {
  "team": "Saint Louis",
  "season": 2026,
- "games": 17,
+ "games": 25,
  "record": {
-  "w": 11,
-  "d": 4,
+  "w": 15,
+  "d": 8,
   "l": 2
  },
  "totals": {
   "for": {
-   "shots": 266,
-   "shots_on_goal": 128,
-   "saves": 45,
-   "corner_kicks": 100,
-   "fouls": 176,
-   "offsides": 18,
-   "yc": 11,
+   "shots": 385,
+   "shots_on_goal": 182,
+   "saves": 59,
+   "corner_kicks": 140,
+   "fouls": 256,
+   "offsides": 23,
+   "yc": 17,
    "rc": 0,
    "pk_g": 0,
-   "goals": 35,
-   "shot_pct": 48.1,
-   "shots_saved": 93,
-   "shots_off_target": 138,
-   "gk_save_pct": 83.3
+   "goals": 45,
+   "shot_pct": 47.3,
+   "shots_saved": 137,
+   "shots_off_target": 203,
+   "gk_save_pct": 81.9
   },
   "against": {
-   "shots": 126,
-   "shots_on_goal": 54,
-   "saves": 93,
-   "corner_kicks": 53,
-   "fouls": 153,
-   "offsides": 29,
-   "yc": 17,
+   "shots": 184,
+   "shots_on_goal": 72,
+   "saves": 137,
+   "corner_kicks": 77,
+   "fouls": 219,
+   "offsides": 43,
+   "yc": 22,
    "rc": 1,
    "pk_g": 0,
-   "goals": 9,
-   "shot_pct": 42.9,
-   "shots_saved": 45,
-   "shots_off_target": 72,
-   "gk_save_pct": 72.7
+   "goals": 13,
+   "shot_pct": 39.1,
+   "shots_saved": 59,
+   "shots_off_target": 112,
+   "gk_save_pct": 75.3
   }
  },
  "matches": [
@@ -339,6 +339,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-08-27",
+   "opponent": "Illinois",
+   "home": false,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     4,
+     5
+    ],
+    "saves": 0,
+    "saves_by_period": [
+     0,
+     0
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     4,
+     3
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     7,
+     4
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 3,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 5,
+    "shots_off_target": 3,
+    "gk_save_pct": 0.0
+   },
+   "against": {
+    "shots": 2,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     2,
+     0
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     3,
+     2
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 3,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 0,
+    "shots_off_target": 1,
+    "gk_save_pct": 83.3
+   },
+   "source": "slubillikens.com-18683",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/illinois/boxscore/18683",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-08-30",
    "opponent": "Indiana",
    "home": false,
@@ -413,6 +487,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-08-30",
+   "opponent": "Indiana",
+   "home": false,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 6,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     2,
+     4
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     0,
+     4
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     6,
+     4
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 0,
+    "shots_off_target": 4,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 4,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     2,
+     2
+    ],
+    "saves": 0,
+    "saves_by_period": [
+     0,
+     0
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     2,
+     3
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     7,
+     6
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 25.0,
+    "shots_saved": 1,
+    "shots_off_target": 3,
+    "gk_save_pct": 0.0
+   },
+   "source": "slubillikens.com-18684",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/indiana/boxscore/18684",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-09-03",
    "opponent": "Illinois State",
    "home": false,
@@ -484,6 +632,80 @@
    },
    "source": "goredbirds.com-23676",
    "source_url": "https://goredbirds.com/sports/womens-soccer/stats/2026/rv-saint-louis/boxscore/23676",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-03",
+   "opponent": "Illinois State",
+   "home": false,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 17,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     5,
+     12
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     1,
+     0
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     2,
+     3
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     7,
+     9
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 35.3,
+    "shots_saved": 5,
+    "shots_off_target": 11,
+    "gk_save_pct": 50.0
+   },
+   "against": {
+    "shots": 5,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     4,
+     1
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     1,
+     4
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     5,
+     3
+    ],
+    "offsides": 3,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 1,
+    "shots_off_target": 3,
+    "gk_save_pct": 83.3
+   },
+   "source": "slubillikens.com-18685",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/illinois-state/boxscore/18685",
    "platform": "sidearm"
   },
   {
@@ -783,6 +1005,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-09-24",
+   "opponent": "Dayton",
+   "home": false,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     7,
+     4
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     1,
+     0
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     6,
+     5
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 45.5,
+    "shots_saved": 5,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 13,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     5,
+     8
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     5,
+     0
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     1,
+     7
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 7.7,
+    "shots_saved": 1,
+    "shots_off_target": 12,
+    "gk_save_pct": 100.0
+   },
+   "source": "slubillikens.com-18689",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/dayton/boxscore/18689",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-09-27",
    "opponent": "George Mason",
    "home": true,
@@ -928,6 +1224,80 @@
    },
    "source": "davidsonwildcats.com-10344",
    "source_url": "https://davidsonwildcats.com:443/sports/womens-soccer/stats/2026/saint-louis/boxscore/10344",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-03",
+   "opponent": "Davidson",
+   "home": false,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 24,
+    "shots_on_goal": 11,
+    "shots_by_period": [
+     11,
+     13
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     2,
+     5
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     2,
+     6
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 45.8,
+    "shots_saved": 10,
+    "shots_off_target": 13,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 6,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     4,
+     2
+    ],
+    "saves": 10,
+    "saves_by_period": [
+     4,
+     6
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 4,
+    "fouls_by_period": [
+     1,
+     3
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
+    "shots_off_target": 2,
+    "gk_save_pct": 90.9
+   },
+   "source": "slubillikens.com-18691",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/davidson/boxscore/18691",
    "platform": "sidearm"
   },
   {
@@ -1079,6 +1449,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-10-11",
+   "opponent": "Loyola Chicago",
+   "home": false,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 14,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     6,
+     8
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     4,
+     3
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 28.6,
+    "shots_saved": 3,
+    "shots_off_target": 10,
+    "gk_save_pct": 50.0
+   },
+   "against": {
+    "shots": 6,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     1,
+     5
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     0,
+     3
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     0,
+     3
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     2,
+     5
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 4,
+    "gk_save_pct": 75.0
+   },
+   "source": "slubillikens.com-18693",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/loyola-chicago/boxscore/18693",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-10-17",
    "opponent": "Richmond",
    "home": true,
@@ -1227,6 +1671,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-10-22",
+   "opponent": "La Salle",
+   "home": false,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     7,
+     6
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     0,
+     6
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     6,
+     6
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 38.5,
+    "shots_saved": 3,
+    "shots_off_target": 8,
+    "gk_save_pct": 75.0
+   },
+   "against": {
+    "shots": 12,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     5,
+     7
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     0,
+     2
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     4,
+     5
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
+    "shots_off_target": 8,
+    "gk_save_pct": 60.0
+   },
+   "source": "slubillikens.com-18695",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/la-salle/boxscore/18695",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-10-25",
    "opponent": "Duquesne",
    "home": false,
@@ -1299,6 +1817,80 @@
    "source": "goduquesne.com-22958",
    "source_url": "https://goduquesne.com/sports/womens-soccer/stats/2026/saint-louis/boxscore/22958",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-25",
+   "opponent": "Duquesne",
+   "home": false,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 25,
+    "shots_on_goal": 15,
+    "shots_by_period": [
+     10,
+     15
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     2,
+     5
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     4,
+     1
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 13,
+    "shots_off_target": 10,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 10,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     5,
+     5
+    ],
+    "saves": 13,
+    "saves_by_period": [
+     4,
+     9
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     0,
+     4
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     5,
+     2
+    ],
+    "offsides": 1,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 30.0,
+    "shots_saved": 3,
+    "shots_off_target": 7,
+    "gk_save_pct": 86.7
+   },
+   "source": "slubillikens.com-18696",
+   "source_url": "https://slubillikens.com/sports/womens-soccer/stats/2026/duquesne/boxscore/18696",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -1307,9 +1899,9 @@
    "slug": "welker-camille",
    "num": "21",
    "pos": "DEF",
-   "gp": 17,
-   "starts": 17,
-   "min": 1325,
+   "gp": 25,
+   "starts": 25,
+   "min": 2034,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1329,20 +1921,20 @@
    "slug": "miller-ashley",
    "num": "8",
    "pos": "MID",
-   "gp": 17,
-   "starts": 17,
-   "min": 1286,
-   "sh": 25,
-   "sog": 11,
-   "g": 2,
+   "gp": 25,
+   "starts": 25,
+   "min": 1952,
+   "sh": 45,
+   "sog": 19,
+   "g": 4,
    "a": 5,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 44.0,
-   "shots_saved": 9,
-   "shots_off_target": 14,
+   "shot_pct": 42.2,
+   "shots_saved": 15,
+   "shots_off_target": 26,
    "no": 2,
    "gk_save_pct": null
   },
@@ -1351,9 +1943,9 @@
    "slug": "escher-pepper",
    "num": "0",
    "pos": "GK",
-   "gp": 15,
-   "starts": 13,
-   "min": 1215,
+   "gp": 23,
+   "starts": 20,
+   "min": 1845,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1379,20 +1971,20 @@
    "slug": "hockett-blakely",
    "num": "25",
    "pos": "DEF",
-   "gp": 16,
-   "starts": 16,
-   "min": 1105,
-   "sh": 7,
-   "sog": 3,
+   "gp": 24,
+   "starts": 24,
+   "min": 1692,
+   "sh": 11,
+   "sog": 5,
    "g": 1,
-   "a": 1,
+   "a": 2,
    "fouls": 0,
-   "yc": 1,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 42.9,
-   "shots_saved": 2,
-   "shots_off_target": 4,
+   "shot_pct": 45.5,
+   "shots_saved": 4,
+   "shots_off_target": 6,
    "no": 4,
    "gk_save_pct": null
   },
@@ -1401,20 +1993,20 @@
    "slug": "rademeyer-ava",
    "num": "4",
    "pos": "MID",
-   "gp": 17,
-   "starts": 11,
-   "min": 1058,
-   "sh": 3,
+   "gp": 25,
+   "starts": 16,
+   "min": 1627,
+   "sh": 4,
    "sog": 2,
    "g": 2,
-   "a": 1,
+   "a": 2,
    "fouls": 3,
    "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 66.7,
+   "shot_pct": 50.0,
    "shots_saved": 0,
-   "shots_off_target": 1,
+   "shots_off_target": 2,
    "no": 5,
    "gk_save_pct": null
   },
@@ -1423,20 +2015,20 @@
    "slug": "schwartz-lucie",
    "num": "2",
    "pos": "MID",
-   "gp": 17,
-   "starts": 17,
-   "min": 1001,
-   "sh": 22,
-   "sog": 9,
-   "g": 4,
-   "a": 3,
+   "gp": 25,
+   "starts": 25,
+   "min": 1543,
+   "sh": 37,
+   "sog": 14,
+   "g": 5,
+   "a": 5,
    "fouls": 0,
    "yc": 1,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 40.9,
-   "shots_saved": 5,
-   "shots_off_target": 13,
+   "shot_pct": 37.8,
+   "shots_saved": 9,
+   "shots_off_target": 23,
    "no": 6,
    "gk_save_pct": null
   },
@@ -1445,20 +2037,20 @@
    "slug": "smith-audrey",
    "num": "9",
    "pos": "FWD",
-   "gp": 17,
-   "starts": 17,
-   "min": 977,
-   "sh": 34,
-   "sog": 19,
-   "g": 9,
-   "a": 2,
+   "gp": 25,
+   "starts": 25,
+   "min": 1473,
+   "sh": 49,
+   "sog": 30,
+   "g": 13,
+   "a": 3,
    "fouls": 1,
-   "yc": 1,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 55.9,
-   "shots_saved": 10,
-   "shots_off_target": 15,
+   "shot_pct": 61.2,
+   "shots_saved": 17,
+   "shots_off_target": 19,
    "no": 7,
    "gk_save_pct": null
   },
@@ -1467,20 +2059,20 @@
    "slug": "kim-hope",
    "num": "5",
    "pos": "FWD",
-   "gp": 17,
-   "starts": 17,
-   "min": 935,
-   "sh": 40,
-   "sog": 24,
-   "g": 5,
-   "a": 6,
+   "gp": 25,
+   "starts": 25,
+   "min": 1407,
+   "sh": 60,
+   "sog": 35,
+   "g": 6,
+   "a": 9,
    "fouls": 5,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 60.0,
-   "shots_saved": 19,
-   "shots_off_target": 16,
+   "shot_pct": 58.3,
+   "shots_saved": 29,
+   "shots_off_target": 25,
    "no": 8,
    "gk_save_pct": null
   },
@@ -1489,21 +2081,43 @@
    "slug": "zangara-lauren",
    "num": "20",
    "pos": "def",
-   "gp": 17,
-   "starts": 4,
-   "min": 911,
-   "sh": 5,
-   "sog": 2,
+   "gp": 25,
+   "starts": 5,
+   "min": 1358,
+   "sh": 7,
+   "sog": 3,
    "g": 0,
-   "a": 1,
+   "a": 2,
    "fouls": 1,
-   "yc": 1,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 40.0,
-   "shots_saved": 2,
-   "shots_off_target": 3,
+   "shot_pct": 42.9,
+   "shots_saved": 3,
+   "shots_off_target": 4,
    "no": 9,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Fowlkes, Caroline",
+   "slug": "fowlkes-caroline",
+   "num": "23",
+   "pos": "DEF",
+   "gp": 25,
+   "starts": 23,
+   "min": 1289,
+   "sh": 21,
+   "sog": 6,
+   "g": 0,
+   "a": 6,
+   "fouls": 3,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 28.6,
+   "shots_saved": 6,
+   "shots_off_target": 15,
+   "no": 10,
    "gk_save_pct": null
   },
   {
@@ -1511,9 +2125,9 @@
    "slug": "rasmussen-avery",
    "num": "19",
    "pos": "DEF",
-   "gp": 17,
-   "starts": 14,
-   "min": 906,
+   "gp": 25,
+   "starts": 21,
+   "min": 1289,
    "sh": 3,
    "sog": 1,
    "g": 0,
@@ -1525,28 +2139,6 @@
    "shot_pct": 33.3,
    "shots_saved": 1,
    "shots_off_target": 2,
-   "no": 10,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Fowlkes, Caroline",
-   "slug": "fowlkes-caroline",
-   "num": "23",
-   "pos": "DEF",
-   "gp": 17,
-   "starts": 15,
-   "min": 846,
-   "sh": 14,
-   "sog": 4,
-   "g": 0,
-   "a": 5,
-   "fouls": 3,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 28.6,
-   "shots_saved": 4,
-   "shots_off_target": 10,
    "no": 11,
    "gk_save_pct": null
   },
@@ -1555,20 +2147,20 @@
    "slug": "broesder-adee",
    "num": "3",
    "pos": "fwd",
-   "gp": 17,
-   "starts": 6,
-   "min": 786,
-   "sh": 23,
-   "sog": 13,
-   "g": 3,
+   "gp": 25,
+   "starts": 9,
+   "min": 1108,
+   "sh": 30,
+   "sog": 16,
+   "g": 4,
    "a": 1,
    "fouls": 2,
-   "yc": 2,
+   "yc": 3,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 56.5,
-   "shots_saved": 10,
-   "shots_off_target": 10,
+   "shot_pct": 53.3,
+   "shots_saved": 12,
+   "shots_off_target": 14,
    "no": 12,
    "gk_save_pct": null
   },
@@ -1576,21 +2168,21 @@
    "name": "Chier, Caroline",
    "slug": "chier-caroline",
    "num": "17",
-   "pos": "mid",
-   "gp": 17,
-   "starts": 4,
-   "min": 673,
-   "sh": 17,
-   "sog": 8,
+   "pos": "fwd",
+   "gp": 25,
+   "starts": 6,
+   "min": 984,
+   "sh": 25,
+   "sog": 12,
    "g": 2,
-   "a": 2,
+   "a": 4,
    "fouls": 3,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 47.1,
-   "shots_saved": 6,
-   "shots_off_target": 9,
+   "shot_pct": 48.0,
+   "shots_saved": 10,
+   "shots_off_target": 13,
    "no": 13,
    "gk_save_pct": null
   },
@@ -1599,20 +2191,20 @@
    "slug": "fieldsend-jeanette",
    "num": "10",
    "pos": "mid",
-   "gp": 15,
-   "starts": 6,
-   "min": 604,
-   "sh": 13,
-   "sog": 7,
+   "gp": 22,
+   "starts": 9,
+   "min": 870,
+   "sh": 20,
+   "sog": 9,
    "g": 2,
    "a": 3,
    "fouls": 1,
-   "yc": 2,
+   "yc": 4,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 53.8,
-   "shots_saved": 5,
-   "shots_off_target": 6,
+   "shot_pct": 45.0,
+   "shots_saved": 7,
+   "shots_off_target": 11,
    "no": 14,
    "gk_save_pct": null
   },
@@ -1621,20 +2213,20 @@
    "slug": "simpson-leah",
    "num": "15",
    "pos": "FWD",
-   "gp": 14,
-   "starts": 7,
-   "min": 591,
-   "sh": 15,
-   "sog": 6,
-   "g": 2,
+   "gp": 20,
+   "starts": 10,
+   "min": 863,
+   "sh": 21,
+   "sog": 9,
+   "g": 3,
    "a": 1,
    "fouls": 2,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 40.0,
-   "shots_saved": 4,
-   "shots_off_target": 9,
+   "shot_pct": 42.9,
+   "shots_saved": 6,
+   "shots_off_target": 12,
    "no": 15,
    "gk_save_pct": null
   },
@@ -1643,9 +2235,9 @@
    "slug": "marsh-lucy",
    "num": "22",
    "pos": "def",
-   "gp": 14,
+   "gp": 20,
    "starts": 2,
-   "min": 586,
+   "min": 800,
    "sh": 2,
    "sog": 0,
    "g": 0,
@@ -1661,36 +2253,14 @@
    "gk_save_pct": null
   },
   {
-   "name": "Naftanel, Emma",
-   "slug": "naftanel-emma",
-   "num": "12",
-   "pos": "fwd",
-   "gp": 16,
-   "starts": 0,
-   "min": 407,
-   "sh": 9,
-   "sog": 2,
-   "g": 0,
-   "a": 0,
-   "fouls": 3,
-   "yc": 1,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 22.2,
-   "shots_saved": 2,
-   "shots_off_target": 7,
-   "no": 17,
-   "gk_save_pct": null
-  },
-  {
    "name": "Stanciak, Addison",
    "slug": "stanciak-addison",
    "num": "7",
    "pos": "fwd",
-   "gp": 15,
+   "gp": 23,
    "starts": 0,
-   "min": 385,
-   "sh": 16,
+   "min": 595,
+   "sh": 20,
    "sog": 5,
    "g": 2,
    "a": 0,
@@ -1698,9 +2268,31 @@
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 31.2,
+   "shot_pct": 25.0,
    "shots_saved": 3,
-   "shots_off_target": 11,
+   "shots_off_target": 15,
+   "no": 17,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Naftanel, Emma",
+   "slug": "naftanel-emma",
+   "num": "12",
+   "pos": "fwd",
+   "gp": 24,
+   "starts": 0,
+   "min": 544,
+   "sh": 10,
+   "sog": 2,
+   "g": 0,
+   "a": 0,
+   "fouls": 3,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 20.0,
+   "shots_saved": 2,
+   "shots_off_target": 8,
    "no": 18,
    "gk_save_pct": null
   },
@@ -1709,9 +2301,9 @@
    "slug": "parker-emma",
    "num": "1",
    "pos": "GK",
-   "gp": 5,
-   "starts": 4,
-   "min": 315,
+   "gp": 7,
+   "starts": 5,
+   "min": 405,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1737,9 +2329,9 @@
    "slug": "scorfina-ava",
    "num": "24",
    "pos": "def",
-   "gp": 11,
+   "gp": 15,
    "starts": 0,
-   "min": 310,
+   "min": 371,
    "sh": 5,
    "sog": 3,
    "g": 0,
@@ -1759,19 +2351,19 @@
    "slug": "preusser-nina",
    "num": "11",
    "pos": "mid",
-   "gp": 9,
+   "gp": 13,
    "starts": 0,
-   "min": 289,
-   "sh": 9,
-   "sog": 5,
+   "min": 364,
+   "sh": 11,
+   "sog": 7,
    "g": 1,
    "a": 1,
    "fouls": 1,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 55.6,
-   "shots_saved": 4,
+   "shot_pct": 63.6,
+   "shots_saved": 6,
    "shots_off_target": 4,
    "no": 21,
    "gk_save_pct": null
@@ -1803,9 +2395,9 @@
    "slug": "bartholet-keira",
    "num": "16",
    "pos": "fwd",
-   "gp": 6,
+   "gp": 7,
    "starts": 0,
-   "min": 114,
+   "min": 122,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -1824,10 +2416,10 @@
    "name": "Harris, Gianna",
    "slug": "harris-gianna",
    "num": "18",
-   "pos": "FWD",
-   "gp": 4,
+   "pos": "fwd",
+   "gp": 6,
    "starts": 0,
-   "min": 82,
+   "min": 92,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -1849,7 +2441,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 32,
+  "unknown": 41,
   "categorized": 0
  }
 }
