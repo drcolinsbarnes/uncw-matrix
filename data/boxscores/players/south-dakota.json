@@ -9,19 +9,19 @@
    "num": "20",
    "pos": "def",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 3,
-    "min": 646,
-    "sh": 10,
-    "sog": 1,
+    "min": 657,
+    "sh": 11,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 10.0,
-    "shots_saved": 1,
+    "shot_pct": 18.2,
+    "shots_saved": 2,
     "shots_off_target": 9
    },
    "matches": [
@@ -347,6 +347,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": false,
+     "pos": "def",
+     "num": "20",
+     "min": 11,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -613,20 +632,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1572,
-    "sh": 52,
+    "gp": 22,
+    "starts": 22,
+    "min": 1662,
+    "sh": 58,
     "sog": 19,
     "g": 6,
-    "a": 2,
+    "a": 3,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.5,
+    "shot_pct": 32.8,
     "shots_saved": 13,
-    "shots_off_target": 33
+    "shots_off_target": 39
    },
    "matches": [
     {
@@ -1027,6 +1046,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 6,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1036,9 +1074,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1849,
+    "gp": 22,
+    "starts": 22,
+    "min": 1939,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1051,10 +1089,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 16,
-     "ga": 16,
-     "saves": 65,
-     "save_pct": 80.2
+     "gp": 17,
+     "ga": 20,
+     "saves": 69,
+     "save_pct": 77.5
     }
    },
    "matches": [
@@ -1535,6 +1573,30 @@
       "min": "90:00",
       "ga": 3,
       "saves": 5
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 4,
+      "saves": 4
      }
     }
    ]
@@ -2144,9 +2206,9 @@
    "num": "14",
    "pos": "def",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 3,
-    "min": 533,
+    "min": 568,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2501,6 +2563,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": false,
+     "pos": "def",
+     "num": "14",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2510,10 +2591,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1768,
-    "sh": 11,
+    "gp": 22,
+    "starts": 22,
+    "min": 1858,
+    "sh": 12,
     "sog": 5,
     "g": 1,
     "a": 1,
@@ -2521,9 +2602,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
+    "shot_pct": 41.7,
     "shots_saved": 4,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2917,6 +2998,25 @@
      "num": "8",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3517,18 +3617,18 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 20,
-    "min": 1421,
-    "sh": 4,
-    "sog": 0,
-    "g": 0,
+    "gp": 22,
+    "starts": 21,
+    "min": 1475,
+    "sh": 5,
+    "sog": 1,
+    "g": 1,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 20.0,
     "shots_saved": 0,
     "shots_off_target": 4
    },
@@ -3931,6 +4031,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 54,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3940,20 +4059,20 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 17,
-    "min": 1108,
-    "sh": 24,
+    "gp": 22,
+    "starts": 18,
+    "min": 1173,
+    "sh": 29,
     "sog": 9,
     "g": 0,
-    "a": 4,
+    "a": 5,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 31.0,
     "shots_saved": 9,
-    "shots_off_target": 15
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -4354,6 +4473,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 65,
+     "sh": 5,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4463,20 +4601,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 17,
-    "min": 1175,
-    "sh": 16,
-    "sog": 4,
-    "g": 0,
+    "gp": 22,
+    "starts": 18,
+    "min": 1254,
+    "sh": 18,
+    "sog": 5,
+    "g": 1,
     "a": 2,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 27.8,
     "shots_saved": 4,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -4877,6 +5015,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 79,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4986,10 +5143,10 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 14,
-    "min": 1082,
-    "sh": 25,
+    "gp": 22,
+    "starts": 15,
+    "min": 1143,
+    "sh": 28,
     "sog": 11,
     "g": 5,
     "a": 3,
@@ -4997,9 +5154,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.0,
+    "shot_pct": 39.3,
     "shots_saved": 6,
-    "shots_off_target": 14
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -5400,6 +5557,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "",
+     "num": "23",
+     "min": 61,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5409,9 +5585,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 16,
-    "min": 979,
+    "gp": 18,
+    "starts": 17,
+    "min": 1058,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5747,6 +5923,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5756,10 +5951,10 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 11,
-    "min": 1031,
-    "sh": 33,
+    "gp": 22,
+    "starts": 12,
+    "min": 1087,
+    "sh": 35,
     "sog": 19,
     "g": 3,
     "a": 5,
@@ -5767,9 +5962,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.6,
+    "shot_pct": 54.3,
     "shots_saved": 16,
-    "shots_off_target": 14
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -6170,6 +6365,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 56,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6179,9 +6393,9 @@
    "num": "10",
    "pos": "fwd",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 5,
-    "min": 844,
+    "min": 874,
     "sh": 14,
     "sog": 1,
     "g": 0,
@@ -6593,6 +6807,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6602,9 +6835,9 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 9,
-    "min": 848,
+    "min": 883,
     "sh": 39,
     "sog": 28,
     "g": 3,
@@ -7016,6 +7249,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": false,
+     "pos": "fwd",
+     "num": "12",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7025,19 +7277,19 @@
    "num": "30",
    "pos": "fwd",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 6,
-    "min": 722,
-    "sh": 14,
-    "sog": 9,
+    "min": 747,
+    "sh": 15,
+    "sog": 10,
     "g": 4,
     "a": 2,
     "fouls": 3,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
-    "shots_saved": 5,
+    "shot_pct": 66.7,
+    "shots_saved": 6,
     "shots_off_target": 5
    },
    "matches": [
@@ -7420,6 +7672,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": false,
+     "pos": "fwd",
+     "num": "30",
+     "min": 25,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7429,9 +7700,9 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1732,
+    "gp": 22,
+    "starts": 22,
+    "min": 1822,
     "sh": 21,
     "sog": 5,
     "g": 1,
@@ -7843,6 +8114,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "MID",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7852,9 +8142,9 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 5,
-    "min": 711,
+    "min": 722,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -8247,6 +8537,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8256,20 +8565,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1541,
-    "sh": 62,
-    "sog": 27,
-    "g": 8,
+    "gp": 21,
+    "starts": 21,
+    "min": 1631,
+    "sh": 67,
+    "sog": 29,
+    "g": 9,
     "a": 6,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.5,
-    "shots_saved": 19,
-    "shots_off_target": 35
+    "shot_pct": 43.3,
+    "shots_saved": 20,
+    "shots_off_target": 38
    },
    "matches": [
     {
@@ -8645,6 +8954,25 @@
      "min": 90,
      "sh": 9,
      "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "North Dakota State",
+     "home": true,
+     "result": "L",
+     "score": "3-4",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 90,
+     "sh": 5,
+     "sog": 2,
      "g": 1,
      "a": 0,
      "fouls": 0,

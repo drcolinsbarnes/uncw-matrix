@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1852,
+    "gp": 22,
+    "starts": 22,
+    "min": 1942,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
+     "gp": 16,
      "ga": 12,
-     "saves": 70,
-     "save_pct": 85.4
+     "saves": 75,
+     "save_pct": 86.2
     }
    },
    "matches": [
@@ -504,6 +504,30 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 5
+     }
     }
    ]
   },
@@ -513,10 +537,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 19,
-    "min": 1167,
-    "sh": 19,
+    "gp": 23,
+    "starts": 20,
+    "min": 1248,
+    "sh": 21,
     "sog": 9,
     "g": 4,
     "a": 1,
@@ -524,9 +548,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.4,
+    "shot_pct": 42.9,
     "shots_saved": 5,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -939,6 +963,25 @@
      "num": "10",
      "min": 67,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 81,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -1378,10 +1421,10 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1938,
-    "sh": 9,
+    "gp": 23,
+    "starts": 23,
+    "min": 2026,
+    "sh": 10,
     "sog": 6,
     "g": 0,
     "a": 0,
@@ -1389,9 +1432,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 60.0,
     "shots_saved": 6,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1811,6 +1854,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 88,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1820,14 +1882,14 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1907,
+    "gp": 23,
+    "starts": 23,
+    "min": 1997,
     "sh": 26,
     "sog": 14,
     "g": 3,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2253,6 +2315,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2262,20 +2343,20 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1757,
-    "sh": 15,
+    "gp": 23,
+    "starts": 23,
+    "min": 1847,
+    "sh": 16,
     "sog": 6,
     "g": 2,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 37.5,
     "shots_saved": 4,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -2693,6 +2774,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -3265,14 +3365,14 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 0,
-    "min": 579,
+    "min": 588,
     "sh": 18,
     "sog": 3,
     "g": 0,
     "a": 2,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3698,6 +3798,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3707,9 +3826,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1810,
+    "gp": 23,
+    "starts": 23,
+    "min": 1900,
     "sh": 3,
     "sog": 2,
     "g": 0,
@@ -4140,6 +4259,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4147,11 +4285,11 @@
    "name": "Harwood, Natalie",
    "slug": "harwood-natalie",
    "num": "17",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 248,
+    "min": 250,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4297,6 +4435,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "17",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4403,20 +4560,20 @@
    "num": "14",
    "pos": "fwd",
    "totals": {
-    "gp": 22,
-    "starts": 1,
-    "min": 647,
-    "sh": 7,
-    "sog": 1,
+    "gp": 23,
+    "starts": 2,
+    "min": 737,
+    "sh": 10,
+    "sog": 3,
     "g": 1,
     "a": 1,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 14.3,
-    "shots_saved": 0,
-    "shots_off_target": 6
+    "shot_pct": 30.0,
+    "shots_saved": 2,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -4833,6 +4990,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -5387,20 +5563,20 @@
    "num": "13",
    "pos": "fwd",
    "totals": {
-    "gp": 22,
-    "starts": 7,
-    "min": 749,
-    "sh": 34,
-    "sog": 15,
+    "gp": 23,
+    "starts": 8,
+    "min": 779,
+    "sh": 36,
+    "sog": 16,
     "g": 3,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.1,
-    "shots_saved": 12,
-    "shots_off_target": 19
+    "shot_pct": 44.4,
+    "shots_saved": 13,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -5820,6 +5996,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 30,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5829,20 +6024,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 14,
-    "min": 938,
-    "sh": 43,
-    "sog": 24,
+    "min": 998,
+    "sh": 47,
+    "sog": 26,
     "g": 2,
     "a": 7,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.8,
-    "shots_saved": 22,
-    "shots_off_target": 19
+    "shot_pct": 55.3,
+    "shots_saved": 24,
+    "shots_off_target": 21
    },
    "matches": [
     {
@@ -6167,6 +6362,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 60,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6176,19 +6390,19 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1822,
-    "sh": 71,
-    "sog": 45,
+    "gp": 23,
+    "starts": 23,
+    "min": 1912,
+    "sh": 72,
+    "sog": 46,
     "g": 12,
     "a": 5,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.4,
-    "shots_saved": 33,
+    "shot_pct": 63.9,
+    "shots_saved": 34,
     "shots_off_target": 26
    },
    "matches": [
@@ -6609,6 +6823,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6616,7 +6849,7 @@
    "name": "Stowell, Megan",
    "slug": "stowell-megan",
    "num": "6",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
     "gp": 8,
     "starts": 4,
@@ -6794,10 +7027,10 @@
    "num": "25",
    "pos": null,
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1483,
-    "sh": 38,
+    "gp": 23,
+    "starts": 23,
+    "min": 1573,
+    "sh": 40,
     "sog": 23,
     "g": 7,
     "a": 4,
@@ -6805,9 +7038,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.5,
+    "shot_pct": 57.5,
     "shots_saved": 16,
-    "shots_off_target": 15
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -7227,6 +7460,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "",
+     "num": "25",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7450,9 +7702,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 20,
-    "min": 1720,
+    "gp": 23,
+    "starts": 21,
+    "min": 1810,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -7871,6 +8123,25 @@
      "home": true,
      "result": "L",
      "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Quinnipiac",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
      "start": true,
      "pos": "DEF",
      "num": "3",

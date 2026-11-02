@@ -128,10 +128,10 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 12,
-    "min": 660,
-    "sh": 10,
+    "gp": 18,
+    "starts": 13,
+    "min": 708,
+    "sh": 11,
     "sog": 8,
     "g": 2,
     "a": 1,
@@ -139,9 +139,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 80.0,
+    "shot_pct": 72.7,
     "shots_saved": 6,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -466,6 +466,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "",
+     "num": "25",
+     "min": 48,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -475,10 +494,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 9,
-    "min": 621,
-    "sh": 15,
+    "min": 646,
+    "sh": 16,
     "sog": 8,
     "g": 1,
     "a": 0,
@@ -486,9 +505,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
+    "shot_pct": 50.0,
     "shots_saved": 7,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -832,6 +851,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 25,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -841,9 +879,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1499,
+    "gp": 19,
+    "starts": 19,
+    "min": 1589,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -856,10 +894,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 29,
-     "saves": 75,
-     "save_pct": 72.1
+     "gp": 16,
+     "ga": 31,
+     "saves": 78,
+     "save_pct": 71.6
     }
    },
    "matches": [
@@ -1279,6 +1317,30 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 3
+     }
     }
    ]
   },
@@ -1483,20 +1545,20 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 17,
-    "min": 1471,
-    "sh": 0,
-    "sog": 0,
+    "gp": 19,
+    "starts": 18,
+    "min": 1561,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1840,6 +1902,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1911,9 +1992,9 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 10,
-    "min": 842,
+    "min": 859,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -2230,6 +2311,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "27",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2239,20 +2339,20 @@
    "num": "20",
    "pos": "mid",
    "totals": {
-    "gp": 16,
-    "starts": 6,
-    "min": 729,
-    "sh": 10,
-    "sog": 4,
+    "gp": 17,
+    "starts": 7,
+    "min": 802,
+    "sh": 13,
+    "sog": 6,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 4,
-    "shots_off_target": 6
+    "shot_pct": 46.2,
+    "shots_saved": 6,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2558,6 +2658,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 73,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2567,9 +2686,9 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 12,
-    "min": 921,
+    "gp": 16,
+    "starts": 13,
+    "min": 997,
     "sh": 18,
     "sog": 11,
     "g": 2,
@@ -2867,6 +2986,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3111,9 +3249,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 1258,
+    "gp": 17,
+    "starts": 15,
+    "min": 1348,
     "sh": 4,
     "sog": 1,
     "g": 0,
@@ -3430,6 +3568,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3439,9 +3596,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 9,
-    "min": 720,
+    "gp": 16,
+    "starts": 10,
+    "min": 810,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -3739,6 +3896,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3748,10 +3924,10 @@
    "num": "2",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
-    "starts": 1,
-    "min": 393,
-    "sh": 5,
+    "gp": 15,
+    "starts": 2,
+    "min": 454,
+    "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 1,
@@ -3759,9 +3935,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4021,6 +4197,25 @@
      "pos": "fwd",
      "num": "2",
      "min": 37,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 61,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -4428,10 +4623,10 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1128,
-    "sh": 15,
+    "gp": 19,
+    "starts": 19,
+    "min": 1217,
+    "sh": 17,
     "sog": 8,
     "g": 1,
     "a": 0,
@@ -4439,9 +4634,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
+    "shot_pct": 47.1,
     "shots_saved": 7,
-    "shots_off_target": 7
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4785,6 +4980,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 89,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5070,20 +5284,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
-    "starts": 15,
-    "min": 1350,
-    "sh": 38,
-    "sog": 14,
+    "gp": 19,
+    "starts": 16,
+    "min": 1423,
+    "sh": 40,
+    "sog": 15,
     "g": 3,
     "a": 1,
     "fouls": 4,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.8,
-    "shots_saved": 11,
-    "shots_off_target": 24
+    "shot_pct": 37.5,
+    "shots_saved": 12,
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -5427,6 +5641,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 73,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5436,10 +5669,10 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1325,
-    "sh": 20,
+    "gp": 19,
+    "starts": 19,
+    "min": 1415,
+    "sh": 21,
     "sog": 4,
     "g": 0,
     "a": 2,
@@ -5447,9 +5680,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 19.0,
     "shots_saved": 4,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -5785,6 +6018,25 @@
      "pos": "MID",
      "num": "19",
      "min": 45,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 90,
      "sh": 1,
      "sog": 0,
      "g": 0,
@@ -6168,10 +6420,10 @@
    "num": "77",
    "pos": null,
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 8,
-    "min": 654,
-    "sh": 7,
+    "min": 684,
+    "sh": 9,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -6179,9 +6431,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 22.2,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -6468,6 +6720,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "",
+     "num": "77",
+     "min": 30,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6520,10 +6791,10 @@
    "num": "33",
    "pos": "mid",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 4,
-    "min": 734,
-    "sh": 14,
+    "min": 782,
+    "sh": 15,
     "sog": 5,
     "g": 0,
     "a": 0,
@@ -6531,9 +6802,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 33.3,
     "shots_saved": 5,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -6851,6 +7122,25 @@
      "num": "33",
      "min": 45,
      "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-29",
+     "opponent": "Idaho",
+     "home": true,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "33",
+     "min": 48,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

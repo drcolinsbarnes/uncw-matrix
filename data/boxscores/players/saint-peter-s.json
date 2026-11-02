@@ -9,10 +9,10 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 3,
-    "min": 178,
-    "sh": 2,
+    "min": 225,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -94,6 +94,25 @@
      "min": 25,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 47,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -342,9 +361,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
-    "starts": 14,
-    "min": 1318,
+    "gp": 21,
+    "starts": 15,
+    "min": 1408,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -737,6 +756,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -927,9 +965,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 7,
-    "min": 434,
+    "min": 452,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1132,6 +1170,79 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Donello, Sofia",
+   "slug": "donello-sofia",
+   "num": "00",
+   "pos": "gk",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 10,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 2,
+     "saves": 0,
+     "save_pct": 0.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": false,
+     "pos": "gk",
+     "num": "00",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "10:31",
+      "ga": 2,
+      "saves": 0
+     }
     }
    ]
   },
@@ -1141,9 +1252,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1717,
+    "gp": 21,
+    "starts": 21,
+    "min": 1807,
     "sh": 9,
     "sog": 3,
     "g": 0,
@@ -1536,6 +1647,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1702,15 +1832,15 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 19,
-    "min": 1672,
+    "gp": 21,
+    "starts": 20,
+    "min": 1759,
     "sh": 9,
     "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 4,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 33.3,
@@ -2097,6 +2227,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 87,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2106,9 +2255,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 1001,
+    "gp": 14,
+    "starts": 12,
+    "min": 1055,
     "sh": 17,
     "sog": 5,
     "g": 3,
@@ -2368,6 +2517,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2377,9 +2545,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 17,
-    "starts": 15,
-    "min": 1480,
+    "gp": 18,
+    "starts": 16,
+    "min": 1560,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2392,10 +2560,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 25,
-     "saves": 89,
-     "save_pct": 78.1
+     "gp": 13,
+     "ga": 30,
+     "saves": 94,
+     "save_pct": 75.8
     }
    },
    "matches": [
@@ -2781,6 +2949,30 @@
       "ga": 3,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "79:29",
+      "ga": 5,
+      "saves": 5
+     }
     }
    ]
   },
@@ -2790,9 +2982,9 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
-    "starts": 8,
-    "min": 733,
+    "gp": 19,
+    "starts": 9,
+    "min": 756,
     "sh": 12,
     "sog": 7,
     "g": 0,
@@ -3147,6 +3339,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3313,9 +3524,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1600,
+    "gp": 20,
+    "starts": 20,
+    "min": 1690,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -3689,6 +3900,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3698,10 +3928,10 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 19,
-    "min": 1667,
-    "sh": 43,
+    "gp": 21,
+    "starts": 20,
+    "min": 1757,
+    "sh": 44,
     "sog": 25,
     "g": 5,
     "a": 2,
@@ -3709,9 +3939,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.1,
+    "shot_pct": 56.8,
     "shots_saved": 20,
-    "shots_off_target": 18
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -4093,6 +4323,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4102,9 +4351,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 17,
-    "min": 1525,
+    "gp": 21,
+    "starts": 18,
+    "min": 1606,
     "sh": 37,
     "sog": 18,
     "g": 3,
@@ -4497,6 +4746,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4506,9 +4774,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 5,
-    "min": 429,
+    "min": 465,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -4857,6 +5125,25 @@
      "min": 9,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": false,
+     "pos": "mid",
+     "num": "2",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -5219,9 +5506,9 @@
    "num": "20",
    "pos": "mid",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 293,
+    "min": 306,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5424,6 +5711,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": false,
+     "pos": "mid",
+     "num": "20",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5578,9 +5884,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1601,
+    "gp": 20,
+    "starts": 20,
+    "min": 1691,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -5954,6 +6260,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5963,9 +6288,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 13,
-    "min": 1096,
+    "gp": 21,
+    "starts": 14,
+    "min": 1137,
     "sh": 11,
     "sog": 7,
     "g": 2,
@@ -6358,6 +6683,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6367,9 +6711,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 8,
-    "min": 768,
+    "min": 818,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -6621,6 +6965,25 @@
      "pos": "DEF",
      "num": "3",
      "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Fairfield",
+     "home": false,
+     "result": "L",
+     "score": "0-7",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 50,
      "sh": 0,
      "sog": 0,
      "g": 0,

@@ -712,9 +712,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 18,
-    "starts": 13,
-    "min": 932,
+    "gp": 19,
+    "starts": 14,
+    "min": 1022,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -727,10 +727,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 13,
-     "ga": 10,
-     "saves": 23,
-     "save_pct": 69.7
+     "gp": 14,
+     "ga": 13,
+     "saves": 24,
+     "save_pct": 64.9
     }
    },
    "matches": [
@@ -1140,6 +1140,30 @@
       "ga": 1,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1149,9 +1173,9 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 524,
+    "min": 568,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1403,6 +1427,25 @@
      "pos": "DEF",
      "num": "5",
      "min": 64,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 44,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -1921,20 +1964,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 16,
-    "min": 1230,
-    "sh": 77,
-    "sog": 47,
-    "g": 15,
+    "gp": 21,
+    "starts": 17,
+    "min": 1320,
+    "sh": 83,
+    "sog": 50,
+    "g": 16,
     "a": 10,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.0,
-    "shots_saved": 32,
-    "shots_off_target": 30
+    "shot_pct": 60.2,
+    "shots_saved": 34,
+    "shots_off_target": 33
    },
    "matches": [
     {
@@ -2316,6 +2359,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 90,
+     "sh": 6,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2325,9 +2387,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 18,
-    "min": 1470,
+    "gp": 20,
+    "starts": 19,
+    "min": 1560,
     "sh": 22,
     "sog": 12,
     "g": 2,
@@ -2701,6 +2763,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,16 +2791,16 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 6,
-    "starts": 4,
-    "min": 360,
+    "gp": 7,
+    "starts": 5,
+    "min": 406,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 1,
     "yc": 0,
-    "rc": 0,
+    "rc": 1,
     "pk_g": 0,
     "shot_pct": null,
     "shots_saved": null,
@@ -2839,6 +2920,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 46,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 1,
+     "pk_g": 0
     }
    ]
   },
@@ -2848,13 +2948,13 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
-    "starts": 17,
-    "min": 1078,
+    "gp": 19,
+    "starts": 18,
+    "min": 1162,
     "sh": 53,
     "sog": 33,
     "g": 14,
-    "a": 3,
+    "a": 4,
     "fouls": 11,
     "yc": 0,
     "rc": 0,
@@ -3205,6 +3305,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3214,15 +3333,15 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1593,
+    "gp": 20,
+    "starts": 20,
+    "min": 1683,
     "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 5,
-    "yc": 3,
+    "yc": 4,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 16.7,
@@ -3590,6 +3709,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3599,20 +3737,20 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1529,
-    "sh": 54,
-    "sog": 29,
-    "g": 7,
+    "gp": 21,
+    "starts": 21,
+    "min": 1619,
+    "sh": 59,
+    "sog": 32,
+    "g": 8,
     "a": 5,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 53.7,
-    "shots_saved": 22,
-    "shots_off_target": 25
+    "shot_pct": 54.2,
+    "shots_saved": 24,
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -3989,6 +4127,25 @@
      "sh": 1,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 90,
+     "sh": 5,
+     "sog": 3,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -4949,9 +5106,9 @@
    "num": "22",
    "pos": "fwd",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 0,
-    "min": 259,
+    "min": 268,
     "sh": 5,
     "sog": 3,
     "g": 1,
@@ -5268,6 +5425,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5277,20 +5453,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1525,
-    "sh": 37,
-    "sog": 11,
-    "g": 4,
+    "gp": 21,
+    "starts": 21,
+    "min": 1615,
+    "sh": 41,
+    "sog": 12,
+    "g": 5,
     "a": 6,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 29.7,
+    "shot_pct": 29.3,
     "shots_saved": 7,
-    "shots_off_target": 26
+    "shots_off_target": 29
    },
    "matches": [
     {
@@ -5672,6 +5848,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 90,
+     "sh": 4,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5681,11 +5876,11 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 8,
-    "min": 832,
-    "sh": 14,
-    "sog": 7,
+    "gp": 18,
+    "starts": 9,
+    "min": 864,
+    "sh": 16,
+    "sog": 8,
     "g": 2,
     "a": 1,
     "fouls": 7,
@@ -5693,8 +5888,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 5,
-    "shots_off_target": 7
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -6019,6 +6214,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "MID",
+     "num": "15",
+     "min": 32,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6028,19 +6242,19 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 12,
-    "min": 957,
-    "sh": 18,
-    "sog": 6,
+    "gp": 19,
+    "starts": 13,
+    "min": 1018,
+    "sh": 19,
+    "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 7,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 5,
+    "shot_pct": 36.8,
+    "shots_saved": 6,
     "shots_off_target": 12
    },
    "matches": [
@@ -6385,6 +6599,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "",
+     "num": "12",
+     "min": 61,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6394,10 +6627,10 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 930,
-    "sh": 5,
+    "gp": 15,
+    "starts": 12,
+    "min": 1020,
+    "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 2,
@@ -6405,9 +6638,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -6672,6 +6905,25 @@
      "g": 0,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -7269,10 +7521,10 @@
    "num": "21",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 5,
-    "min": 863,
-    "sh": 50,
+    "min": 904,
+    "sh": 51,
     "sog": 23,
     "g": 4,
     "a": 3,
@@ -7280,9 +7532,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 46.0,
+    "shot_pct": 45.1,
     "shots_saved": 19,
-    "shots_off_target": 27
+    "shots_off_target": 28
    },
    "matches": [
     {
@@ -7657,6 +7909,25 @@
      "num": "21",
      "min": 30,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-31",
+     "opponent": "Penn",
+     "home": false,
+     "result": "D",
+     "score": "3-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "21",
+     "min": 41,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

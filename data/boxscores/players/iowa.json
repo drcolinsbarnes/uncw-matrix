@@ -9,20 +9,20 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1154,
-    "sh": 19,
-    "sog": 8,
+    "gp": 15,
+    "starts": 15,
+    "min": 1225,
+    "sh": 21,
+    "sog": 9,
     "g": 3,
     "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.1,
-    "shots_saved": 5,
-    "shots_off_target": 11
+    "shot_pct": 42.9,
+    "shots_saved": 6,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -290,6 +290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 71,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -297,11 +316,11 @@
    "name": "Binggeli, Berkley",
    "slug": "binggeli-berkley",
    "num": "18",
-   "pos": "fwd",
+   "pos": "FM",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 1,
-    "min": 440,
+    "min": 446,
     "sh": 11,
     "sog": 6,
     "g": 2,
@@ -618,6 +637,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "",
+     "num": "18",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -627,19 +665,19 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1147,
-    "sh": 17,
-    "sog": 10,
+    "gp": 17,
+    "starts": 17,
+    "min": 1219,
+    "sh": 18,
+    "sog": 11,
     "g": 2,
     "a": 2,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.8,
-    "shots_saved": 8,
+    "shot_pct": 61.1,
+    "shots_saved": 9,
     "shots_off_target": 7
    },
    "matches": [
@@ -946,6 +984,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 72,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -955,20 +1012,20 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 10,
-    "min": 882,
-    "sh": 34,
-    "sog": 17,
-    "g": 3,
+    "min": 949,
+    "sh": 41,
+    "sog": 19,
+    "g": 5,
     "a": 0,
     "fouls": 12,
     "yc": 3,
     "rc": 0,
-    "pk_g": 1,
-    "shot_pct": 50.0,
+    "pk_g": 2,
+    "shot_pct": 46.3,
     "shots_saved": 14,
-    "shots_off_target": 17
+    "shots_off_target": 22
    },
    "matches": [
     {
@@ -1274,6 +1331,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "MID",
+     "num": "15",
+     "min": 67,
+     "sh": 7,
+     "sog": 2,
+     "g": 2,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -1863,9 +1939,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1426,
+    "gp": 17,
+    "starts": 17,
+    "min": 1516,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1878,10 +1954,10 @@
     "shots_saved": 1,
     "shots_off_target": 0,
     "goalie": {
-     "gp": 16,
-     "ga": 14,
-     "saves": 47,
-     "save_pct": 77.0
+     "gp": 17,
+     "ga": 16,
+     "saves": 48,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -2268,6 +2344,30 @@
       "ga": 1,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 1
+     }
     }
    ]
   },
@@ -2277,14 +2377,14 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1201,
+    "gp": 16,
+    "starts": 16,
+    "min": 1291,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 1,
     "rc": 1,
     "pk_g": 0,
@@ -2577,6 +2677,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2586,9 +2705,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 293,
+    "min": 312,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -2753,6 +2872,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "7",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2762,14 +2900,14 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 3,
-    "min": 545,
+    "min": 568,
     "sh": 15,
     "sog": 7,
     "g": 2,
     "a": 3,
-    "fouls": 7,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3081,6 +3219,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3090,20 +3247,20 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 10,
-    "min": 856,
-    "sh": 30,
-    "sog": 19,
+    "gp": 17,
+    "starts": 11,
+    "min": 930,
+    "sh": 32,
+    "sog": 20,
     "g": 8,
     "a": 2,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 63.3,
-    "shots_saved": 11,
-    "shots_off_target": 11
+    "shot_pct": 62.5,
+    "shots_saved": 12,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3409,6 +3566,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 74,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3670,14 +3846,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 8,
-    "min": 1036,
+    "gp": 17,
+    "starts": 9,
+    "min": 1126,
     "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -3989,6 +4165,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3998,19 +4193,19 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 283,
-    "sh": 8,
-    "sog": 4,
+    "gp": 9,
+    "starts": 4,
+    "min": 329,
+    "sh": 9,
+    "sog": 5,
     "g": 0,
     "a": 1,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 4,
+    "shot_pct": 55.6,
+    "shots_saved": 5,
     "shots_off_target": 4
    },
    "matches": [
@@ -4165,6 +4360,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 46,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4293,9 +4507,9 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 9,
-    "min": 651,
+    "min": 705,
     "sh": 18,
     "sog": 8,
     "g": 2,
@@ -4555,6 +4769,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 54,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4564,20 +4797,20 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 713,
-    "sh": 0,
-    "sog": 0,
+    "gp": 10,
+    "starts": 10,
+    "min": 803,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 4,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -4750,6 +4983,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4759,14 +5011,14 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1004,
+    "gp": 16,
+    "starts": 16,
+    "min": 1073,
     "sh": 52,
     "sog": 21,
     "g": 5,
     "a": 6,
-    "fouls": 6,
+    "fouls": 9,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -5059,6 +5311,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 69,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5241,15 +5512,15 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 9,
-    "min": 760,
+    "gp": 14,
+    "starts": 10,
+    "min": 783,
     "sh": 9,
     "sog": 1,
     "g": 0,
     "a": 2,
-    "fouls": 15,
-    "yc": 1,
+    "fouls": 16,
+    "yc": 2,
     "rc": 1,
     "pk_g": 0,
     "shot_pct": 11.1,
@@ -5503,6 +5774,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "MID",
+     "num": "34",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5512,19 +5802,19 @@
    "num": "21",
    "pos": "FM",
    "totals": {
-    "gp": 9,
-    "starts": 9,
-    "min": 600,
-    "sh": 14,
-    "sog": 5,
+    "gp": 10,
+    "starts": 10,
+    "min": 636,
+    "sh": 16,
+    "sog": 7,
     "g": 1,
     "a": 1,
-    "fouls": 8,
+    "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 4,
+    "shot_pct": 43.8,
+    "shots_saved": 6,
     "shots_off_target": 9
    },
    "matches": [
@@ -5698,6 +5988,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": true,
+     "pos": "",
+     "num": "21",
+     "min": 36,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5707,14 +6016,14 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 45,
+    "min": 61,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -5817,6 +6126,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "25",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5826,20 +6154,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 8,
-    "min": 631,
-    "sh": 26,
-    "sog": 10,
+    "min": 685,
+    "sh": 28,
+    "sog": 11,
     "g": 4,
     "a": 3,
-    "fouls": 9,
+    "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 6,
-    "shots_off_target": 16
+    "shot_pct": 39.3,
+    "shots_saved": 7,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -6028,6 +6356,25 @@
      "g": 1,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-10-30",
+     "opponent": "Wisconsin",
+     "home": true,
+     "result": "D",
+     "score": "2-2",
+     "start": false,
+     "pos": "MID",
+     "num": "9",
+     "min": 54,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 5,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
