@@ -9,9 +9,9 @@
    "num": "32",
    "pos": "mid",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 403,
+    "min": 429,
     "sh": 5,
     "sog": 4,
     "g": 0,
@@ -290,6 +290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "32",
+     "min": 26,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -299,9 +318,9 @@
    "num": "3",
    "pos": "fwd",
    "totals": {
-    "gp": 17,
-    "starts": 4,
-    "min": 577,
+    "gp": 18,
+    "starts": 5,
+    "min": 611,
     "sh": 14,
     "sog": 9,
     "g": 3,
@@ -637,6 +656,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -646,15 +684,15 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 11,
-    "min": 1335,
+    "gp": 19,
+    "starts": 12,
+    "min": 1400,
     "sh": 6,
     "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 83.3,
@@ -1003,6 +1041,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1012,9 +1069,9 @@
    "num": "42",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 10,
-    "min": 923,
+    "gp": 12,
+    "starts": 11,
+    "min": 1013,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1027,10 +1084,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 8,
-     "ga": 12,
-     "saves": 41,
-     "save_pct": 77.4
+     "gp": 9,
+     "ga": 13,
+     "saves": 45,
+     "save_pct": 77.6
     }
    },
    "matches": [
@@ -1282,6 +1339,30 @@
       "ga": 1,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "GK",
+     "num": "42",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -1291,11 +1372,11 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 16,
-    "starts": 6,
-    "min": 841,
-    "sh": 10,
-    "sog": 5,
+    "gp": 17,
+    "starts": 7,
+    "min": 915,
+    "sh": 12,
+    "sog": 6,
     "g": 0,
     "a": 1,
     "fouls": 2,
@@ -1303,8 +1384,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 5,
-    "shots_off_target": 5
+    "shots_saved": 6,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1610,6 +1691,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 74,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1619,9 +1719,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 8,
-    "min": 566,
+    "min": 571,
     "sh": 19,
     "sog": 11,
     "g": 0,
@@ -1938,6 +2038,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1947,9 +2066,9 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 1,
-    "min": 208,
+    "min": 217,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -2114,6 +2233,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2123,9 +2261,9 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 12,
-    "min": 1031,
+    "gp": 19,
+    "starts": 13,
+    "min": 1089,
     "sh": 9,
     "sog": 3,
     "g": 0,
@@ -2480,6 +2618,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 58,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2489,20 +2646,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1245,
-    "sh": 16,
-    "sog": 11,
-    "g": 0,
+    "gp": 18,
+    "starts": 18,
+    "min": 1335,
+    "sh": 19,
+    "sog": 12,
+    "g": 1,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 68.8,
+    "shot_pct": 63.2,
     "shots_saved": 11,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2827,6 +2984,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2898,9 +3074,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 10,
-    "min": 753,
+    "min": 785,
     "sh": 6,
     "sog": 5,
     "g": 1,
@@ -3209,6 +3385,25 @@
      "pos": "def",
      "num": "23",
      "min": 1,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "def",
+     "num": "23",
+     "min": 32,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3690,13 +3885,13 @@
    "name": "Leal, Cilia",
    "slug": "leal-cilia",
    "num": "24",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 0,
-    "min": 98,
-    "sh": 3,
-    "sog": 3,
+    "min": 141,
+    "sh": 5,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 1,
@@ -3704,7 +3899,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 3,
+    "shots_saved": 5,
     "shots_off_target": 0
    },
    "matches": [
@@ -3777,6 +3972,25 @@
      "min": 32,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 43,
+     "sh": 2,
+     "sog": 2,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -4044,9 +4258,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1480,
+    "gp": 19,
+    "starts": 19,
+    "min": 1548,
     "sh": 9,
     "sog": 3,
     "g": 0,
@@ -4401,6 +4615,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 68,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4643,20 +4876,20 @@
    "num": "13",
    "pos": null,
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 7,
-    "min": 465,
-    "sh": 6,
-    "sog": 4,
+    "min": 512,
+    "sh": 9,
+    "sog": 5,
     "g": 1,
     "a": 0,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 3,
-    "shots_off_target": 2
+    "shot_pct": 55.6,
+    "shots_saved": 4,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -4865,6 +5098,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "",
+     "num": "13",
+     "min": 47,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -5185,10 +5437,10 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1081,
-    "sh": 39,
+    "gp": 19,
+    "starts": 19,
+    "min": 1144,
+    "sh": 40,
     "sog": 23,
     "g": 6,
     "a": 2,
@@ -5196,9 +5448,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 59.0,
+    "shot_pct": 57.5,
     "shots_saved": 17,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -5542,6 +5794,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 63,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5551,9 +5822,9 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 12,
-    "min": 1072,
+    "gp": 18,
+    "starts": 13,
+    "min": 1162,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -5889,6 +6160,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6110,15 +6400,58 @@
    ]
   },
   {
+   "name": "TM TEAM",
+   "slug": "tm-team",
+   "num": "TM",
+   "pos": null,
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 0,
+    "sh": 0,
+    "sog": 0,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "",
+     "num": "TM",
+     "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Taylor, Natalie",
    "slug": "taylor-natalie",
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 9,
-    "min": 688,
-    "sh": 25,
+    "gp": 16,
+    "starts": 10,
+    "min": 760,
+    "sh": 27,
     "sog": 13,
     "g": 0,
     "a": 3,
@@ -6126,9 +6459,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.0,
+    "shot_pct": 48.1,
     "shots_saved": 13,
-    "shots_off_target": 12
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -6415,6 +6748,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 72,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6424,19 +6776,19 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 17,
-    "min": 1359,
-    "sh": 24,
-    "sog": 14,
+    "min": 1393,
+    "sh": 25,
+    "sog": 15,
     "g": 0,
     "a": 2,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.3,
-    "shots_saved": 14,
+    "shot_pct": 60.0,
+    "shots_saved": 15,
     "shots_off_target": 10
    },
    "matches": [
@@ -6781,6 +7133,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "4",
+     "min": 34,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6790,10 +7161,10 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 17,
-    "min": 1328,
-    "sh": 29,
+    "gp": 19,
+    "starts": 18,
+    "min": 1418,
+    "sh": 30,
     "sog": 12,
     "g": 1,
     "a": 0,
@@ -6801,9 +7172,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.4,
+    "shot_pct": 40.0,
     "shots_saved": 11,
-    "shots_off_target": 17
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -7140,6 +7511,25 @@
      "num": "11",
      "min": 90,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Nicholls",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,

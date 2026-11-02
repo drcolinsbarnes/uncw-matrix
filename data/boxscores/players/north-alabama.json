@@ -9,9 +9,9 @@
    "num": "7",
    "pos": "mid",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 0,
-    "min": 20,
+    "min": 33,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -138,6 +138,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Armstrong, Emma",
+   "slug": "armstrong-emma",
+   "num": "13",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 16,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 1,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "13",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -147,15 +209,15 @@
    "num": "29",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 0,
-    "min": 180,
+    "min": 198,
     "sh": 9,
     "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 1,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -447,6 +509,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "29",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Brzica, Maggie",
+   "slug": "brzica-maggie",
+   "num": "4",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 6,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -510,9 +634,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1428,
+    "gp": 17,
+    "starts": 17,
+    "min": 1509,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -525,10 +649,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
+     "gp": 15,
      "ga": 15,
-     "saves": 63,
-     "save_pct": 80.8
+     "saves": 65,
+     "save_pct": 81.2
     }
    },
    "matches": [
@@ -905,6 +1029,30 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "80:23",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -914,20 +1062,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 17,
-    "min": 1085,
-    "sh": 32,
-    "sog": 14,
+    "gp": 20,
+    "starts": 18,
+    "min": 1152,
+    "sh": 38,
+    "sog": 18,
     "g": 1,
     "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.8,
-    "shots_saved": 13,
-    "shots_off_target": 18
+    "shot_pct": 47.4,
+    "shots_saved": 17,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -1290,6 +1438,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 67,
+     "sh": 6,
+     "sog": 4,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1299,18 +1466,18 @@
    "num": "27",
    "pos": "fwd",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 1,
-    "min": 277,
-    "sh": 7,
-    "sog": 2,
-    "g": 0,
+    "min": 294,
+    "sh": 8,
+    "sog": 3,
+    "g": 1,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 37.5,
     "shots_saved": 2,
     "shots_off_target": 5
    },
@@ -1637,6 +1804,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "27",
+     "min": 17,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1646,10 +1832,10 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1698,
-    "sh": 6,
+    "gp": 20,
+    "starts": 20,
+    "min": 1782,
+    "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 1,
@@ -1657,9 +1843,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2022,6 +2208,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 84,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2031,20 +2236,20 @@
    "num": "19",
    "pos": "mid",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 5,
-    "min": 852,
-    "sh": 32,
-    "sog": 17,
+    "min": 895,
+    "sh": 35,
+    "sog": 19,
     "g": 4,
-    "a": 4,
+    "a": 5,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.1,
-    "shots_saved": 13,
-    "shots_off_target": 15
+    "shot_pct": 54.3,
+    "shots_saved": 15,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -2407,6 +2612,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "19",
+     "min": 43,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Hilton, Kayleigh",
+   "slug": "hilton-kayleigh",
+   "num": "21",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 6,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 6,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2592,9 +2859,9 @@
    "num": "24",
    "pos": "def",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 12,
+    "min": 20,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2626,6 +2893,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2635,9 +2921,9 @@
    "num": "2",
    "pos": "def",
    "totals": {
-    "gp": 1,
+    "gp": 2,
     "starts": 0,
-    "min": 9,
+    "min": 22,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2669,6 +2955,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2678,19 +2983,19 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 14,
-    "min": 741,
-    "sh": 24,
-    "sog": 12,
+    "gp": 20,
+    "starts": 15,
+    "min": 775,
+    "sh": 27,
+    "sog": 15,
     "g": 2,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 10,
+    "shot_pct": 55.6,
+    "shots_saved": 13,
     "shots_off_target": 12
    },
    "matches": [
@@ -3054,6 +3359,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "33",
+     "min": 34,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3063,9 +3387,9 @@
    "num": "26",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 11,
-    "min": 1186,
+    "gp": 20,
+    "starts": 12,
+    "min": 1227,
     "sh": 10,
     "sog": 5,
     "g": 0,
@@ -3439,6 +3763,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "26",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3448,19 +3791,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 17,
-    "min": 872,
-    "sh": 22,
-    "sog": 11,
+    "gp": 20,
+    "starts": 18,
+    "min": 910,
+    "sh": 23,
+    "sog": 12,
     "g": 3,
     "a": 0,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 8,
+    "shot_pct": 52.2,
+    "shots_saved": 9,
     "shots_off_target": 11
    },
    "matches": [
@@ -3824,6 +4167,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 38,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3833,9 +4195,9 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 2,
-    "min": 333,
+    "min": 342,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4171,6 +4533,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4180,10 +4561,10 @@
    "num": "23",
    "pos": "mid",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 0,
-    "min": 368,
-    "sh": 4,
+    "min": 417,
+    "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -4191,9 +4572,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 40.0,
     "shots_saved": 2,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -4499,6 +4880,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "23",
+     "min": 49,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4508,10 +4908,10 @@
    "num": "16",
    "pos": "mid",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 0,
-    "min": 448,
-    "sh": 25,
+    "min": 482,
+    "sh": 26,
     "sog": 15,
     "g": 3,
     "a": 1,
@@ -4519,9 +4919,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 57.7,
     "shots_saved": 12,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -4846,6 +5246,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "16",
+     "min": 34,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4855,19 +5274,19 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 0,
-    "min": 389,
-    "sh": 9,
-    "sog": 6,
-    "g": 1,
+    "min": 399,
+    "sh": 11,
+    "sog": 8,
+    "g": 2,
     "a": 1,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 5,
+    "shot_pct": 72.7,
+    "shots_saved": 6,
     "shots_off_target": 3
    },
    "matches": [
@@ -5231,6 +5650,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "18",
+     "min": 10,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5240,19 +5678,19 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1446,
-    "sh": 1,
-    "sog": 0,
+    "gp": 20,
+    "starts": 20,
+    "min": 1511,
+    "sh": 2,
+    "sog": 1,
     "g": 0,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
     "shots_off_target": 1
    },
    "matches": [
@@ -5616,6 +6054,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 65,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5625,9 +6082,9 @@
    "num": "32",
    "pos": "GK",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 3,
-    "min": 270,
+    "min": 279,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5640,7 +6097,7 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 2,
+     "gp": 3,
      "ga": 3,
      "saves": 5,
      "save_pct": 62.5
@@ -5713,6 +6170,30 @@
       "ga": 2,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "gk",
+     "num": "32",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "09:37",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -5722,19 +6203,19 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 2,
-    "min": 744,
-    "sh": 10,
-    "sog": 5,
-    "g": 2,
-    "a": 3,
+    "min": 793,
+    "sh": 13,
+    "sog": 8,
+    "g": 3,
+    "a": 5,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 3,
+    "shot_pct": 61.5,
+    "shots_saved": 5,
     "shots_off_target": 5
    },
    "matches": [
@@ -6098,6 +6579,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 49,
+     "sh": 3,
+     "sog": 3,
+     "g": 1,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6107,9 +6607,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1695,
+    "gp": 20,
+    "starts": 20,
+    "min": 1772,
     "sh": 15,
     "sog": 7,
     "g": 2,
@@ -6483,6 +6983,68 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Thornton, Abby",
+   "slug": "thornton-abby",
+   "num": "30",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 6,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "mid",
+     "num": "30",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6492,19 +7054,19 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1660,
-    "sh": 13,
-    "sog": 9,
+    "gp": 20,
+    "starts": 20,
+    "min": 1742,
+    "sh": 14,
+    "sog": 10,
     "g": 0,
     "a": 5,
     "fouls": 2,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 69.2,
-    "shots_saved": 9,
+    "shot_pct": 71.4,
+    "shots_saved": 10,
     "shots_off_target": 4
    },
    "matches": [
@@ -6868,6 +7430,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 82,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6877,9 +7458,9 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 302,
+    "min": 321,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -7158,6 +7739,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7167,20 +7767,20 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 18,
-    "min": 1185,
-    "sh": 31,
-    "sog": 15,
+    "gp": 20,
+    "starts": 19,
+    "min": 1240,
+    "sh": 33,
+    "sog": 16,
     "g": 4,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 48.4,
-    "shots_saved": 11,
-    "shots_off_target": 16
+    "shot_pct": 48.5,
+    "shots_saved": 12,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -7543,6 +8143,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 55,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7552,9 +8171,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1196,
+    "gp": 20,
+    "starts": 20,
+    "min": 1237,
     "sh": 19,
     "sog": 5,
     "g": 2,
@@ -7921,6 +8540,25 @@
      "num": "6",
      "min": 70,
      "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "West Georgia",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 41,
+     "sh": 0,
      "sog": 0,
      "g": 0,
      "a": 0,

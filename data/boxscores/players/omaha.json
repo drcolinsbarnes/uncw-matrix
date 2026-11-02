@@ -318,19 +318,19 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 10,
-    "min": 702,
-    "sh": 12,
-    "sog": 5,
+    "min": 740,
+    "sh": 14,
+    "sog": 7,
     "g": 0,
     "a": 0,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.7,
-    "shots_saved": 5,
+    "shot_pct": 50.0,
+    "shots_saved": 7,
     "shots_off_target": 7
    },
    "matches": [
@@ -618,6 +618,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "23",
+     "min": 38,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -627,14 +646,14 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1190,
+    "gp": 16,
+    "starts": 14,
+    "min": 1276,
     "sh": 5,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -927,6 +946,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -936,20 +974,20 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1160,
-    "sh": 5,
+    "gp": 16,
+    "starts": 15,
+    "min": 1250,
+    "sh": 6,
     "sog": 2,
     "g": 1,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -1236,6 +1274,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1245,20 +1302,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 15,
-    "min": 943,
-    "sh": 19,
-    "sog": 9,
+    "min": 995,
+    "sh": 22,
+    "sog": 10,
     "g": 1,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.4,
-    "shots_saved": 8,
-    "shots_off_target": 10
+    "shot_pct": 45.5,
+    "shots_saved": 9,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1545,6 +1602,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 52,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1554,9 +1630,9 @@
    "num": "31",
    "pos": "GK",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1304,
+    "gp": 16,
+    "starts": 16,
+    "min": 1394,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1569,7 +1645,7 @@
     "shots_saved": 0,
     "shots_off_target": 1,
     "goalie": {
-     "gp": 15,
+     "gp": 16,
      "ga": 15,
      "saves": 54,
      "save_pct": 78.3
@@ -1935,6 +2011,30 @@
       "ga": 2,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "GK",
+     "num": "31",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 0
+     }
     }
    ]
   },
@@ -1944,9 +2044,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 2,
-    "min": 248,
+    "min": 269,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2160,6 +2260,25 @@
      "pos": "def",
      "num": "4",
      "min": 34,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "4",
+     "min": 21,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2469,14 +2588,14 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1112,
+    "gp": 16,
+    "starts": 14,
+    "min": 1194,
     "sh": 1,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -2769,6 +2888,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 82,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3030,20 +3168,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1187,
-    "sh": 25,
-    "sog": 12,
+    "gp": 16,
+    "starts": 15,
+    "min": 1264,
+    "sh": 28,
+    "sog": 13,
     "g": 1,
     "a": 0,
-    "fouls": 8,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 48.0,
-    "shots_saved": 11,
-    "shots_off_target": 13
+    "shot_pct": 46.4,
+    "shots_saved": 12,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -3330,6 +3468,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 77,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3339,10 +3496,10 @@
    "num": "15",
    "pos": "fwd",
    "totals": {
-    "gp": 14,
-    "starts": 0,
-    "min": 374,
-    "sh": 3,
+    "gp": 15,
+    "starts": 1,
+    "min": 425,
+    "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -3350,9 +3507,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 50.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -3620,6 +3777,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "15",
+     "min": 51,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3629,20 +3805,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1183,
-    "sh": 10,
-    "sog": 3,
+    "gp": 16,
+    "starts": 16,
+    "min": 1260,
+    "sh": 14,
+    "sog": 6,
     "g": 0,
     "a": 1,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.0,
-    "shots_saved": 3,
-    "shots_off_target": 7
+    "shot_pct": 42.9,
+    "shots_saved": 6,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3929,6 +4105,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 77,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3938,9 +4133,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1089,
+    "gp": 16,
+    "starts": 15,
+    "min": 1165,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -4238,6 +4433,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4247,9 +4461,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 10,
-    "min": 921,
+    "gp": 15,
+    "starts": 11,
+    "min": 1011,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -4528,6 +4742,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4537,9 +4770,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 5,
-    "min": 516,
+    "gp": 15,
+    "starts": 6,
+    "min": 571,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4818,6 +5051,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4825,12 +5077,12 @@
    "name": "Raducu, Carina",
    "slug": "raducu-carina",
    "num": "21",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 4,
-    "min": 559,
-    "sh": 3,
+    "min": 600,
+    "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -4838,9 +5090,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 25.0,
     "shots_saved": 1,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -5070,6 +5322,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "21",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5141,20 +5412,20 @@
    "num": "27",
    "pos": "MID",
    "totals": {
-    "gp": 15,
-    "starts": 5,
-    "min": 736,
-    "sh": 2,
+    "gp": 16,
+    "starts": 6,
+    "min": 800,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -5438,6 +5709,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Kansas City",
+     "home": false,
+     "result": "D",
+     "score": "0-0",
+     "start": true,
+     "pos": "MID",
+     "num": "27",
+     "min": 64,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

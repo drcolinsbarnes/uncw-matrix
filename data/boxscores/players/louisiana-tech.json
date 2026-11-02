@@ -9,20 +9,20 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1590,
-    "sh": 18,
-    "sog": 4,
+    "gp": 20,
+    "starts": 20,
+    "min": 1671,
+    "sh": 22,
+    "sog": 6,
     "g": 0,
     "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 4,
-    "shots_off_target": 14
+    "shot_pct": 27.3,
+    "shots_saved": 6,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -385,6 +385,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 81,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -394,9 +413,9 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 8,
-    "starts": 6,
-    "min": 594,
+    "gp": 9,
+    "starts": 7,
+    "min": 684,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -553,6 +572,25 @@
      "pos": "DEF",
      "num": "28",
      "min": 33,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 90,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -803,9 +841,9 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 15,
-    "min": 1282,
+    "min": 1348,
     "sh": 13,
     "sog": 7,
     "g": 0,
@@ -1179,6 +1217,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "MID",
+     "num": "17",
+     "min": 66,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1340,6 +1397,60 @@
    ]
   },
   {
+   "name": "Duguay, Emma",
+   "slug": "duguay-emma",
+   "num": "27",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 45,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 1,
+     "saves": 4,
+     "save_pct": 80.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "GK",
+     "num": "27",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 1,
+      "saves": 4
+     }
+    }
+   ]
+  },
+  {
    "name": "Gekas, Carrigan",
    "slug": "gekas-carrigan",
    "num": "2",
@@ -1407,9 +1518,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 2,
-    "min": 420,
+    "gp": 16,
+    "starts": 3,
+    "min": 510,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -1707,6 +1818,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1716,20 +1846,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 16,
-    "min": 1496,
-    "sh": 29,
-    "sog": 16,
-    "g": 5,
+    "gp": 20,
+    "starts": 17,
+    "min": 1586,
+    "sh": 32,
+    "sog": 18,
+    "g": 6,
     "a": 6,
     "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.2,
-    "shots_saved": 11,
-    "shots_off_target": 13
+    "shot_pct": 56.2,
+    "shots_saved": 12,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -2087,6 +2217,25 @@
      "sh": 1,
      "sog": 1,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -2486,14 +2635,14 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1638,
+    "gp": 20,
+    "starts": 20,
+    "min": 1728,
     "sh": 18,
     "sog": 8,
     "g": 1,
     "a": 2,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 1,
     "rc": 0,
     "pk_g": 1,
@@ -2862,6 +3011,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2971,9 +3139,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1575,
+    "gp": 19,
+    "starts": 19,
+    "min": 1620,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2986,10 +3154,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 37,
-     "saves": 108,
-     "save_pct": 74.5
+     "gp": 16,
+     "ga": 39,
+     "saves": 115,
+     "save_pct": 74.7
     }
    },
    "matches": [
@@ -3409,6 +3577,30 @@
       "ga": 4,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 2,
+      "saves": 7
+     }
     }
    ]
   },
@@ -3556,20 +3748,20 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
-    "starts": 3,
-    "min": 298,
-    "sh": 2,
+    "gp": 6,
+    "starts": 4,
+    "min": 358,
+    "sh": 3,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3663,6 +3855,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "26",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3870,14 +4081,14 @@
    "num": "3",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1293,
+    "gp": 17,
+    "starts": 17,
+    "min": 1332,
     "sh": 2,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
@@ -4189,6 +4400,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "",
+     "num": "3",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4198,20 +4428,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1592,
-    "sh": 43,
-    "sog": 19,
-    "g": 9,
+    "gp": 20,
+    "starts": 20,
+    "min": 1665,
+    "sh": 45,
+    "sog": 20,
+    "g": 10,
     "a": 1,
     "fouls": 15,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.2,
+    "shot_pct": 44.4,
     "shots_saved": 10,
-    "shots_off_target": 24
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -4574,6 +4804,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 73,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4583,20 +4832,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 18,
-    "min": 1443,
-    "sh": 25,
+    "gp": 20,
+    "starts": 19,
+    "min": 1529,
+    "sh": 28,
     "sog": 13,
     "g": 2,
-    "a": 4,
-    "fouls": 5,
+    "a": 5,
+    "fouls": 6,
     "yc": 3,
     "rc": 1,
     "pk_g": 0,
-    "shot_pct": 52.0,
+    "shot_pct": 46.4,
     "shots_saved": 11,
-    "shots_off_target": 12
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -4959,6 +5208,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "19",
+     "min": 86,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4968,9 +5236,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 1,
-    "min": 143,
+    "min": 147,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5056,6 +5324,25 @@
       "ga": 0,
       "saves": 5
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "GK",
+     "num": "1",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5065,9 +5352,9 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 7,
-    "min": 698,
+    "min": 715,
     "sh": 13,
     "sog": 6,
     "g": 1,
@@ -5327,6 +5614,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "",
+     "num": "30",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5574,9 +5880,9 @@
    "num": "12",
    "pos": null,
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 583,
+    "gp": 9,
+    "starts": 9,
+    "min": 664,
     "sh": 15,
     "sog": 7,
     "g": 1,
@@ -5741,6 +6047,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": true,
+     "pos": "",
+     "num": "12",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5750,19 +6075,19 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 14,
-    "min": 1162,
-    "sh": 15,
-    "sog": 4,
+    "min": 1195,
+    "sh": 16,
+    "sog": 5,
     "g": 0,
     "a": 0,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.7,
-    "shots_saved": 4,
+    "shot_pct": 31.2,
+    "shots_saved": 5,
     "shots_off_target": 11
    },
    "matches": [
@@ -6120,6 +6445,25 @@
      "min": 59,
      "sh": 0,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "South Alabama",
+     "home": true,
+     "result": "L",
+     "score": "2-3",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 33,
+     "sh": 1,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,

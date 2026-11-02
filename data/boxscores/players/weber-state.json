@@ -9,19 +9,19 @@
    "num": "19",
    "pos": null,
    "totals": {
-    "gp": 22,
-    "starts": 20,
-    "min": 1434,
-    "sh": 40,
-    "sog": 24,
+    "gp": 23,
+    "starts": 21,
+    "min": 1507,
+    "sh": 41,
+    "sog": 25,
     "g": 6,
-    "a": 5,
+    "a": 6,
     "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 18,
+    "shot_pct": 61.0,
+    "shots_saved": 19,
     "shots_off_target": 16
    },
    "matches": [
@@ -442,6 +442,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 73,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -451,10 +470,10 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 5,
-    "min": 906,
-    "sh": 9,
+    "min": 945,
+    "sh": 10,
     "sog": 2,
     "g": 0,
     "a": 0,
@@ -462,9 +481,9 @@
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
+    "shot_pct": 20.0,
     "shots_saved": 2,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -884,6 +903,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 39,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -974,20 +1012,20 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1698,
-    "sh": 53,
-    "sog": 27,
-    "g": 14,
+    "gp": 23,
+    "starts": 23,
+    "min": 1788,
+    "sh": 59,
+    "sog": 30,
+    "g": 15,
     "a": 4,
     "fouls": 13,
     "yc": 4,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 50.9,
-    "shots_saved": 13,
-    "shots_off_target": 26
+    "shot_pct": 50.8,
+    "shots_saved": 15,
+    "shots_off_target": 29
    },
    "matches": [
     {
@@ -1407,6 +1445,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 6,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1730,9 +1787,9 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 2,
-    "min": 781,
+    "min": 812,
     "sh": 13,
     "sog": 7,
     "g": 2,
@@ -2144,6 +2201,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2153,9 +2229,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1855,
+    "gp": 23,
+    "starts": 23,
+    "min": 1945,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2168,10 +2244,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 17,
+     "gp": 18,
      "ga": 24,
-     "saves": 68,
-     "save_pct": 73.9
+     "saves": 70,
+     "save_pct": 74.5
     }
    },
    "matches": [
@@ -2677,6 +2753,30 @@
       "ga": 1,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -2686,14 +2786,14 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 17,
-    "min": 1209,
+    "gp": 22,
+    "starts": 18,
+    "min": 1289,
     "sh": 13,
     "sog": 7,
     "g": 1,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -3100,6 +3200,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3206,19 +3325,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 20,
-    "min": 1380,
-    "sh": 14,
-    "sog": 4,
+    "gp": 23,
+    "starts": 21,
+    "min": 1445,
+    "sh": 15,
+    "sog": 5,
     "g": 0,
     "a": 1,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
-    "shots_saved": 4,
+    "shot_pct": 33.3,
+    "shots_saved": 5,
     "shots_off_target": 10
    },
    "matches": [
@@ -3636,6 +3755,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 65,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -4418,9 +4556,9 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 2,
-    "min": 700,
+    "min": 706,
     "sh": 10,
     "sog": 5,
     "g": 1,
@@ -4851,6 +4989,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "8",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4860,19 +5017,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 17,
-    "min": 1334,
-    "sh": 3,
-    "sog": 2,
+    "gp": 20,
+    "starts": 18,
+    "min": 1424,
+    "sh": 4,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 14,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 2,
+    "shot_pct": 75.0,
+    "shots_saved": 3,
     "shots_off_target": 1
    },
    "matches": [
@@ -5236,6 +5393,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5245,9 +5421,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 7,
-    "min": 858,
+    "gp": 19,
+    "starts": 8,
+    "min": 948,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -5590,6 +5766,25 @@
      "home": true,
      "result": "W",
      "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
      "start": true,
      "pos": "DEF",
      "num": "6",
@@ -6022,9 +6217,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 15,
-    "min": 1171,
+    "min": 1181,
     "sh": 4,
     "sog": 4,
     "g": 1,
@@ -6455,6 +6650,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "12",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6464,20 +6678,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1507,
-    "sh": 37,
-    "sog": 14,
-    "g": 4,
+    "gp": 23,
+    "starts": 23,
+    "min": 1591,
+    "sh": 40,
+    "sog": 15,
+    "g": 5,
     "a": 0,
     "fouls": 16,
     "yc": 0,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 37.8,
+    "shot_pct": 37.5,
     "shots_saved": 10,
-    "shots_off_target": 23
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -6897,6 +7111,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 84,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6949,9 +7182,9 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1703,
+    "gp": 22,
+    "starts": 22,
+    "min": 1793,
     "sh": 6,
     "sog": 1,
     "g": 0,
@@ -7363,6 +7596,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7372,20 +7624,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 727,
-    "sh": 38,
+    "gp": 13,
+    "starts": 10,
+    "min": 803,
+    "sh": 40,
     "sog": 21,
     "g": 2,
-    "a": 3,
+    "a": 4,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.3,
+    "shot_pct": 52.5,
     "shots_saved": 19,
-    "shots_off_target": 17
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -7612,6 +7864,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 76,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -8114,10 +8385,10 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 17,
-    "min": 1279,
-    "sh": 13,
+    "gp": 23,
+    "starts": 18,
+    "min": 1355,
+    "sh": 15,
     "sog": 2,
     "g": 0,
     "a": 6,
@@ -8125,9 +8396,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 15.4,
+    "shot_pct": 13.3,
     "shots_saved": 2,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -8544,6 +8815,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Northern Arizona",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 76,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

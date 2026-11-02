@@ -9,20 +9,20 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 10,
-    "min": 1035,
-    "sh": 12,
+    "gp": 22,
+    "starts": 11,
+    "min": 1125,
+    "sh": 13,
     "sog": 4,
     "g": 0,
-    "a": 2,
+    "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 30.8,
     "shots_saved": 4,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -423,6 +423,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -432,9 +451,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1529,
+    "gp": 22,
+    "starts": 22,
+    "min": 1619,
     "sh": 9,
     "sog": 6,
     "g": 2,
@@ -846,6 +865,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -855,19 +893,19 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 9,
-    "min": 896,
-    "sh": 15,
-    "sog": 4,
+    "gp": 22,
+    "starts": 10,
+    "min": 947,
+    "sh": 17,
+    "sog": 6,
     "g": 2,
     "a": 2,
     "fouls": 1,
     "yc": 5,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.7,
-    "shots_saved": 2,
+    "shot_pct": 35.3,
+    "shots_saved": 4,
     "shots_off_target": 11
    },
    "matches": [
@@ -1269,6 +1307,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 51,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1592,9 +1649,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 20,
-    "starts": 16,
-    "min": 1515,
+    "gp": 21,
+    "starts": 17,
+    "min": 1605,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1607,9 +1664,9 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 11,
-     "saves": 44,
+     "gp": 16,
+     "ga": 12,
+     "saves": 48,
      "save_pct": 80.0
     }
    },
@@ -2068,6 +2125,30 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -2077,9 +2158,9 @@
    "num": "8",
    "pos": "fwd",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 0,
-    "min": 434,
+    "min": 456,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -2491,6 +2572,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2500,20 +2600,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 19,
-    "min": 1527,
-    "sh": 43,
-    "sog": 15,
+    "gp": 22,
+    "starts": 20,
+    "min": 1605,
+    "sh": 45,
+    "sog": 16,
     "g": 7,
     "a": 3,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 34.9,
-    "shots_saved": 8,
-    "shots_off_target": 28
+    "shot_pct": 35.6,
+    "shots_saved": 9,
+    "shots_off_target": 29
    },
    "matches": [
     {
@@ -2914,6 +3014,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 78,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2923,9 +3042,9 @@
    "num": "34",
    "pos": "MID",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 17,
-    "min": 1243,
+    "min": 1300,
     "sh": 33,
     "sog": 9,
     "g": 4,
@@ -3261,6 +3380,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "34",
+     "min": 57,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3270,9 +3408,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1787,
+    "gp": 22,
+    "starts": 22,
+    "min": 1877,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3684,6 +3822,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3888,20 +4045,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1634,
-    "sh": 57,
-    "sog": 28,
+    "gp": 22,
+    "starts": 22,
+    "min": 1724,
+    "sh": 62,
+    "sog": 30,
     "g": 7,
     "a": 7,
     "fouls": 1,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 49.1,
-    "shots_saved": 21,
-    "shots_off_target": 29
+    "shot_pct": 48.4,
+    "shots_saved": 23,
+    "shots_off_target": 32
    },
    "matches": [
     {
@@ -4302,6 +4459,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 90,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4411,20 +4587,20 @@
    "num": "16",
    "pos": "fwd",
    "totals": {
-    "gp": 21,
-    "starts": 6,
-    "min": 667,
-    "sh": 16,
-    "sog": 9,
-    "g": 0,
+    "gp": 22,
+    "starts": 7,
+    "min": 735,
+    "sh": 20,
+    "sog": 10,
+    "g": 1,
     "a": 3,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.2,
+    "shot_pct": 50.0,
     "shots_saved": 9,
-    "shots_off_target": 7
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -4825,6 +5001,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "16",
+     "min": 68,
+     "sh": 4,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4834,9 +5029,9 @@
    "num": "36",
    "pos": "MID",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 17,
-    "min": 1267,
+    "min": 1308,
     "sh": 8,
     "sog": 3,
     "g": 2,
@@ -5172,6 +5367,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "36",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5181,10 +5395,10 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1531,
-    "sh": 34,
+    "gp": 20,
+    "starts": 20,
+    "min": 1616,
+    "sh": 37,
     "sog": 8,
     "g": 3,
     "a": 1,
@@ -5192,9 +5406,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 23.5,
+    "shot_pct": 21.6,
     "shots_saved": 5,
-    "shots_off_target": 26
+    "shots_off_target": 29
    },
    "matches": [
     {
@@ -5557,6 +5771,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 85,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5566,9 +5799,9 @@
    "num": "17",
    "pos": "mid",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 0,
-    "min": 505,
+    "min": 521,
     "sh": 6,
     "sog": 1,
     "g": 1,
@@ -5961,6 +6194,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 16,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5970,20 +6222,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1767,
-    "sh": 71,
-    "sog": 31,
+    "gp": 22,
+    "starts": 22,
+    "min": 1857,
+    "sh": 77,
+    "sog": 33,
     "g": 6,
     "a": 10,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.7,
-    "shots_saved": 25,
-    "shots_off_target": 40
+    "shot_pct": 42.9,
+    "shots_saved": 27,
+    "shots_off_target": 44
    },
    "matches": [
     {
@@ -6384,6 +6636,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 90,
+     "sh": 6,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6393,9 +6664,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 14,
-    "min": 1321,
+    "gp": 22,
+    "starts": 15,
+    "min": 1345,
     "sh": 7,
     "sog": 5,
     "g": 0,
@@ -6807,6 +7078,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6985,15 +7275,15 @@
    "num": "15",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 40,
+    "min": 48,
     "sh": 0,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": null,
@@ -7055,6 +7345,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "Drexel",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "def",
+     "num": "15",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }

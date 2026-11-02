@@ -9,10 +9,10 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 0,
-    "min": 467,
-    "sh": 8,
+    "min": 494,
+    "sh": 9,
     "sog": 4,
     "g": 0,
     "a": 0,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 44.4,
     "shots_saved": 4,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -328,6 +328,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 27,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -337,9 +356,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1440,
+    "gp": 17,
+    "starts": 17,
+    "min": 1530,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -352,10 +371,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 15,
-     "saves": 45,
-     "save_pct": 75.0
+     "gp": 16,
+     "ga": 16,
+     "saves": 50,
+     "save_pct": 75.8
     }
    },
    "matches": [
@@ -736,6 +755,30 @@
       "min": "90:00",
       "ga": 2,
       "saves": 2
+     }
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 5
      }
     }
    ]
@@ -1217,19 +1260,19 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 910,
-    "sh": 17,
-    "sog": 10,
+    "gp": 17,
+    "starts": 17,
+    "min": 973,
+    "sh": 18,
+    "sog": 11,
     "g": 3,
     "a": 3,
     "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.8,
-    "shots_saved": 7,
+    "shot_pct": 61.1,
+    "shots_saved": 8,
     "shots_off_target": 7
    },
    "matches": [
@@ -1536,6 +1579,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 63,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1702,20 +1764,20 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 2,
-    "min": 558,
-    "sh": 10,
-    "sog": 4,
+    "min": 587,
+    "sh": 12,
+    "sog": 5,
     "g": 0,
     "a": 2,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
-    "shots_saved": 4,
-    "shots_off_target": 6
+    "shot_pct": 41.7,
+    "shots_saved": 5,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -2002,6 +2064,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 29,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2011,20 +2092,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1206,
-    "sh": 14,
+    "gp": 17,
+    "starts": 17,
+    "min": 1296,
+    "sh": 16,
     "sog": 3,
     "g": 0,
     "a": 4,
     "fouls": 14,
-    "yc": 2,
+    "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 21.4,
+    "shot_pct": 18.8,
     "shots_saved": 3,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -2330,6 +2411,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2339,10 +2439,10 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1370,
-    "sh": 7,
+    "gp": 17,
+    "starts": 17,
+    "min": 1460,
+    "sh": 8,
     "sog": 2,
     "g": 0,
     "a": 1,
@@ -2350,9 +2450,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.6,
+    "shot_pct": 25.0,
     "shots_saved": 2,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -2658,6 +2758,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2710,9 +2829,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 1,
-    "min": 451,
+    "min": 466,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2972,6 +3091,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "def",
+     "num": "24",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3157,20 +3295,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 13,
-    "min": 949,
-    "sh": 28,
-    "sog": 16,
+    "gp": 17,
+    "starts": 14,
+    "min": 1008,
+    "sh": 31,
+    "sog": 17,
     "g": 7,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 9,
-    "shots_off_target": 12
+    "shot_pct": 54.8,
+    "shots_saved": 10,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -3476,6 +3614,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 59,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3485,20 +3642,20 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 3,
-    "min": 844,
-    "sh": 22,
-    "sog": 12,
-    "g": 1,
+    "min": 904,
+    "sh": 25,
+    "sog": 13,
+    "g": 2,
     "a": 0,
     "fouls": 16,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
+    "shot_pct": 52.0,
     "shots_saved": 11,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3804,6 +3961,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 60,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3813,9 +3989,9 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 10,
-    "min": 906,
+    "gp": 17,
+    "starts": 11,
+    "min": 996,
     "sh": 8,
     "sog": 2,
     "g": 1,
@@ -4132,6 +4308,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4141,9 +4336,9 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1323,
+    "gp": 17,
+    "starts": 17,
+    "min": 1402,
     "sh": 26,
     "sog": 9,
     "g": 3,
@@ -4460,6 +4655,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 79,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4624,11 +4838,11 @@
    "name": "Schroeder, Lea",
    "slug": "schroeder-lea",
    "num": "5",
-   "pos": "def",
+   "pos": "DEF",
    "totals": {
-    "gp": 3,
-    "starts": 0,
-    "min": 91,
+    "gp": 4,
+    "starts": 1,
+    "min": 181,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -4698,6 +4912,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4750,20 +4983,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1224,
-    "sh": 16,
-    "sog": 6,
-    "g": 1,
+    "gp": 17,
+    "starts": 17,
+    "min": 1296,
+    "sh": 19,
+    "sog": 7,
+    "g": 2,
     "a": 5,
     "fouls": 14,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 36.8,
     "shots_saved": 5,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -5069,6 +5302,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 72,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5078,10 +5330,10 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 732,
-    "sh": 10,
+    "gp": 17,
+    "starts": 15,
+    "min": 793,
+    "sh": 11,
     "sog": 7,
     "g": 3,
     "a": 2,
@@ -5089,9 +5341,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 70.0,
+    "shot_pct": 63.6,
     "shots_saved": 4,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -5397,6 +5649,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 61,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5406,9 +5677,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 15,
-    "min": 1114,
+    "gp": 16,
+    "starts": 16,
+    "min": 1189,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -5698,6 +5969,25 @@
      "pos": "DEF",
      "num": "7",
      "min": 78,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-01",
+     "opponent": "UMBC",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 75,
      "sh": 0,
      "sog": 0,
      "g": 0,
