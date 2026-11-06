@@ -261,14 +261,14 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 9,
-    "min": 1159,
+    "gp": 24,
+    "starts": 10,
+    "min": 1249,
     "sh": 1,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -713,6 +713,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -722,9 +741,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 24,
+    "gp": 25,
     "starts": 24,
-    "min": 2122,
+    "min": 2135,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1193,6 +1212,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "19",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1202,9 +1240,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 25,
-    "starts": 24,
-    "min": 2066,
+    "gp": 26,
+    "starts": 25,
+    "min": 2156,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1217,10 +1255,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 17,
-     "ga": 27,
-     "saves": 91,
-     "save_pct": 77.1
+     "gp": 18,
+     "ga": 29,
+     "saves": 98,
+     "save_pct": 77.2
     }
    },
    "matches": [
@@ -1783,6 +1821,30 @@
       "ga": 3,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 7
+     }
     }
    ]
   },
@@ -1792,20 +1854,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1394,
-    "sh": 30,
-    "sog": 16,
+    "gp": 23,
+    "starts": 23,
+    "min": 1468,
+    "sh": 35,
+    "sog": 19,
     "g": 5,
     "a": 1,
     "fouls": 17,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.3,
-    "shots_saved": 11,
-    "shots_off_target": 14
+    "shot_pct": 54.3,
+    "shots_saved": 14,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -2225,6 +2287,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 74,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2234,9 +2315,9 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
+    "gp": 24,
     "starts": 0,
-    "min": 443,
+    "min": 471,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2686,6 +2767,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 28,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2695,9 +2795,9 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 23,
+    "gp": 24,
     "starts": 2,
-    "min": 736,
+    "min": 745,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -3147,6 +3247,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3156,9 +3275,9 @@
    "num": "2",
    "pos": "FWD",
    "totals": {
-    "gp": 25,
+    "gp": 26,
     "starts": 2,
-    "min": 593,
+    "min": 610,
     "sh": 9,
     "sog": 2,
     "g": 0,
@@ -3646,6 +3765,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "2",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3655,20 +3793,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 662,
-    "sh": 19,
+    "gp": 9,
+    "starts": 9,
+    "min": 752,
+    "sh": 22,
     "sog": 8,
     "g": 3,
     "a": 2,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.1,
+    "shot_pct": 36.4,
     "shots_saved": 5,
-    "shots_off_target": 11
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -3819,6 +3957,25 @@
      "g": 1,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -4121,19 +4278,19 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 0,
-    "min": 317,
-    "sh": 9,
-    "sog": 2,
+    "min": 333,
+    "sh": 10,
+    "sog": 3,
     "g": 0,
     "a": 2,
     "fouls": 5,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
-    "shots_saved": 2,
+    "shot_pct": 30.0,
+    "shots_saved": 3,
     "shots_off_target": 7
    },
    "matches": [
@@ -4421,6 +4578,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 16,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4430,9 +4606,9 @@
    "num": "25",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 2045,
+    "gp": 24,
+    "starts": 24,
+    "min": 2135,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -4882,6 +5058,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4891,20 +5086,20 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1841,
-    "sh": 35,
-    "sog": 12,
+    "gp": 24,
+    "starts": 24,
+    "min": 1922,
+    "sh": 40,
+    "sog": 15,
     "g": 3,
     "a": 0,
-    "fouls": 34,
+    "fouls": 35,
     "yc": 9,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 34.3,
-    "shots_saved": 9,
-    "shots_off_target": 23
+    "shot_pct": 37.5,
+    "shots_saved": 12,
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -5343,6 +5538,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "33",
+     "min": 81,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5352,20 +5566,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
-    "starts": 5,
-    "min": 541,
-    "sh": 6,
-    "sog": 5,
+    "gp": 13,
+    "starts": 6,
+    "min": 594,
+    "sh": 9,
+    "sog": 6,
     "g": 2,
     "a": 0,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 83.3,
-    "shots_saved": 3,
-    "shots_off_target": 1
+    "shot_pct": 66.7,
+    "shots_saved": 4,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -5595,6 +5809,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 53,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5604,19 +5837,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 25,
-    "starts": 23,
-    "min": 1862,
-    "sh": 16,
-    "sog": 6,
+    "gp": 26,
+    "starts": 24,
+    "min": 1952,
+    "sh": 17,
+    "sog": 7,
     "g": 5,
     "a": 2,
     "fouls": 8,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
-    "shots_saved": 1,
+    "shot_pct": 41.2,
+    "shots_saved": 2,
     "shots_off_target": 10
    },
    "matches": [
@@ -6094,6 +6327,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6103,9 +6355,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 5,
-    "min": 778,
+    "gp": 15,
+    "starts": 6,
+    "min": 868,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -6384,6 +6636,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6393,20 +6664,20 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 25,
-    "starts": 25,
-    "min": 1799,
-    "sh": 11,
+    "gp": 26,
+    "starts": 26,
+    "min": 1868,
+    "sh": 13,
     "sog": 6,
     "g": 2,
     "a": 1,
-    "fouls": 9,
+    "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
+    "shot_pct": 46.2,
     "shots_saved": 4,
-    "shots_off_target": 5
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -6876,6 +7147,25 @@
      "num": "14",
      "min": 59,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 69,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -7954,20 +8244,20 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 25,
-    "starts": 25,
-    "min": 1897,
-    "sh": 26,
-    "sog": 10,
-    "g": 1,
+    "gp": 26,
+    "starts": 26,
+    "min": 1987,
+    "sh": 29,
+    "sog": 12,
+    "g": 2,
     "a": 1,
-    "fouls": 13,
+    "fouls": 14,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.5,
-    "shots_saved": 9,
-    "shots_off_target": 16
+    "shot_pct": 41.4,
+    "shots_saved": 10,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -8441,6 +8731,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-03",
+     "opponent": "South Florida",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
