@@ -299,9 +299,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 16,
-    "min": 1220,
+    "gp": 17,
+    "starts": 17,
+    "min": 1310,
     "sh": 5,
     "sog": 1,
     "g": 1,
@@ -618,6 +618,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -670,19 +689,19 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 12,
-    "min": 1004,
-    "sh": 5,
-    "sog": 3,
+    "gp": 14,
+    "starts": 13,
+    "min": 1094,
+    "sh": 6,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 2
    },
    "matches": [
@@ -932,6 +951,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -941,20 +979,20 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 12,
-    "min": 1102,
-    "sh": 40,
-    "sog": 17,
+    "min": 1145,
+    "sh": 42,
+    "sog": 18,
     "g": 3,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.5,
-    "shots_saved": 14,
-    "shots_off_target": 23
+    "shot_pct": 42.9,
+    "shots_saved": 15,
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -1279,6 +1317,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 43,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1288,9 +1345,9 @@
    "num": "13",
    "pos": "GK",
    "totals": {
-    "gp": 13,
-    "starts": 13,
-    "min": 1029,
+    "gp": 14,
+    "starts": 14,
+    "min": 1119,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1303,10 +1360,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 12,
-     "ga": 19,
-     "saves": 36,
-     "save_pct": 65.5
+     "gp": 13,
+     "ga": 20,
+     "saves": 42,
+     "save_pct": 67.7
     }
    },
    "matches": [
@@ -1616,6 +1673,30 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "GK",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 6
+     }
     }
    ]
   },
@@ -1625,18 +1706,18 @@
    "num": "22",
    "pos": "def",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 220,
-    "sh": 5,
-    "sog": 0,
-    "g": 0,
+    "min": 242,
+    "sh": 6,
+    "sog": 1,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
+    "shot_pct": 16.7,
     "shots_saved": 0,
     "shots_off_target": 5
    },
@@ -1849,6 +1930,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "def",
+     "num": "22",
+     "min": 22,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1858,10 +1958,10 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1224,
-    "sh": 28,
+    "gp": 18,
+    "starts": 18,
+    "min": 1297,
+    "sh": 29,
     "sog": 12,
     "g": 0,
     "a": 2,
@@ -1869,9 +1969,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 41.4,
     "shots_saved": 12,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -2196,6 +2296,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 73,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2205,9 +2324,9 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 278,
+    "min": 298,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2440,6 +2559,25 @@
      "pos": "mid",
      "num": "6",
      "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 20,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -2785,9 +2923,9 @@
    "num": "15",
    "pos": "mid",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 1,
-    "min": 233,
+    "min": 248,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -3085,6 +3223,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3094,9 +3251,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1099,
+    "gp": 16,
+    "starts": 14,
+    "min": 1189,
     "sh": 3,
     "sog": 2,
     "g": 2,
@@ -3394,6 +3551,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3403,9 +3579,9 @@
    "num": "8",
    "pos": "mid",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 2,
-    "min": 260,
+    "min": 277,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -3543,6 +3719,25 @@
      "pos": "mid",
      "num": "8",
      "min": 47,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "mid",
+     "num": "8",
+     "min": 17,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -3988,19 +4183,19 @@
    "num": "12",
    "pos": "def",
    "totals": {
-    "gp": 7,
-    "starts": 1,
-    "min": 216,
-    "sh": 2,
-    "sog": 0,
+    "gp": 8,
+    "starts": 2,
+    "min": 280,
+    "sh": 3,
+    "sog": 1,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
     "shots_off_target": 2
    },
    "matches": [
@@ -4136,6 +4331,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 64,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4145,20 +4359,20 @@
    "num": "21",
    "pos": "mid",
    "totals": {
-    "gp": 16,
-    "starts": 5,
-    "min": 710,
-    "sh": 11,
-    "sog": 3,
-    "g": 1,
+    "gp": 17,
+    "starts": 6,
+    "min": 763,
+    "sh": 13,
+    "sog": 4,
+    "g": 2,
     "a": 3,
     "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 27.3,
+    "shot_pct": 30.8,
     "shots_saved": 2,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4464,6 +4678,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 53,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4473,20 +4706,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1092,
-    "sh": 20,
-    "sog": 3,
+    "gp": 17,
+    "starts": 16,
+    "min": 1182,
+    "sh": 23,
+    "sog": 4,
     "g": 1,
     "a": 1,
     "fouls": 6,
     "yc": 5,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 15.0,
-    "shots_saved": 2,
-    "shots_off_target": 17
+    "shot_pct": 17.4,
+    "shots_saved": 3,
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -4792,6 +5025,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4801,9 +5053,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 15,
-    "min": 1245,
+    "gp": 18,
+    "starts": 16,
+    "min": 1329,
     "sh": 29,
     "sog": 11,
     "g": 2,
@@ -5139,6 +5391,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "9",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5148,10 +5419,10 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1483,
-    "sh": 59,
+    "gp": 18,
+    "starts": 18,
+    "min": 1558,
+    "sh": 60,
     "sog": 20,
     "g": 2,
     "a": 3,
@@ -5159,9 +5430,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.9,
+    "shot_pct": 33.3,
     "shots_saved": 18,
-    "shots_off_target": 39
+    "shots_off_target": 40
    },
    "matches": [
     {
@@ -5486,6 +5757,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 75,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5538,10 +5828,10 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 16,
-    "min": 1249,
-    "sh": 12,
+    "gp": 18,
+    "starts": 17,
+    "min": 1323,
+    "sh": 13,
     "sog": 8,
     "g": 5,
     "a": 1,
@@ -5549,9 +5839,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 61.5,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -5871,6 +6161,25 @@
      "sh": 1,
      "sog": 1,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "West Florida",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 74,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,

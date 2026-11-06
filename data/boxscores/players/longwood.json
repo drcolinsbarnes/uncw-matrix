@@ -9,10 +9,10 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 15,
-    "min": 1178,
-    "sh": 10,
+    "gp": 22,
+    "starts": 16,
+    "min": 1239,
+    "sh": 11,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 36.4,
     "shots_saved": 3,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -423,6 +423,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 61,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -627,9 +646,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 12,
-    "min": 858,
+    "gp": 13,
+    "starts": 13,
+    "min": 948,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -642,10 +661,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 7,
-     "saves": 26,
-     "save_pct": 78.8
+     "gp": 11,
+     "ga": 10,
+     "saves": 30,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -926,6 +945,30 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 3,
+      "saves": 4
+     }
     }
    ]
   },
@@ -933,11 +976,11 @@
    "name": "Coggeshall, Reese",
    "slug": "coggeshall-reese",
    "num": "8",
-   "pos": "FWD",
+   "pos": "fwd",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 7,
-    "min": 827,
+    "min": 840,
     "sh": 17,
     "sog": 6,
     "g": 1,
@@ -1349,6 +1392,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "8",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1358,19 +1420,19 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1364,
-    "sh": 32,
-    "sog": 13,
+    "gp": 22,
+    "starts": 22,
+    "min": 1454,
+    "sh": 34,
+    "sog": 15,
     "g": 2,
     "a": 1,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.6,
-    "shots_saved": 11,
+    "shot_pct": 44.1,
+    "shots_saved": 13,
     "shots_off_target": 19
    },
    "matches": [
@@ -1772,6 +1834,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 90,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1779,20 +1860,20 @@
    "name": "Fischer, Sam",
    "slug": "fischer-sam",
    "num": "22",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
-    "gp": 17,
-    "starts": 5,
-    "min": 656,
-    "sh": 18,
-    "sog": 4,
-    "g": 1,
+    "gp": 18,
+    "starts": 6,
+    "min": 714,
+    "sh": 19,
+    "sog": 5,
+    "g": 2,
     "a": 1,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 22.2,
+    "shot_pct": 26.3,
     "shots_saved": 3,
     "shots_off_target": 14
    },
@@ -2119,6 +2200,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 58,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2128,20 +2228,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 19,
-    "min": 1093,
-    "sh": 15,
-    "sog": 5,
+    "gp": 21,
+    "starts": 20,
+    "min": 1155,
+    "sh": 17,
+    "sog": 6,
     "g": 3,
     "a": 0,
     "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
-    "shots_saved": 2,
-    "shots_off_target": 10
+    "shot_pct": 35.3,
+    "shots_saved": 3,
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2517,6 +2617,25 @@
      "min": 60,
      "sh": 3,
      "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 62,
+     "sh": 2,
+     "sog": 1,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -2917,10 +3036,10 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 262,
-    "sh": 5,
+    "min": 302,
+    "sh": 7,
     "sog": 4,
     "g": 0,
     "a": 1,
@@ -2928,9 +3047,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 80.0,
+    "shot_pct": 57.1,
     "shots_saved": 4,
-    "shots_off_target": 1
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -3122,6 +3241,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 40,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3131,9 +3269,9 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 1,
-    "min": 474,
+    "min": 489,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -3545,6 +3683,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 15,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3554,10 +3711,10 @@
    "num": "10",
    "pos": "mid",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 4,
-    "min": 946,
-    "sh": 16,
+    "min": 986,
+    "sh": 17,
     "sog": 5,
     "g": 0,
     "a": 0,
@@ -3565,9 +3722,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.2,
+    "shot_pct": 29.4,
     "shots_saved": 5,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -3968,6 +4125,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "mid",
+     "num": "10",
+     "min": 40,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4255,10 +4431,10 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1341,
-    "sh": 4,
+    "gp": 19,
+    "starts": 19,
+    "min": 1431,
+    "sh": 5,
     "sog": 0,
     "g": 0,
     "a": 2,
@@ -4268,7 +4444,7 @@
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4612,6 +4788,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4621,9 +4816,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
-    "starts": 18,
-    "min": 1505,
+    "gp": 21,
+    "starts": 19,
+    "min": 1528,
     "sh": 7,
     "sog": 2,
     "g": 0,
@@ -5016,6 +5211,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 23,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5025,10 +5239,10 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1091,
-    "sh": 17,
+    "gp": 22,
+    "starts": 22,
+    "min": 1156,
+    "sh": 18,
     "sog": 5,
     "g": 2,
     "a": 0,
@@ -5036,9 +5250,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 29.4,
+    "shot_pct": 27.8,
     "shots_saved": 3,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -5439,6 +5653,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 65,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5448,9 +5681,9 @@
    "num": "19",
    "pos": "def",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 1,
-    "min": 158,
+    "min": 225,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5569,6 +5802,25 @@
      "pos": "DEF",
      "num": "19",
      "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 67,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -6342,19 +6594,19 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1404,
-    "sh": 19,
-    "sog": 10,
+    "gp": 22,
+    "starts": 22,
+    "min": 1486,
+    "sh": 21,
+    "sog": 12,
     "g": 0,
     "a": 3,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.6,
-    "shots_saved": 10,
+    "shot_pct": 57.1,
+    "shots_saved": 12,
     "shots_off_target": 9
    },
    "matches": [
@@ -6756,6 +7008,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 82,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6765,13 +7036,13 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 15,
-    "min": 1369,
+    "gp": 19,
+    "starts": 16,
+    "min": 1459,
     "sh": 11,
     "sog": 2,
     "g": 1,
-    "a": 2,
+    "a": 3,
     "fouls": 3,
     "yc": 2,
     "rc": 0,
@@ -7118,6 +7389,25 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
@@ -7497,9 +7787,9 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 11,
-    "min": 814,
+    "min": 828,
     "sh": 15,
     "sog": 8,
     "g": 2,
@@ -7892,6 +8182,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7901,9 +8210,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1752,
+    "gp": 22,
+    "starts": 22,
+    "min": 1842,
     "sh": 11,
     "sog": 5,
     "g": 1,
@@ -8312,6 +8621,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "High Point",
+     "home": true,
+     "result": "L",
+     "score": "1-3",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

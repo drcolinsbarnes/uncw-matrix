@@ -9,10 +9,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 11,
-    "min": 1025,
-    "sh": 34,
+    "gp": 15,
+    "starts": 12,
+    "min": 1111,
+    "sh": 37,
     "sog": 16,
     "g": 3,
     "a": 3,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.1,
+    "shot_pct": 43.2,
     "shots_saved": 13,
-    "shots_off_target": 18
+    "shots_off_target": 21
    },
    "matches": [
     {
@@ -290,6 +290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 86,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -299,9 +318,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1125,
+    "gp": 15,
+    "starts": 15,
+    "min": 1215,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -314,10 +333,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
-     "ga": 5,
-     "saves": 27,
-     "save_pct": 84.4
+     "gp": 11,
+     "ga": 6,
+     "saves": 30,
+     "save_pct": 83.3
     }
    },
    "matches": [
@@ -636,6 +655,30 @@
       "ga": 2,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 3
+     }
     }
    ]
   },
@@ -645,15 +688,15 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1129,
+    "gp": 15,
+    "starts": 15,
+    "min": 1219,
     "sh": 6,
     "sog": 1,
     "g": 1,
     "a": 2,
     "fouls": 8,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 16.7,
@@ -926,6 +969,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -935,20 +997,20 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 9,
-    "min": 895,
-    "sh": 14,
+    "min": 941,
+    "sh": 15,
     "sog": 5,
     "g": 2,
     "a": 1,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 33.3,
     "shots_saved": 3,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1254,6 +1316,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "MID",
+     "num": "16",
+     "min": 46,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1553,20 +1634,20 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1886,
-    "sh": 4,
+    "gp": 24,
+    "starts": 24,
+    "min": 1976,
+    "sh": 5,
     "sog": 3,
     "g": 1,
     "a": 0,
-    "fouls": 17,
+    "fouls": 21,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -2005,6 +2086,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "23",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 4,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2014,13 +2114,13 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 0,
-    "min": 348,
+    "min": 372,
     "sh": 17,
     "sog": 6,
     "g": 5,
-    "a": 2,
+    "a": 3,
     "fouls": 5,
     "yc": 0,
     "rc": 0,
@@ -2352,6 +2452,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "FWD",
+     "num": "17",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2537,20 +2656,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 15,
-    "min": 922,
-    "sh": 29,
-    "sog": 11,
-    "g": 5,
+    "min": 964,
+    "sh": 32,
+    "sog": 12,
+    "g": 6,
     "a": 2,
     "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 37.9,
+    "shot_pct": 37.5,
     "shots_saved": 6,
-    "shots_off_target": 18
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -2970,6 +3089,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "FWD",
+     "num": "27",
+     "min": 42,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3342,14 +3480,14 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 13,
-    "starts": 6,
-    "min": 696,
+    "gp": 14,
+    "starts": 7,
+    "min": 768,
     "sh": 30,
     "sog": 10,
     "g": 4,
     "a": 1,
-    "fouls": 14,
+    "fouls": 15,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -3604,6 +3742,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 72,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3613,20 +3770,20 @@
    "num": "10",
    "pos": "FM",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1790,
-    "sh": 97,
-    "sog": 34,
+    "gp": 24,
+    "starts": 24,
+    "min": 1880,
+    "sh": 100,
+    "sog": 36,
     "g": 10,
     "a": 11,
-    "fouls": 12,
+    "fouls": 15,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.1,
-    "shots_saved": 24,
-    "shots_off_target": 63
+    "shot_pct": 36.0,
+    "shots_saved": 26,
+    "shots_off_target": 64
    },
    "matches": [
     {
@@ -4065,6 +4222,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "",
+     "num": "10",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4074,10 +4250,10 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
-    "starts": 11,
-    "min": 860,
-    "sh": 21,
+    "gp": 18,
+    "starts": 12,
+    "min": 907,
+    "sh": 23,
     "sog": 5,
     "g": 4,
     "a": 0,
@@ -4085,9 +4261,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 23.8,
+    "shot_pct": 21.7,
     "shots_saved": 1,
-    "shots_off_target": 16
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -4412,6 +4588,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 47,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4421,9 +4616,9 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 9,
-    "min": 851,
+    "min": 855,
     "sh": 7,
     "sog": 2,
     "g": 2,
@@ -4759,6 +4954,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "DEF",
+     "num": "24",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4768,20 +4982,20 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 3,
-    "min": 920,
-    "sh": 44,
-    "sog": 26,
+    "gp": 24,
+    "starts": 4,
+    "min": 987,
+    "sh": 49,
+    "sog": 29,
     "g": 4,
     "a": 2,
-    "fouls": 13,
+    "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 59.1,
-    "shots_saved": 22,
-    "shots_off_target": 18
+    "shot_pct": 59.2,
+    "shots_saved": 25,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -5220,6 +5434,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 67,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5581,10 +5814,10 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1140,
-    "sh": 15,
+    "gp": 15,
+    "starts": 15,
+    "min": 1230,
+    "sh": 17,
     "sog": 6,
     "g": 0,
     "a": 4,
@@ -5592,9 +5825,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 35.3,
     "shots_saved": 6,
-    "shots_off_target": 9
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -5862,6 +6095,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5871,14 +6123,14 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1836,
+    "gp": 24,
+    "starts": 24,
+    "min": 1880,
     "sh": 16,
     "sog": 4,
     "g": 0,
     "a": 0,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
@@ -6323,6 +6575,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6649,20 +6920,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
+    "gp": 24,
     "starts": 17,
-    "min": 823,
-    "sh": 36,
-    "sog": 13,
-    "g": 3,
+    "min": 841,
+    "sh": 38,
+    "sog": 14,
+    "g": 4,
     "a": 2,
-    "fouls": 9,
-    "yc": 0,
+    "fouls": 10,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.1,
+    "shot_pct": 36.8,
     "shots_saved": 10,
-    "shots_off_target": 23
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -7099,6 +7370,25 @@
      "a": 0,
      "fouls": 1,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": false,
+     "pos": "FWD",
+     "num": "9",
+     "min": 18,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -7709,9 +7999,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1879,
+    "gp": 24,
+    "starts": 24,
+    "min": 1969,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -8158,6 +8448,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Boston College",
+     "home": false,
+     "result": "W",
+     "score": "2-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

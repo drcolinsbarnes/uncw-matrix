@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1522,
+    "gp": 18,
+    "starts": 18,
+    "min": 1612,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
+     "gp": 16,
      "ga": 10,
-     "saves": 50,
-     "save_pct": 83.3
+     "saves": 54,
+     "save_pct": 84.4
     }
    },
    "matches": [
@@ -428,6 +428,30 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 4
+     }
     }
    ]
   },
@@ -437,9 +461,9 @@
    "num": "7",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 256,
+    "min": 276,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -699,6 +723,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "MID",
+     "num": "7",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -708,9 +751,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 82,
+    "min": 104,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -818,6 +861,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "25",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -827,20 +889,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 15,
-    "min": 1221,
-    "sh": 8,
+    "gp": 18,
+    "starts": 16,
+    "min": 1298,
+    "sh": 9,
     "sog": 3,
     "g": 2,
     "a": 1,
-    "fouls": 6,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.5,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -1165,6 +1227,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 77,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1174,15 +1255,15 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 0,
-    "min": 502,
+    "min": 544,
     "sh": 9,
     "sog": 4,
     "g": 2,
     "a": 0,
     "fouls": 6,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 44.4,
@@ -1512,6 +1593,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "8",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1521,19 +1621,19 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1429,
-    "sh": 30,
-    "sog": 13,
-    "g": 1,
+    "gp": 19,
+    "starts": 19,
+    "min": 1498,
+    "sh": 32,
+    "sog": 15,
+    "g": 2,
     "a": 8,
-    "fouls": 18,
+    "fouls": 19,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 43.3,
-    "shots_saved": 12,
+    "shot_pct": 46.9,
+    "shots_saved": 13,
     "shots_off_target": 17
    },
    "matches": [
@@ -1878,6 +1978,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 69,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1887,9 +2006,9 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 18,
-    "starts": 9,
-    "min": 1007,
+    "gp": 19,
+    "starts": 10,
+    "min": 1059,
     "sh": 6,
     "sog": 3,
     "g": 0,
@@ -2244,6 +2363,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2253,20 +2391,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1318,
-    "sh": 37,
-    "sog": 14,
+    "gp": 19,
+    "starts": 19,
+    "min": 1382,
+    "sh": 39,
+    "sog": 15,
     "g": 6,
     "a": 3,
     "fouls": 24,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 37.8,
-    "shots_saved": 8,
-    "shots_off_target": 23
+    "shot_pct": 38.5,
+    "shots_saved": 9,
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -2610,6 +2748,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 64,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2757,20 +2914,20 @@
    "num": "31",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
-    "starts": 17,
-    "min": 1401,
-    "sh": 43,
-    "sog": 19,
+    "gp": 19,
+    "starts": 18,
+    "min": 1473,
+    "sh": 48,
+    "sog": 21,
     "g": 4,
     "a": 7,
-    "fouls": 23,
+    "fouls": 24,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.2,
-    "shots_saved": 15,
-    "shots_off_target": 24
+    "shot_pct": 43.8,
+    "shots_saved": 17,
+    "shots_off_target": 27
    },
    "matches": [
     {
@@ -3114,6 +3271,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "31",
+     "min": 72,
+     "sh": 5,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3123,9 +3299,9 @@
    "num": "11",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1503,
+    "gp": 19,
+    "starts": 19,
+    "min": 1547,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -3480,6 +3656,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "11",
+     "min": 44,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3703,9 +3898,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 41,
+    "min": 45,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3775,6 +3970,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "22",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3784,14 +3998,14 @@
    "num": "24",
    "pos": null,
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 0,
-    "min": 228,
+    "min": 266,
     "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4046,6 +4260,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "",
+     "num": "24",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4055,19 +4288,19 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 14,
-    "min": 910,
-    "sh": 20,
-    "sog": 6,
+    "min": 920,
+    "sh": 21,
+    "sog": 7,
     "g": 4,
     "a": 1,
-    "fouls": 20,
+    "fouls": 21,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.0,
-    "shots_saved": 2,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
     "shots_off_target": 14
    },
    "matches": [
@@ -4412,6 +4645,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "MID",
+     "num": "14",
+     "min": 10,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4421,11 +4673,11 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 2,
-    "min": 318,
-    "sh": 6,
-    "sog": 3,
+    "min": 357,
+    "sh": 8,
+    "sog": 4,
     "g": 0,
     "a": 0,
     "fouls": 1,
@@ -4433,8 +4685,8 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 3,
-    "shots_off_target": 3
+    "shots_saved": 4,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -4664,6 +4916,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "33",
+     "min": 39,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4673,18 +4944,18 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1612,
-    "sh": 24,
-    "sog": 16,
-    "g": 11,
+    "gp": 19,
+    "starts": 19,
+    "min": 1702,
+    "sh": 25,
+    "sog": 17,
+    "g": 12,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
-    "pk_g": 6,
-    "shot_pct": 66.7,
+    "pk_g": 7,
+    "shot_pct": 68.0,
     "shots_saved": 5,
     "shots_off_target": 8
    },
@@ -5030,6 +5301,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -5117,20 +5407,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1234,
-    "sh": 31,
-    "sog": 13,
+    "gp": 18,
+    "starts": 18,
+    "min": 1311,
+    "sh": 34,
+    "sog": 14,
     "g": 5,
     "a": 2,
-    "fouls": 16,
+    "fouls": 17,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.9,
-    "shots_saved": 8,
-    "shots_off_target": 18
+    "shot_pct": 41.2,
+    "shots_saved": 9,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -5455,6 +5745,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 77,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5464,9 +5773,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1612,
+    "gp": 19,
+    "starts": 19,
+    "min": 1702,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -5821,6 +6130,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5830,20 +6158,20 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
-    "starts": 14,
-    "min": 1244,
-    "sh": 5,
+    "gp": 15,
+    "starts": 15,
+    "min": 1334,
+    "sh": 6,
     "sog": 1,
     "g": 0,
     "a": 1,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
+    "shot_pct": 16.7,
     "shots_saved": 1,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -6108,6 +6436,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Clemson",
+     "home": true,
+     "result": "W",
+     "score": "2-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0

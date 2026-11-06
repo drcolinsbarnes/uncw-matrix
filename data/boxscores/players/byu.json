@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 6,
-    "min": 662,
+    "min": 707,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 10,
+     "gp": 11,
      "ga": 7,
-     "saves": 17,
-     "save_pct": 70.8
+     "saves": 18,
+     "save_pct": 72.0
     }
    },
    "matches": [
@@ -308,6 +308,30 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "GK",
+     "num": "1",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -317,20 +341,20 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1368,
-    "sh": 18,
-    "sog": 10,
+    "gp": 20,
+    "starts": 20,
+    "min": 1458,
+    "sh": 21,
+    "sog": 11,
     "g": 1,
     "a": 5,
-    "fouls": 18,
+    "fouls": 20,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 9,
-    "shots_off_target": 8
+    "shot_pct": 52.4,
+    "shots_saved": 10,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -693,6 +717,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "D",
+     "num": "20",
+     "min": 90,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -702,10 +745,10 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 18,
-    "min": 1631,
-    "sh": 15,
+    "gp": 20,
+    "starts": 19,
+    "min": 1721,
+    "sh": 16,
     "sog": 6,
     "g": 1,
     "a": 1,
@@ -713,9 +756,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 37.5,
     "shots_saved": 5,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -1078,6 +1121,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "D",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1087,9 +1149,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 0,
-    "min": 476,
+    "min": 489,
     "sh": 5,
     "sog": 0,
     "g": 0,
@@ -1463,6 +1525,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "M",
+     "num": "6",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1472,20 +1553,20 @@
    "num": "21",
    "pos": "MD",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 889,
-    "sh": 34,
+    "gp": 19,
+    "starts": 19,
+    "min": 949,
+    "sh": 36,
     "sog": 15,
     "g": 6,
     "a": 0,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.1,
+    "shot_pct": 41.7,
     "shots_saved": 9,
-    "shots_off_target": 19
+    "shots_off_target": 21
    },
    "matches": [
     {
@@ -1829,6 +1910,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MD",
+     "num": "21",
+     "min": 60,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1838,20 +1938,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 14,
-    "min": 912,
-    "sh": 21,
-    "sog": 11,
+    "gp": 20,
+    "starts": 15,
+    "min": 967,
+    "sh": 24,
+    "sog": 12,
     "g": 5,
     "a": 3,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.4,
-    "shots_saved": 6,
-    "shots_off_target": 10
+    "shot_pct": 50.0,
+    "shots_saved": 7,
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -2207,6 +2307,25 @@
      "num": "14",
      "min": 44,
      "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "F",
+     "num": "14",
+     "min": 55,
+     "sh": 3,
      "sog": 1,
      "g": 0,
      "a": 0,
@@ -3079,20 +3198,20 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1552,
-    "sh": 24,
+    "gp": 20,
+    "starts": 20,
+    "min": 1642,
+    "sh": 26,
     "sog": 7,
     "g": 0,
     "a": 4,
-    "fouls": 17,
+    "fouls": 18,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 29.2,
+    "shot_pct": 26.9,
     "shots_saved": 7,
-    "shots_off_target": 17
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -3455,6 +3574,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "M",
+     "num": "33",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3464,10 +3602,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1536,
-    "sh": 36,
+    "gp": 20,
+    "starts": 20,
+    "min": 1626,
+    "sh": 38,
     "sog": 14,
     "g": 2,
     "a": 7,
@@ -3475,9 +3613,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 38.9,
+    "shot_pct": 36.8,
     "shots_saved": 12,
-    "shots_off_target": 22
+    "shots_off_target": 24
    },
    "matches": [
     {
@@ -3840,6 +3978,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "M",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3903,9 +4060,9 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 0,
-    "min": 581,
+    "min": 606,
     "sh": 10,
     "sog": 1,
     "g": 0,
@@ -4279,6 +4436,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "M",
+     "num": "11",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4288,9 +4464,9 @@
    "num": "9",
    "pos": "MD",
    "totals": {
-    "gp": 19,
-    "starts": 16,
-    "min": 1035,
+    "gp": 20,
+    "starts": 17,
+    "min": 1116,
     "sh": 8,
     "sog": 4,
     "g": 0,
@@ -4664,6 +4840,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MD",
+     "num": "9",
+     "min": 81,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4673,20 +4868,20 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1194,
-    "sh": 30,
-    "sog": 6,
+    "gp": 20,
+    "starts": 20,
+    "min": 1269,
+    "sh": 35,
+    "sog": 9,
     "g": 3,
     "a": 4,
     "fouls": 16,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 20.0,
-    "shots_saved": 3,
-    "shots_off_target": 24
+    "shot_pct": 25.7,
+    "shots_saved": 6,
+    "shots_off_target": 26
    },
    "matches": [
     {
@@ -5049,6 +5244,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "M",
+     "num": "12",
+     "min": 75,
+     "sh": 5,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5058,9 +5272,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 15,
-    "starts": 13,
-    "min": 1033,
+    "gp": 16,
+    "starts": 14,
+    "min": 1078,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5073,10 +5287,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
+     "gp": 15,
      "ga": 10,
-     "saves": 29,
-     "save_pct": 74.4
+     "saves": 31,
+     "save_pct": 75.6
     }
    },
    "matches": [
@@ -5434,6 +5648,30 @@
       "ga": 1,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 45,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "45:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -5443,9 +5681,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 1,
-    "min": 467,
+    "min": 476,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -5762,6 +6000,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "D",
+     "num": "3",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5771,20 +6028,20 @@
    "num": "10",
    "pos": "FM",
    "totals": {
-    "gp": 19,
-    "starts": 17,
-    "min": 886,
-    "sh": 24,
+    "gp": 20,
+    "starts": 18,
+    "min": 946,
+    "sh": 25,
     "sog": 8,
     "g": 2,
     "a": 1,
-    "fouls": 6,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 32.0,
     "shots_saved": 6,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -6147,6 +6404,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FM",
+     "num": "10",
+     "min": 60,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6156,9 +6432,9 @@
    "num": "28",
    "pos": "FM",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 0,
-    "min": 418,
+    "min": 440,
     "sh": 5,
     "sog": 4,
     "g": 0,
@@ -6494,6 +6770,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "FM",
+     "num": "28",
+     "min": 22,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6503,14 +6798,14 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 1,
-    "min": 597,
+    "min": 632,
     "sh": 17,
     "sog": 14,
     "g": 7,
     "a": 0,
-    "fouls": 8,
+    "fouls": 9,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -6879,6 +7174,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "D",
+     "num": "30",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6931,9 +7245,9 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 2,
-    "min": 649,
+    "min": 658,
     "sh": 14,
     "sog": 3,
     "g": 1,
@@ -7307,6 +7621,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "F",
+     "num": "19",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7316,9 +7649,9 @@
    "num": "29",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 53,
+    "min": 59,
     "sh": 2,
     "sog": 1,
     "g": 0,
@@ -7382,6 +7715,25 @@
      "min": 20,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "F",
+     "num": "29",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -7516,20 +7868,20 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1676,
-    "sh": 16,
-    "sog": 11,
-    "g": 3,
+    "gp": 20,
+    "starts": 20,
+    "min": 1766,
+    "sh": 18,
+    "sog": 12,
+    "g": 4,
     "a": 1,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 68.8,
+    "shot_pct": 66.7,
     "shots_saved": 8,
-    "shots_off_target": 5
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -7887,6 +8239,25 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Arizona State",
+     "home": true,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "D",
+     "num": "24",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,

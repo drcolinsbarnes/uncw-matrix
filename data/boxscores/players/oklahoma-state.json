@@ -9,9 +9,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 17,
-    "starts": 15,
-    "min": 1394,
+    "gp": 18,
+    "starts": 16,
+    "min": 1445,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 19,
-     "saves": 44,
-     "save_pct": 69.8
+     "gp": 16,
+     "ga": 23,
+     "saves": 46,
+     "save_pct": 66.7
     }
    },
    "matches": [
@@ -428,6 +428,30 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 51,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "50:15",
+      "ga": 4,
+      "saves": 2
+     }
     }
    ]
   },
@@ -437,19 +461,19 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 7,
-    "min": 464,
-    "sh": 7,
-    "sog": 4,
+    "min": 506,
+    "sh": 9,
+    "sog": 6,
     "g": 2,
     "a": 1,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 57.1,
-    "shots_saved": 2,
+    "shot_pct": 66.7,
+    "shots_saved": 4,
     "shots_off_target": 3
    },
    "matches": [
@@ -680,6 +704,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "FWD",
+     "num": "14",
+     "min": 42,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -689,19 +732,19 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 3,
-    "starts": 3,
-    "min": 203,
-    "sh": 4,
-    "sog": 3,
+    "gp": 4,
+    "starts": 4,
+    "min": 281,
+    "sh": 6,
+    "sog": 5,
     "g": 1,
     "a": 1,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 75.0,
-    "shots_saved": 2,
+    "shot_pct": 83.3,
+    "shots_saved": 4,
     "shots_off_target": 1
    },
    "matches": [
@@ -758,6 +801,25 @@
      "g": 1,
      "a": 0,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 78,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1117,14 +1179,14 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
-    "starts": 16,
-    "min": 1551,
+    "gp": 20,
+    "starts": 17,
+    "min": 1641,
     "sh": 6,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1493,6 +1555,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1502,14 +1583,14 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 12,
-    "starts": 9,
-    "min": 863,
+    "gp": 13,
+    "starts": 10,
+    "min": 953,
     "sh": 6,
     "sog": 0,
     "g": 0,
     "a": 0,
-    "fouls": 8,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1745,6 +1826,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1754,20 +1854,20 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1599,
-    "sh": 13,
-    "sog": 6,
+    "gp": 21,
+    "starts": 21,
+    "min": 1676,
+    "sh": 15,
+    "sog": 7,
     "g": 2,
     "a": 5,
-    "fouls": 18,
+    "fouls": 20,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 46.2,
-    "shots_saved": 4,
-    "shots_off_target": 7
+    "shot_pct": 46.7,
+    "shots_saved": 5,
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2149,6 +2249,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "MID",
+     "num": "4",
+     "min": 77,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2158,15 +2277,15 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1753,
+    "gp": 21,
+    "starts": 21,
+    "min": 1838,
     "sh": 2,
     "sog": 0,
     "g": 0,
     "a": 1,
-    "fouls": 22,
-    "yc": 1,
+    "fouls": 23,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -2553,6 +2672,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2562,20 +2700,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 7,
-    "min": 810,
-    "sh": 32,
+    "gp": 21,
+    "starts": 8,
+    "min": 867,
+    "sh": 35,
     "sog": 13,
     "g": 4,
     "a": 5,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.6,
+    "shot_pct": 37.1,
     "shots_saved": 9,
-    "shots_off_target": 19
+    "shots_off_target": 22
    },
    "matches": [
     {
@@ -2957,6 +3095,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 57,
+     "sh": 3,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2966,9 +3123,9 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 3,
-    "min": 616,
+    "min": 625,
     "sh": 21,
     "sog": 4,
     "g": 1,
@@ -3304,6 +3461,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "FWD",
+     "num": "7",
+     "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3313,14 +3489,14 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 10,
-    "min": 677,
+    "min": 719,
     "sh": 8,
     "sog": 4,
     "g": 3,
     "a": 1,
-    "fouls": 6,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 3,
@@ -3556,6 +3732,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3722,9 +3917,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 6,
+    "gp": 7,
     "starts": 5,
-    "min": 405,
+    "min": 444,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3737,10 +3932,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 6,
-     "ga": 8,
-     "saves": 12,
-     "save_pct": 60.0
+     "gp": 7,
+     "ga": 9,
+     "saves": 16,
+     "save_pct": 64.0
     }
    },
    "matches": [
@@ -3887,6 +4082,30 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "GK",
+     "num": "0",
+     "min": 39,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "39:45",
+      "ga": 1,
+      "saves": 4
+     }
     }
    ]
   },
@@ -3896,9 +4115,9 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 10,
-    "min": 725,
+    "min": 743,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -4196,6 +4415,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "DEF",
+     "num": "26",
+     "min": 18,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4205,15 +4443,15 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 19,
-    "min": 1426,
+    "gp": 21,
+    "starts": 20,
+    "min": 1481,
     "sh": 44,
     "sog": 22,
     "g": 4,
     "a": 1,
-    "fouls": 15,
-    "yc": 4,
+    "fouls": 17,
+    "yc": 5,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
@@ -4600,6 +4838,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4609,20 +4866,20 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 8,
-    "starts": 3,
-    "min": 277,
-    "sh": 4,
+    "gp": 9,
+    "starts": 4,
+    "min": 319,
+    "sh": 6,
     "sog": 0,
     "g": 0,
     "a": 2,
-    "fouls": 8,
+    "fouls": 10,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
     "shots_saved": 0,
-    "shots_off_target": 4
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -4773,6 +5030,25 @@
      "g": 0,
      "a": 1,
      "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 42,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -5132,10 +5408,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 2,
-    "min": 660,
-    "sh": 16,
+    "min": 686,
+    "sh": 17,
     "sog": 4,
     "g": 0,
     "a": 1,
@@ -5143,9 +5419,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 23.5,
     "shots_saved": 4,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -5524,6 +5800,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "",
+     "num": "16",
+     "min": 26,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -5983,9 +6278,9 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 5,
-    "min": 789,
+    "min": 826,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -6321,6 +6616,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "DEF",
+     "num": "21",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6330,19 +6644,19 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 0,
-    "min": 382,
-    "sh": 10,
-    "sog": 5,
+    "min": 400,
+    "sh": 11,
+    "sog": 6,
     "g": 0,
     "a": 1,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
-    "shots_saved": 5,
+    "shot_pct": 54.5,
+    "shots_saved": 6,
     "shots_off_target": 5
    },
    "matches": [
@@ -6611,6 +6925,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": false,
+     "pos": "",
+     "num": "23",
+     "min": 18,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6620,9 +6953,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
-    "starts": 3,
-    "min": 330,
+    "gp": 12,
+    "starts": 4,
+    "min": 383,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -6844,6 +7177,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6853,20 +7205,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1520,
-    "sh": 39,
+    "gp": 21,
+    "starts": 21,
+    "min": 1601,
+    "sh": 40,
     "sog": 10,
     "g": 6,
     "a": 2,
-    "fouls": 17,
+    "fouls": 18,
     "yc": 0,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 25.6,
+    "shot_pct": 25.0,
     "shots_saved": 4,
-    "shots_off_target": 29
+    "shots_off_target": 30
    },
    "matches": [
     {
@@ -7244,6 +7596,25 @@
      "sog": 1,
      "g": 0,
      "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Colorado",
+     "home": false,
+     "result": "L",
+     "score": "0-5",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 81,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 1,
      "yc": 0,
      "rc": 0,
