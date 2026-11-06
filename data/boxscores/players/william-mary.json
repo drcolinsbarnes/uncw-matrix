@@ -9,20 +9,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 684,
-    "sh": 66,
-    "sog": 32,
+    "gp": 24,
+    "starts": 24,
+    "min": 752,
+    "sh": 69,
+    "sog": 33,
     "g": 7,
     "a": 8,
     "fouls": 2,
     "yc": 4,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 48.5,
-    "shots_saved": 25,
-    "shots_off_target": 34
+    "shot_pct": 47.8,
+    "shots_saved": 26,
+    "shots_off_target": 36
    },
    "matches": [
     {
@@ -461,6 +461,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 68,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -470,9 +489,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 810,
+    "gp": 24,
+    "starts": 24,
+    "min": 900,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -922,6 +941,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -931,19 +969,19 @@
    "num": "11",
    "pos": "mid",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 0,
-    "min": 97,
-    "sh": 5,
-    "sog": 3,
+    "min": 102,
+    "sh": 6,
+    "sog": 4,
     "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 2,
+    "shot_pct": 66.7,
+    "shots_saved": 3,
     "shots_off_target": 2
    },
    "matches": [
@@ -1250,6 +1288,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "11",
+     "min": 5,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1259,9 +1316,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 18,
-    "min": 667,
+    "gp": 22,
+    "starts": 19,
+    "min": 757,
     "sh": 9,
     "sog": 0,
     "g": 0,
@@ -1673,6 +1730,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1682,9 +1758,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 12,
-    "starts": 10,
-    "min": 314,
+    "gp": 13,
+    "starts": 11,
+    "min": 404,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -1697,10 +1773,10 @@
     "shots_saved": 0,
     "shots_off_target": 1,
     "goalie": {
-     "gp": 8,
+     "gp": 9,
      "ga": 11,
-     "saves": 33,
-     "save_pct": 75.0
+     "saves": 41,
+     "save_pct": 78.8
     }
    },
    "matches": [
@@ -1971,6 +2047,30 @@
       "ga": 1,
       "saves": 6
      }
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 8
+     }
     }
    ]
   },
@@ -2099,15 +2199,15 @@
    "num": "5",
    "pos": "mid",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 1,
-    "min": 167,
+    "min": 222,
     "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 25.0,
@@ -2456,6 +2556,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2646,20 +2765,20 @@
    "num": "8",
    "pos": "def",
    "totals": {
-    "gp": 22,
-    "starts": 15,
-    "min": 463,
-    "sh": 10,
+    "gp": 23,
+    "starts": 16,
+    "min": 553,
+    "sh": 12,
     "sog": 4,
     "g": 2,
     "a": 1,
     "fouls": 4,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.0,
+    "shot_pct": 33.3,
     "shots_saved": 2,
-    "shots_off_target": 6
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -3079,6 +3198,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3088,9 +3226,9 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 15,
-    "min": 319,
+    "min": 339,
     "sh": 25,
     "sog": 12,
     "g": 4,
@@ -3502,6 +3640,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "14",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3511,9 +3668,9 @@
    "num": "17",
    "pos": "mid",
    "totals": {
-    "gp": 4,
+    "gp": 5,
     "starts": 2,
-    "min": 78,
+    "min": 86,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3602,6 +3759,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "mid",
+     "num": "17",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3611,19 +3787,19 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 22,
-    "min": 657,
-    "sh": 38,
-    "sog": 27,
-    "g": 7,
+    "gp": 24,
+    "starts": 23,
+    "min": 741,
+    "sh": 40,
+    "sog": 29,
+    "g": 8,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.1,
-    "shots_saved": 20,
+    "shot_pct": 72.5,
+    "shots_saved": 21,
     "shots_off_target": 11
    },
    "matches": [
@@ -4063,6 +4239,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 84,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4072,9 +4267,9 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 618,
+    "gp": 24,
+    "starts": 24,
+    "min": 695,
     "sh": 15,
     "sog": 7,
     "g": 0,
@@ -4522,6 +4717,25 @@
      "a": 0,
      "fouls": 2,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
@@ -4975,9 +5189,9 @@
    "num": "21",
    "pos": "def",
    "totals": {
-    "gp": 3,
+    "gp": 4,
     "starts": 0,
-    "min": 1,
+    "min": 29,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5039,6 +5253,25 @@
      "pos": "def",
      "num": "21",
      "min": 0,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 28,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -6192,10 +6425,10 @@
    "num": "35",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 21,
-    "min": 683,
-    "sh": 17,
+    "gp": 23,
+    "starts": 22,
+    "min": 751,
+    "sh": 18,
     "sog": 8,
     "g": 2,
     "a": 2,
@@ -6203,9 +6436,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.1,
+    "shot_pct": 44.4,
     "shots_saved": 6,
-    "shots_off_target": 9
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -6625,6 +6858,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "35",
+     "min": 68,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6634,9 +6886,9 @@
    "num": "7",
    "pos": "mid",
    "totals": {
-    "gp": 19,
-    "starts": 4,
-    "min": 295,
+    "gp": 20,
+    "starts": 5,
+    "min": 332,
     "sh": 15,
     "sog": 10,
     "g": 4,
@@ -7007,6 +7259,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "7",
+     "min": 37,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -7632,9 +7903,9 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 810,
+    "gp": 24,
+    "starts": 24,
+    "min": 900,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -8084,6 +8355,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8093,10 +8383,10 @@
    "num": "2",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 793,
-    "sh": 37,
+    "gp": 24,
+    "starts": 24,
+    "min": 883,
+    "sh": 39,
     "sog": 17,
     "g": 4,
     "a": 2,
@@ -8104,9 +8394,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.9,
+    "shot_pct": 43.6,
     "shots_saved": 13,
-    "shots_off_target": 20
+    "shots_off_target": 22
    },
    "matches": [
     {
@@ -8543,6 +8833,25 @@
      "a": 0,
      "fouls": 2,
      "yc": 1,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-05",
+     "opponent": "Elon",
+     "home": false,
+     "result": "W",
+     "score": "1-0",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
      "rc": 0,
      "pk_g": 0
     }
