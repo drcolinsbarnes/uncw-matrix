@@ -1,47 +1,1379 @@
 {
  "team": "McNeese State",
  "season": 2026,
- "games": 1,
+ "games": 19,
  "record": {
-  "w": 0,
-  "d": 0,
-  "l": 1
+  "w": 9,
+  "d": 3,
+  "l": 7
  },
  "totals": {
   "for": {
-   "shots": 5,
-   "shots_on_goal": 1,
-   "saves": 9,
-   "corner_kicks": 4,
-   "fouls": 12,
-   "offsides": 1,
-   "yc": 0,
+   "shots": 269,
+   "shots_on_goal": 131,
+   "saves": 102,
+   "corner_kicks": 54,
+   "fouls": 186,
+   "offsides": 31,
+   "yc": 16,
    "rc": 0,
    "pk_g": 0,
-   "goals": 0,
-   "shot_pct": 20.0,
-   "shots_saved": 1,
-   "shots_off_target": 4,
-   "gk_save_pct": 90.0
+   "goals": 26,
+   "shot_pct": 48.7,
+   "shots_saved": 105,
+   "shots_off_target": 138,
+   "gk_save_pct": 82.3
   },
   "against": {
-   "shots": 19,
-   "shots_on_goal": 10,
-   "saves": 1,
-   "corner_kicks": 1,
-   "fouls": 6,
-   "offsides": 2,
-   "yc": 0,
+   "shots": 278,
+   "shots_on_goal": 124,
+   "saves": 105,
+   "corner_kicks": 90,
+   "fouls": 181,
+   "offsides": 30,
+   "yc": 9,
    "rc": 0,
    "pk_g": 0,
-   "goals": 1,
-   "shot_pct": 52.6,
-   "shots_saved": 9,
-   "shots_off_target": 9,
-   "gk_save_pct": 100.0
+   "goals": 22,
+   "shot_pct": 44.6,
+   "shots_saved": 102,
+   "shots_off_target": 154,
+   "gk_save_pct": 80.2
   }
  },
  "matches": [
+  {
+   "date": "2026-08-13",
+   "opponent": "Alcorn State",
+   "home": false,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 5,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     3,
+     2
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     0,
+     3
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     4,
+     8
+    ],
+    "offsides": 6,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 0,
+    "shots_off_target": 3,
+    "gk_save_pct": 75.0
+   },
+   "against": {
+    "shots": 11,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     4,
+     7
+    ],
+    "saves": 0,
+    "saves_by_period": [
+     0,
+     0
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     5,
+     2
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     5,
+     6
+    ],
+    "offsides": 2,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 36.4,
+    "shots_saved": 3,
+    "shots_off_target": 7,
+    "gk_save_pct": 0.0
+   },
+   "source": "alcornsports.com-7816",
+   "source_url": "https://alcornsports.com/sports/womens-soccer/stats/2026/mcneese/boxscore/7816",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-16",
+   "opponent": "Southern Mississippi",
+   "home": true,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 12,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     6,
+     6
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     0,
+     6
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 13,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     7,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 10,
+    "corner_kicks_by_period": [
+     3,
+     7
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     1,
+     4
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 30.8,
+    "shots_saved": 4,
+    "shots_off_target": 9,
+    "gk_save_pct": 83.3
+   },
+   "source": "mcneesesports.com-13650",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/southern-miss/boxscore/13650",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-20",
+   "opponent": "Jackson State",
+   "home": true,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 24,
+    "shots_on_goal": 11,
+    "shots_by_period": [
+     11,
+     13
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     4,
+     3
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 15,
+    "fouls_by_period": [
+     9,
+     6
+    ],
+    "offsides": 4,
+    "goals": 2,
+    "yc": 3,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 45.8,
+    "shots_saved": 9,
+    "shots_off_target": 13,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 10,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     4,
+     6
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     4,
+     5
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     5,
+     8
+    ],
+    "offsides": 1,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 70.0,
+    "shots_saved": 7,
+    "shots_off_target": 3,
+    "gk_save_pct": 81.8
+   },
+   "source": "mcneesesports.com-13651",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/jackson-state/boxscore/13651",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-23",
+   "opponent": "North Texas",
+   "home": true,
+   "result": "L",
+   "score": "2-4",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     5,
+     8
+    ],
+    "saves": 10,
+    "saves_by_period": [
+     7,
+     3
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     2,
+     4
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     4,
+     2
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 53.8,
+    "shots_saved": 5,
+    "shots_off_target": 6,
+    "gk_save_pct": 71.4
+   },
+   "against": {
+    "shots": 24,
+    "shots_on_goal": 14,
+    "shots_by_period": [
+     12,
+     12
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     1,
+     4
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     3,
+     2
+    ],
+    "fouls": 14,
+    "fouls_by_period": [
+     2,
+     12
+    ],
+    "offsides": 2,
+    "goals": 4,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 58.3,
+    "shots_saved": 10,
+    "shots_off_target": 10,
+    "gk_save_pct": 71.4
+   },
+   "source": "mcneesesports.com-13652",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/north-texas/boxscore/13652",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-27",
+   "opponent": "West Florida",
+   "home": false,
+   "result": "L",
+   "score": "1-3",
+   "for": {
+    "shots": 8,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     5,
+     3
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     6,
+     7
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 87.5,
+    "shots_saved": 6,
+    "shots_off_target": 1,
+    "gk_save_pct": 57.1
+   },
+   "against": {
+    "shots": 15,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     9,
+     6
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     3,
+     3
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     3,
+     2
+    ],
+    "fouls": 17,
+    "fouls_by_period": [
+     6,
+     11
+    ],
+    "offsides": 0,
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 46.7,
+    "shots_saved": 4,
+    "shots_off_target": 8,
+    "gk_save_pct": 85.7
+   },
+   "source": "goargos.com-10775",
+   "source_url": "https://goargos.com/sports/womens-soccer/stats/2026/mcneese-state-university/boxscore/10775",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-08-30",
+   "opponent": "Louisiana",
+   "home": true,
+   "result": "L",
+   "score": "1-4",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     7,
+     2
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     0,
+     1
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 22.2,
+    "shots_saved": 1,
+    "shots_off_target": 7,
+    "gk_save_pct": 60.0
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     7,
+     11
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     3,
+     3
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     1,
+     5
+    ],
+    "offsides": 0,
+    "goals": 4,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 55.6,
+    "shots_saved": 6,
+    "shots_off_target": 8,
+    "gk_save_pct": 50.0
+   },
+   "source": "mcneesesports.com-13654",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/ul-lafayette/boxscore/13654",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-03",
+   "opponent": "Louisiana Tech",
+   "home": false,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 19,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     13,
+     6
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     1,
+     1
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     4,
+     1
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     4,
+     8
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 42.1,
+    "shots_saved": 6,
+    "shots_off_target": 11,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 11,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     7,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     4,
+     2
+    ],
+    "corner_kicks": 10,
+    "corner_kicks_by_period": [
+     4,
+     6
+    ],
+    "fouls": 5,
+    "fouls_by_period": [
+     1,
+     4
+    ],
+    "offsides": 5,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 18.2,
+    "shots_saved": 2,
+    "shots_off_target": 9,
+    "gk_save_pct": 75.0
+   },
+   "source": "latechsports.com-14955",
+   "source_url": "https://latechsports.com/sports/womens-soccer/stats/2026/mcneese/boxscore/14955",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-06",
+   "opponent": "Grambling State",
+   "home": false,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     8,
+     5
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     3,
+     2
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     6,
+     5
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 53.8,
+    "shots_saved": 6,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     5,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     3,
+     3
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     7,
+     6
+    ],
+    "offsides": 4,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 4,
+    "shots_off_target": 5,
+    "gk_save_pct": 85.7
+   },
+   "source": "gsutigers.com-7250",
+   "source_url": "https://gsutigers.com/sports/womens-soccer/stats/2026/mcneese-state-university/boxscore/7250",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-13",
+   "opponent": "Sam Houston State",
+   "home": false,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 17,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     9,
+     8
+    ],
+    "saves": 7,
+    "saves_by_period": [
+     5,
+     2
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     0,
+     4
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     1,
+     6
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 58.8,
+    "shots_saved": 10,
+    "shots_off_target": 7,
+    "gk_save_pct": 87.5
+   },
+   "against": {
+    "shots": 12,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     6,
+     6
+    ],
+    "saves": 10,
+    "saves_by_period": [
+     5,
+     5
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     4,
+     8
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 66.7,
+    "shots_saved": 7,
+    "shots_off_target": 4,
+    "gk_save_pct": 100.0
+   },
+   "source": "gobearkats.com-15603",
+   "source_url": "https://gobearkats.com:443/sports/womens-soccer/stats/2026/mcneese/boxscore/15603",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-17",
+   "opponent": "Southeastern Louisiana",
+   "home": false,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 17,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     6,
+     11
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     3,
+     2
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     3,
+     4
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 35.3,
+    "shots_saved": 5,
+    "shots_off_target": 11,
+    "gk_save_pct": 71.4
+   },
+   "against": {
+    "shots": 15,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     8,
+     7
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     5,
+     8
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 46.7,
+    "shots_saved": 5,
+    "shots_off_target": 8,
+    "gk_save_pct": 83.3
+   },
+   "source": "lionsports.net-9884",
+   "source_url": "https://lionsports.net/sports/womens-soccer/stats/2026/mcneese/boxscore/9884",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-24",
+   "opponent": "Stephen F. Austin",
+   "home": true,
+   "result": "W",
+   "score": "3-2",
+   "for": {
+    "shots": 19,
+    "shots_on_goal": 12,
+    "shots_by_period": [
+     8,
+     11
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     3,
+     0
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     8,
+     3
+    ],
+    "offsides": 3,
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 63.2,
+    "shots_saved": 9,
+    "shots_off_target": 7,
+    "gk_save_pct": 66.7
+   },
+   "against": {
+    "shots": 21,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     8,
+     13
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     3,
+     6
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     0,
+     3
+    ],
+    "fouls": 3,
+    "fouls_by_period": [
+     1,
+     2
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 28.6,
+    "shots_saved": 4,
+    "shots_off_target": 15,
+    "gk_save_pct": 75.0
+   },
+   "source": "mcneesesports.com-13629",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/stephen-f-austin/boxscore/13629",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-27",
+   "opponent": "Texas A&M-Corpus Christi",
+   "home": false,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 13,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     7,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     2,
+     1
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     3,
+     5
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 53.8,
+    "shots_saved": 5,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 10,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     4,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 9,
+    "corner_kicks_by_period": [
+     7,
+     2
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     3,
+     6
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 5,
+    "shots_off_target": 5,
+    "gk_save_pct": 71.4
+   },
+   "source": "goislanders.com-8521",
+   "source_url": "https://goislanders.com/sports/womens-soccer/stats/2026/mcneese/boxscore/8521",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-02",
+   "opponent": "Nicholls",
+   "home": true,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 22,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     6,
+     16
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     4,
+     1
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     6,
+     7
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 40.9,
+    "shots_saved": 9,
+    "shots_off_target": 13,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 7,
+    "shots_on_goal": 5,
+    "shots_by_period": [
+     5,
+     2
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     2,
+     7
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     2,
+     1
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     2,
+     9
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 71.4,
+    "shots_saved": 5,
+    "shots_off_target": 2,
+    "gk_save_pct": 100.0
+   },
+   "source": "mcneesesports.com-13631",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/nicholls/boxscore/13631",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-08",
+   "opponent": "UTRGV",
+   "home": false,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 16,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     7,
+     9
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     3,
+     0
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     3,
+     4
+    ],
+    "offsides": 2,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 6,
+    "shots_off_target": 8,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 8,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     6,
+     2
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     2,
+     1
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     1,
+     7
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 37.5,
+    "shots_saved": 3,
+    "shots_off_target": 5,
+    "gk_save_pct": 75.0
+   },
+   "source": "goutrgv.com-29623",
+   "source_url": "https://goutrgv.com/sports/womens-soccer/stats/2026/mcneese/boxscore/29623",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-11",
+   "opponent": "Houston Christian",
+   "home": true,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 17,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     9,
+     8
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     2,
+     6
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 52.9,
+    "shots_saved": 8,
+    "shots_off_target": 8,
+    "gk_save_pct": 88.9
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     7,
+     12
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     5,
+     3
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     3,
+     0
+    ],
+    "fouls": 7,
+    "fouls_by_period": [
+     4,
+     3
+    ],
+    "offsides": 2,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 47.4,
+    "shots_saved": 8,
+    "shots_off_target": 10,
+    "gk_save_pct": 88.9
+   },
+   "source": "mcneesesports.com-13633",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/houston-christian/boxscore/13633",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-22",
+   "opponent": "Incarnate Word",
+   "home": true,
+   "result": "L",
+   "score": "1-2",
+   "for": {
+    "shots": 15,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     9,
+     6
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     2,
+     2
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     4,
+     4
+    ],
+    "offsides": 3,
+    "goals": 1,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 46.7,
+    "shots_saved": 6,
+    "shots_off_target": 8,
+    "gk_save_pct": 66.7
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     11,
+     8
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     5,
+     1
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     5,
+     3
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 31.6,
+    "shots_saved": 4,
+    "shots_off_target": 13,
+    "gk_save_pct": 85.7
+   },
+   "source": "mcneesesports.com-13634",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/incarnate-word/boxscore/13634",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-25",
+   "opponent": "East Texas A&M",
+   "home": false,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 9,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     5,
+     4
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     4,
+     2
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 4,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 4,
+    "shots_off_target": 5,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     11,
+     7
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     1,
+     3
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     3,
+     4
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     3,
+     8
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 6,
+    "shots_off_target": 12,
+    "gk_save_pct": 100.0
+   },
+   "source": "lionathletics.com-10888",
+   "source_url": "https://lionathletics.com/sports/womens-soccer/stats/2026/mcneese/boxscore/10888",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-11-01",
+   "opponent": "Northwestern State",
+   "home": true,
+   "result": "W",
+   "score": "4-1",
+   "for": {
+    "shots": 16,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     9,
+     7
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     0,
+     2
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     5,
+     4
+    ],
+    "offsides": 1,
+    "goals": 4,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 4,
+    "shots_off_target": 8,
+    "gk_save_pct": 85.7
+   },
+   "against": {
+    "shots": 19,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     7,
+     12
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     2,
+     4
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     6,
+     3
+    ],
+    "offsides": 2,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 36.8,
+    "shots_saved": 6,
+    "shots_off_target": 12,
+    "gk_save_pct": 50.0
+   },
+   "source": "mcneesesports.com-13636",
+   "source_url": "https://mcneesesports.com/sports/womens-soccer/stats/2026/northwestern-state/boxscore/13636",
+   "platform": "sidearm"
+  },
   {
    "date": "2026-11-05",
    "opponent": "Lamar",
@@ -123,21 +1455,87 @@
    "slug": "arvanitis-alexandra",
    "num": "8",
    "pos": "DEF",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
+   "gp": 19,
+   "starts": 19,
+   "min": 1582,
+   "sh": 10,
+   "sog": 4,
+   "g": 1,
    "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 40.0,
+   "shots_saved": 3,
+   "shots_off_target": 6,
+   "no": 1,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Davis, Ella Grace",
+   "slug": "davis-ella-grace",
+   "num": "5",
+   "pos": "DEF",
+   "gp": 19,
+   "starts": 17,
+   "min": 1394,
+   "sh": 17,
+   "sog": 10,
+   "g": 0,
+   "a": 3,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 1,
+   "shot_pct": 58.8,
+   "shots_saved": 10,
+   "shots_off_target": 7,
+   "no": 2,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Romero, Rebecca",
+   "slug": "romero-rebecca",
+   "num": "18",
+   "pos": "DEF",
+   "gp": 18,
+   "starts": 18,
+   "min": 1391,
+   "sh": 4,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 5,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 3,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Baltov, Isabella",
+   "slug": "baltov-isabella",
+   "num": "19",
+   "pos": "MID",
+   "gp": 19,
+   "starts": 17,
+   "min": 1249,
+   "sh": 33,
+   "sog": 17,
+   "g": 3,
+   "a": 3,
+   "fouls": 2,
+   "yc": 2,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 51.5,
+   "shots_saved": 14,
+   "shots_off_target": 16,
+   "no": 4,
    "gk_save_pct": null
   },
   {
@@ -145,9 +1543,9 @@
    "slug": "dempsey-shannon",
    "num": "0",
    "pos": "GK",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
+   "gp": 15,
+   "starts": 13,
+   "min": 1126,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -160,122 +1558,188 @@
    "shots_saved": null,
    "shots_off_target": null,
    "goalie": {
-    "gp": 1,
-    "ga": 1,
-    "saves": 9,
-    "save_pct": 90.0
+    "gp": 15,
+    "ga": 9,
+    "saves": 63,
+    "save_pct": 87.5
    },
-   "no": 2,
-   "gk_save_pct": 90.0
-  },
-  {
-   "name": "Korhonen, Anna Beth",
-   "slug": "korhonen-anna-beth",
-   "num": "32",
-   "pos": "DEF",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 0.0,
-   "shots_saved": 0,
-   "shots_off_target": 1,
-   "no": 3,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Romero, Rebecca",
-   "slug": "romero-rebecca",
-   "num": "18",
-   "pos": "MID",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 4,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Trosclair, Caitlyn",
-   "slug": "trosclair-caitlyn",
-   "num": "25",
-   "pos": "MID",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 0.0,
-   "shots_saved": 0,
-   "shots_off_target": 1,
    "no": 5,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Guild, Ashley",
-   "slug": "guild-ashley",
-   "num": "26",
-   "pos": "FWD",
-   "gp": 1,
-   "starts": 1,
-   "min": 83,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 6,
-   "gk_save_pct": null
+   "gk_save_pct": 87.5
   },
   {
    "name": "Maynes-Tourond, Rhiannon",
    "slug": "maynes-tourond-rhiannon",
    "num": "12",
    "pos": "FWD",
-   "gp": 1,
-   "starts": 1,
-   "min": 78,
-   "sh": 1,
-   "sog": 0,
+   "gp": 19,
+   "starts": 17,
+   "min": 1108,
+   "sh": 55,
+   "sog": 24,
+   "g": 6,
+   "a": 2,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 43.6,
+   "shots_saved": 18,
+   "shots_off_target": 31,
+   "no": 6,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Hull, Sophia",
+   "slug": "hull-sophia",
+   "num": "16",
+   "pos": "MID",
+   "gp": 19,
+   "starts": 12,
+   "min": 1086,
+   "sh": 18,
+   "sog": 9,
    "g": 0,
+   "a": 1,
+   "fouls": 4,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 9,
+   "shots_off_target": 9,
+   "no": 7,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Brown, Sumayah",
+   "slug": "brown-sumayah",
+   "num": "9",
+   "pos": "mid",
+   "gp": 19,
+   "starts": 9,
+   "min": 965,
+   "sh": 41,
+   "sog": 22,
+   "g": 6,
    "a": 0,
+   "fouls": 1,
+   "yc": 4,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 53.7,
+   "shots_saved": 16,
+   "shots_off_target": 19,
+   "no": 8,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Mitre, Vitoria",
+   "slug": "mitre-vitoria",
+   "num": "11",
+   "pos": "MID",
+   "gp": 19,
+   "starts": 11,
+   "min": 961,
+   "sh": 19,
+   "sog": 8,
+   "g": 2,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 42.1,
+   "shots_saved": 6,
+   "shots_off_target": 11,
+   "no": 9,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Korhonen, Emma",
+   "slug": "korhonen-emma",
+   "num": "17",
+   "pos": "FWD",
+   "gp": 19,
+   "starts": 12,
+   "min": 832,
+   "sh": 19,
+   "sog": 14,
+   "g": 2,
+   "a": 3,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 0.0,
+   "shot_pct": 73.7,
+   "shots_saved": 12,
+   "shots_off_target": 5,
+   "no": 10,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Trosclair, Caitlyn",
+   "slug": "trosclair-caitlyn-2",
+   "num": "25",
+   "pos": "MID",
+   "gp": 10,
+   "starts": 9,
+   "min": 803,
+   "sh": 5,
+   "sog": 1,
+   "g": 1,
+   "a": 0,
+   "fouls": 1,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 20.0,
    "shots_saved": 0,
-   "shots_off_target": 1,
-   "no": 7,
+   "shots_off_target": 4,
+   "no": 11,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Guild, Ashley",
+   "slug": "guild-ashley",
+   "num": "26",
+   "pos": "fwd",
+   "gp": 19,
+   "starts": 7,
+   "min": 769,
+   "sh": 5,
+   "sog": 1,
+   "g": 0,
+   "a": 2,
+   "fouls": 5,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 20.0,
+   "shots_saved": 1,
+   "shots_off_target": 4,
+   "no": 12,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Fiedler, Morgan",
+   "slug": "fiedler-morgan",
+   "num": "27",
+   "pos": "fwd",
+   "gp": 19,
+   "starts": 7,
+   "min": 653,
+   "sh": 11,
+   "sog": 5,
+   "g": 2,
+   "a": 5,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 45.5,
+   "shots_saved": 3,
+   "shots_off_target": 6,
+   "no": 13,
    "gk_save_pct": null
   },
   {
@@ -283,75 +1747,9 @@
    "slug": "tomlinson-ryleigh",
    "num": "3",
    "pos": "def",
-   "gp": 1,
-   "starts": 0,
-   "min": 73,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 8,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Baltov, Isabella",
-   "slug": "baltov-isabella",
-   "num": "19",
-   "pos": "MID",
-   "gp": 1,
-   "starts": 1,
-   "min": 66,
-   "sh": 1,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 0.0,
-   "shots_saved": 0,
-   "shots_off_target": 1,
-   "no": 9,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Mitre, Vitoria",
-   "slug": "mitre-vitoria",
-   "num": "11",
-   "pos": "mid",
-   "gp": 1,
-   "starts": 0,
-   "min": 62,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 10,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Brown, Sumayah",
-   "slug": "brown-sumayah",
-   "num": "9",
-   "pos": "fwd",
-   "gp": 1,
-   "starts": 0,
-   "min": 53,
+   "gp": 13,
+   "starts": 5,
+   "min": 620,
    "sh": 1,
    "sog": 1,
    "g": 0,
@@ -363,95 +1761,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 11,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Korhonen, Emma",
-   "slug": "korhonen-emma",
-   "num": "17",
-   "pos": "FWD",
-   "gp": 1,
-   "starts": 1,
-   "min": 37,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 12,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Fiedler, Morgan",
-   "slug": "fiedler-morgan",
-   "num": "27",
-   "pos": "FWD",
-   "gp": 1,
-   "starts": 1,
-   "min": 31,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 13,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Hull, Sophia",
-   "slug": "hull-sophia",
-   "num": "16",
-   "pos": "mid",
-   "gp": 1,
-   "starts": 0,
-   "min": 28,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
    "no": 14,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Davis, Ella Grace",
-   "slug": "davis-ella-grace",
-   "num": "5",
-   "pos": "DEF",
-   "gp": 1,
-   "starts": 1,
-   "min": 17,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 15,
    "gk_save_pct": null
   },
   {
@@ -459,9 +1769,53 @@
    "slug": "curtis-faith",
    "num": "13",
    "pos": "fwd",
-   "gp": 1,
-   "starts": 0,
-   "min": 9,
+   "gp": 13,
+   "starts": 5,
+   "min": 604,
+   "sh": 3,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 3,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 15,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Trosclair , Caitlyn",
+   "slug": "trosclair-caitlyn",
+   "num": "25",
+   "pos": "MID",
+   "gp": 9,
+   "starts": 8,
+   "min": 594,
+   "sh": 3,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 16,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Marijnissen, Celeste",
+   "slug": "marijnissen-celeste",
+   "num": "99",
+   "pos": "GK",
+   "gp": 9,
+   "starts": 6,
+   "min": 583,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -473,7 +1827,123 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 16,
+   "goalie": {
+    "gp": 9,
+    "ga": 13,
+    "saves": 38,
+    "save_pct": 74.5
+   },
+   "no": 17,
+   "gk_save_pct": 74.5
+  },
+  {
+   "name": "Korhonen, Anna Beth",
+   "slug": "korhonen-anna-beth-2",
+   "num": "32",
+   "pos": "DEF",
+   "gp": 9,
+   "starts": 6,
+   "min": 520,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 18,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Korhonen , Anna Beth",
+   "slug": "korhonen-anna-beth",
+   "num": "32",
+   "pos": "DEF",
+   "gp": 8,
+   "starts": 7,
+   "min": 486,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 19,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Edomwonyi, Elizabeth",
+   "slug": "edomwonyi-elizabeth",
+   "num": "10",
+   "pos": "fwd",
+   "gp": 14,
+   "starts": 2,
+   "min": 401,
+   "sh": 12,
+   "sog": 4,
+   "g": 1,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 3,
+   "shots_off_target": 8,
+   "no": 20,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Barusic, Gabbi",
+   "slug": "barusic-gabbi",
+   "num": "2",
+   "pos": "fwd",
+   "gp": 10,
+   "starts": 1,
+   "min": 239,
+   "sh": 8,
+   "sog": 6,
+   "g": 2,
+   "a": 2,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 75.0,
+   "shots_saved": 4,
+   "shots_off_target": 2,
+   "no": 21,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Pelter, Kayla",
+   "slug": "pelter-kayla",
+   "num": "7",
+   "pos": "def",
+   "gp": 8,
+   "starts": 1,
+   "min": 236,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 22,
    "gk_save_pct": null
   },
   {
@@ -481,9 +1951,31 @@
    "slug": "galan-bella",
    "num": "4",
    "pos": "def",
-   "gp": 1,
+   "gp": 14,
    "starts": 0,
-   "min": 3,
+   "min": 201,
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 23,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Klein , McKenzie",
+   "slug": "klein-mckenzie",
+   "num": "30",
+   "pos": "def",
+   "gp": 4,
+   "starts": 0,
+   "min": 177,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -495,7 +1987,139 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 17,
+   "no": 24,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Klein, McKenzie",
+   "slug": "klein-mckenzie-2",
+   "num": "30",
+   "pos": "def",
+   "gp": 5,
+   "starts": 0,
+   "min": 122,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 25,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Correia, Kenya",
+   "slug": "correia-kenya",
+   "num": "6",
+   "pos": "mid",
+   "gp": 7,
+   "starts": 0,
+   "min": 74,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 26,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Farrar, Brynn",
+   "slug": "farrar-brynn",
+   "num": "20",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 13,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 27,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Nguyen , Nevaeh",
+   "slug": "nguyen-nevaeh",
+   "num": "33",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 12,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 28,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Baehr, Madeline",
+   "slug": "baehr-madeline",
+   "num": "15",
+   "pos": "fwd",
+   "gp": 1,
+   "starts": 0,
+   "min": 4,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 29,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Gonerway , Brooklyn",
+   "slug": "gonerway-brooklyn",
+   "num": "23",
+   "pos": "def",
+   "gp": 1,
+   "starts": 0,
+   "min": 4,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 30,
    "gk_save_pct": null
   }
  ],
@@ -505,7 +2129,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 0,
+  "unknown": 23,
   "categorized": 0
  }
 }

@@ -9,19 +9,19 @@
    "num": "18",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 20,
-    "min": 1593,
-    "sh": 9,
-    "sog": 5,
-    "g": 4,
+    "gp": 22,
+    "starts": 21,
+    "min": 1653,
+    "sh": 11,
+    "sog": 7,
+    "g": 5,
     "a": 0,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.6,
-    "shots_saved": 1,
+    "shot_pct": 63.6,
+    "shots_saved": 2,
     "shots_off_target": 4
    },
    "matches": [
@@ -423,6 +423,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "18",
+     "min": 60,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -432,10 +451,10 @@
    "num": "17",
    "pos": "mid",
    "totals": {
-    "gp": 23,
-    "starts": 2,
-    "min": 973,
-    "sh": 33,
+    "gp": 24,
+    "starts": 3,
+    "min": 1025,
+    "sh": 35,
     "sog": 12,
     "g": 4,
     "a": 4,
@@ -443,9 +462,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.4,
+    "shot_pct": 34.3,
     "shots_saved": 8,
-    "shots_off_target": 21
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -884,6 +903,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "17",
+     "min": 52,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -893,9 +931,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1845,
+    "gp": 23,
+    "starts": 23,
+    "min": 1935,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -908,10 +946,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 17,
+     "gp": 18,
      "ga": 21,
-     "saves": 56,
-     "save_pct": 72.7
+     "saves": 57,
+     "save_pct": 73.1
     }
    },
    "matches": [
@@ -1417,6 +1455,30 @@
       "ga": 0,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1426,11 +1488,11 @@
    "num": "4",
    "pos": "mid",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 446,
-    "sh": 1,
-    "sog": 1,
+    "min": 500,
+    "sh": 4,
+    "sog": 4,
     "g": 1,
     "a": 0,
     "fouls": 2,
@@ -1438,7 +1500,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 0,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -1669,6 +1731,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "4",
+     "min": 54,
+     "sh": 3,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1678,9 +1759,9 @@
    "num": "23",
    "pos": "fwd",
    "totals": {
-    "gp": 7,
+    "gp": 8,
     "starts": 1,
-    "min": 66,
+    "min": 76,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1826,6 +1907,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "23",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1878,10 +1978,10 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1710,
-    "sh": 12,
+    "gp": 24,
+    "starts": 24,
+    "min": 1765,
+    "sh": 13,
     "sog": 2,
     "g": 1,
     "a": 0,
@@ -1889,9 +1989,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 16.7,
+    "shot_pct": 15.4,
     "shots_saved": 1,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2330,6 +2430,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "20",
+     "min": 55,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2339,20 +2458,20 @@
    "num": "15",
    "pos": "mid",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 1,
-    "min": 311,
-    "sh": 4,
-    "sog": 4,
-    "g": 0,
+    "min": 340,
+    "sh": 6,
+    "sog": 5,
+    "g": 1,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 83.3,
     "shots_saved": 4,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2734,6 +2853,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "15",
+     "min": 29,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2743,20 +2881,20 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 18,
-    "min": 1390,
-    "sh": 37,
-    "sog": 18,
-    "g": 7,
+    "gp": 24,
+    "starts": 19,
+    "min": 1439,
+    "sh": 42,
+    "sog": 20,
+    "g": 8,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 48.6,
-    "shots_saved": 11,
-    "shots_off_target": 19
+    "shot_pct": 47.6,
+    "shots_saved": 12,
+    "shots_off_target": 22
    },
    "matches": [
     {
@@ -3195,6 +3333,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 49,
+     "sh": 5,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3204,20 +3361,20 @@
    "num": "8",
    "pos": null,
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 5,
-    "min": 658,
-    "sh": 13,
-    "sog": 4,
+    "min": 693,
+    "sh": 17,
+    "sog": 7,
     "g": 1,
     "a": 0,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 30.8,
-    "shots_saved": 3,
-    "shots_off_target": 9
+    "shot_pct": 41.2,
+    "shots_saved": 6,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -3637,6 +3794,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "",
+     "num": "8",
+     "min": 35,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3646,19 +3822,19 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 22,
-    "min": 1868,
-    "sh": 7,
-    "sog": 1,
-    "g": 0,
+    "gp": 24,
+    "starts": 23,
+    "min": 1932,
+    "sh": 9,
+    "sog": 3,
+    "g": 1,
     "a": 2,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 14.3,
-    "shots_saved": 1,
+    "shot_pct": 33.3,
+    "shots_saved": 2,
     "shots_off_target": 6
    },
    "matches": [
@@ -4098,6 +4274,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 64,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4107,20 +4302,20 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 22,
-    "min": 1559,
-    "sh": 29,
-    "sog": 10,
+    "gp": 24,
+    "starts": 23,
+    "min": 1614,
+    "sh": 33,
+    "sog": 13,
     "g": 0,
     "a": 2,
     "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 34.5,
-    "shots_saved": 10,
-    "shots_off_target": 19
+    "shot_pct": 39.4,
+    "shots_saved": 13,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -4559,6 +4754,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 55,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4568,20 +4782,20 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 22,
-    "min": 1742,
-    "sh": 16,
+    "gp": 24,
+    "starts": 23,
+    "min": 1803,
+    "sh": 17,
     "sog": 4,
     "g": 1,
-    "a": 2,
+    "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 23.5,
     "shots_saved": 3,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -5020,6 +5234,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 61,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5029,9 +5262,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 20,
-    "min": 1827,
+    "gp": 24,
+    "starts": 21,
+    "min": 1917,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5481,6 +5714,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5490,10 +5742,10 @@
    "num": "6",
    "pos": "mid",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 30,
-    "sh": 2,
+    "min": 40,
+    "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -5501,9 +5753,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 33.3,
     "shots_saved": 1,
-    "shots_off_target": 1
+    "shots_off_target": 2
    },
    "matches": [
     {
@@ -5600,6 +5852,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "6",
+     "min": 10,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5609,9 +5880,9 @@
    "num": "2",
    "pos": "def",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 0,
-    "min": 331,
+    "min": 366,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -5966,6 +6237,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "2",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5975,9 +6265,9 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 21,
-    "min": 1686,
+    "gp": 24,
+    "starts": 22,
+    "min": 1766,
     "sh": 23,
     "sog": 8,
     "g": 3,
@@ -6427,6 +6717,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 80,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6436,9 +6745,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 7,
-    "min": 845,
+    "min": 875,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -6717,6 +7026,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "3",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6864,20 +7192,20 @@
    "num": "22",
    "pos": "fwd",
    "totals": {
-    "gp": 23,
+    "gp": 24,
     "starts": 3,
-    "min": 661,
-    "sh": 9,
-    "sog": 4,
+    "min": 702,
+    "sh": 11,
+    "sog": 5,
     "g": 0,
     "a": 1,
     "fouls": 1,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 4,
-    "shots_off_target": 5
+    "shot_pct": 45.5,
+    "shots_saved": 5,
+    "shots_off_target": 6
    },
    "matches": [
     {
@@ -7316,6 +7644,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 41,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7325,19 +7672,19 @@
    "num": "5",
    "pos": "fwd",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 3,
-    "min": 215,
-    "sh": 4,
-    "sog": 1,
+    "min": 250,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
-    "shots_saved": 1,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -7568,6 +7915,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "5",
+     "min": 35,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7577,9 +7943,9 @@
    "num": "12",
    "pos": "fwd",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 18,
+    "min": 28,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -7679,6 +8045,25 @@
      "pos": "fwd",
      "num": "12",
      "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "12",
+     "min": 10,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -7860,19 +8245,19 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
-    "starts": 9,
-    "min": 666,
-    "sh": 25,
-    "sog": 9,
+    "gp": 15,
+    "starts": 10,
+    "min": 711,
+    "sh": 26,
+    "sog": 10,
     "g": 3,
-    "a": 3,
+    "a": 4,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 36.0,
-    "shots_saved": 6,
+    "shot_pct": 38.5,
+    "shots_saved": 7,
     "shots_off_target": 16
    },
    "matches": [
@@ -8137,6 +8522,25 @@
      "sog": 0,
      "g": 0,
      "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "VMI",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 45,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

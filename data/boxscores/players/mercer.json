@@ -9,18 +9,18 @@
    "num": "15",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1504,
-    "sh": 14,
-    "sog": 9,
-    "g": 1,
-    "a": 12,
+    "gp": 23,
+    "starts": 23,
+    "min": 1565,
+    "sh": 15,
+    "sog": 10,
+    "g": 2,
+    "a": 13,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 64.3,
+    "shot_pct": 66.7,
     "shots_saved": 8,
     "shots_off_target": 5
    },
@@ -442,6 +442,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "15",
+     "min": 61,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -451,9 +470,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 7,
-    "min": 657,
+    "gp": 12,
+    "starts": 8,
+    "min": 747,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -466,10 +485,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 9,
-     "ga": 9,
-     "saves": 15,
-     "save_pct": 62.5
+     "gp": 10,
+     "ga": 11,
+     "saves": 17,
+     "save_pct": 60.7
     }
    },
    "matches": [
@@ -726,6 +745,30 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 2
+     }
     }
    ]
   },
@@ -735,9 +778,9 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 1,
-    "min": 397,
+    "min": 403,
     "sh": 3,
     "sog": 0,
     "g": 0,
@@ -1149,6 +1192,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1158,20 +1220,20 @@
    "num": "23",
    "pos": "MID",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 4,
-    "min": 621,
-    "sh": 17,
+    "min": 654,
+    "sh": 19,
     "sog": 7,
     "g": 0,
     "a": 2,
-    "fouls": 5,
+    "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 41.2,
+    "shot_pct": 36.8,
     "shots_saved": 7,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1553,6 +1615,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "23",
+     "min": 33,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1562,20 +1643,20 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1518,
-    "sh": 64,
-    "sog": 36,
-    "g": 11,
-    "a": 9,
-    "fouls": 9,
-    "yc": 0,
+    "gp": 23,
+    "starts": 23,
+    "min": 1592,
+    "sh": 69,
+    "sog": 39,
+    "g": 12,
+    "a": 10,
+    "fouls": 10,
+    "yc": 1,
     "rc": 0,
-    "pk_g": 0,
-    "shot_pct": 56.2,
-    "shots_saved": 25,
-    "shots_off_target": 28
+    "pk_g": 1,
+    "shot_pct": 56.5,
+    "shots_saved": 27,
+    "shots_off_target": 30
    },
    "matches": [
     {
@@ -1995,6 +2076,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 74,
+     "sh": 5,
+     "sog": 3,
+     "g": 1,
+     "a": 1,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 1
     }
    ]
   },
@@ -2004,9 +2104,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 1,
-    "min": 311,
+    "min": 319,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -2304,6 +2404,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "5",
+     "min": 8,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2313,9 +2432,9 @@
    "num": "41",
    "pos": "FWD",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 148,
+    "min": 162,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -2420,6 +2539,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "41",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2570,9 +2708,9 @@
    "num": "33",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 0,
-    "min": 412,
+    "min": 431,
     "sh": 10,
     "sog": 6,
     "g": 0,
@@ -2984,6 +3122,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "33",
+     "min": 19,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2991,7 +3148,7 @@
    "name": "Densmore, Peyton",
    "slug": "densmore-peyton",
    "num": "22",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
     "gp": 6,
     "starts": 0,
@@ -3288,9 +3445,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 14,
-    "min": 1356,
+    "gp": 22,
+    "starts": 15,
+    "min": 1433,
     "sh": 15,
     "sog": 7,
     "g": 2,
@@ -3702,6 +3859,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3773,9 +3949,9 @@
    "num": "4",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
-    "starts": 9,
-    "min": 1178,
+    "gp": 23,
+    "starts": 10,
+    "min": 1262,
     "sh": 7,
     "sog": 3,
     "g": 0,
@@ -4206,6 +4382,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "4",
+     "min": 84,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4215,20 +4410,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 20,
-    "min": 1337,
-    "sh": 42,
-    "sog": 20,
+    "gp": 23,
+    "starts": 21,
+    "min": 1421,
+    "sh": 44,
+    "sog": 21,
     "g": 3,
     "a": 0,
-    "fouls": 15,
+    "fouls": 16,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 47.6,
-    "shots_saved": 17,
-    "shots_off_target": 22
+    "shot_pct": 47.7,
+    "shots_saved": 18,
+    "shots_off_target": 23
    },
    "matches": [
     {
@@ -4648,6 +4843,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 84,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4657,9 +4871,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 6,
-    "min": 410,
+    "min": 421,
     "sh": 7,
     "sog": 1,
     "g": 0,
@@ -5033,6 +5247,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "12",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5042,9 +5275,9 @@
    "num": "16",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1699,
+    "gp": 23,
+    "starts": 23,
+    "min": 1784,
     "sh": 29,
     "sog": 11,
     "g": 3,
@@ -5475,6 +5708,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "16",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5484,9 +5736,9 @@
    "num": "25",
    "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 1,
-    "min": 182,
+    "min": 192,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -5681,6 +5933,25 @@
      "pos": "MID",
      "num": "25",
      "min": 27,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "25",
+     "min": 10,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -5950,20 +6221,20 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 372,
-    "sh": 22,
-    "sog": 10,
+    "gp": 11,
+    "starts": 5,
+    "min": 434,
+    "sh": 26,
+    "sog": 11,
     "g": 4,
     "a": 0,
-    "fouls": 2,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 45.5,
-    "shots_saved": 6,
-    "shots_off_target": 12
+    "shot_pct": 42.3,
+    "shots_saved": 7,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -6155,6 +6426,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 62,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6164,9 +6454,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 19,
-    "min": 1325,
+    "min": 1338,
     "sh": 12,
     "sog": 7,
     "g": 0,
@@ -6559,6 +6849,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "3",
+     "min": 13,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6568,9 +6877,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 4,
-    "min": 482,
+    "min": 487,
     "sh": 11,
     "sog": 3,
     "g": 0,
@@ -6963,6 +7272,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "13",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6972,19 +7300,19 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 9,
-    "min": 1141,
-    "sh": 58,
-    "sog": 35,
+    "gp": 23,
+    "starts": 10,
+    "min": 1210,
+    "sh": 60,
+    "sog": 37,
     "g": 9,
     "a": 2,
-    "fouls": 13,
-    "yc": 2,
+    "fouls": 14,
+    "yc": 3,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 60.3,
-    "shots_saved": 26,
+    "shot_pct": 61.7,
+    "shots_saved": 28,
     "shots_off_target": 23
    },
    "matches": [
@@ -7403,6 +7731,25 @@
      "a": 0,
      "fouls": 3,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 69,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -7951,10 +8298,10 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1189,
-    "sh": 33,
+    "gp": 20,
+    "starts": 20,
+    "min": 1231,
+    "sh": 34,
     "sog": 13,
     "g": 2,
     "a": 4,
@@ -7962,9 +8309,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 39.4,
+    "shot_pct": 38.2,
     "shots_saved": 11,
-    "shots_off_target": 20
+    "shots_off_target": 21
    },
    "matches": [
     {
@@ -8327,6 +8674,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 42,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8336,14 +8702,14 @@
    "num": "30",
    "pos": "MID",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 1,
-    "min": 363,
+    "min": 374,
     "sh": 4,
     "sog": 2,
     "g": 0,
     "a": 0,
-    "fouls": 5,
+    "fouls": 6,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -8636,6 +9002,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "30",
+     "min": 11,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8645,18 +9030,18 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1672,
-    "sh": 9,
-    "sog": 1,
-    "g": 0,
+    "gp": 22,
+    "starts": 22,
+    "min": 1762,
+    "sh": 10,
+    "sog": 2,
+    "g": 1,
     "a": 1,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 11.1,
+    "shot_pct": 20.0,
     "shots_saved": 1,
     "shots_off_target": 8
    },
@@ -9059,6 +9444,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -9066,7 +9470,7 @@
    "name": "Ronga, Valentina",
    "slug": "ronga-valentina",
    "num": "0",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
     "gp": 4,
     "starts": 0,
@@ -9189,10 +9593,10 @@
    "num": "11",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 9,
-    "min": 759,
-    "sh": 22,
+    "min": 801,
+    "sh": 23,
     "sog": 11,
     "g": 3,
     "a": 2,
@@ -9200,9 +9604,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 47.8,
     "shots_saved": 8,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -9595,6 +9999,25 @@
      "pos": "FWD",
      "num": "11",
      "min": 20,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-06",
+     "opponent": "Wofford",
+     "home": true,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "11",
+     "min": 42,
      "sh": 1,
      "sog": 0,
      "g": 0,
