@@ -1,0 +1,1608 @@
+{
+ "id": "purduesports.com-16778",
+ "source_url": "https://purduesports.com/boxscore/16778",
+ "platform": "wmt",
+ "wmt_game_id": 6666634,
+ "wmt_school": "purdueboilermakers",
+ "title": "Penn St. vs Purdue",
+ "date": "2026-11-05",
+ "site": "St. Louis, MO",
+ "stadium": "Energizer Park",
+ "attendance": 1001,
+ "neutral_site": true,
+ "stats_finalized": true,
+ "periods": [
+  "1",
+  "2",
+  "OT1"
+ ],
+ "away": {
+  "name": "Penn St.",
+  "abbr": "Penn St.",
+  "winner": false,
+  "periods": [
+   0,
+   1,
+   0
+  ],
+  "total": 1
+ },
+ "home": {
+  "name": "Purdue",
+  "abbr": "Purdue",
+  "winner": true,
+  "periods": [
+   0,
+   1,
+   1
+  ],
+  "total": 2
+ },
+ "team_stats": {
+  "away": {
+   "shots": 7,
+   "shots_on_goal": 3,
+   "shots_by_period": [
+    4,
+    3,
+    0
+   ],
+   "saves": 3,
+   "saves_by_period": [
+    1,
+    2,
+    0
+   ],
+   "corner_kicks": 3,
+   "corner_kicks_by_period": [
+    1,
+    2,
+    0
+   ],
+   "fouls": 10,
+   "fouls_by_period": [
+    1,
+    9,
+    0
+   ],
+   "offsides": 3
+  },
+  "home": {
+   "shots": 21,
+   "shots_on_goal": 5,
+   "shots_by_period": [
+    9,
+    11,
+    1
+   ],
+   "saves": 2,
+   "saves_by_period": [
+    2,
+    0,
+    0
+   ],
+   "corner_kicks": 7,
+   "corner_kicks_by_period": [
+    5,
+    2,
+    0
+   ],
+   "fouls": 15,
+   "fouls_by_period": [
+    7,
+    8,
+    0
+   ],
+   "offsides": 1
+  }
+ },
+ "players": [
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "8",
+   "name": "Santa Cruz, Megan",
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 82,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "23",
+   "name": "Adam, Lauren",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "14",
+   "name": "Campo, Irene",
+   "sh": 3,
+   "sog": 2,
+   "g": 1,
+   "a": 0,
+   "min": 88,
+   "fouls": 4,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "4",
+   "name": "Schornstein, Tanna",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "GK",
+   "num": "28",
+   "name": "Miller, Grace",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "21",
+   "name": "Maalouf, Rosa",
+   "sh": 3,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 77,
+   "fouls": 1,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "2",
+   "name": "Carle, McKenzie",
+   "sh": 2,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 85,
+   "fouls": 4,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "54",
+   "name": "Anderson, Jaiden",
+   "sh": 8,
+   "sog": 2,
+   "g": 1,
+   "a": 1,
+   "min": 91,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "D",
+   "num": "16",
+   "name": "Deppe, Emilia",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 3,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "M",
+   "num": "13",
+   "name": "Hanisch, Bianca",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": true,
+   "pos": "F",
+   "num": "11",
+   "name": "Yu, Cherry",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "F",
+   "num": "24",
+   "name": "Miles, Zoe",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 26,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "home",
+   "start": false,
+   "pos": "M",
+   "num": "10",
+   "name": "Feldman, Addison",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 16,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "GK",
+   "num": "1",
+   "name": "Gress, Mackenzie",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "4",
+   "name": "Herr, Kayleigh",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "D",
+   "num": "18",
+   "name": "Wolfe, Kaelyn",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 11,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "19",
+   "name": "Kalal, Paige",
+   "sh": 1,
+   "sog": 1,
+   "g": 1,
+   "a": 0,
+   "min": 93,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "26",
+   "name": "Antonucci, Brooklyn",
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "12",
+   "name": "Ayscue, Bella",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "16",
+   "name": "Kulpa, Aubrey",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 3,
+   "yc": 1,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "36",
+   "name": "Burger, Lilly",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "D",
+   "num": "34",
+   "name": "Jordan, Hannah",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 93,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "21",
+   "name": "Bang, Dikte",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 92,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "F",
+   "num": "3",
+   "name": "Babcock, Anna",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 19,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": false,
+   "pos": "M",
+   "num": "8",
+   "name": "Tomezak, Layla",
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "min": 7,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "M",
+   "num": "10",
+   "name": "Johnson, Emma",
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "min": 87,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0
+  },
+  {
+   "team": "away",
+   "start": true,
+   "pos": "F",
+   "num": "17",
+   "name": "Kocher, Ellie",
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "min": 63,
+   "fouls": 1,
+   "yc": 0,
+   "rc": 0
+  }
+ ],
+ "goalies": [
+  {
+   "team": "home",
+   "pos": "GK",
+   "num": "28",
+   "name": "Miller, Grace",
+   "min": "92:58",
+   "ga": 1,
+   "saves": 2
+  },
+  {
+   "team": "away",
+   "pos": "GK",
+   "num": "1",
+   "name": "Gress, Mackenzie",
+   "min": "92:58",
+   "ga": 2,
+   "saves": 3
+  }
+ ],
+ "goals": [
+  {
+   "clock": "47:06",
+   "abbr": "Purdue",
+   "scorer": "Anderson, Jaiden",
+   "assists": [],
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;noassist;) by Jaiden Anderson",
+   "period": 2,
+   "team": "home",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "63:48",
+   "abbr": "Penn St.",
+   "scorer": "Kalal, Paige",
+   "assists": [
+    "Johnson, Emma"
+   ],
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;) by Paige Kalal Assist by Johnson, Emma.",
+   "period": 2,
+   "team": "away",
+   "penalty": false,
+   "from": "rightfoot"
+  },
+  {
+   "clock": "91:43",
+   "abbr": "Purdue",
+   "scorer": "Campo, Irene",
+   "assists": [
+    "Anderson, Jaiden",
+    "Schornstein, Tanna"
+   ],
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;) by Irene Campo Assist by Anderson, Jaiden And Schornstein, Tanna.",
+   "period": 3,
+   "team": "home",
+   "penalty": false,
+   "from": "rightfoot"
+  }
+ ],
+ "cards": [
+  {
+   "type": "yellow",
+   "clock": "25:15",
+   "abbr": "Purdue",
+   "player": "Maalouf, Rosa",
+   "num": "21",
+   "reason": "unsporting"
+  },
+  {
+   "type": "yellow",
+   "clock": "69:30",
+   "abbr": "Purdue",
+   "player": "Miles, Zoe",
+   "num": "24",
+   "reason": "unsporting"
+  },
+  {
+   "type": "yellow",
+   "clock": "86:24",
+   "abbr": "Penn St.",
+   "player": "Kulpa, Aubrey",
+   "num": "16",
+   "reason": "unsporting"
+  },
+  {
+   "type": "yellow",
+   "clock": "91:00",
+   "abbr": "Penn St.",
+   "player": "Ayscue, Bella",
+   "num": "12",
+   "reason": "unsporting"
+  }
+ ],
+ "pbp": [
+  {
+   "period": 1,
+   "clock": "03:06",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Emma Johnson",
+   "player": "Johnson, Emma"
+  },
+  {
+   "period": 1,
+   "clock": "03:35",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Aubrey Kulpa",
+   "player": "Kulpa, Aubrey",
+   "qual": "goalmouth:outleft;",
+   "x": 5,
+   "y": 30
+  },
+  {
+   "period": 1,
+   "clock": "05:37",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Emilia Deppe",
+   "player": "Deppe, Emilia"
+  },
+  {
+   "period": 1,
+   "clock": "06:30",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Rosa Maalouf",
+   "player": "Maalouf, Rosa"
+  },
+  {
+   "period": 1,
+   "clock": "08:05",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 1,
+   "clock": "09:16",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "12:26",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "blocked;",
+   "x": 91,
+   "y": 54
+  },
+  {
+   "period": 1,
+   "clock": "12:57",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "13:10",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Cherry Yu",
+   "player": "Yu, Cherry",
+   "qual": "goalmouth:outhigh;",
+   "x": 88,
+   "y": 48
+  },
+  {
+   "period": 1,
+   "clock": "14:32",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Megan Santa Cruz",
+   "player": "Santa Cruz, Megan"
+  },
+  {
+   "period": 1,
+   "clock": "16:40",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Brooklyn Antonucci",
+   "player": "Antonucci, Brooklyn",
+   "qual": "goalmouth:lowcenter;",
+   "x": 21,
+   "y": 33
+  },
+  {
+   "period": 1,
+   "clock": "16:40",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Grace Miller",
+   "player": "Miller, Grace"
+  },
+  {
+   "period": 1,
+   "clock": "20:03",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 1,
+   "clock": "21:41",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Megan Santa Cruz",
+   "player": "Santa Cruz, Megan",
+   "qual": "goalmouth:outhigh;",
+   "x": 89,
+   "y": 59
+  },
+  {
+   "period": 1,
+   "clock": "24:59",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Hannah Jordan",
+   "player": "Jordan, Hannah",
+   "qual": "goalmouth:outleft;",
+   "x": 9,
+   "y": 31
+  },
+  {
+   "period": 1,
+   "clock": "25:15",
+   "team": "home",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Rosa Maalouf",
+   "player": "Maalouf, Rosa"
+  },
+  {
+   "period": 1,
+   "clock": "26:55",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Ellie Kocher",
+   "player": "Kocher, Ellie",
+   "qual": "goalmouth:lowcenter;",
+   "x": 14,
+   "y": 43
+  },
+  {
+   "period": 1,
+   "clock": "26:55",
+   "team": "home",
+   "type": "gk",
+   "text": "Save by Grace Miller",
+   "player": "Miller, Grace"
+  },
+  {
+   "period": 1,
+   "clock": "29:18",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Rosa Maalouf",
+   "player": "Maalouf, Rosa"
+  },
+  {
+   "period": 1,
+   "clock": "29:18",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Zoe Miles",
+   "player": "Miles, Zoe"
+  },
+  {
+   "period": 1,
+   "clock": "31:03",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "blocked;",
+   "x": 86,
+   "y": 65
+  },
+  {
+   "period": 1,
+   "clock": "31:35",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Irene Campo",
+   "player": "Campo, Irene"
+  },
+  {
+   "period": 1,
+   "clock": "32:01",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Irene Campo",
+   "player": "Campo, Irene"
+  },
+  {
+   "period": 1,
+   "clock": "33:21",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "blocked;",
+   "x": 84,
+   "y": 55
+  },
+  {
+   "period": 1,
+   "clock": "33:34",
+   "team": "away",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "33:47",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Megan Santa Cruz",
+   "player": "Santa Cruz, Megan"
+  },
+  {
+   "period": 1,
+   "clock": "33:47",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Addison Feldman",
+   "player": "Feldman, Addison"
+  },
+  {
+   "period": 1,
+   "clock": "33:47",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ellie Kocher",
+   "player": "Kocher, Ellie"
+  },
+  {
+   "period": 1,
+   "clock": "33:47",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Kaelyn Wolfe",
+   "player": "Wolfe, Kaelyn"
+  },
+  {
+   "period": 1,
+   "clock": "35:37",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "38:50",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "goalmouth:outhigh;",
+   "x": 79,
+   "y": 68
+  },
+  {
+   "period": 1,
+   "clock": "40:59",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "41:04",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outright;) by Bianca Hanisch",
+   "player": "Hanisch, Bianca",
+   "qual": "goalmouth:outright;",
+   "x": 88,
+   "y": 39
+  },
+  {
+   "period": 1,
+   "clock": "42:15",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "goalmouth:lowleft;",
+   "x": 87,
+   "y": 74
+  },
+  {
+   "period": 1,
+   "clock": "42:15",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Mackenzie Gress",
+   "player": "Gress, Mackenzie"
+  },
+  {
+   "period": 1,
+   "clock": "43:52",
+   "team": "away",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 1,
+   "clock": "44:32",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 1,
+   "clock": "44:38",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Zoe Miles",
+   "player": "Miles, Zoe",
+   "qual": "blocked;",
+   "x": 89,
+   "y": 42
+  },
+  {
+   "period": 1,
+   "clock": "44:55",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Addison Feldman",
+   "player": "Feldman, Addison"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Megan Santa Cruz",
+   "player": "Santa Cruz, Megan"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Zoe Miles",
+   "player": "Miles, Zoe"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Rosa Maalouf",
+   "player": "Maalouf, Rosa"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Kaelyn Wolfe",
+   "player": "Wolfe, Kaelyn"
+  },
+  {
+   "period": 2,
+   "clock": "45:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ellie Kocher",
+   "player": "Kocher, Ellie"
+  },
+  {
+   "period": 2,
+   "clock": "46:01",
+   "team": "away",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "47:06",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "goalmouth:lowleft;",
+   "x": 13,
+   "y": 58
+  },
+  {
+   "period": 2,
+   "clock": "47:06",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;noassist;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "goalmouth:lowleft;from:rightfoot;noassist;",
+   "x": 13,
+   "y": 58
+  },
+  {
+   "period": 2,
+   "clock": "48:25",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 2,
+   "clock": "48:45",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 2,
+   "clock": "49:04",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Dikte Bang",
+   "player": "Bang, Dikte"
+  },
+  {
+   "period": 2,
+   "clock": "49:17",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Irene Campo",
+   "player": "Campo, Irene",
+   "qual": "goalmouth:outhigh;",
+   "x": 9,
+   "y": 76
+  },
+  {
+   "period": 2,
+   "clock": "50:52",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Emilia Deppe",
+   "player": "Deppe, Emilia"
+  },
+  {
+   "period": 2,
+   "clock": "52:15",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "54:45",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Paige Kalal",
+   "player": "Kalal, Paige"
+  },
+  {
+   "period": 2,
+   "clock": "57:47",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Emma Johnson",
+   "player": "Johnson, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "60:17",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Ellie Kocher",
+   "player": "Kocher, Ellie"
+  },
+  {
+   "period": 2,
+   "clock": "60:17",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Anna Babcock",
+   "player": "Babcock, Anna"
+  },
+  {
+   "period": 2,
+   "clock": "61:56",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhighright;) by McKenzie Carle",
+   "player": "Carle, McKenzie",
+   "qual": "goalmouth:outhighright;",
+   "x": 12,
+   "y": 35
+  },
+  {
+   "period": 2,
+   "clock": "62:09",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Jaiden Anderson",
+   "player": "Anderson, Jaiden"
+  },
+  {
+   "period": 2,
+   "clock": "62:09",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Zoe Miles",
+   "player": "Miles, Zoe"
+  },
+  {
+   "period": 2,
+   "clock": "62:50",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Bianca Hanisch",
+   "player": "Hanisch, Bianca"
+  },
+  {
+   "period": 2,
+   "clock": "63:48",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:woodworkright;) by Emma Johnson",
+   "player": "Johnson, Emma",
+   "qual": "goalmouth:woodworkright;",
+   "x": 86,
+   "y": 36
+  },
+  {
+   "period": 2,
+   "clock": "63:48",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Paige Kalal",
+   "player": "Kalal, Paige",
+   "qual": "goalmouth:lowleft;",
+   "x": 91,
+   "y": 55
+  },
+  {
+   "period": 2,
+   "clock": "63:48",
+   "team": "away",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;) by Paige Kalal",
+   "player": "Kalal, Paige",
+   "qual": "goalmouth:lowleft;from:rightfoot;",
+   "x": 91,
+   "y": 55
+  },
+  {
+   "period": 2,
+   "clock": "64:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 2,
+   "clock": "64:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Jaiden Anderson",
+   "player": "Anderson, Jaiden"
+  },
+  {
+   "period": 2,
+   "clock": "64:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Irene Campo",
+   "player": "Campo, Irene"
+  },
+  {
+   "period": 2,
+   "clock": "64:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Addison Feldman",
+   "player": "Feldman, Addison"
+  },
+  {
+   "period": 2,
+   "clock": "64:37",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Rosa Maalouf",
+   "player": "Maalouf, Rosa",
+   "qual": "goalmouth:outhigh;",
+   "x": 15,
+   "y": 43
+  },
+  {
+   "period": 2,
+   "clock": "66:10",
+   "team": "home",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "66:24",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Bianca Hanisch",
+   "player": "Hanisch, Bianca"
+  },
+  {
+   "period": 2,
+   "clock": "67:26",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Dikte Bang",
+   "player": "Bang, Dikte"
+  },
+  {
+   "period": 2,
+   "clock": "69:30",
+   "team": "home",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Zoe Miles",
+   "player": "Miles, Zoe"
+  },
+  {
+   "period": 2,
+   "clock": "69:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Addison Feldman",
+   "player": "Feldman, Addison"
+  },
+  {
+   "period": 2,
+   "clock": "69:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 2,
+   "clock": "69:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out Zoe Miles",
+   "player": "Miles, Zoe"
+  },
+  {
+   "period": 2,
+   "clock": "69:35",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Irene Campo",
+   "player": "Campo, Irene"
+  },
+  {
+   "period": 2,
+   "clock": "70:15",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outleft;) by Megan Santa Cruz",
+   "player": "Santa Cruz, Megan",
+   "qual": "goalmouth:outleft;",
+   "x": 14,
+   "y": 39
+  },
+  {
+   "period": 2,
+   "clock": "71:43",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Irene Campo",
+   "player": "Campo, Irene",
+   "qual": "goalmouth:lowcenter;",
+   "x": 15,
+   "y": 35
+  },
+  {
+   "period": 2,
+   "clock": "71:43",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Mackenzie Gress",
+   "player": "Gress, Mackenzie"
+  },
+  {
+   "period": 2,
+   "clock": "72:21",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Aubrey Kulpa",
+   "player": "Kulpa, Aubrey"
+  },
+  {
+   "period": 2,
+   "clock": "73:26",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outright;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "goalmouth:outright;",
+   "x": 11,
+   "y": 72
+  },
+  {
+   "period": 2,
+   "clock": "74:58",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Anna Babcock",
+   "player": "Babcock, Anna"
+  },
+  {
+   "period": 2,
+   "clock": "75:47",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Emilia Deppe",
+   "player": "Deppe, Emilia"
+  },
+  {
+   "period": 2,
+   "clock": "76:41",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (blocked;) by Jaiden Anderson",
+   "player": "Anderson, Jaiden",
+   "qual": "blocked;",
+   "x": 8,
+   "y": 61
+  },
+  {
+   "period": 2,
+   "clock": "77:18",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Aubrey Kulpa",
+   "player": "Kulpa, Aubrey"
+  },
+  {
+   "period": 2,
+   "clock": "77:22",
+   "team": "home",
+   "type": "offside",
+   "text": "Offside by Team"
+  },
+  {
+   "period": 2,
+   "clock": "78:51",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Emma Johnson",
+   "player": "Johnson, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "78:51",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Layla Tomezak",
+   "player": "Tomezak, Layla"
+  },
+  {
+   "period": 2,
+   "clock": "78:51",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Anna Babcock",
+   "player": "Babcock, Anna"
+  },
+  {
+   "period": 2,
+   "clock": "78:51",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Ellie Kocher",
+   "player": "Kocher, Ellie"
+  },
+  {
+   "period": 2,
+   "clock": "79:20",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Irene Campo",
+   "player": "Campo, Irene"
+  },
+  {
+   "period": 2,
+   "clock": "82:12",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "82:28",
+   "team": "away",
+   "type": "shot",
+   "text": "Shot (blocked;) by Ellie Kocher",
+   "player": "Kocher, Ellie",
+   "qual": "blocked;",
+   "x": 83,
+   "y": 61
+  },
+  {
+   "period": 2,
+   "clock": "82:37",
+   "team": "away",
+   "type": "corner",
+   "text": "Corner(taken) by Team"
+  },
+  {
+   "period": 2,
+   "clock": "82:57",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Aubrey Kulpa",
+   "player": "Kulpa, Aubrey"
+  },
+  {
+   "period": 2,
+   "clock": "83:18",
+   "team": "away",
+   "type": "foul",
+   "text": "Foul by Ellie Kocher",
+   "player": "Kocher, Ellie"
+  },
+  {
+   "period": 2,
+   "clock": "84:47",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowcenter;) by Rosa Maalouf",
+   "player": "Maalouf, Rosa",
+   "qual": "goalmouth:lowcenter;",
+   "x": 9,
+   "y": 36
+  },
+  {
+   "period": 2,
+   "clock": "84:47",
+   "team": "away",
+   "type": "gk",
+   "text": "Save by Mackenzie Gress",
+   "player": "Gress, Mackenzie"
+  },
+  {
+   "period": 2,
+   "clock": "84:47",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Layla Tomezak",
+   "player": "Tomezak, Layla"
+  },
+  {
+   "period": 2,
+   "clock": "84:47",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Emma Johnson",
+   "player": "Johnson, Emma"
+  },
+  {
+   "period": 2,
+   "clock": "86:24",
+   "team": "away",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Aubrey Kulpa",
+   "player": "Kulpa, Aubrey"
+  },
+  {
+   "period": 2,
+   "clock": "87:06",
+   "team": "home",
+   "type": "foul",
+   "text": "Foul by Irene Campo",
+   "player": "Campo, Irene"
+  },
+  {
+   "period": 2,
+   "clock": "88:35",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by Rosa Maalouf",
+   "player": "Maalouf, Rosa",
+   "qual": "goalmouth:outhigh;",
+   "x": 14,
+   "y": 31
+  },
+  {
+   "period": 2,
+   "clock": "89:13",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:outhigh;) by McKenzie Carle",
+   "player": "Carle, McKenzie",
+   "qual": "goalmouth:outhigh;",
+   "x": 16,
+   "y": 66
+  },
+  {
+   "period": 2,
+   "clock": "89:13",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Dikte Bang",
+   "player": "Bang, Dikte"
+  },
+  {
+   "period": 2,
+   "clock": "89:13",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Layla Tomezak",
+   "player": "Tomezak, Layla"
+  },
+  {
+   "period": 3,
+   "clock": "90:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub out McKenzie Carle",
+   "player": "Carle, McKenzie"
+  },
+  {
+   "period": 3,
+   "clock": "90:00",
+   "team": "home",
+   "type": "sub",
+   "text": "Sub in Zoe Miles",
+   "player": "Miles, Zoe"
+  },
+  {
+   "period": 3,
+   "clock": "90:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub out Layla Tomezak",
+   "player": "Tomezak, Layla"
+  },
+  {
+   "period": 3,
+   "clock": "90:00",
+   "team": "away",
+   "type": "sub",
+   "text": "Sub in Dikte Bang",
+   "player": "Bang, Dikte"
+  },
+  {
+   "period": 3,
+   "clock": "91:00",
+   "team": "away",
+   "type": "yellow",
+   "text": "Cardyellow(unsporting) by Bella Ayscue",
+   "player": "Ayscue, Bella"
+  },
+  {
+   "period": 3,
+   "clock": "91:43",
+   "team": "home",
+   "type": "shot",
+   "text": "Shot (goalmouth:lowleft;) by Irene Campo",
+   "player": "Campo, Irene",
+   "qual": "goalmouth:lowleft;",
+   "x": 87,
+   "y": 38
+  },
+  {
+   "period": 3,
+   "clock": "91:43",
+   "team": "home",
+   "type": "goal",
+   "text": "Goal (goalmouth:lowleft;from:rightfoot;) by Irene Campo",
+   "player": "Campo, Irene",
+   "qual": "goalmouth:lowleft;from:rightfoot;",
+   "x": 87,
+   "y": 38
+  }
+ ],
+ "pbp_abbr": {
+  "away": "Penn St.",
+  "home": "Purdue"
+ },
+ "home_team": "Purdue",
+ "away_team": "Penn State",
+ "scrape_score": "2-1"
+}
