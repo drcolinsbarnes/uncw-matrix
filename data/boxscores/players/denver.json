@@ -437,20 +437,20 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1168,
-    "sh": 28,
-    "sog": 14,
+    "gp": 22,
+    "starts": 22,
+    "min": 1246,
+    "sh": 30,
+    "sog": 15,
     "g": 2,
     "a": 3,
-    "fouls": 7,
+    "fouls": 9,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 50.0,
-    "shots_saved": 12,
-    "shots_off_target": 14
+    "shots_saved": 13,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -851,6 +851,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "21",
+     "min": 78,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -858,11 +877,11 @@
    "name": "Elfrink, Sophia",
    "slug": "elfrink-sophia",
    "num": "0",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
-    "gp": 2,
-    "starts": 0,
-    "min": 40,
+    "gp": 3,
+    "starts": 1,
+    "min": 130,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -875,10 +894,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 1,
-     "ga": 1,
-     "saves": 3,
-     "save_pct": 75.0
+     "gp": 2,
+     "ga": 2,
+     "saves": 11,
+     "save_pct": 84.6
     }
    },
    "matches": [
@@ -924,6 +943,30 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 8
+     }
     }
    ]
   },
@@ -1308,19 +1351,19 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 14,
-    "min": 905,
-    "sh": 17,
-    "sog": 6,
+    "gp": 22,
+    "starts": 15,
+    "min": 947,
+    "sh": 18,
+    "sog": 7,
     "g": 1,
     "a": 4,
     "fouls": 10,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.3,
-    "shots_saved": 5,
+    "shot_pct": 38.9,
+    "shots_saved": 6,
     "shots_off_target": 11
    },
    "matches": [
@@ -1722,6 +1765,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 42,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1731,14 +1793,14 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 5,
+    "gp": 6,
     "starts": 0,
-    "min": 49,
+    "min": 114,
     "sh": 3,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -1838,6 +1900,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "MID",
+     "num": "6",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2081,9 +2162,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 15,
-    "min": 1164,
+    "gp": 21,
+    "starts": 16,
+    "min": 1189,
     "sh": 3,
     "sog": 2,
     "g": 1,
@@ -2476,6 +2557,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 25,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2485,20 +2585,20 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1511,
-    "sh": 12,
+    "gp": 22,
+    "starts": 22,
+    "min": 1601,
+    "sh": 13,
     "sog": 4,
     "g": 0,
     "a": 0,
-    "fouls": 4,
+    "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 33.3,
+    "shot_pct": 30.8,
     "shots_saved": 4,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -2899,6 +2999,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2908,9 +3027,9 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 20,
-    "starts": 2,
-    "min": 483,
+    "gp": 21,
+    "starts": 3,
+    "min": 524,
     "sh": 8,
     "sog": 5,
     "g": 0,
@@ -3303,6 +3422,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3312,18 +3450,18 @@
    "num": "15",
    "pos": "MID",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 10,
-    "min": 916,
-    "sh": 4,
-    "sog": 2,
-    "g": 0,
+    "min": 964,
+    "sh": 5,
+    "sog": 3,
+    "g": 1,
     "a": 3,
-    "fouls": 7,
+    "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 60.0,
     "shots_saved": 2,
     "shots_off_target": 2
    },
@@ -3726,6 +3864,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "MID",
+     "num": "15",
+     "min": 48,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3735,9 +3892,9 @@
    "num": "24",
    "pos": "FWD",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 0,
-    "min": 294,
+    "min": 306,
     "sh": 7,
     "sog": 5,
     "g": 2,
@@ -3959,6 +4116,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "FWD",
+     "num": "24",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3968,9 +4144,9 @@
    "num": "4",
    "pos": "MID",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 17,
-    "min": 1196,
+    "min": 1249,
     "sh": 22,
     "sog": 5,
     "g": 2,
@@ -4363,6 +4539,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "MID",
+     "num": "4",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4586,20 +4781,20 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1317,
-    "sh": 34,
+    "gp": 22,
+    "starts": 22,
+    "min": 1397,
+    "sh": 35,
     "sog": 19,
     "g": 7,
     "a": 0,
-    "fouls": 22,
+    "fouls": 23,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.9,
+    "shot_pct": 54.3,
     "shots_saved": 12,
-    "shots_off_target": 15
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -5000,6 +5195,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "19",
+     "min": 80,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5009,20 +5223,20 @@
    "num": "17",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 8,
-    "min": 978,
-    "sh": 19,
-    "sog": 5,
+    "gp": 22,
+    "starts": 9,
+    "min": 1015,
+    "sh": 21,
+    "sog": 6,
     "g": 0,
     "a": 3,
     "fouls": 13,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 26.3,
-    "shots_saved": 5,
-    "shots_off_target": 14
+    "shot_pct": 28.6,
+    "shots_saved": 6,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -5423,6 +5637,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "17",
+     "min": 37,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5798,14 +6031,14 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1179,
+    "gp": 16,
+    "starts": 15,
+    "min": 1269,
     "sh": 6,
     "sog": 4,
     "g": 2,
     "a": 0,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -6098,6 +6331,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6107,9 +6359,9 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 12,
+    "gp": 13,
     "starts": 0,
-    "min": 223,
+    "min": 229,
     "sh": 2,
     "sog": 2,
     "g": 0,
@@ -6350,6 +6602,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "MID",
+     "num": "10",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6359,13 +6630,13 @@
    "num": "16",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 17,
-    "min": 1165,
+    "min": 1218,
     "sh": 25,
     "sog": 12,
     "g": 2,
-    "a": 2,
+    "a": 3,
     "fouls": 10,
     "yc": 2,
     "rc": 0,
@@ -6773,6 +7044,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "FWD",
+     "num": "16",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7129,9 +7419,9 @@
    "num": "12",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
-    "starts": 16,
-    "min": 1501,
+    "gp": 21,
+    "starts": 17,
+    "min": 1591,
     "sh": 18,
     "sog": 8,
     "g": 3,
@@ -7524,6 +7814,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "12",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7709,9 +8018,9 @@
    "num": "22",
    "pos": "DEF",
    "totals": {
-    "gp": 20,
-    "starts": 14,
-    "min": 1335,
+    "gp": 21,
+    "starts": 15,
+    "min": 1425,
     "sh": 11,
     "sog": 5,
     "g": 1,
@@ -8100,6 +8409,25 @@
      "sog": 0,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "Seattle",
+     "home": false,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "22",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,

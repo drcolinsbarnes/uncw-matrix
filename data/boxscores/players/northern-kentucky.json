@@ -9,10 +9,10 @@
    "num": "20",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1765,
-    "sh": 37,
+    "gp": 24,
+    "starts": 24,
+    "min": 1855,
+    "sh": 39,
     "sog": 14,
     "g": 4,
     "a": 4,
@@ -20,9 +20,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 37.8,
+    "shot_pct": 35.9,
     "shots_saved": 10,
-    "shots_off_target": 23
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -455,6 +455,25 @@
      "min": 78,
      "sh": 2,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "20",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
@@ -1619,9 +1638,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1404,
+    "gp": 19,
+    "starts": 19,
+    "min": 1494,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1634,10 +1653,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 14,
-     "ga": 11,
-     "saves": 33,
-     "save_pct": 75.0
+     "gp": 15,
+     "ga": 13,
+     "saves": 37,
+     "save_pct": 74.0
     }
    },
    "matches": [
@@ -2052,6 +2071,30 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 4
+     }
     }
    ]
   },
@@ -2061,13 +2104,13 @@
    "num": "19",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 9,
-    "min": 1046,
+    "gp": 24,
+    "starts": 10,
+    "min": 1122,
     "sh": 43,
     "sog": 20,
     "g": 3,
-    "a": 4,
+    "a": 5,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
@@ -2513,6 +2556,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "",
+     "num": "19",
+     "min": 76,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2522,20 +2584,20 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1829,
-    "sh": 46,
-    "sog": 16,
+    "gp": 24,
+    "starts": 24,
+    "min": 1919,
+    "sh": 49,
+    "sog": 18,
     "g": 6,
     "a": 6,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 34.8,
-    "shots_saved": 10,
-    "shots_off_target": 30
+    "shot_pct": 36.7,
+    "shots_saved": 12,
+    "shots_off_target": 31
    },
    "matches": [
     {
@@ -2974,6 +3036,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3119,12 +3200,12 @@
    "name": "Evans, Caitlin",
    "slug": "evans-caitlin",
    "num": "18",
-   "pos": "MID",
+   "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 22,
-    "min": 1938,
-    "sh": 20,
+    "gp": 24,
+    "starts": 23,
+    "min": 2028,
+    "sh": 21,
     "sog": 12,
     "g": 1,
     "a": 6,
@@ -3132,9 +3213,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 57.1,
     "shots_saved": 11,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3573,6 +3654,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "",
+     "num": "18",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3582,10 +3682,10 @@
    "num": "17",
    "pos": "MID",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 5,
-    "min": 881,
-    "sh": 19,
+    "min": 922,
+    "sh": 20,
     "sog": 8,
     "g": 5,
     "a": 3,
@@ -3593,9 +3693,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.1,
+    "shot_pct": 40.0,
     "shots_saved": 3,
-    "shots_off_target": 11
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -4015,6 +4115,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "",
+     "num": "17",
+     "min": 41,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4388,11 +4507,11 @@
    "name": "Folino, Gabi",
    "slug": "folino-gabi",
    "num": "10",
-   "pos": "MID",
+   "pos": "mid",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 15,
-    "min": 1106,
+    "min": 1120,
     "sh": 20,
     "sog": 3,
     "g": 1,
@@ -4823,6 +4942,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "",
+     "num": "10",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4832,13 +4970,13 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1936,
+    "gp": 24,
+    "starts": 24,
+    "min": 2026,
     "sh": 48,
     "sog": 18,
     "g": 2,
-    "a": 12,
+    "a": 13,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
@@ -5284,6 +5422,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5293,9 +5450,9 @@
    "num": "13",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1954,
+    "gp": 24,
+    "starts": 24,
+    "min": 2044,
     "sh": 15,
     "sog": 2,
     "g": 0,
@@ -5745,6 +5902,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "13",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5754,9 +5930,9 @@
    "num": "24",
    "pos": "fwd",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 0,
-    "min": 372,
+    "min": 376,
     "sh": 11,
     "sog": 7,
     "g": 3,
@@ -6111,6 +6287,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "24",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6174,9 +6369,9 @@
    "num": "23",
    "pos": "def",
    "totals": {
-    "gp": 10,
-    "starts": 4,
-    "min": 419,
+    "gp": 11,
+    "starts": 5,
+    "min": 505,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -6379,6 +6574,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "",
+     "num": "23",
+     "min": 86,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6388,9 +6602,9 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1577,
+    "gp": 24,
+    "starts": 24,
+    "min": 1667,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -6840,6 +7054,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6849,20 +7082,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1802,
-    "sh": 83,
-    "sog": 48,
-    "g": 21,
+    "gp": 24,
+    "starts": 24,
+    "min": 1892,
+    "sh": 88,
+    "sog": 50,
+    "g": 22,
     "a": 5,
     "fouls": 2,
     "yc": 2,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 57.8,
-    "shots_saved": 27,
-    "shots_off_target": 35
+    "shot_pct": 56.8,
+    "shots_saved": 28,
+    "shots_off_target": 38
    },
    "matches": [
     {
@@ -7301,6 +7534,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 1
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 90,
+     "sh": 5,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7308,7 +7560,7 @@
    "name": "Mueller, Avery",
    "slug": "mueller-avery",
    "num": "16",
-   "pos": "fwd",
+   "pos": "FWD",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -7372,19 +7624,19 @@
    "num": "3",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
-    "starts": 18,
-    "min": 1249,
-    "sh": 37,
-    "sog": 15,
+    "gp": 23,
+    "starts": 19,
+    "min": 1298,
+    "sh": 38,
+    "sog": 16,
     "g": 4,
     "a": 9,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 40.5,
-    "shots_saved": 11,
+    "shot_pct": 42.1,
+    "shots_saved": 12,
     "shots_off_target": 22
    },
    "matches": [
@@ -7801,6 +8053,25 @@
      "sog": 1,
      "g": 0,
      "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-07",
+     "opponent": "IU Indianapolis",
+     "home": true,
+     "result": "L",
+     "score": "1-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "3",
+     "min": 49,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
      "fouls": 0,
      "yc": 0,
      "rc": 0,
