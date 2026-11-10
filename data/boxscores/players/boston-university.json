@@ -71,20 +71,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 18,
-    "min": 1406,
-    "sh": 37,
+    "gp": 20,
+    "starts": 19,
+    "min": 1447,
+    "sh": 39,
     "sog": 20,
     "g": 2,
-    "a": 1,
-    "fouls": 4,
+    "a": 2,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 54.1,
+    "shot_pct": 51.3,
     "shots_saved": 18,
-    "shots_off_target": 17
+    "shots_off_target": 19
    },
    "matches": [
     {
@@ -447,6 +447,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "",
+     "num": "6",
+     "min": 41,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -456,20 +475,20 @@
    "num": "30",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 18,
-    "min": 1051,
-    "sh": 32,
-    "sog": 18,
-    "g": 4,
-    "a": 2,
-    "fouls": 3,
+    "gp": 20,
+    "starts": 19,
+    "min": 1099,
+    "sh": 35,
+    "sog": 20,
+    "g": 5,
+    "a": 3,
+    "fouls": 4,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 56.2,
-    "shots_saved": 14,
-    "shots_off_target": 14
+    "shot_pct": 57.1,
+    "shots_saved": 15,
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -832,6 +851,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "30",
+     "min": 48,
+     "sh": 3,
+     "sog": 2,
+     "g": 1,
+     "a": 1,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -884,9 +922,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 11,
-    "starts": 11,
-    "min": 764,
+    "gp": 12,
+    "starts": 12,
+    "min": 854,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -899,10 +937,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 11,
+     "gp": 12,
      "ga": 13,
-     "saves": 25,
-     "save_pct": 65.8
+     "saves": 30,
+     "save_pct": 69.8
     }
    },
    "matches": [
@@ -1166,6 +1204,30 @@
      "pk_g": 0,
      "goalie": {
       "min": "45:00",
+      "ga": 0,
+      "saves": 5
+     }
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
       "ga": 0,
       "saves": 5
      }
@@ -1580,9 +1642,9 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1123,
+    "gp": 17,
+    "starts": 16,
+    "min": 1212,
     "sh": 4,
     "sog": 0,
     "g": 0,
@@ -1899,6 +1961,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 89,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1951,20 +2032,20 @@
    "num": "26",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 11,
-    "min": 1118,
-    "sh": 1,
+    "min": 1149,
+    "sh": 2,
     "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 1,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 50.0,
     "shots_saved": 1,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -2267,6 +2348,25 @@
      "g": 0,
      "a": 0,
      "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "DEF",
+     "num": "26",
+     "min": 31,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -2611,20 +2711,20 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1480,
-    "sh": 21,
+    "gp": 20,
+    "starts": 20,
+    "min": 1570,
+    "sh": 22,
     "sog": 11,
     "g": 1,
     "a": 1,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.4,
+    "shot_pct": 50.0,
     "shots_saved": 10,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -2987,6 +3087,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2996,20 +3115,20 @@
    "num": "19",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 7,
-    "min": 760,
-    "sh": 20,
-    "sog": 12,
+    "min": 796,
+    "sh": 24,
+    "sog": 15,
     "g": 0,
-    "a": 1,
+    "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 12,
-    "shots_off_target": 8
+    "shot_pct": 62.5,
+    "shots_saved": 15,
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3372,6 +3491,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "19",
+     "min": 36,
+     "sh": 4,
+     "sog": 3,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3591,10 +3729,10 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 2,
-    "min": 366,
-    "sh": 14,
+    "min": 389,
+    "sh": 15,
     "sog": 6,
     "g": 1,
     "a": 2,
@@ -3602,9 +3740,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 40.0,
     "shots_saved": 5,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -3929,6 +4067,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "10",
+     "min": 23,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3981,9 +4138,9 @@
    "num": "25",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 11,
-    "min": 1198,
+    "gp": 18,
+    "starts": 12,
+    "min": 1268,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -4319,6 +4476,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "25",
+     "min": 70,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4328,14 +4504,14 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 7,
-    "min": 908,
+    "min": 950,
     "sh": 26,
     "sog": 9,
     "g": 3,
     "a": 5,
-    "fouls": 3,
+    "fouls": 4,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -4685,6 +4861,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "",
+     "num": "7",
+     "min": 42,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4780,18 +4975,18 @@
    "num": "22",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 8,
-    "min": 654,
-    "sh": 9,
-    "sog": 7,
-    "g": 2,
+    "gp": 9,
+    "starts": 9,
+    "min": 731,
+    "sh": 10,
+    "sog": 8,
+    "g": 3,
     "a": 0,
-    "fouls": 10,
+    "fouls": 11,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 77.8,
+    "shot_pct": 80.0,
     "shots_saved": 5,
     "shots_off_target": 2
    },
@@ -4944,6 +5139,25 @@
      "g": 0,
      "a": 0,
      "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "22",
+     "min": 77,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -5187,12 +5401,12 @@
    "name": "Savella, Gianna",
    "slug": "savella-gianna",
    "num": "18",
-   "pos": "mid",
+   "pos": "MID",
    "totals": {
-    "gp": 10,
+    "gp": 11,
     "starts": 0,
-    "min": 178,
-    "sh": 7,
+    "min": 191,
+    "sh": 8,
     "sog": 1,
     "g": 0,
     "a": 0,
@@ -5200,9 +5414,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 14.3,
+    "shot_pct": 12.5,
     "shots_saved": 1,
-    "shots_off_target": 6
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -5394,6 +5608,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "18",
+     "min": 13,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5403,20 +5636,20 @@
    "num": "12",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 14,
-    "min": 851,
-    "sh": 30,
-    "sog": 14,
-    "g": 4,
+    "gp": 20,
+    "starts": 15,
+    "min": 905,
+    "sh": 33,
+    "sog": 15,
+    "g": 5,
     "a": 1,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 46.7,
+    "shot_pct": 45.5,
     "shots_saved": 10,
-    "shots_off_target": 16
+    "shots_off_target": 18
    },
    "matches": [
     {
@@ -5779,6 +6012,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "12",
+     "min": 54,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5788,19 +6040,19 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 3,
-    "min": 396,
-    "sh": 12,
-    "sog": 8,
+    "min": 435,
+    "sh": 13,
+    "sog": 9,
     "g": 1,
     "a": 0,
-    "fouls": 3,
+    "fouls": 5,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
-    "shots_saved": 7,
+    "shot_pct": 69.2,
+    "shots_saved": 8,
     "shots_off_target": 4
    },
    "matches": [
@@ -6050,6 +6302,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "MID",
+     "num": "24",
+     "min": 39,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6102,20 +6373,20 @@
    "num": "27",
    "pos": "FWD",
    "totals": {
-    "gp": 19,
-    "starts": 9,
-    "min": 1072,
-    "sh": 49,
-    "sog": 27,
-    "g": 11,
-    "a": 3,
+    "gp": 20,
+    "starts": 10,
+    "min": 1139,
+    "sh": 54,
+    "sog": 29,
+    "g": 12,
+    "a": 6,
     "fouls": 6,
     "yc": 0,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 55.1,
-    "shots_saved": 16,
-    "shots_off_target": 22
+    "shot_pct": 53.7,
+    "shots_saved": 17,
+    "shots_off_target": 25
    },
    "matches": [
     {
@@ -6478,6 +6749,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "27",
+     "min": 67,
+     "sh": 5,
+     "sog": 2,
+     "g": 1,
+     "a": 3,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6625,20 +6915,20 @@
    "num": "21",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 17,
-    "min": 1484,
-    "sh": 11,
-    "sog": 2,
+    "gp": 18,
+    "starts": 18,
+    "min": 1574,
+    "sh": 13,
+    "sog": 3,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 18.2,
-    "shots_saved": 1,
-    "shots_off_target": 9
+    "shot_pct": 23.1,
+    "shots_saved": 2,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -6963,6 +7253,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "21",
+     "min": 90,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6972,9 +7281,9 @@
    "num": "11",
    "pos": null,
    "totals": {
-    "gp": 19,
-    "starts": 19,
-    "min": 1660,
+    "gp": 20,
+    "starts": 20,
+    "min": 1750,
     "sh": 12,
     "sog": 7,
     "g": 0,
@@ -7345,6 +7654,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Bucknell",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "",
+     "num": "11",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
