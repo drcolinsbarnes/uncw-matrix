@@ -9,20 +9,20 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1292,
-    "sh": 27,
-    "sog": 12,
+    "gp": 22,
+    "starts": 22,
+    "min": 1370,
+    "sh": 30,
+    "sog": 13,
     "g": 0,
     "a": 3,
     "fouls": 9,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 44.4,
-    "shots_saved": 12,
-    "shots_off_target": 15
+    "shot_pct": 43.3,
+    "shots_saved": 13,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -420,6 +420,25 @@
      "g": 0,
      "a": 0,
      "fouls": 5,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 78,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -1207,9 +1226,9 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 8,
-    "min": 687,
+    "min": 692,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1469,6 +1488,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "5",
+     "min": 5,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1478,9 +1516,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 7,
-    "starts": 7,
-    "min": 585,
+    "gp": 8,
+    "starts": 8,
+    "min": 675,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -1493,10 +1531,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 7,
-     "ga": 3,
-     "saves": 11,
-     "save_pct": 78.6
+     "gp": 8,
+     "ga": 4,
+     "saves": 12,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -1667,6 +1705,30 @@
       "ga": 0,
       "saves": 1
      }
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 1
+     }
     }
    ]
   },
@@ -1676,9 +1738,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1643,
+    "gp": 22,
+    "starts": 22,
+    "min": 1728,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -2090,6 +2152,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "MID",
+     "num": "14",
+     "min": 85,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2099,9 +2180,9 @@
    "num": "20",
    "pos": "FWD",
    "totals": {
-    "gp": 14,
+    "gp": 15,
     "starts": 9,
-    "min": 601,
+    "min": 613,
     "sh": 25,
     "sog": 15,
     "g": 2,
@@ -2380,6 +2461,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "20",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2389,9 +2489,9 @@
    "num": "21",
    "pos": "fwd",
    "totals": {
-    "gp": 18,
-    "starts": 4,
-    "min": 479,
+    "gp": 19,
+    "starts": 5,
+    "min": 522,
     "sh": 7,
     "sog": 6,
     "g": 0,
@@ -2746,6 +2846,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "21",
+     "min": 43,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2755,9 +2874,9 @@
    "num": "18",
    "pos": "mid",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 5,
-    "min": 631,
+    "min": 634,
     "sh": 11,
     "sog": 8,
     "g": 4,
@@ -3112,6 +3231,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 3,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3121,9 +3259,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1778,
+    "gp": 22,
+    "starts": 22,
+    "min": 1868,
     "sh": 10,
     "sog": 6,
     "g": 3,
@@ -3535,6 +3673,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3544,9 +3701,9 @@
    "num": "3",
    "pos": "mid",
    "totals": {
-    "gp": 9,
+    "gp": 10,
     "starts": 0,
-    "min": 229,
+    "min": 260,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -3730,6 +3887,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "mid",
+     "num": "3",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3801,19 +3977,19 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 19,
-    "min": 1529,
-    "sh": 29,
-    "sog": 15,
+    "gp": 22,
+    "starts": 20,
+    "min": 1619,
+    "sh": 30,
+    "sog": 16,
     "g": 3,
     "a": 2,
     "fouls": 3,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 51.7,
-    "shots_saved": 12,
+    "shot_pct": 53.3,
+    "shots_saved": 13,
     "shots_off_target": 14
    },
    "matches": [
@@ -4215,6 +4391,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "22",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4224,10 +4419,10 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1750,
-    "sh": 7,
+    "gp": 22,
+    "starts": 22,
+    "min": 1835,
+    "sh": 8,
     "sog": 3,
     "g": 0,
     "a": 1,
@@ -4235,9 +4430,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 37.5,
     "shots_saved": 3,
-    "shots_off_target": 4
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -4638,6 +4833,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "4",
+     "min": 85,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4647,20 +4861,20 @@
    "num": "23",
    "pos": "FWD",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1564,
-    "sh": 42,
-    "sog": 26,
+    "gp": 22,
+    "starts": 22,
+    "min": 1642,
+    "sh": 47,
+    "sog": 30,
     "g": 3,
     "a": 6,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.9,
-    "shots_saved": 23,
-    "shots_off_target": 16
+    "shot_pct": 63.8,
+    "shots_saved": 27,
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -5061,6 +5275,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "23",
+     "min": 78,
+     "sh": 5,
+     "sog": 4,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5151,9 +5384,9 @@
    "num": "26",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 0,
-    "min": 133,
+    "min": 139,
     "sh": 7,
     "sog": 5,
     "g": 5,
@@ -5451,6 +5684,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "26",
+     "min": 6,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5522,9 +5774,9 @@
    "num": "7",
    "pos": "fwd",
    "totals": {
-    "gp": 20,
+    "gp": 21,
     "starts": 3,
-    "min": 520,
+    "min": 544,
     "sh": 12,
     "sog": 10,
     "g": 4,
@@ -5917,6 +6169,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "7",
+     "min": 24,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5999,10 +6270,10 @@
    "num": "28",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1721,
-    "sh": 22,
+    "gp": 22,
+    "starts": 22,
+    "min": 1811,
+    "sh": 23,
     "sog": 12,
     "g": 3,
     "a": 2,
@@ -6010,9 +6281,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.5,
+    "shot_pct": 52.2,
     "shots_saved": 9,
-    "shots_off_target": 10
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -6399,6 +6670,25 @@
      "date": "2026-11-08",
      "opponent": "Murray State",
      "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "28",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
      "result": "L",
      "score": "0-1",
      "start": true,
@@ -6842,20 +7132,20 @@
    "num": "9",
    "pos": null,
    "totals": {
-    "gp": 21,
-    "starts": 15,
-    "min": 1427,
-    "sh": 14,
-    "sog": 5,
+    "gp": 22,
+    "starts": 16,
+    "min": 1517,
+    "sh": 17,
+    "sog": 7,
     "g": 1,
     "a": 2,
     "fouls": 5,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 4,
-    "shots_off_target": 9
+    "shot_pct": 41.2,
+    "shots_saved": 6,
+    "shots_off_target": 10
    },
    "matches": [
     {
@@ -7256,6 +7546,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "",
+     "num": "9",
+     "min": 90,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7265,9 +7574,9 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 20,
-    "starts": 13,
-    "min": 1371,
+    "gp": 21,
+    "starts": 14,
+    "min": 1461,
     "sh": 6,
     "sog": 3,
     "g": 2,
@@ -7646,6 +7955,25 @@
      "date": "2026-11-08",
      "opponent": "Murray State",
      "home": false,
+     "result": "L",
+     "score": "0-1",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-08",
+     "opponent": "Murray State",
+     "home": true,
      "result": "L",
      "score": "0-1",
      "start": true,

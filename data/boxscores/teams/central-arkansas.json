@@ -1,44 +1,44 @@
 {
  "team": "Central Arkansas",
  "season": 2026,
- "games": 25,
+ "games": 26,
  "record": {
   "w": 9,
-  "d": 7,
+  "d": 8,
   "l": 9
  },
  "totals": {
   "for": {
-   "shots": 283,
-   "shots_on_goal": 146,
-   "saves": 113,
-   "corner_kicks": 109,
-   "fouls": 213,
+   "shots": 294,
+   "shots_on_goal": 149,
+   "saves": 119,
+   "corner_kicks": 113,
+   "fouls": 229,
    "offsides": 29,
    "yc": 23,
    "rc": 0,
    "pk_g": 0,
-   "goals": 34,
-   "shot_pct": 51.6,
-   "shots_saved": 112,
-   "shots_off_target": 137,
-   "gk_save_pct": 77.4
+   "goals": 35,
+   "shot_pct": 50.7,
+   "shots_saved": 114,
+   "shots_off_target": 145,
+   "gk_save_pct": 77.8
   },
   "against": {
-   "shots": 332,
-   "shots_on_goal": 146,
-   "saves": 112,
-   "corner_kicks": 134,
-   "fouls": 244,
-   "offsides": 25,
-   "yc": 16,
+   "shots": 347,
+   "shots_on_goal": 153,
+   "saves": 114,
+   "corner_kicks": 140,
+   "fouls": 253,
+   "offsides": 28,
+   "yc": 17,
    "rc": 0,
    "pk_g": 1,
-   "goals": 33,
-   "shot_pct": 44.0,
-   "shots_saved": 113,
-   "shots_off_target": 186,
-   "gk_save_pct": 76.7
+   "goals": 34,
+   "shot_pct": 44.1,
+   "shots_saved": 119,
+   "shots_off_target": 194,
+   "gk_save_pct": 76.5
   }
  },
  "matches": [
@@ -1915,6 +1915,104 @@
    "source": "roarlions.com-5466",
    "source_url": "https://roarlions.com/sports/womens-soccer/stats/2026/central-arkansas/boxscore/5466",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-11-08",
+   "opponent": "Queens (N.C.)",
+   "home": true,
+   "result": "D",
+   "score": "1-1",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     5,
+     5,
+     1,
+     0,
+     0
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     3,
+     1,
+     0,
+     0
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     1,
+     2,
+     1,
+     0,
+     0
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     8,
+     7,
+     1,
+     0,
+     0
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 27.3,
+    "shots_saved": 2,
+    "shots_off_target": 8,
+    "gk_save_pct": 85.7
+   },
+   "against": {
+    "shots": 15,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     9,
+     4,
+     1,
+     1,
+     0
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     1,
+     1,
+     0,
+     0,
+     0
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     4,
+     2,
+     0,
+     0,
+     0
+    ],
+    "fouls": 9,
+    "fouls_by_period": [
+     3,
+     3,
+     2,
+     1,
+     0
+    ],
+    "offsides": 3,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 46.7,
+    "shots_saved": 6,
+    "shots_off_target": 8,
+    "gk_save_pct": 66.7
+   },
+   "source": "ucasports.com-12590",
+   "source_url": "https://ucasports.com/sports/womens-soccer/stats/2026/north-alabama/boxscore/12590",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -2355,6 +2453,34 @@
    "gk_save_pct": null
   },
   {
+   "name": "Dorfman, Emily",
+   "slug": "dorfman-emily",
+   "num": "1",
+   "pos": "GK",
+   "gp": 2,
+   "starts": 2,
+   "min": 220,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "goalie": {
+    "gp": 1,
+    "ga": 1,
+    "saves": 6,
+    "save_pct": 85.7
+   },
+   "no": 20,
+   "gk_save_pct": 85.7
+  },
+  {
    "name": "Hurley, Kayla",
    "slug": "hurley-kayla",
    "num": "11",
@@ -2373,7 +2499,161 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 2,
-   "no": 20,
+   "no": 21,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Speight, Adelyn",
+   "slug": "speight-adelyn",
+   "num": "8",
+   "pos": "MID",
+   "gp": 2,
+   "starts": 2,
+   "min": 213,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 22,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Welsh, Meg",
+   "slug": "welsh-meg",
+   "num": "15",
+   "pos": "FWD",
+   "gp": 2,
+   "starts": 2,
+   "min": 168,
+   "sh": 8,
+   "sog": 2,
+   "g": 1,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 6,
+   "no": 23,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Fugarino, Anna",
+   "slug": "fugarino-anna",
+   "num": "19",
+   "pos": "FWD",
+   "gp": 2,
+   "starts": 1,
+   "min": 154,
+   "sh": 4,
+   "sog": 1,
+   "g": 0,
+   "a": 1,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 25.0,
+   "shots_saved": 1,
+   "shots_off_target": 3,
+   "no": 24,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Pitzer, Cara",
+   "slug": "pitzer-cara",
+   "num": "23",
+   "pos": "mid",
+   "gp": 2,
+   "starts": 1,
+   "min": 139,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 25,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Owens, Alana",
+   "slug": "owens-alana",
+   "num": "22",
+   "pos": "FWD",
+   "gp": 2,
+   "starts": 2,
+   "min": 137,
+   "sh": 3,
+   "sog": 2,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 2,
+   "shots_off_target": 1,
+   "no": 26,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Smith, Avery",
+   "slug": "smith-avery",
+   "num": "28",
+   "pos": "fwd",
+   "gp": 2,
+   "starts": 1,
+   "min": 127,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 27,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Sobotka, Charlotte",
+   "slug": "sobotka-charlotte",
+   "num": "17",
+   "pos": "FWD",
+   "gp": 2,
+   "starts": 1,
+   "min": 119,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 28,
    "gk_save_pct": null
   },
   {
@@ -2395,7 +2675,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 21,
+   "no": 29,
    "gk_save_pct": null
   },
   {
@@ -2417,41 +2697,13 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 22,
+   "no": 30,
    "gk_save_pct": null
   },
   {
-   "name": "Dorfman, Emily",
-   "slug": "dorfman-emily",
-   "num": "1",
-   "pos": "GK",
-   "gp": 1,
-   "starts": 1,
-   "min": 110,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "goalie": {
-    "gp": 1,
-    "ga": 1,
-    "saves": 2,
-    "save_pct": 66.7
-   },
-   "no": 23,
-   "gk_save_pct": 66.7
-  },
-  {
-   "name": "Pitzer, Cara",
-   "slug": "pitzer-cara",
-   "num": "23",
+   "name": "Ford, Lilly",
+   "slug": "ford-lilly",
+   "num": "25",
    "pos": "DEF",
    "gp": 1,
    "starts": 1,
@@ -2467,7 +2719,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 24,
+   "no": 31,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Tyrrell, Gracie",
+   "slug": "tyrrell-gracie",
+   "num": "11",
+   "pos": "DEF",
+   "gp": 1,
+   "starts": 1,
+   "min": 110,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 32,
    "gk_save_pct": null
   },
   {
@@ -2489,40 +2763,18 @@
    "shot_pct": 66.7,
    "shots_saved": 2,
    "shots_off_target": 1,
-   "no": 25,
+   "no": 33,
    "gk_save_pct": null
   },
   {
-   "name": "Speight, Adelyn",
-   "slug": "speight-adelyn",
-   "num": "8",
+   "name": "Nieroda, Emerson",
+   "slug": "nieroda-emerson",
+   "num": "26",
    "pos": "MID",
    "gp": 1,
    "starts": 1,
-   "min": 103,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 100.0,
-   "shots_saved": 1,
-   "shots_off_target": 0,
-   "no": 26,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Welsh, Meg",
-   "slug": "welsh-meg",
-   "num": "15",
-   "pos": "MID",
-   "gp": 1,
-   "starts": 1,
-   "min": 94,
-   "sh": 2,
+   "min": 100,
+   "sh": 0,
    "sog": 0,
    "g": 0,
    "a": 0,
@@ -2530,10 +2782,10 @@
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 0.0,
-   "shots_saved": 0,
-   "shots_off_target": 2,
-   "no": 27,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 34,
    "gk_save_pct": null
   },
   {
@@ -2555,29 +2807,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 28,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Fugarino, Anna",
-   "slug": "fugarino-anna",
-   "num": "19",
-   "pos": "FWD",
-   "gp": 1,
-   "starts": 1,
-   "min": 90,
-   "sh": 3,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 33.3,
-   "shots_saved": 1,
-   "shots_off_target": 2,
-   "no": 29,
+   "no": 35,
    "gk_save_pct": null
   },
   {
@@ -2605,7 +2835,7 @@
     "saves": 8,
     "save_pct": 80.0
    },
-   "no": 30,
+   "no": 36,
    "gk_save_pct": 80.0
   },
   {
@@ -2627,7 +2857,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 31,
+   "no": 37,
    "gk_save_pct": null
   },
   {
@@ -2655,7 +2885,7 @@
     "saves": 5,
     "save_pct": 100.0
    },
-   "no": 32,
+   "no": 38,
    "gk_save_pct": 100.0
   },
   {
@@ -2677,7 +2907,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 33,
+   "no": 39,
    "gk_save_pct": null
   },
   {
@@ -2699,7 +2929,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 34,
+   "no": 40,
+   "gk_save_pct": null
+  },
+  {
+   "name": "El Assal, Gizelle",
+   "slug": "el-assal-gizelle",
+   "num": "9",
+   "pos": "mid",
+   "gp": 2,
+   "starts": 1,
+   "min": 89,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 41,
    "gk_save_pct": null
   },
   {
@@ -2721,7 +2973,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 35,
+   "no": 42,
    "gk_save_pct": null
   },
   {
@@ -2743,29 +2995,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 36,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Sobotka, Charlotte",
-   "slug": "sobotka-charlotte",
-   "num": "17",
-   "pos": "FWD",
-   "gp": 1,
-   "starts": 1,
-   "min": 82,
-   "sh": 1,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 100.0,
-   "shots_saved": 1,
-   "shots_off_target": 0,
-   "no": 37,
+   "no": 43,
    "gk_save_pct": null
   },
   {
@@ -2787,7 +3017,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 38,
+   "no": 44,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Yoder, Monica",
+   "slug": "yoder-monica",
+   "num": "6",
+   "pos": "MID",
+   "gp": 1,
+   "starts": 1,
+   "min": 80,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 45,
    "gk_save_pct": null
   },
   {
@@ -2809,29 +3061,7 @@
    "shot_pct": 33.3,
    "shots_saved": 1,
    "shots_off_target": 4,
-   "no": 39,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Owens, Alana",
-   "slug": "owens-alana",
-   "num": "22",
-   "pos": "DEF",
-   "gp": 1,
-   "starts": 1,
-   "min": 76,
-   "sh": 2,
-   "sog": 1,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 50.0,
-   "shots_saved": 1,
-   "shots_off_target": 1,
-   "no": 40,
+   "no": 46,
    "gk_save_pct": null
   },
   {
@@ -2853,7 +3083,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 41,
+   "no": 47,
    "gk_save_pct": null
   },
   {
@@ -2875,7 +3105,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 42,
+   "no": 48,
    "gk_save_pct": null
   },
   {
@@ -2897,7 +3127,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 43,
+   "no": 49,
    "gk_save_pct": null
   },
   {
@@ -2919,7 +3149,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 44,
+   "no": 50,
    "gk_save_pct": null
   },
   {
@@ -2941,7 +3171,7 @@
    "shot_pct": 75.0,
    "shots_saved": 3,
    "shots_off_target": 1,
-   "no": 45,
+   "no": 51,
    "gk_save_pct": null
   },
   {
@@ -2963,7 +3193,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 46,
+   "no": 52,
    "gk_save_pct": null
   },
   {
@@ -2985,7 +3215,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 47,
+   "no": 53,
    "gk_save_pct": null
   },
   {
@@ -3007,7 +3237,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 48,
+   "no": 54,
    "gk_save_pct": null
   },
   {
@@ -3029,7 +3259,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 49,
+   "no": 55,
    "gk_save_pct": null
   },
   {
@@ -3051,7 +3281,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 50,
+   "no": 56,
    "gk_save_pct": null
   },
   {
@@ -3073,7 +3303,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 51,
+   "no": 57,
    "gk_save_pct": null
   },
   {
@@ -3095,7 +3325,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 52,
+   "no": 58,
    "gk_save_pct": null
   },
   {
@@ -3117,7 +3347,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 53,
+   "no": 59,
    "gk_save_pct": null
   },
   {
@@ -3139,7 +3369,29 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 54,
+   "no": 60,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Martin, Parker",
+   "slug": "martin-parker",
+   "num": "33",
+   "pos": "FWD",
+   "gp": 1,
+   "starts": 1,
+   "min": 46,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 61,
    "gk_save_pct": null
   },
   {
@@ -3161,7 +3413,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 55,
+   "no": 62,
    "gk_save_pct": null
   },
   {
@@ -3183,7 +3435,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 56,
+   "no": 63,
    "gk_save_pct": null
   },
   {
@@ -3205,7 +3457,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 57,
+   "no": 64,
    "gk_save_pct": null
   },
   {
@@ -3227,7 +3479,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 58,
+   "no": 65,
    "gk_save_pct": null
   },
   {
@@ -3249,7 +3501,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 59,
+   "no": 66,
    "gk_save_pct": null
   },
   {
@@ -3271,7 +3523,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 60,
+   "no": 67,
    "gk_save_pct": null
   },
   {
@@ -3293,7 +3545,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 61,
+   "no": 68,
    "gk_save_pct": null
   },
   {
@@ -3315,29 +3567,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 62,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Smith, Avery",
-   "slug": "smith-avery",
-   "num": "28",
-   "pos": "fwd",
-   "gp": 1,
-   "starts": 0,
-   "min": 34,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 63,
+   "no": 69,
    "gk_save_pct": null
   },
   {
@@ -3359,7 +3589,7 @@
    "shot_pct": 100.0,
    "shots_saved": 2,
    "shots_off_target": 0,
-   "no": 64,
+   "no": 70,
    "gk_save_pct": null
   },
   {
@@ -3381,7 +3611,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 65,
+   "no": 71,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Schneiderhahn, Catherine",
+   "slug": "schneiderhahn-catherine",
+   "num": "18",
+   "pos": "fwd",
+   "gp": 1,
+   "starts": 0,
+   "min": 31,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 72,
    "gk_save_pct": null
   },
   {
@@ -3403,7 +3655,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 66,
+   "no": 73,
    "gk_save_pct": null
   },
   {
@@ -3425,7 +3677,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 67,
+   "no": 74,
    "gk_save_pct": null
   },
   {
@@ -3447,7 +3699,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 68,
+   "no": 75,
    "gk_save_pct": null
   },
   {
@@ -3469,7 +3721,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 69,
+   "no": 76,
    "gk_save_pct": null
   },
   {
@@ -3491,7 +3743,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 70,
+   "no": 77,
    "gk_save_pct": null
   },
   {
@@ -3513,7 +3765,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 71,
+   "no": 78,
    "gk_save_pct": null
   },
   {
@@ -3535,7 +3787,95 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 72,
+   "no": 79,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Barr, Mya",
+   "slug": "barr-mya",
+   "num": "29",
+   "pos": "fwd",
+   "gp": 1,
+   "starts": 0,
+   "min": 19,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 80,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Federle, Carolyn",
+   "slug": "federle-carolyn",
+   "num": "27",
+   "pos": "fwd",
+   "gp": 1,
+   "starts": 0,
+   "min": 19,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 81,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Wallace, Langley",
+   "slug": "wallace-langley",
+   "num": "5",
+   "pos": "def",
+   "gp": 1,
+   "starts": 0,
+   "min": 17,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 82,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Reynolds, Maddie",
+   "slug": "reynolds-maddie",
+   "num": "16",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 16,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 83,
    "gk_save_pct": null
   },
   {
@@ -3557,7 +3897,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 73,
+   "no": 84,
    "gk_save_pct": null
   },
   {
@@ -3579,7 +3919,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 74,
+   "no": 85,
    "gk_save_pct": null
   },
   {
@@ -3601,7 +3941,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 75,
+   "no": 86,
    "gk_save_pct": null
   },
   {
@@ -3623,7 +3963,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 76,
+   "no": 87,
    "gk_save_pct": null
   },
   {
@@ -3645,7 +3985,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 77,
+   "no": 88,
    "gk_save_pct": null
   },
   {
@@ -3667,29 +4007,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 78,
-   "gk_save_pct": null
-  },
-  {
-   "name": "El Assal, Gizelle",
-   "slug": "el-assal-gizelle",
-   "num": "9",
-   "pos": "mid",
-   "gp": 1,
-   "starts": 0,
-   "min": 5,
-   "sh": 0,
-   "sog": 0,
-   "g": 0,
-   "a": 0,
-   "fouls": 0,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": null,
-   "shots_saved": null,
-   "shots_off_target": null,
-   "no": 79,
+   "no": 89,
    "gk_save_pct": null
   },
   {
@@ -3711,7 +4029,35 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 80,
+   "no": 90,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Smith, Cecilia",
+   "slug": "smith-cecilia",
+   "num": "32",
+   "pos": "gk",
+   "gp": 1,
+   "starts": 0,
+   "min": 0,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "goalie": {
+    "gp": 1,
+    "ga": 0,
+    "saves": 0,
+    "save_pct": null
+   },
+   "no": 91,
    "gk_save_pct": null
   }
  ],
@@ -3721,7 +4067,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 32,
+  "unknown": 33,
   "categorized": 0
  }
 }

@@ -4,6 +4,60 @@
  "season": 2026,
  "players": [
   {
+   "name": "Alexander, Hannah",
+   "slug": "alexander-hannah",
+   "num": "1",
+   "pos": "GK",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 1,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null,
+    "goalie": {
+     "gp": 1,
+     "ga": 0,
+     "saves": 7,
+     "save_pct": 100.0
+    }
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 7
+     }
+    }
+   ]
+  },
+  {
    "name": "Avonyo, Jessica",
    "slug": "avonyo-jessica",
    "num": "26",
@@ -1449,6 +1503,135 @@
    ]
   },
   {
+   "name": "Casey, Abigail",
+   "slug": "casey-abigail",
+   "num": "7",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 28,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "7",
+     "min": 28,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Coates, Louise",
+   "slug": "coates-louise",
+   "num": "31",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 35,
+    "sh": 2,
+    "sog": 1,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "31",
+     "min": 35,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Coker, Tyler",
+   "slug": "coker-tyler",
+   "num": "9",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 45,
+    "sh": 3,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 1,
+    "shots_off_target": 2
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 45,
+     "sh": 3,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Doyle, Sammi",
    "slug": "doyle-sammi",
    "num": "21",
@@ -2775,6 +2958,49 @@
    ]
   },
   {
+   "name": "Guion, Sloane",
+   "slug": "guion-sloane",
+   "num": "17",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 10,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "17",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Harris, Kaylie",
    "slug": "harris-kaylie",
    "num": "17",
@@ -3239,7 +3465,7 @@
    "name": "Heard, Ava",
    "slug": "heard-ava",
    "num": "30",
-   "pos": "DEF",
+   "pos": "def",
    "totals": {
     "gp": 4,
     "starts": 2,
@@ -3330,6 +3556,49 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Heintz, Morgan",
+   "slug": "heintz-morgan",
+   "num": "6",
+   "pos": "MID",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 79,
+    "sh": 2,
+    "sog": 1,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 79,
+     "sh": 2,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -3935,6 +4204,49 @@
    ]
   },
   {
+   "name": "Ishaque, Zaiba",
+   "slug": "ishaque-zaiba",
+   "num": "4",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 53,
+    "sh": 2,
+    "sog": 2,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "4",
+     "min": 53,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Jones, Ava",
    "slug": "jones-ava",
    "num": "15",
@@ -4016,6 +4328,135 @@
    ]
   },
   {
+   "name": "Kish, Hayden",
+   "slug": "kish-hayden",
+   "num": "8",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 75,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 75,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Kish, Taylor",
+   "slug": "kish-taylor",
+   "num": "10",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 71,
+    "sh": 1,
+    "sog": 1,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "10",
+     "min": 71,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Lara, Atiana",
+   "slug": "lara-atiana",
+   "num": "2",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 54,
+    "sh": 4,
+    "sog": 2,
+    "g": 0,
+    "a": 1,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 2
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "2",
+     "min": 54,
+     "sh": 4,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "LeCompte, Presley",
    "slug": "lecompte-presley",
    "num": "19",
@@ -4072,6 +4513,92 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Livingston, Joella",
+   "slug": "livingston-joella",
+   "num": "24",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 55,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "24",
+     "min": 55,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Mathews, Montanna",
+   "slug": "mathews-montanna",
+   "num": "20",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 80,
+    "sh": 1,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 1
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 80,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -4747,6 +5274,92 @@
      "num": "32",
      "min": 16,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Olmo, Peri",
+   "slug": "olmo-peri",
+   "num": "11",
+   "pos": "FWD",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 40,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 1,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "11",
+     "min": 40,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Orellana, Olivia",
+   "slug": "orellana-olivia",
+   "num": "12",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 30,
+    "sh": 2,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 0.0,
+    "shots_saved": 0,
+    "shots_off_target": 2
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "12",
+     "min": 30,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -6386,6 +6999,49 @@
    ]
   },
   {
+   "name": "Ruff, Lily",
+   "slug": "ruff-lily",
+   "num": "18",
+   "pos": "mid",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 12,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "mid",
+     "num": "18",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
    "name": "Schad, Lauren",
    "slug": "schad-lauren",
    "num": "27",
@@ -6531,6 +7187,135 @@
      "pos": "def",
      "num": "27",
      "min": 9,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Sheldon, Riley",
+   "slug": "sheldon-riley",
+   "num": "27",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 90,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Unruh, Grasyn",
+   "slug": "unruh-grasyn",
+   "num": "5",
+   "pos": "def",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 36,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 36,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Villa, Kiana",
+   "slug": "villa-kiana",
+   "num": "3",
+   "pos": "DEF",
+   "totals": {
+    "gp": 1,
+    "starts": 1,
+    "min": 69,
+    "sh": 0,
+    "sog": 0,
+    "g": 0,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": null,
+    "shots_saved": null,
+    "shots_off_target": null
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 69,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -6995,6 +7780,49 @@
      "sh": 0,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    }
+   ]
+  },
+  {
+   "name": "Watson, Julia",
+   "slug": "watson-julia",
+   "num": "25",
+   "pos": "fwd",
+   "totals": {
+    "gp": 1,
+    "starts": 0,
+    "min": 38,
+    "sh": 1,
+    "sog": 1,
+    "g": 1,
+    "a": 0,
+    "fouls": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 0,
+    "shots_off_target": 0
+   },
+   "matches": [
+    {
+     "date": "2026-11-10",
+     "opponent": "Incarnate Word",
+     "home": true,
+     "result": "W",
+     "score": "4-0",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 38,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,
