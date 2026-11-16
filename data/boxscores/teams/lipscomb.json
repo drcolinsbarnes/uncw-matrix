@@ -1,44 +1,44 @@
 {
  "team": "Lipscomb",
  "season": 2026,
- "games": 21,
+ "games": 22,
  "record": {
-  "w": 9,
+  "w": 10,
   "d": 8,
   "l": 4
  },
  "totals": {
   "for": {
-   "shots": 289,
-   "shots_on_goal": 135,
-   "saves": 83,
-   "corner_kicks": 118,
-   "fouls": 190,
+   "shots": 295,
+   "shots_on_goal": 138,
+   "saves": 93,
+   "corner_kicks": 119,
+   "fouls": 202,
    "offsides": 43,
-   "yc": 10,
+   "yc": 12,
    "rc": 0,
    "pk_g": 1,
-   "goals": 31,
-   "shot_pct": 46.7,
-   "shots_saved": 104,
-   "shots_off_target": 154,
-   "gk_save_pct": 79.0
+   "goals": 32,
+   "shot_pct": 46.8,
+   "shots_saved": 106,
+   "shots_off_target": 157,
+   "gk_save_pct": 80.9
   },
   "against": {
-   "shots": 225,
-   "shots_on_goal": 104,
-   "saves": 105,
-   "corner_kicks": 103,
-   "fouls": 168,
+   "shots": 253,
+   "shots_on_goal": 114,
+   "saves": 107,
+   "corner_kicks": 107,
+   "fouls": 174,
    "offsides": 45,
-   "yc": 14,
+   "yc": 15,
    "rc": 0,
    "pk_g": 0,
    "goals": 22,
-   "shot_pct": 46.2,
-   "shots_saved": 82,
-   "shots_off_target": 121,
-   "gk_save_pct": 77.2
+   "shot_pct": 45.1,
+   "shots_saved": 92,
+   "shots_off_target": 139,
+   "gk_save_pct": 77.0
   }
  },
  "matches": [
@@ -1595,6 +1595,80 @@
    "source": "unfospreys.com-21762",
    "source_url": "https://unfospreys.com:443/sports/womens-soccer/stats/2026/no-6-lipscomb/boxscore/21762",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-11-13",
+   "opponent": "FGCU",
+   "home": false,
+   "result": "W",
+   "score": "1-0",
+   "for": {
+    "shots": 6,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     2,
+     4
+    ],
+    "saves": 10,
+    "saves_by_period": [
+     2,
+     8
+    ],
+    "corner_kicks": 1,
+    "corner_kicks_by_period": [
+     1,
+     0
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     7,
+     5
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 2,
+    "shots_off_target": 3,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 28,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     10,
+     18
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     0,
+     2
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     2,
+     2
+    ],
+    "fouls": 6,
+    "fouls_by_period": [
+     3,
+     3
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 35.7,
+    "shots_saved": 10,
+    "shots_off_target": 18,
+    "gk_save_pct": 66.7
+   },
+   "source": "fgcuathletics.com-15259",
+   "source_url": "https://fgcuathletics.com/sports/womens-soccer/stats/2026/lipscomb/boxscore/15259",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -1603,9 +1677,9 @@
    "slug": "carapazza-natalia",
    "num": "19",
    "pos": null,
-   "gp": 15,
-   "starts": 15,
-   "min": 1326,
+   "gp": 16,
+   "starts": 16,
+   "min": 1416,
    "sh": 4,
    "sog": 3,
    "g": 1,
@@ -1625,9 +1699,9 @@
    "slug": "brown-maryn",
    "num": "17",
    "pos": null,
-   "gp": 15,
-   "starts": 15,
-   "min": 1324,
+   "gp": 16,
+   "starts": 16,
+   "min": 1414,
    "sh": 4,
    "sog": 2,
    "g": 0,
@@ -1640,6 +1714,50 @@
    "shots_saved": 2,
    "shots_off_target": 2,
    "no": 2,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Ahlemeyer, Tatum",
+   "slug": "ahlemeyer-tatum",
+   "num": "5",
+   "pos": "MID",
+   "gp": 16,
+   "starts": 16,
+   "min": 1381,
+   "sh": 35,
+   "sog": 21,
+   "g": 6,
+   "a": 2,
+   "fouls": 5,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 60.0,
+   "shots_saved": 15,
+   "shots_off_target": 14,
+   "no": 3,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Iliff, Chloe",
+   "slug": "iliff-chloe",
+   "num": "8",
+   "pos": "MID",
+   "gp": 16,
+   "starts": 16,
+   "min": 1381,
+   "sh": 3,
+   "sog": 1,
+   "g": 0,
+   "a": 2,
+   "fouls": 6,
+   "yc": 2,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 33.3,
+   "shots_saved": 1,
+   "shots_off_target": 2,
+   "no": 4,
    "gk_save_pct": null
   },
   {
@@ -1667,61 +1785,17 @@
     "saves": 73,
     "save_pct": 82.0
    },
-   "no": 3,
-   "gk_save_pct": 82.0
-  },
-  {
-   "name": "Ahlemeyer, Tatum",
-   "slug": "ahlemeyer-tatum",
-   "num": "5",
-   "pos": "MID",
-   "gp": 15,
-   "starts": 15,
-   "min": 1291,
-   "sh": 34,
-   "sog": 21,
-   "g": 6,
-   "a": 2,
-   "fouls": 5,
-   "yc": 1,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 61.8,
-   "shots_saved": 15,
-   "shots_off_target": 13,
-   "no": 4,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Iliff, Chloe",
-   "slug": "iliff-chloe",
-   "num": "8",
-   "pos": "MID",
-   "gp": 15,
-   "starts": 15,
-   "min": 1291,
-   "sh": 3,
-   "sog": 1,
-   "g": 0,
-   "a": 2,
-   "fouls": 6,
-   "yc": 1,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 33.3,
-   "shots_saved": 1,
-   "shots_off_target": 2,
    "no": 5,
-   "gk_save_pct": null
+   "gk_save_pct": 82.0
   },
   {
    "name": "Whitecavage, Kinsley",
    "slug": "whitecavage-kinsley",
    "num": "4",
    "pos": "FWD",
-   "gp": 14,
-   "starts": 13,
-   "min": 1052,
+   "gp": 15,
+   "starts": 14,
+   "min": 1142,
    "sh": 14,
    "sog": 4,
    "g": 0,
@@ -1741,9 +1815,9 @@
    "slug": "ross-abigail",
    "num": "24",
    "pos": null,
-   "gp": 15,
-   "starts": 14,
-   "min": 941,
+   "gp": 16,
+   "starts": 15,
+   "min": 1031,
    "sh": 12,
    "sog": 4,
    "g": 2,
@@ -1763,15 +1837,15 @@
    "slug": "o-brien-keely",
    "num": "6",
    "pos": "MID",
-   "gp": 13,
+   "gp": 14,
    "starts": 10,
-   "min": 882,
+   "min": 963,
    "sh": 4,
    "sog": 1,
    "g": 0,
    "a": 0,
    "fouls": 3,
-   "yc": 1,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 25.0,
@@ -1785,19 +1859,19 @@
    "slug": "brightwell-katie",
    "num": "2",
    "pos": "FWD",
-   "gp": 15,
-   "starts": 11,
-   "min": 829,
-   "sh": 15,
-   "sog": 11,
+   "gp": 16,
+   "starts": 12,
+   "min": 915,
+   "sh": 16,
+   "sog": 12,
    "g": 2,
    "a": 1,
    "fouls": 0,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 73.3,
-   "shots_saved": 9,
+   "shot_pct": 75.0,
+   "shots_saved": 10,
    "shots_off_target": 4,
    "no": 9,
    "gk_save_pct": null
@@ -1807,19 +1881,19 @@
    "slug": "dean-haylee",
    "num": "3",
    "pos": "FWD",
-   "gp": 15,
+   "gp": 16,
    "starts": 7,
-   "min": 587,
-   "sh": 24,
-   "sog": 12,
-   "g": 3,
+   "min": 624,
+   "sh": 26,
+   "sog": 14,
+   "g": 4,
    "a": 0,
    "fouls": 1,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 50.0,
-   "shots_saved": 9,
+   "shot_pct": 53.8,
+   "shots_saved": 10,
    "shots_off_target": 12,
    "no": 10,
    "gk_save_pct": null
@@ -1829,9 +1903,9 @@
    "slug": "prejean-jaide-simone",
    "num": "22",
    "pos": "FWD",
-   "gp": 12,
+   "gp": 13,
    "starts": 6,
-   "min": 514,
+   "min": 526,
    "sh": 16,
    "sog": 10,
    "g": 1,
@@ -1851,9 +1925,9 @@
    "slug": "cannada-annalise",
    "num": "9",
    "pos": "def",
-   "gp": 12,
+   "gp": 13,
    "starts": 3,
-   "min": 508,
+   "min": 514,
    "sh": 13,
    "sog": 6,
    "g": 1,
@@ -1869,57 +1943,13 @@
    "gk_save_pct": null
   },
   {
-   "name": "Cook, Colby",
-   "slug": "cook-colby",
-   "num": "11",
-   "pos": "DEF",
-   "gp": 11,
-   "starts": 6,
-   "min": 501,
-   "sh": 6,
-   "sog": 4,
-   "g": 0,
-   "a": 0,
-   "fouls": 2,
-   "yc": 0,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 66.7,
-   "shots_saved": 4,
-   "shots_off_target": 2,
-   "no": 13,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Vloedman, Teah",
-   "slug": "vloedman-teah",
-   "num": "7",
-   "pos": "mid",
-   "gp": 14,
-   "starts": 3,
-   "min": 494,
-   "sh": 5,
-   "sog": 2,
-   "g": 0,
-   "a": 1,
-   "fouls": 2,
-   "yc": 1,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 40.0,
-   "shots_saved": 2,
-   "shots_off_target": 3,
-   "no": 14,
-   "gk_save_pct": null
-  },
-  {
    "name": "Millo, Addison",
    "slug": "millo-addison",
    "num": "12",
    "pos": "FWD",
-   "gp": 12,
-   "starts": 4,
-   "min": 464,
+   "gp": 13,
+   "starts": 5,
+   "min": 511,
    "sh": 7,
    "sog": 1,
    "g": 1,
@@ -1931,7 +1961,29 @@
    "shot_pct": 14.3,
    "shots_saved": 0,
    "shots_off_target": 6,
-   "no": 15,
+   "no": 13,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Cook, Colby",
+   "slug": "cook-colby",
+   "num": "11",
+   "pos": "DEF",
+   "gp": 12,
+   "starts": 6,
+   "min": 507,
+   "sh": 6,
+   "sog": 4,
+   "g": 0,
+   "a": 0,
+   "fouls": 2,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 4,
+   "shots_off_target": 2,
+   "no": 14,
    "gk_save_pct": null
   },
   {
@@ -1939,10 +1991,10 @@
    "slug": "cole-skylar",
    "num": "21",
    "pos": null,
-   "gp": 10,
-   "starts": 3,
-   "min": 427,
-   "sh": 19,
+   "gp": 11,
+   "starts": 4,
+   "min": 503,
+   "sh": 21,
    "sog": 4,
    "g": 1,
    "a": 1,
@@ -1950,9 +2002,31 @@
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 21.1,
+   "shot_pct": 19.0,
    "shots_saved": 3,
-   "shots_off_target": 15,
+   "shots_off_target": 17,
+   "no": 15,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Vloedman, Teah",
+   "slug": "vloedman-teah",
+   "num": "7",
+   "pos": "MID",
+   "gp": 15,
+   "starts": 4,
+   "min": 503,
+   "sh": 5,
+   "sog": 2,
+   "g": 0,
+   "a": 1,
+   "fouls": 2,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 40.0,
+   "shots_saved": 2,
+   "shots_off_target": 3,
    "no": 16,
    "gk_save_pct": null
   },
@@ -2384,7 +2458,7 @@
    "name": "Hochgesang, Naomi",
    "slug": "hochgesang-naomi",
    "num": "26",
-   "pos": "def",
+   "pos": "DEF",
    "gp": 4,
    "starts": 0,
    "min": 93,
@@ -2453,6 +2527,34 @@
    "gk_save_pct": 50.0
   },
   {
+   "name": "Woodard, Sunnie",
+   "slug": "woodard-sunnie",
+   "num": "0",
+   "pos": "GK",
+   "gp": 1,
+   "starts": 1,
+   "min": 90,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "goalie": {
+    "gp": 1,
+    "ga": 0,
+    "saves": 9,
+    "save_pct": 100.0
+   },
+   "no": 39,
+   "gk_save_pct": 100.0
+  },
+  {
    "name": "Mills, Ava",
    "slug": "mills-ava",
    "num": "17",
@@ -2471,7 +2573,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 39,
+   "no": 40,
    "gk_save_pct": null
   },
   {
@@ -2493,7 +2595,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 40,
+   "no": 41,
    "gk_save_pct": null
   },
   {
@@ -2515,7 +2617,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 41,
+   "no": 42,
    "gk_save_pct": null
   },
   {
@@ -2537,7 +2639,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 42,
+   "no": 43,
    "gk_save_pct": null
   },
   {
@@ -2559,7 +2661,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 43,
+   "no": 44,
    "gk_save_pct": null
   },
   {
@@ -2581,7 +2683,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 44,
+   "no": 45,
    "gk_save_pct": null
   },
   {
@@ -2603,7 +2705,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 45,
+   "no": 46,
    "gk_save_pct": null
   },
   {
@@ -2625,7 +2727,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 46,
+   "no": 47,
    "gk_save_pct": null
   },
   {
@@ -2647,7 +2749,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 47,
+   "no": 48,
    "gk_save_pct": null
   },
   {
@@ -2669,7 +2771,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 48,
+   "no": 49,
    "gk_save_pct": null
   },
   {
@@ -2691,7 +2793,7 @@
    "shot_pct": 50.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 49,
+   "no": 50,
    "gk_save_pct": null
   },
   {
@@ -2713,7 +2815,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 50,
+   "no": 51,
    "gk_save_pct": null
   },
   {
@@ -2741,7 +2843,7 @@
     "saves": 3,
     "save_pct": 100.0
    },
-   "no": 51,
+   "no": 52,
    "gk_save_pct": 100.0
   },
   {
@@ -2769,7 +2871,7 @@
     "saves": 0,
     "save_pct": 0.0
    },
-   "no": 52,
+   "no": 53,
    "gk_save_pct": 0.0
   },
   {
@@ -2791,7 +2893,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 53,
+   "no": 54,
    "gk_save_pct": null
   },
   {
@@ -2813,7 +2915,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 54,
+   "no": 55,
    "gk_save_pct": null
   },
   {
@@ -2835,7 +2937,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 55,
+   "no": 56,
    "gk_save_pct": null
   },
   {
@@ -2857,7 +2959,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 56,
+   "no": 57,
    "gk_save_pct": null
   },
   {
@@ -2879,7 +2981,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 57,
+   "no": 58,
    "gk_save_pct": null
   },
   {
@@ -2901,7 +3003,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 58,
+   "no": 59,
    "gk_save_pct": null
   },
   {
@@ -2923,7 +3025,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 59,
+   "no": 60,
    "gk_save_pct": null
   },
   {
@@ -2951,7 +3053,7 @@
     "saves": 0,
     "save_pct": null
    },
-   "no": 60,
+   "no": 61,
    "gk_save_pct": null
   },
   {
@@ -2973,7 +3075,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 61,
+   "no": 62,
    "gk_save_pct": null
   },
   {
@@ -2995,7 +3097,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 62,
+   "no": 63,
    "gk_save_pct": null
   },
   {
@@ -3017,7 +3119,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 63,
+   "no": 64,
    "gk_save_pct": null
   },
   {
@@ -3039,7 +3141,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 64,
+   "no": 65,
    "gk_save_pct": null
   },
   {
@@ -3061,7 +3163,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 65,
+   "no": 66,
    "gk_save_pct": null
   }
  ],
@@ -3071,7 +3173,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 29,
+  "unknown": 30,
   "categorized": 1
  }
 }

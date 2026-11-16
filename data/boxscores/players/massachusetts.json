@@ -9,15 +9,15 @@
    "num": "22",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
+    "gp": 24,
     "starts": 1,
-    "min": 668,
+    "min": 698,
     "sh": 4,
     "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 9,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 25.0,
@@ -461,6 +461,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "22",
+     "min": 30,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -760,9 +779,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 10,
-    "starts": 5,
-    "min": 424,
+    "gp": 11,
+    "starts": 6,
+    "min": 484,
     "sh": 12,
     "sog": 5,
     "g": 2,
@@ -965,6 +984,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "10",
+     "min": 60,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -974,9 +1012,9 @@
    "num": "14",
    "pos": "MID",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 0,
-    "min": 665,
+    "min": 675,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -1407,6 +1445,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "14",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1416,20 +1473,20 @@
    "num": "30",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 21,
-    "min": 1276,
-    "sh": 0,
-    "sog": 0,
+    "gp": 23,
+    "starts": 22,
+    "min": 1366,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 7,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1849,6 +1906,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "30",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1858,9 +1934,9 @@
    "num": "9",
    "pos": "DEF",
    "totals": {
-    "gp": 11,
+    "gp": 12,
     "starts": 8,
-    "min": 602,
+    "min": 622,
     "sh": 2,
     "sog": 0,
     "g": 0,
@@ -2082,6 +2158,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "def",
+     "num": "9",
+     "min": 20,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2091,10 +2186,10 @@
    "num": "12",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1517,
-    "sh": 69,
+    "gp": 24,
+    "starts": 24,
+    "min": 1588,
+    "sh": 70,
     "sog": 38,
     "g": 10,
     "a": 3,
@@ -2102,9 +2197,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 55.1,
+    "shot_pct": 54.3,
     "shots_saved": 28,
-    "shots_off_target": 31
+    "shots_off_target": 32
    },
    "matches": [
     {
@@ -2543,6 +2638,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "12",
+     "min": 71,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2552,19 +2666,19 @@
    "num": "4",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1749,
-    "sh": 26,
-    "sog": 15,
+    "gp": 24,
+    "starts": 24,
+    "min": 1839,
+    "sh": 27,
+    "sog": 16,
     "g": 8,
     "a": 1,
     "fouls": 23,
     "yc": 3,
     "rc": 0,
     "pk_g": 7,
-    "shot_pct": 57.7,
-    "shots_saved": 7,
+    "shot_pct": 59.3,
+    "shots_saved": 8,
     "shots_off_target": 11
    },
    "matches": [
@@ -3004,6 +3118,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "",
+     "num": "4",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3013,20 +3146,20 @@
    "num": "18",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1438,
-    "sh": 49,
-    "sog": 30,
+    "gp": 24,
+    "starts": 24,
+    "min": 1524,
+    "sh": 51,
+    "sog": 31,
     "g": 9,
     "a": 2,
     "fouls": 29,
     "yc": 4,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 61.2,
-    "shots_saved": 21,
-    "shots_off_target": 19
+    "shot_pct": 60.8,
+    "shots_saved": 22,
+    "shots_off_target": 20
    },
    "matches": [
     {
@@ -3465,6 +3598,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 86,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3845,9 +3997,9 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 0,
-    "min": 431,
+    "min": 445,
     "sh": 8,
     "sog": 1,
     "g": 0,
@@ -4183,6 +4335,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "fwd",
+     "num": "15",
+     "min": 14,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4192,10 +4363,10 @@
    "num": "32",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1485,
-    "sh": 16,
+    "gp": 24,
+    "starts": 24,
+    "min": 1565,
+    "sh": 17,
     "sog": 8,
     "g": 3,
     "a": 3,
@@ -4203,9 +4374,9 @@
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 47.1,
     "shots_saved": 5,
-    "shots_off_target": 8
+    "shots_off_target": 9
    },
    "matches": [
     {
@@ -4644,6 +4815,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "32",
+     "min": 80,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4653,20 +4843,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 13,
-    "min": 1055,
-    "sh": 5,
-    "sog": 3,
+    "gp": 23,
+    "starts": 14,
+    "min": 1125,
+    "sh": 7,
+    "sog": 4,
     "g": 0,
     "a": 1,
     "fouls": 8,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 3,
-    "shots_off_target": 2
+    "shot_pct": 57.1,
+    "shots_saved": 4,
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -5086,6 +5276,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 70,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5095,9 +5304,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 19,
+    "gp": 20,
     "starts": 3,
-    "min": 774,
+    "min": 784,
     "sh": 1,
     "sog": 0,
     "g": 0,
@@ -5471,6 +5680,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "def",
+     "num": "19",
+     "min": 10,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5480,10 +5708,10 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 18,
+    "gp": 19,
     "starts": 17,
-    "min": 1058,
-    "sh": 16,
+    "min": 1087,
+    "sh": 18,
     "sog": 5,
     "g": 3,
     "a": 1,
@@ -5491,9 +5719,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.2,
+    "shot_pct": 27.8,
     "shots_saved": 2,
-    "shots_off_target": 11
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -5837,6 +6065,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": false,
+     "pos": "mid",
+     "num": "21",
+     "min": 29,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5846,9 +6093,9 @@
    "num": "20",
    "pos": "GK",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1947,
+    "gp": 24,
+    "starts": 24,
+    "min": 2037,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -5861,10 +6108,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 19,
-     "ga": 18,
-     "saves": 84,
-     "save_pct": 82.4
+     "gp": 20,
+     "ga": 20,
+     "saves": 94,
+     "save_pct": 82.5
     }
    },
    "matches": [
@@ -6399,6 +6646,30 @@
       "ga": 0,
       "saves": 4
      }
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "GK",
+     "num": "20",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 10
+     }
     }
    ]
   },
@@ -6408,10 +6679,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1438,
-    "sh": 24,
+    "gp": 24,
+    "starts": 24,
+    "min": 1508,
+    "sh": 25,
     "sog": 12,
     "g": 1,
     "a": 2,
@@ -6419,9 +6690,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 48.0,
     "shots_saved": 11,
-    "shots_off_target": 12
+    "shots_off_target": 13
    },
    "matches": [
     {
@@ -6860,6 +7131,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 70,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7285,10 +7575,10 @@
    "num": "24",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 10,
-    "min": 1412,
-    "sh": 4,
+    "gp": 23,
+    "starts": 11,
+    "min": 1502,
+    "sh": 5,
     "sog": 1,
     "g": 1,
     "a": 2,
@@ -7296,9 +7586,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 25.0,
+    "shot_pct": 20.0,
     "shots_saved": 0,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -7718,6 +8008,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "24",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7884,10 +8193,10 @@
    "num": "7",
    "pos": "DEF",
    "totals": {
-    "gp": 21,
-    "starts": 21,
-    "min": 1320,
-    "sh": 5,
+    "gp": 22,
+    "starts": 22,
+    "min": 1400,
+    "sh": 7,
     "sog": 3,
     "g": 0,
     "a": 1,
@@ -7895,9 +8204,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
+    "shot_pct": 42.9,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -8291,6 +8600,25 @@
      "num": "7",
      "min": 81,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-13",
+     "opponent": "Western Michigan",
+     "home": false,
+     "result": "L",
+     "score": "0-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "7",
+     "min": 80,
+     "sh": 2,
      "sog": 0,
      "g": 0,
      "a": 0,

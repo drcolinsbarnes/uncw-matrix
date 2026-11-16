@@ -432,9 +432,9 @@
    "num": "00",
    "pos": "GK",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1575,
+    "gp": 19,
+    "starts": 19,
+    "min": 1665,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -447,10 +447,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 13,
-     "saves": 42,
-     "save_pct": 76.4
+     "gp": 16,
+     "ga": 14,
+     "saves": 48,
+     "save_pct": 77.4
     }
    },
    "matches": [
@@ -870,6 +870,30 @@
       "ga": 0,
       "saves": 2
      }
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "GK",
+     "num": "00",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 1,
+      "saves": 6
+     }
     }
    ]
   },
@@ -879,20 +903,20 @@
    "num": "21",
    "pos": "def",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 187,
-    "sh": 0,
-    "sog": 0,
+    "min": 215,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 0,
     "fouls": 0,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1046,6 +1070,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": false,
+     "pos": "def",
+     "num": "21",
+     "min": 28,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1055,9 +1098,9 @@
    "num": "2",
    "pos": "mid",
    "totals": {
-    "gp": 16,
-    "starts": 3,
-    "min": 537,
+    "gp": 17,
+    "starts": 4,
+    "min": 599,
     "sh": 14,
     "sog": 6,
     "g": 3,
@@ -1369,6 +1412,25 @@
      "sh": 3,
      "sog": 2,
      "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "MID",
+     "num": "2",
+     "min": 62,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
      "a": 0,
      "fouls": 0,
      "yc": 0,
@@ -1849,15 +1911,15 @@
    "num": "33",
    "pos": "DEF",
    "totals": {
-    "gp": 18,
-    "starts": 18,
-    "min": 1597,
+    "gp": 19,
+    "starts": 19,
+    "min": 1687,
     "sh": 8,
     "sog": 0,
     "g": 0,
     "a": 0,
     "fouls": 3,
-    "yc": 5,
+    "yc": 6,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 0.0,
@@ -2206,6 +2268,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "33",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2215,13 +2296,13 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1392,
+    "gp": 23,
+    "starts": 23,
+    "min": 1465,
     "sh": 43,
     "sog": 18,
     "g": 3,
-    "a": 6,
+    "a": 7,
     "fouls": 6,
     "yc": 1,
     "rc": 1,
@@ -2648,6 +2729,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 73,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2657,20 +2757,20 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 22,
-    "min": 1865,
-    "sh": 48,
-    "sog": 17,
-    "g": 2,
+    "gp": 23,
+    "starts": 23,
+    "min": 1955,
+    "sh": 52,
+    "sog": 20,
+    "g": 3,
     "a": 5,
     "fouls": 14,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.4,
-    "shots_saved": 15,
-    "shots_off_target": 31
+    "shot_pct": 38.5,
+    "shots_saved": 17,
+    "shots_off_target": 32
    },
    "matches": [
     {
@@ -3090,6 +3190,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 90,
+     "sh": 4,
+     "sog": 3,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3099,10 +3218,10 @@
    "num": "25",
    "pos": "fwd",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 1,
-    "min": 585,
-    "sh": 22,
+    "min": 602,
+    "sh": 23,
     "sog": 6,
     "g": 2,
     "a": 0,
@@ -3110,9 +3229,9 @@
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 27.3,
+    "shot_pct": 26.1,
     "shots_saved": 4,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -3532,6 +3651,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "25",
+     "min": 17,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3869,10 +4007,10 @@
    "num": "17",
    "pos": "fwd",
    "totals": {
-    "gp": 21,
+    "gp": 22,
     "starts": 0,
-    "min": 513,
-    "sh": 11,
+    "min": 541,
+    "sh": 12,
     "sog": 8,
     "g": 0,
     "a": 0,
@@ -3880,9 +4018,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 72.7,
+    "shot_pct": 66.7,
     "shots_saved": 8,
-    "shots_off_target": 3
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -4283,6 +4421,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "17",
+     "min": 28,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4292,9 +4449,9 @@
    "num": "5",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1972,
+    "gp": 24,
+    "starts": 24,
+    "min": 2062,
     "sh": 5,
     "sog": 2,
     "g": 0,
@@ -4744,6 +4901,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5043,19 +5219,19 @@
    "num": "13",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 21,
-    "min": 1263,
-    "sh": 30,
-    "sog": 18,
+    "gp": 24,
+    "starts": 22,
+    "min": 1325,
+    "sh": 31,
+    "sog": 19,
     "g": 1,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 60.0,
-    "shots_saved": 17,
+    "shot_pct": 61.3,
+    "shots_saved": 18,
     "shots_off_target": 12
    },
    "matches": [
@@ -5495,6 +5671,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "13",
+     "min": 62,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5504,9 +5699,9 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 22,
-    "starts": 15,
-    "min": 1398,
+    "gp": 23,
+    "starts": 16,
+    "min": 1488,
     "sh": 12,
     "sog": 1,
     "g": 0,
@@ -5937,6 +6132,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6084,10 +6298,10 @@
    "num": "8",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 19,
-    "min": 1654,
-    "sh": 19,
+    "gp": 24,
+    "starts": 20,
+    "min": 1744,
+    "sh": 21,
     "sog": 6,
     "g": 0,
     "a": 5,
@@ -6095,9 +6309,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 31.6,
+    "shot_pct": 28.6,
     "shots_saved": 6,
-    "shots_off_target": 13
+    "shots_off_target": 15
    },
    "matches": [
     {
@@ -6536,6 +6750,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "8",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6545,18 +6778,18 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 2029,
-    "sh": 13,
-    "sog": 10,
-    "g": 1,
+    "gp": 24,
+    "starts": 24,
+    "min": 2119,
+    "sh": 14,
+    "sog": 11,
+    "g": 2,
     "a": 3,
     "fouls": 0,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 76.9,
+    "shot_pct": 78.6,
     "shots_saved": 9,
     "shots_off_target": 3
    },
@@ -6997,6 +7230,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7006,20 +7258,20 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 23,
-    "starts": 23,
-    "min": 1912,
-    "sh": 95,
-    "sog": 27,
-    "g": 6,
+    "gp": 24,
+    "starts": 24,
+    "min": 2002,
+    "sh": 101,
+    "sog": 29,
+    "g": 7,
     "a": 1,
     "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.4,
-    "shots_saved": 21,
-    "shots_off_target": 68
+    "shot_pct": 28.7,
+    "shots_saved": 22,
+    "shots_off_target": 72
    },
    "matches": [
     {
@@ -7453,6 +7705,25 @@
      "sh": 3,
      "sog": 0,
      "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "La Salle",
+     "home": true,
+     "result": "W",
+     "score": "3-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "26",
+     "min": 90,
+     "sh": 6,
+     "sog": 2,
+     "g": 1,
      "a": 0,
      "fouls": 0,
      "yc": 0,

@@ -418,14 +418,14 @@
    "num": "17",
    "pos": "DEF",
    "totals": {
-    "gp": 22,
-    "starts": 20,
-    "min": 1461,
+    "gp": 23,
+    "starts": 21,
+    "min": 1551,
     "sh": 3,
     "sog": 2,
     "g": 1,
     "a": 2,
-    "fouls": 2,
+    "fouls": 3,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
@@ -851,6 +851,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "17",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1098,14 +1117,14 @@
    "num": "5",
    "pos": "MID",
    "totals": {
-    "gp": 28,
-    "starts": 28,
-    "min": 2180,
+    "gp": 29,
+    "starts": 29,
+    "min": 2270,
     "sh": 18,
     "sog": 4,
     "g": 3,
     "a": 6,
-    "fouls": 21,
+    "fouls": 22,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
@@ -1645,6 +1664,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "5",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1654,18 +1692,18 @@
    "num": "27",
    "pos": "DEF",
    "totals": {
-    "gp": 26,
-    "starts": 22,
-    "min": 1845,
-    "sh": 10,
-    "sog": 5,
-    "g": 1,
-    "a": 2,
-    "fouls": 17,
-    "yc": 1,
+    "gp": 27,
+    "starts": 23,
+    "min": 1935,
+    "sh": 11,
+    "sog": 6,
+    "g": 2,
+    "a": 3,
+    "fouls": 18,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.0,
+    "shot_pct": 54.5,
     "shots_saved": 4,
     "shots_off_target": 5
    },
@@ -2163,6 +2201,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "27",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2586,20 +2643,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2134,
-    "sh": 135,
-    "sog": 54,
-    "g": 12,
-    "a": 11,
+    "gp": 30,
+    "starts": 30,
+    "min": 2208,
+    "sh": 139,
+    "sog": 57,
+    "g": 13,
+    "a": 12,
     "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 1,
-    "shot_pct": 40.0,
-    "shots_saved": 42,
-    "shots_off_target": 81
+    "shot_pct": 41.0,
+    "shots_saved": 44,
+    "shots_off_target": 82
    },
    "matches": [
     {
@@ -3152,6 +3209,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 74,
+     "sh": 4,
+     "sog": 3,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3679,9 +3755,9 @@
    "num": "0",
    "pos": "GK",
    "totals": {
-    "gp": 20,
-    "starts": 20,
-    "min": 1592,
+    "gp": 21,
+    "starts": 21,
+    "min": 1682,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -3694,10 +3770,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 15,
-     "ga": 14,
-     "saves": 41,
-     "save_pct": 74.5
+     "gp": 16,
+     "ga": 16,
+     "saves": 48,
+     "save_pct": 75.0
     }
    },
    "matches": [
@@ -4155,6 +4231,30 @@
       "ga": 1,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "GK",
+     "num": "0",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 2,
+      "saves": 7
+     }
     }
    ]
   },
@@ -4321,9 +4421,9 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 29,
+    "gp": 30,
     "starts": 14,
-    "min": 1315,
+    "min": 1350,
     "sh": 44,
     "sog": 20,
     "g": 7,
@@ -4887,6 +4987,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "13",
+     "min": 35,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5227,16 +5346,16 @@
    "name": "Newby, Imani",
    "slug": "newby-imani",
    "num": "14",
-   "pos": "D",
+   "pos": "DEF",
    "totals": {
-    "gp": 28,
-    "starts": 17,
-    "min": 1573,
+    "gp": 29,
+    "starts": 18,
+    "min": 1638,
     "sh": 15,
     "sog": 2,
     "g": 0,
     "a": 1,
-    "fouls": 11,
+    "fouls": 12,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
@@ -5776,6 +5895,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "14",
+     "min": 65,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5785,15 +5923,15 @@
    "num": "18",
    "pos": "MID",
    "totals": {
-    "gp": 29,
-    "starts": 27,
-    "min": 1744,
+    "gp": 30,
+    "starts": 28,
+    "min": 1797,
     "sh": 54,
     "sog": 25,
     "g": 7,
     "a": 1,
-    "fouls": 5,
-    "yc": 0,
+    "fouls": 6,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 46.3,
@@ -6351,6 +6489,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "18",
+     "min": 53,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 1,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6360,9 +6517,9 @@
    "num": "26",
    "pos": "FWD",
    "totals": {
-    "gp": 22,
+    "gp": 23,
     "starts": 1,
-    "min": 342,
+    "min": 359,
     "sh": 23,
     "sog": 7,
     "g": 3,
@@ -6793,6 +6950,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "FWD",
+     "num": "26",
+     "min": 17,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7162,10 +7338,10 @@
    "num": "9",
    "pos": "MID",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2181,
-    "sh": 43,
+    "gp": 30,
+    "starts": 30,
+    "min": 2271,
+    "sh": 45,
     "sog": 15,
     "g": 4,
     "a": 15,
@@ -7173,9 +7349,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 34.9,
+    "shot_pct": 33.3,
     "shots_saved": 11,
-    "shots_off_target": 28
+    "shots_off_target": 30
    },
    "matches": [
     {
@@ -7728,6 +7904,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "9",
+     "min": 90,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7932,9 +8127,9 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 26,
-    "starts": 26,
-    "min": 1717,
+    "gp": 27,
+    "starts": 27,
+    "min": 1807,
     "sh": 4,
     "sog": 2,
     "g": 0,
@@ -8441,6 +8636,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8450,9 +8664,9 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 25,
+    "gp": 26,
     "starts": 5,
-    "min": 1169,
+    "min": 1181,
     "sh": 11,
     "sog": 3,
     "g": 1,
@@ -8940,6 +9154,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "DEF",
+     "num": "2",
+     "min": 12,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8949,10 +9182,10 @@
    "num": "21",
    "pos": "MID",
    "totals": {
-    "gp": 26,
+    "gp": 27,
     "starts": 5,
-    "min": 1111,
-    "sh": 28,
+    "min": 1148,
+    "sh": 29,
     "sog": 12,
     "g": 2,
     "a": 0,
@@ -8960,9 +9193,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.9,
+    "shot_pct": 41.4,
     "shots_saved": 10,
-    "shots_off_target": 16
+    "shots_off_target": 17
    },
    "matches": [
     {
@@ -9458,6 +9691,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": false,
+     "pos": "MID",
+     "num": "21",
+     "min": 37,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -9572,19 +9824,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 29,
-    "starts": 23,
-    "min": 1540,
-    "sh": 61,
-    "sog": 26,
-    "g": 6,
-    "a": 2,
-    "fouls": 16,
+    "gp": 30,
+    "starts": 24,
+    "min": 1613,
+    "sh": 63,
+    "sog": 28,
+    "g": 7,
+    "a": 3,
+    "fouls": 19,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.6,
-    "shots_saved": 20,
+    "shot_pct": 44.4,
+    "shots_saved": 21,
     "shots_off_target": 35
    },
    "matches": [
@@ -10138,6 +10390,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "MID",
+     "num": "11",
+     "min": 73,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 1,
+     "fouls": 3,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -10145,7 +10416,7 @@
    "name": "Warns, Peyton",
    "slug": "warns-peyton",
    "num": "00",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
     "gp": 2,
     "starts": 0,
@@ -10220,10 +10491,10 @@
    "num": "8",
    "pos": "FWD",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2246,
-    "sh": 85,
+    "gp": 30,
+    "starts": 30,
+    "min": 2330,
+    "sh": 86,
     "sog": 43,
     "g": 13,
     "a": 10,
@@ -10231,9 +10502,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 50.6,
+    "shot_pct": 50.0,
     "shots_saved": 30,
-    "shots_off_target": 42
+    "shots_off_target": 43
    },
    "matches": [
     {
@@ -10780,6 +11051,25 @@
      "min": 80,
      "sh": 5,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-11",
+     "opponent": "Pepperdine",
+     "home": false,
+     "result": "W",
+     "score": "3-2",
+     "start": true,
+     "pos": "FWD",
+     "num": "8",
+     "min": 84,
+     "sh": 1,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 0,
