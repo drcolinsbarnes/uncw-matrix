@@ -1,44 +1,44 @@
 {
  "team": "Abilene Christian",
  "season": 2026,
- "games": 23,
+ "games": 24,
  "record": {
   "w": 10,
   "d": 10,
-  "l": 3
+  "l": 4
  },
  "totals": {
   "for": {
-   "shots": 408,
-   "shots_on_goal": 188,
-   "saves": 131,
-   "corner_kicks": 150,
-   "fouls": 169,
-   "offsides": 58,
-   "yc": 11,
+   "shots": 419,
+   "shots_on_goal": 194,
+   "saves": 134,
+   "corner_kicks": 152,
+   "fouls": 172,
+   "offsides": 62,
+   "yc": 12,
    "rc": 0,
    "pk_g": 3,
-   "goals": 40,
-   "shot_pct": 46.1,
-   "shots_saved": 148,
-   "shots_off_target": 220,
-   "gk_save_pct": 88.5
+   "goals": 41,
+   "shot_pct": 46.3,
+   "shots_saved": 153,
+   "shots_off_target": 225,
+   "gk_save_pct": 87.0
   },
   "against": {
-   "shots": 313,
-   "shots_on_goal": 148,
-   "saves": 149,
-   "corner_kicks": 96,
-   "fouls": 223,
-   "offsides": 28,
-   "yc": 14,
+   "shots": 324,
+   "shots_on_goal": 154,
+   "saves": 154,
+   "corner_kicks": 99,
+   "fouls": 238,
+   "offsides": 29,
+   "yc": 15,
    "rc": 0,
    "pk_g": 0,
-   "goals": 17,
-   "shot_pct": 47.3,
-   "shots_saved": 131,
-   "shots_off_target": 165,
-   "gk_save_pct": 78.8
+   "goals": 20,
+   "shot_pct": 47.5,
+   "shots_saved": 134,
+   "shots_off_target": 170,
+   "gk_save_pct": 79.0
   }
  },
  "matches": [
@@ -1743,6 +1743,80 @@
    "source": "roarlions.com-5467",
    "source_url": "https://roarlions.com/sports/womens-soccer/stats/2026/abilene-christian/boxscore/5467",
    "platform": "sidearm"
+  },
+  {
+   "date": "2026-11-14",
+   "opponent": "Eastern Kentucky",
+   "home": false,
+   "result": "L",
+   "score": "1-3",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     4,
+     7
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     0,
+     3
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 3,
+    "fouls_by_period": [
+     2,
+     1
+    ],
+    "offsides": 4,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 54.5,
+    "shots_saved": 5,
+    "shots_off_target": 5,
+    "gk_save_pct": 50.0
+   },
+   "against": {
+    "shots": 11,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     5,
+     6
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     2,
+     3
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 15,
+    "fouls_by_period": [
+     9,
+     6
+    ],
+    "offsides": 1,
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 54.5,
+    "shots_saved": 3,
+    "shots_off_target": 5,
+    "gk_save_pct": 83.3
+   },
+   "source": "ekusports.com-9762",
+   "source_url": "https://ekusports.com/sports/womens-soccer/stats/2026/abilene-christian/boxscore/9762",
+   "platform": "sidearm"
   }
  ],
  "roster": [
@@ -2243,6 +2317,28 @@
    "gk_save_pct": 33.3
   },
   {
+   "name": "Everson, Calista",
+   "slug": "everson-calista",
+   "num": "14",
+   "pos": "DEF",
+   "gp": 1,
+   "starts": 1,
+   "min": 90,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 23,
+   "gk_save_pct": null
+  },
+  {
    "name": "Ford, Lilly",
    "slug": "ford-lilly",
    "num": "25",
@@ -2261,7 +2357,79 @@
    "shot_pct": 50.0,
    "shots_saved": 1,
    "shots_off_target": 1,
-   "no": 23,
+   "no": 24,
+   "gk_save_pct": null
+  },
+  {
+   "name": "LeVasseur, Jordan",
+   "slug": "levasseur-jordan",
+   "num": "0",
+   "pos": "GK",
+   "gp": 1,
+   "starts": 1,
+   "min": 90,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "goalie": {
+    "gp": 1,
+    "ga": 3,
+    "saves": 3,
+    "save_pct": 50.0
+   },
+   "no": 25,
+   "gk_save_pct": 50.0
+  },
+  {
+   "name": "Premoli, Chiara",
+   "slug": "premoli-chiara",
+   "num": "6",
+   "pos": "MID",
+   "gp": 1,
+   "starts": 1,
+   "min": 90,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 26,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Robinson, Rachel",
+   "slug": "robinson-rachel",
+   "num": "22",
+   "pos": "MID",
+   "gp": 1,
+   "starts": 1,
+   "min": 90,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 27,
    "gk_save_pct": null
   },
   {
@@ -2283,7 +2451,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 24,
+   "no": 28,
    "gk_save_pct": null
   },
   {
@@ -2305,7 +2473,51 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 25,
+   "no": 29,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Strange, Juliet",
+   "slug": "strange-juliet",
+   "num": "20",
+   "pos": "DEF",
+   "gp": 1,
+   "starts": 1,
+   "min": 90,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 30,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Reilly, Regan",
+   "slug": "reilly-regan",
+   "num": "4",
+   "pos": null,
+   "gp": 1,
+   "starts": 1,
+   "min": 87,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 31,
    "gk_save_pct": null
   },
   {
@@ -2327,7 +2539,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 26,
+   "no": 32,
    "gk_save_pct": null
   },
   {
@@ -2349,7 +2561,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 27,
+   "no": 33,
    "gk_save_pct": null
   },
   {
@@ -2371,7 +2583,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 28,
+   "no": 34,
    "gk_save_pct": null
   },
   {
@@ -2393,7 +2605,7 @@
    "shot_pct": 100.0,
    "shots_saved": 0,
    "shots_off_target": 0,
-   "no": 29,
+   "no": 35,
    "gk_save_pct": null
   },
   {
@@ -2415,7 +2627,29 @@
    "shot_pct": 100.0,
    "shots_saved": 0,
    "shots_off_target": 0,
-   "no": 30,
+   "no": 36,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Smith, Peyton",
+   "slug": "smith-peyton",
+   "num": "2",
+   "pos": "MID",
+   "gp": 1,
+   "starts": 1,
+   "min": 73,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 37,
    "gk_save_pct": null
   },
   {
@@ -2437,7 +2671,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 31,
+   "no": 38,
    "gk_save_pct": null
   },
   {
@@ -2465,7 +2699,7 @@
     "saves": 4,
     "save_pct": 80.0
    },
-   "no": 32,
+   "no": 39,
    "gk_save_pct": 80.0
   },
   {
@@ -2487,7 +2721,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 33,
+   "no": 40,
    "gk_save_pct": null
   },
   {
@@ -2509,7 +2743,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 34,
+   "no": 41,
    "gk_save_pct": null
   },
   {
@@ -2531,7 +2765,7 @@
    "shot_pct": 50.0,
    "shots_saved": 1,
    "shots_off_target": 2,
-   "no": 35,
+   "no": 42,
    "gk_save_pct": null
   },
   {
@@ -2553,7 +2787,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 36,
+   "no": 43,
    "gk_save_pct": null
   },
   {
@@ -2575,7 +2809,51 @@
    "shot_pct": 33.3,
    "shots_saved": 1,
    "shots_off_target": 2,
-   "no": 37,
+   "no": 44,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Phifer, Rachel",
+   "slug": "phifer-rachel",
+   "num": "15",
+   "pos": "FWD",
+   "gp": 1,
+   "starts": 1,
+   "min": 66,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 1,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 45,
+   "gk_save_pct": null
+  },
+  {
+   "name": "May, Avery",
+   "slug": "may-avery",
+   "num": "21",
+   "pos": null,
+   "gp": 1,
+   "starts": 1,
+   "min": 63,
+   "sh": 3,
+   "sog": 2,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 66.7,
+   "shots_saved": 2,
+   "shots_off_target": 1,
+   "no": 46,
    "gk_save_pct": null
   },
   {
@@ -2597,7 +2875,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 38,
+   "no": 47,
    "gk_save_pct": null
   },
   {
@@ -2619,7 +2897,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 39,
+   "no": 48,
    "gk_save_pct": null
   },
   {
@@ -2641,7 +2919,29 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 40,
+   "no": 49,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Ariel, Ronnie",
+   "slug": "ariel-ronnie",
+   "num": "28",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 57,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 50,
    "gk_save_pct": null
   },
   {
@@ -2663,7 +2963,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 41,
+   "no": 51,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Wolf, Emma",
+   "slug": "wolf-emma",
+   "num": "10",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 56,
+   "sh": 1,
+   "sog": 1,
+   "g": 1,
+   "a": 0,
+   "fouls": 0,
+   "yc": 1,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 0,
+   "shots_off_target": 0,
+   "no": 52,
    "gk_save_pct": null
   },
   {
@@ -2685,7 +3007,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 42,
+   "no": 53,
    "gk_save_pct": null
   },
   {
@@ -2707,7 +3029,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 43,
+   "no": 54,
    "gk_save_pct": null
   },
   {
@@ -2729,7 +3051,7 @@
    "shot_pct": 50.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 44,
+   "no": 55,
    "gk_save_pct": null
   },
   {
@@ -2751,7 +3073,29 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 45,
+   "no": 56,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Manning, Ana",
+   "slug": "manning-ana",
+   "num": "5",
+   "pos": "fwd",
+   "gp": 1,
+   "starts": 0,
+   "min": 43,
+   "sh": 1,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 100.0,
+   "shots_saved": 1,
+   "shots_off_target": 0,
+   "no": 57,
    "gk_save_pct": null
   },
   {
@@ -2773,7 +3117,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 46,
+   "no": 58,
    "gk_save_pct": null
   },
   {
@@ -2795,7 +3139,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 47,
+   "no": 59,
    "gk_save_pct": null
   },
   {
@@ -2817,7 +3161,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 48,
+   "no": 60,
    "gk_save_pct": null
   },
   {
@@ -2839,7 +3183,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 49,
+   "no": 61,
    "gk_save_pct": null
   },
   {
@@ -2861,7 +3205,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 2,
-   "no": 50,
+   "no": 62,
    "gk_save_pct": null
   },
   {
@@ -2889,8 +3233,30 @@
     "saves": 3,
     "save_pct": 100.0
    },
-   "no": 51,
+   "no": 63,
    "gk_save_pct": 100.0
+  },
+  {
+   "name": "Link, Lauren",
+   "slug": "link-lauren",
+   "num": "9",
+   "pos": "fwd",
+   "gp": 1,
+   "starts": 0,
+   "min": 30,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 64,
+   "gk_save_pct": null
   },
   {
    "name": "Amelia Miller",
@@ -2911,7 +3277,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 52,
+   "no": 65,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Bothe, Kaitlyn",
+   "slug": "bothe-kaitlyn",
+   "num": "11",
+   "pos": "DEF",
+   "gp": 1,
+   "starts": 1,
+   "min": 28,
+   "sh": 1,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 0.0,
+   "shots_saved": 0,
+   "shots_off_target": 1,
+   "no": 66,
    "gk_save_pct": null
   },
   {
@@ -2933,7 +3321,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 53,
+   "no": 67,
    "gk_save_pct": null
   },
   {
@@ -2955,7 +3343,7 @@
    "shot_pct": 0.0,
    "shots_saved": 0,
    "shots_off_target": 1,
-   "no": 54,
+   "no": 68,
    "gk_save_pct": null
   },
   {
@@ -2977,7 +3365,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 55,
+   "no": 69,
    "gk_save_pct": null
   },
   {
@@ -2999,7 +3387,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 56,
+   "no": 70,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Ogushi, Hinami",
+   "slug": "ogushi-hinami",
+   "num": "7",
+   "pos": "DEF",
+   "gp": 1,
+   "starts": 1,
+   "min": 20,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 71,
    "gk_save_pct": null
   },
   {
@@ -3021,7 +3431,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 57,
+   "no": 72,
    "gk_save_pct": null
   },
   {
@@ -3043,7 +3453,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 58,
+   "no": 73,
    "gk_save_pct": null
   },
   {
@@ -3065,7 +3475,7 @@
    "shot_pct": 100.0,
    "shots_saved": 1,
    "shots_off_target": 0,
-   "no": 59,
+   "no": 74,
    "gk_save_pct": null
   },
   {
@@ -3087,7 +3497,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 60,
+   "no": 75,
    "gk_save_pct": null
   },
   {
@@ -3109,7 +3519,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 61,
+   "no": 76,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Reilly, Robin",
+   "slug": "reilly-robin",
+   "num": "12",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 15,
+   "sh": 2,
+   "sog": 1,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 1,
+   "shots_off_target": 1,
+   "no": 77,
    "gk_save_pct": null
   },
   {
@@ -3131,7 +3563,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 62,
+   "no": 78,
    "gk_save_pct": null
   },
   {
@@ -3153,7 +3585,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 63,
+   "no": 79,
    "gk_save_pct": null
   },
   {
@@ -3175,7 +3607,29 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 64,
+   "no": 80,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Measel, Chloe",
+   "slug": "measel-chloe",
+   "num": "3",
+   "pos": "mid",
+   "gp": 1,
+   "starts": 0,
+   "min": 2,
+   "sh": 0,
+   "sog": 0,
+   "g": 0,
+   "a": 0,
+   "fouls": 0,
+   "yc": 0,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": null,
+   "shots_saved": null,
+   "shots_off_target": null,
+   "no": 81,
    "gk_save_pct": null
   },
   {
@@ -3197,7 +3651,7 @@
    "shot_pct": null,
    "shots_saved": null,
    "shots_off_target": null,
-   "no": 65,
+   "no": 82,
    "gk_save_pct": null
   }
  ],
@@ -3207,7 +3661,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 32,
+  "unknown": 33,
   "categorized": 3
  }
 }
