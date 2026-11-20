@@ -52,20 +52,20 @@
    "num": "13",
    "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 16,
-    "min": 1111,
-    "sh": 10,
+    "gp": 18,
+    "starts": 17,
+    "min": 1219,
+    "sh": 12,
     "sog": 7,
     "g": 1,
     "a": 1,
     "fouls": 1,
-    "yc": 1,
+    "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 70.0,
+    "shot_pct": 58.3,
     "shots_saved": 6,
-    "shots_off_target": 3
+    "shots_off_target": 5
    },
    "matches": [
     {
@@ -388,6 +388,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "13",
+     "min": 108,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
@@ -749,7 +768,7 @@
    "name": "DeFlorio, Taylor",
    "slug": "deflorio-taylor",
    "num": "31",
-   "pos": "gk",
+   "pos": "GK",
    "totals": {
     "gp": 2,
     "starts": 1,
@@ -829,9 +848,9 @@
    "num": "25",
    "pos": "mid",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 0,
-    "min": 261,
+    "min": 263,
     "sh": 6,
     "sog": 2,
     "g": 0,
@@ -1129,6 +1148,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "mid",
+     "num": "25",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1181,10 +1219,10 @@
    "num": "9",
    "pos": "fwd",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 5,
-    "min": 556,
-    "sh": 21,
+    "min": 583,
+    "sh": 23,
     "sog": 11,
     "g": 3,
     "a": 3,
@@ -1192,9 +1230,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 52.4,
+    "shot_pct": 47.8,
     "shots_saved": 8,
-    "shots_off_target": 10
+    "shots_off_target": 12
    },
    "matches": [
     {
@@ -1443,6 +1481,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "9",
+     "min": 27,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1452,10 +1509,10 @@
    "num": "11",
    "pos": "fwd",
    "totals": {
-    "gp": 17,
+    "gp": 18,
     "starts": 2,
-    "min": 379,
-    "sh": 4,
+    "min": 394,
+    "sh": 5,
     "sog": 4,
     "g": 1,
     "a": 0,
@@ -1463,9 +1520,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 100.0,
+    "shot_pct": 80.0,
     "shots_saved": 3,
-    "shots_off_target": 0
+    "shots_off_target": 1
    },
    "matches": [
     {
@@ -1790,6 +1847,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "11",
+     "min": 15,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1842,9 +1918,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 15,
-    "starts": 14,
-    "min": 1300,
+    "gp": 16,
+    "starts": 15,
+    "min": 1410,
     "sh": 1,
     "sog": 1,
     "g": 0,
@@ -1857,10 +1933,10 @@
     "shots_saved": 1,
     "shots_off_target": 0,
     "goalie": {
-     "gp": 15,
-     "ga": 16,
-     "saves": 77,
-     "save_pct": 82.8
+     "gp": 16,
+     "ga": 17,
+     "saves": 87,
+     "save_pct": 83.7
     }
    },
    "matches": [
@@ -2223,6 +2299,30 @@
       "ga": 0,
       "saves": 8
      }
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 110,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "110:00",
+      "ga": 1,
+      "saves": 10
+     }
     }
    ]
   },
@@ -2494,10 +2594,10 @@
    "num": "7",
    "pos": "FWD",
    "totals": {
-    "gp": 16,
-    "starts": 13,
-    "min": 748,
-    "sh": 17,
+    "gp": 17,
+    "starts": 14,
+    "min": 822,
+    "sh": 18,
     "sog": 10,
     "g": 5,
     "a": 2,
@@ -2505,9 +2605,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 58.8,
+    "shot_pct": 55.6,
     "shots_saved": 5,
-    "shots_off_target": 7
+    "shots_off_target": 8
    },
    "matches": [
     {
@@ -2806,6 +2906,25 @@
      "num": "7",
      "min": 59,
      "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "7",
+     "min": 74,
+     "sh": 1,
      "sog": 0,
      "g": 0,
      "a": 0,
@@ -3445,11 +3564,11 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 14,
-    "min": 1250,
-    "sh": 2,
-    "sog": 2,
+    "gp": 17,
+    "starts": 15,
+    "min": 1360,
+    "sh": 3,
+    "sog": 3,
     "g": 0,
     "a": 0,
     "fouls": 0,
@@ -3457,7 +3576,7 @@
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 100.0,
-    "shots_saved": 2,
+    "shots_saved": 3,
     "shots_off_target": 0
    },
    "matches": [
@@ -3764,6 +3883,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 110,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -3816,9 +3954,9 @@
    "num": "14",
    "pos": "DEF",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1234,
+    "gp": 17,
+    "starts": 16,
+    "min": 1344,
     "sh": 3,
     "sog": 1,
     "g": 0,
@@ -4127,6 +4265,25 @@
      "pos": "",
      "num": "14",
      "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "",
+     "num": "14",
+     "min": 110,
      "sh": 0,
      "sog": 0,
      "g": 0,
@@ -4759,10 +4916,10 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1076,
-    "sh": 23,
+    "gp": 17,
+    "starts": 16,
+    "min": 1186,
+    "sh": 25,
     "sog": 9,
     "g": 2,
     "a": 1,
@@ -4770,9 +4927,9 @@
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 39.1,
+    "shot_pct": 36.0,
     "shots_saved": 7,
-    "shots_off_target": 14
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -5078,6 +5235,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "8",
+     "min": 110,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5303,9 +5479,9 @@
    "num": "10",
    "pos": "FWD",
    "totals": {
-    "gp": 13,
+    "gp": 14,
     "starts": 6,
-    "min": 422,
+    "min": 474,
     "sh": 10,
     "sog": 5,
     "g": 2,
@@ -5565,6 +5741,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "10",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5710,22 +5905,22 @@
    "name": "Powers, Riley",
    "slug": "powers-riley",
    "num": "2",
-   "pos": "FWD",
+   "pos": "MID",
    "totals": {
-    "gp": 17,
-    "starts": 15,
-    "min": 965,
-    "sh": 37,
-    "sog": 20,
-    "g": 7,
+    "gp": 18,
+    "starts": 16,
+    "min": 1044,
+    "sh": 42,
+    "sog": 21,
+    "g": 8,
     "a": 3,
     "fouls": 2,
     "yc": 1,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 54.1,
+    "shot_pct": 50.0,
     "shots_saved": 13,
-    "shots_off_target": 17
+    "shots_off_target": 21
    },
    "matches": [
     {
@@ -6050,6 +6245,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "",
+     "num": "2",
+     "min": 79,
+     "sh": 5,
+     "sog": 1,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6059,10 +6273,10 @@
    "num": "16",
    "pos": "MID",
    "totals": {
-    "gp": 16,
-    "starts": 15,
-    "min": 1159,
-    "sh": 14,
+    "gp": 17,
+    "starts": 16,
+    "min": 1269,
+    "sh": 16,
     "sog": 5,
     "g": 3,
     "a": 1,
@@ -6070,9 +6284,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
+    "shot_pct": 31.2,
     "shots_saved": 2,
-    "shots_off_target": 9
+    "shots_off_target": 11
    },
    "matches": [
     {
@@ -6378,6 +6592,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "MID",
+     "num": "16",
+     "min": 110,
+     "sh": 2,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6387,9 +6620,9 @@
    "num": "6",
    "pos": "DEF",
    "totals": {
-    "gp": 13,
-    "starts": 11,
-    "min": 829,
+    "gp": 14,
+    "starts": 12,
+    "min": 939,
     "sh": 4,
     "sog": 3,
     "g": 0,
@@ -6649,6 +6882,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "6",
+     "min": 110,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6744,9 +6996,9 @@
    "num": "23",
    "pos": "DEF",
    "totals": {
-    "gp": 17,
-    "starts": 16,
-    "min": 1461,
+    "gp": 18,
+    "starts": 17,
+    "min": 1571,
     "sh": 5,
     "sog": 2,
     "g": 1,
@@ -7082,6 +7334,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "DEF",
+     "num": "23",
+     "min": 110,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7321,9 +7592,9 @@
    "num": "29",
    "pos": "fwd",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 2,
-    "min": 337,
+    "min": 341,
     "sh": 8,
     "sog": 5,
     "g": 0,
@@ -7621,6 +7892,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "fwd",
+     "num": "29",
+     "min": 4,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7708,20 +7998,20 @@
    "num": "18",
    "pos": "fwd",
    "totals": {
-    "gp": 17,
-    "starts": 2,
-    "min": 486,
-    "sh": 14,
-    "sog": 10,
+    "gp": 18,
+    "starts": 3,
+    "min": 534,
+    "sh": 18,
+    "sog": 11,
     "g": 3,
-    "a": 1,
+    "a": 2,
     "fouls": 1,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 71.4,
-    "shots_saved": 7,
-    "shots_off_target": 4
+    "shot_pct": 61.1,
+    "shots_saved": 8,
+    "shots_off_target": 7
    },
    "matches": [
     {
@@ -8046,6 +8336,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": true,
+     "pos": "FWD",
+     "num": "18",
+     "min": 48,
+     "sh": 4,
+     "sog": 1,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8055,15 +8364,15 @@
    "num": "5",
    "pos": "def",
    "totals": {
-    "gp": 16,
+    "gp": 17,
     "starts": 5,
-    "min": 572,
+    "min": 603,
     "sh": 17,
     "sog": 9,
     "g": 1,
     "a": 1,
     "fouls": 5,
-    "yc": 0,
+    "yc": 1,
     "rc": 0,
     "pk_g": 0,
     "shot_pct": 52.9,
@@ -8372,6 +8681,25 @@
      "a": 0,
      "fouls": 0,
      "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-15",
+     "opponent": "Fairleigh Dickinson",
+     "home": true,
+     "result": "D",
+     "score": "1-1",
+     "start": false,
+     "pos": "def",
+     "num": "5",
+     "min": 31,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 1,
      "rc": 0,
      "pk_g": 0
     }
