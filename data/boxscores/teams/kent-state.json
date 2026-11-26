@@ -1,47 +1,121 @@
 {
  "team": "Kent State",
  "season": 2026,
- "games": 21,
+ "games": 30,
  "record": {
-  "w": 7,
-  "d": 3,
-  "l": 11
+  "w": 12,
+  "d": 5,
+  "l": 13
  },
  "totals": {
   "for": {
-   "shots": 220,
-   "shots_on_goal": 106,
-   "saves": 89,
-   "corner_kicks": 76,
-   "fouls": 283,
-   "offsides": 14,
-   "yc": 22,
+   "shots": 328,
+   "shots_on_goal": 157,
+   "saves": 135,
+   "corner_kicks": 117,
+   "fouls": 399,
+   "offsides": 21,
+   "yc": 29,
    "rc": 0,
    "pk_g": 2,
-   "goals": 24,
-   "shot_pct": 48.2,
-   "shots_saved": 82,
-   "shots_off_target": 114,
-   "gk_save_pct": 69.5
+   "goals": 36,
+   "shot_pct": 47.9,
+   "shots_saved": 121,
+   "shots_off_target": 171,
+   "gk_save_pct": 74.6
   },
   "against": {
-   "shots": 253,
-   "shots_on_goal": 128,
-   "saves": 82,
-   "corner_kicks": 128,
-   "fouls": 289,
-   "offsides": 22,
-   "yc": 25,
-   "rc": 1,
+   "shots": 351,
+   "shots_on_goal": 181,
+   "saves": 121,
+   "corner_kicks": 178,
+   "fouls": 417,
+   "offsides": 35,
+   "yc": 36,
+   "rc": 2,
    "pk_g": 2,
-   "goals": 39,
-   "shot_pct": 50.6,
-   "shots_saved": 89,
-   "shots_off_target": 125,
-   "gk_save_pct": 77.4
+   "goals": 46,
+   "shot_pct": 51.6,
+   "shots_saved": 135,
+   "shots_off_target": 170,
+   "gk_save_pct": 77.1
   }
  },
  "matches": [
+  {
+   "date": "2026-08-13",
+   "opponent": "Cleveland State",
+   "home": true,
+   "result": "W",
+   "score": "3-0",
+   "for": {
+    "shots": 14,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     4,
+     10
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     5,
+     1
+    ],
+    "corner_kicks": 11,
+    "corner_kicks_by_period": [
+     4,
+     7
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     6,
+     4
+    ],
+    "offsides": 1,
+    "goals": 3,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 42.9,
+    "shots_saved": 3,
+    "shots_off_target": 8,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 10,
+    "shots_on_goal": 6,
+    "shots_by_period": [
+     6,
+     4
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     2,
+     1
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     6,
+     5
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 60.0,
+    "shots_saved": 6,
+    "shots_off_target": 4,
+    "gk_save_pct": 50.0
+   },
+   "source": "csuvikings.com-20857",
+   "source_url": "https://csuvikings.com/sports/womens-soccer/stats/2026/kent-state/boxscore/20857",
+   "platform": "sidearm"
+  },
   {
    "date": "2026-08-13",
    "opponent": "Cleveland State",
@@ -339,6 +413,80 @@
    "platform": "sidearm"
   },
   {
+   "date": "2026-08-23",
+   "opponent": "Kansas",
+   "home": true,
+   "result": "L",
+   "score": "1-3",
+   "for": {
+    "shots": 2,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     0,
+     2
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     3,
+     3
+    ],
+    "corner_kicks": 0,
+    "corner_kicks_by_period": [
+     0,
+     0
+    ],
+    "fouls": 15,
+    "fouls_by_period": [
+     8,
+     7
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0,
+    "gk_save_pct": 66.7
+   },
+   "against": {
+    "shots": 17,
+    "shots_on_goal": 9,
+    "shots_by_period": [
+     6,
+     11
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     0,
+     1
+    ],
+    "corner_kicks": 14,
+    "corner_kicks_by_period": [
+     3,
+     11
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     8,
+     8
+    ],
+    "offsides": 2,
+    "goals": 3,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 52.9,
+    "shots_saved": 6,
+    "shots_off_target": 8,
+    "gk_save_pct": 50.0
+   },
+   "source": "kuathletics.com-20648",
+   "source_url": "https://kuathletics.com/sports/womens-soccer/stats/2026/kent-state/boxscore/20648",
+   "platform": "sidearm"
+  },
+  {
    "date": "2026-08-30",
    "opponent": "Duquesne",
    "home": false,
@@ -410,6 +558,80 @@
    },
    "source": "goduquesne.com-22946",
    "source_url": "https://goduquesne.com/sports/womens-soccer/stats/2026/kent-state/boxscore/22946",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-06",
+   "opponent": "Cornell",
+   "home": true,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 14,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     7,
+     7
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     2,
+     6
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     3,
+     1
+    ],
+    "fouls": 15,
+    "fouls_by_period": [
+     8,
+     7
+    ],
+    "offsides": 2,
+    "goals": 0,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 21.4,
+    "shots_saved": 3,
+    "shots_off_target": 11,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 14,
+    "shots_on_goal": 8,
+    "shots_by_period": [
+     4,
+     10
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 4,
+    "corner_kicks_by_period": [
+     1,
+     3
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     11,
+     5
+    ],
+    "offsides": 3,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 57.1,
+    "shots_saved": 8,
+    "shots_off_target": 6,
+    "gk_save_pct": 100.0
+   },
+   "source": "cornellbigred.com-63478",
+   "source_url": "https://cornellbigred.com/sports/womens-soccer/stats/2026/kent-state-university/boxscore/63478",
    "platform": "sidearm"
   },
   {
@@ -780,6 +1002,80 @@
    },
    "source": "kentstatesports.com-9803",
    "source_url": "https://kentstatesports.com/sports/womens-soccer/stats/2026/miami-oh-/boxscore/9803",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-09-20",
+   "opponent": "Miami (OH)",
+   "home": true,
+   "result": "W",
+   "score": "2-0",
+   "for": {
+    "shots": 7,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     5,
+     2
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     1,
+     2
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 15,
+    "fouls_by_period": [
+     5,
+     10
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 57.1,
+    "shots_saved": 2,
+    "shots_off_target": 3,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 3,
+    "shots_by_period": [
+     2,
+     7
+    ],
+    "saves": 2,
+    "saves_by_period": [
+     2,
+     0
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     1,
+     6
+    ],
+    "fouls": 17,
+    "fouls_by_period": [
+     9,
+     8
+    ],
+    "offsides": 4,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 33.3,
+    "shots_saved": 3,
+    "shots_off_target": 6,
+    "gk_save_pct": 50.0
+   },
+   "source": "miamiredhawks.com-20934",
+   "source_url": "https://miamiredhawks.com:443/sports/womens-soccer/stats/2026/kent-state/boxscore/20934",
    "platform": "sidearm"
   },
   {
@@ -1222,6 +1518,80 @@
     "shots_off_target": 5,
     "gk_save_pct": 100.0
    },
+   "source": "ballstatesports.com-14560",
+   "source_url": "https://ballstatesports.com/sports/womens-soccer/stats/2026/kent-state/boxscore/14560",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-15",
+   "opponent": "Ball State",
+   "home": true,
+   "result": "D",
+   "score": "0-0",
+   "for": {
+    "shots": 8,
+    "shots_on_goal": 1,
+    "shots_by_period": [
+     3,
+     5
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     3,
+     1
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     3,
+     0
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     8,
+     5
+    ],
+    "offsides": 1,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 12.5,
+    "shots_saved": 1,
+    "shots_off_target": 7,
+    "gk_save_pct": 100.0
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     6,
+     3
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     1,
+     0
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     2,
+     0
+    ],
+    "fouls": 12,
+    "fouls_by_period": [
+     8,
+     4
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 4,
+    "shots_off_target": 5,
+    "gk_save_pct": 100.0
+   },
    "source": "kentstatesports.com-9808",
    "source_url": "https://kentstatesports.com/sports/womens-soccer/stats/2026/ball-state/boxscore/9808",
    "platform": "sidearm"
@@ -1296,8 +1666,156 @@
     "shots_off_target": 5,
     "gk_save_pct": 71.4
    },
+   "source": "bgsufalcons.com-25138",
+   "source_url": "https://bgsufalcons.com/sports/womens-soccer/stats/2026/kent-state/boxscore/25138",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-18",
+   "opponent": "Bowling Green",
+   "home": true,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 11,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     5,
+     6
+    ],
+    "saves": 3,
+    "saves_by_period": [
+     2,
+     1
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     1,
+     1
+    ],
+    "fouls": 20,
+    "fouls_by_period": [
+     7,
+     13
+    ],
+    "offsides": 0,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 63.6,
+    "shots_saved": 5,
+    "shots_off_target": 4,
+    "gk_save_pct": 75.0
+   },
+   "against": {
+    "shots": 9,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     7,
+     2
+    ],
+    "saves": 5,
+    "saves_by_period": [
+     3,
+     2
+    ],
+    "corner_kicks": 5,
+    "corner_kicks_by_period": [
+     4,
+     1
+    ],
+    "fouls": 11,
+    "fouls_by_period": [
+     4,
+     7
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 44.4,
+    "shots_saved": 3,
+    "shots_off_target": 5,
+    "gk_save_pct": 71.4
+   },
    "source": "kentstatesports.com-9810",
    "source_url": "https://kentstatesports.com/sports/womens-soccer/stats/2026/bowling-green/boxscore/9810",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-10-25",
+   "opponent": "Akron",
+   "home": true,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 24,
+    "shots_on_goal": 14,
+    "shots_by_period": [
+     19,
+     5
+    ],
+    "saves": 1,
+    "saves_by_period": [
+     1,
+     0
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     6,
+     1
+    ],
+    "fouls": 8,
+    "fouls_by_period": [
+     4,
+     4
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 58.3,
+    "shots_saved": 12,
+    "shots_off_target": 10,
+    "gk_save_pct": 50.0
+   },
+   "against": {
+    "shots": 4,
+    "shots_on_goal": 2,
+    "shots_by_period": [
+     2,
+     2
+    ],
+    "saves": 12,
+    "saves_by_period": [
+     11,
+     1
+    ],
+    "corner_kicks": 2,
+    "corner_kicks_by_period": [
+     0,
+     2
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     9,
+     7
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 1,
+    "shots_off_target": 2,
+    "gk_save_pct": 85.7
+   },
+   "source": "gozips.com-11385",
+   "source_url": "https://gozips.com:443/sports/womens-soccer/stats/2026/kent-state/boxscore/11385",
    "platform": "sidearm"
   },
   {
@@ -1518,8 +2036,156 @@
     "shots_off_target": 8,
     "gk_save_pct": 80.0
    },
+   "source": "cmuchippewas.com-11309",
+   "source_url": "https://cmuchippewas.com:443/sports/womens-soccer/stats/2026/kent-state/boxscore/11309",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-11-01",
+   "opponent": "Central Michigan",
+   "home": true,
+   "result": "W",
+   "score": "2-1",
+   "for": {
+    "shots": 20,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     11,
+     9
+    ],
+    "saves": 9,
+    "saves_by_period": [
+     5,
+     4
+    ],
+    "corner_kicks": 9,
+    "corner_kicks_by_period": [
+     5,
+     4
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     4,
+     6
+    ],
+    "offsides": 1,
+    "goals": 2,
+    "yc": 1,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 8,
+    "shots_off_target": 10,
+    "gk_save_pct": 90.0
+   },
+   "against": {
+    "shots": 18,
+    "shots_on_goal": 10,
+    "shots_by_period": [
+     10,
+     8
+    ],
+    "saves": 8,
+    "saves_by_period": [
+     5,
+     3
+    ],
+    "corner_kicks": 7,
+    "corner_kicks_by_period": [
+     5,
+     2
+    ],
+    "fouls": 16,
+    "fouls_by_period": [
+     8,
+     8
+    ],
+    "offsides": 0,
+    "goals": 1,
+    "yc": 0,
+    "rc": 1,
+    "pk_g": 0,
+    "shot_pct": 55.6,
+    "shots_saved": 9,
+    "shots_off_target": 8,
+    "gk_save_pct": 80.0
+   },
    "source": "kentstatesports.com-9966",
    "source_url": "https://kentstatesports.com/sports/womens-soccer/stats/2026/central-michigan/boxscore/9966",
+   "platform": "sidearm"
+  },
+  {
+   "date": "2026-11-07",
+   "opponent": "Ball State",
+   "home": true,
+   "result": "L",
+   "score": "0-1",
+   "for": {
+    "shots": 8,
+    "shots_on_goal": 4,
+    "shots_by_period": [
+     1,
+     7
+    ],
+    "saves": 6,
+    "saves_by_period": [
+     2,
+     4
+    ],
+    "corner_kicks": 3,
+    "corner_kicks_by_period": [
+     1,
+     2
+    ],
+    "fouls": 10,
+    "fouls_by_period": [
+     6,
+     4
+    ],
+    "offsides": 0,
+    "goals": 0,
+    "yc": 0,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 50.0,
+    "shots_saved": 4,
+    "shots_off_target": 4,
+    "gk_save_pct": 85.7
+   },
+   "against": {
+    "shots": 8,
+    "shots_on_goal": 7,
+    "shots_by_period": [
+     3,
+     5
+    ],
+    "saves": 4,
+    "saves_by_period": [
+     0,
+     4
+    ],
+    "corner_kicks": 6,
+    "corner_kicks_by_period": [
+     3,
+     3
+    ],
+    "fouls": 13,
+    "fouls_by_period": [
+     6,
+     7
+    ],
+    "offsides": 1,
+    "goals": 1,
+    "yc": 2,
+    "rc": 0,
+    "pk_g": 0,
+    "shot_pct": 87.5,
+    "shots_saved": 6,
+    "shots_off_target": 1,
+    "gk_save_pct": 100.0
+   },
+   "source": "ballstatesports.com-14816",
+   "source_url": "https://ballstatesports.com/sports/womens-soccer/stats/2026/no-3-seed-kent-state/boxscore/14816",
    "platform": "sidearm"
   },
   {
@@ -1603,20 +2269,20 @@
    "slug": "todd-ava",
    "num": "9",
    "pos": "DEF",
-   "gp": 21,
-   "starts": 21,
-   "min": 1878,
-   "sh": 13,
-   "sog": 9,
+   "gp": 30,
+   "starts": 30,
+   "min": 2676,
+   "sh": 19,
+   "sog": 12,
    "g": 1,
-   "a": 1,
-   "fouls": 14,
+   "a": 2,
+   "fouls": 17,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 69.2,
-   "shots_saved": 8,
-   "shots_off_target": 4,
+   "shot_pct": 63.2,
+   "shots_saved": 11,
+   "shots_off_target": 7,
    "no": 1,
    "gk_save_pct": null
   },
@@ -1625,43 +2291,21 @@
    "slug": "henahan-katie",
    "num": "5",
    "pos": "MID",
-   "gp": 21,
-   "starts": 21,
-   "min": 1721,
-   "sh": 5,
-   "sog": 1,
+   "gp": 30,
+   "starts": 30,
+   "min": 2481,
+   "sh": 8,
+   "sog": 2,
    "g": 0,
    "a": 0,
-   "fouls": 11,
+   "fouls": 14,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 20.0,
-   "shots_saved": 1,
-   "shots_off_target": 4,
+   "shot_pct": 25.0,
+   "shots_saved": 2,
+   "shots_off_target": 6,
    "no": 2,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Mc Lean Mercier, Mia",
-   "slug": "mc-lean-mercier-mia",
-   "num": "6",
-   "pos": "DEF",
-   "gp": 21,
-   "starts": 21,
-   "min": 1594,
-   "sh": 9,
-   "sog": 5,
-   "g": 1,
-   "a": 1,
-   "fouls": 7,
-   "yc": 2,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 55.6,
-   "shots_saved": 4,
-   "shots_off_target": 4,
-   "no": 3,
    "gk_save_pct": null
   },
   {
@@ -1669,9 +2313,9 @@
    "slug": "shaffer-leah",
    "num": "1",
    "pos": "GK",
-   "gp": 18,
-   "starts": 16,
-   "min": 1530,
+   "gp": 26,
+   "starts": 23,
+   "min": 2205,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -1689,27 +2333,49 @@
     "saves": 59,
     "save_pct": 75.6
    },
-   "no": 4,
+   "no": 3,
    "gk_save_pct": 75.6
+  },
+  {
+   "name": "Mc Lean Mercier, Mia",
+   "slug": "mc-lean-mercier-mia",
+   "num": "6",
+   "pos": "DEF",
+   "gp": 30,
+   "starts": 30,
+   "min": 2199,
+   "sh": 12,
+   "sog": 6,
+   "g": 1,
+   "a": 2,
+   "fouls": 9,
+   "yc": 2,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 50.0,
+   "shots_saved": 5,
+   "shots_off_target": 6,
+   "no": 4,
+   "gk_save_pct": null
   },
   {
    "name": "Weibel, Ali",
    "slug": "weibel-ali",
    "num": "20",
    "pos": "DEF",
-   "gp": 20,
-   "starts": 20,
-   "min": 1474,
-   "sh": 1,
-   "sog": 1,
+   "gp": 29,
+   "starts": 29,
+   "min": 2122,
+   "sh": 2,
+   "sog": 2,
    "g": 0,
-   "a": 2,
-   "fouls": 22,
+   "a": 3,
+   "fouls": 35,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 100.0,
-   "shots_saved": 1,
+   "shots_saved": 2,
    "shots_off_target": 0,
    "no": 5,
    "gk_save_pct": null
@@ -1719,20 +2385,20 @@
    "slug": "collins-allison",
    "num": "13",
    "pos": "DEF",
-   "gp": 21,
-   "starts": 21,
-   "min": 1472,
-   "sh": 43,
-   "sog": 16,
-   "g": 1,
-   "a": 4,
-   "fouls": 34,
-   "yc": 5,
+   "gp": 30,
+   "starts": 30,
+   "min": 2105,
+   "sh": 59,
+   "sog": 22,
+   "g": 2,
+   "a": 6,
+   "fouls": 44,
+   "yc": 6,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 37.2,
-   "shots_saved": 15,
-   "shots_off_target": 27,
+   "shot_pct": 37.3,
+   "shots_saved": 20,
+   "shots_off_target": 37,
    "no": 6,
    "gk_save_pct": null
   },
@@ -1741,20 +2407,20 @@
    "slug": "simon-lila",
    "num": "17",
    "pos": "FWD",
-   "gp": 21,
-   "starts": 17,
-   "min": 1307,
-   "sh": 34,
-   "sog": 18,
-   "g": 7,
+   "gp": 30,
+   "starts": 24,
+   "min": 1878,
+   "sh": 52,
+   "sog": 28,
+   "g": 12,
    "a": 0,
-   "fouls": 26,
+   "fouls": 35,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 52.9,
-   "shots_saved": 11,
-   "shots_off_target": 16,
+   "shot_pct": 53.8,
+   "shots_saved": 16,
+   "shots_off_target": 24,
    "no": 7,
    "gk_save_pct": null
   },
@@ -1763,43 +2429,21 @@
    "slug": "miller-samantha",
    "num": "2",
    "pos": "MID",
-   "gp": 21,
-   "starts": 20,
-   "min": 1202,
-   "sh": 39,
-   "sog": 23,
-   "g": 6,
-   "a": 5,
-   "fouls": 28,
-   "yc": 2,
+   "gp": 30,
+   "starts": 29,
+   "min": 1776,
+   "sh": 58,
+   "sog": 35,
+   "g": 8,
+   "a": 9,
+   "fouls": 42,
+   "yc": 4,
    "rc": 0,
    "pk_g": 2,
-   "shot_pct": 59.0,
-   "shots_saved": 17,
-   "shots_off_target": 16,
+   "shot_pct": 60.3,
+   "shots_saved": 27,
+   "shots_off_target": 23,
    "no": 8,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Dolinski, Jules",
-   "slug": "dolinski-jules",
-   "num": "12",
-   "pos": "FWD",
-   "gp": 21,
-   "starts": 14,
-   "min": 1144,
-   "sh": 16,
-   "sog": 8,
-   "g": 2,
-   "a": 1,
-   "fouls": 16,
-   "yc": 2,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 50.0,
-   "shots_saved": 6,
-   "shots_off_target": 8,
-   "no": 9,
    "gk_save_pct": null
   },
   {
@@ -1807,20 +2451,42 @@
    "slug": "burkey-allison",
    "num": "14",
    "pos": null,
-   "gp": 21,
-   "starts": 9,
-   "min": 1083,
-   "sh": 5,
-   "sog": 2,
+   "gp": 30,
+   "starts": 15,
+   "min": 1667,
+   "sh": 8,
+   "sog": 3,
    "g": 0,
-   "a": 3,
-   "fouls": 16,
-   "yc": 1,
+   "a": 4,
+   "fouls": 23,
+   "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 40.0,
-   "shots_saved": 2,
-   "shots_off_target": 3,
+   "shot_pct": 37.5,
+   "shots_saved": 3,
+   "shots_off_target": 5,
+   "no": 9,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Dolinski, Jules",
+   "slug": "dolinski-jules",
+   "num": "12",
+   "pos": "FWD",
+   "gp": 30,
+   "starts": 18,
+   "min": 1581,
+   "sh": 25,
+   "sog": 12,
+   "g": 2,
+   "a": 2,
+   "fouls": 22,
+   "yc": 3,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 48.0,
+   "shots_saved": 10,
+   "shots_off_target": 13,
    "no": 10,
    "gk_save_pct": null
   },
@@ -1829,43 +2495,21 @@
    "slug": "monck-clara",
    "num": "8",
    "pos": "MID",
-   "gp": 21,
-   "starts": 13,
-   "min": 1049,
-   "sh": 3,
+   "gp": 30,
+   "starts": 17,
+   "min": 1459,
+   "sh": 4,
    "sog": 0,
    "g": 0,
    "a": 1,
-   "fouls": 18,
+   "fouls": 24,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 0.0,
    "shots_saved": 0,
-   "shots_off_target": 3,
+   "shots_off_target": 4,
    "no": 11,
-   "gk_save_pct": null
-  },
-  {
-   "name": "Morgan, Josie",
-   "slug": "morgan-josie",
-   "num": "25",
-   "pos": "FWD",
-   "gp": 20,
-   "starts": 10,
-   "min": 976,
-   "sh": 7,
-   "sog": 4,
-   "g": 1,
-   "a": 1,
-   "fouls": 16,
-   "yc": 2,
-   "rc": 0,
-   "pk_g": 0,
-   "shot_pct": 57.1,
-   "shots_saved": 3,
-   "shots_off_target": 3,
-   "no": 12,
    "gk_save_pct": null
   },
   {
@@ -1873,20 +2517,42 @@
    "slug": "breitschuh-abby",
    "num": "16",
    "pos": "DEF",
-   "gp": 15,
-   "starts": 9,
-   "min": 962,
-   "sh": 11,
-   "sog": 4,
-   "g": 2,
+   "gp": 21,
+   "starts": 14,
+   "min": 1444,
+   "sh": 20,
+   "sog": 8,
+   "g": 4,
    "a": 0,
-   "fouls": 7,
+   "fouls": 9,
+   "yc": 3,
+   "rc": 0,
+   "pk_g": 0,
+   "shot_pct": 40.0,
+   "shots_saved": 4,
+   "shots_off_target": 12,
+   "no": 12,
+   "gk_save_pct": null
+  },
+  {
+   "name": "Morgan, Josie",
+   "slug": "morgan-josie",
+   "num": "25",
+   "pos": "FWD",
+   "gp": 29,
+   "starts": 16,
+   "min": 1420,
+   "sh": 9,
+   "sog": 5,
+   "g": 2,
+   "a": 2,
+   "fouls": 19,
    "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 36.4,
-   "shots_saved": 2,
-   "shots_off_target": 7,
+   "shot_pct": 55.6,
+   "shots_saved": 3,
+   "shots_off_target": 4,
    "no": 13,
    "gk_save_pct": null
   },
@@ -1895,20 +2561,20 @@
    "slug": "mccausland-kiyomi",
    "num": "7",
    "pos": "FWD",
-   "gp": 20,
-   "starts": 9,
-   "min": 838,
-   "sh": 12,
-   "sog": 6,
+   "gp": 28,
+   "starts": 11,
+   "min": 1109,
+   "sh": 18,
+   "sog": 9,
    "g": 1,
    "a": 1,
-   "fouls": 8,
+   "fouls": 11,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 50.0,
-   "shots_saved": 5,
-   "shots_off_target": 6,
+   "shots_saved": 8,
+   "shots_off_target": 9,
    "no": 14,
    "gk_save_pct": null
   },
@@ -1917,20 +2583,20 @@
    "slug": "lukyan-ava",
    "num": "22",
    "pos": "MID",
-   "gp": 21,
+   "gp": 30,
    "starts": 1,
-   "min": 664,
-   "sh": 3,
+   "min": 945,
+   "sh": 5,
    "sog": 0,
    "g": 0,
-   "a": 1,
-   "fouls": 6,
-   "yc": 2,
+   "a": 2,
+   "fouls": 8,
+   "yc": 3,
    "rc": 0,
    "pk_g": 0,
    "shot_pct": 0.0,
    "shots_saved": 0,
-   "shots_off_target": 3,
+   "shots_off_target": 5,
    "no": 15,
    "gk_save_pct": null
   },
@@ -1939,20 +2605,20 @@
    "slug": "justice-maya",
    "num": "21",
    "pos": "MID",
-   "gp": 20,
-   "starts": 4,
-   "min": 639,
-   "sh": 10,
-   "sog": 6,
-   "g": 2,
+   "gp": 28,
+   "starts": 6,
+   "min": 885,
+   "sh": 18,
+   "sog": 10,
+   "g": 3,
    "a": 0,
-   "fouls": 7,
+   "fouls": 9,
    "yc": 2,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 60.0,
-   "shots_saved": 4,
-   "shots_off_target": 4,
+   "shot_pct": 55.6,
+   "shots_saved": 7,
+   "shots_off_target": 8,
    "no": 16,
    "gk_save_pct": null
   },
@@ -1961,20 +2627,20 @@
    "slug": "cleroux-mia",
    "num": "27",
    "pos": "FWD",
-   "gp": 17,
+   "gp": 24,
    "starts": 0,
-   "min": 411,
-   "sh": 6,
+   "min": 592,
+   "sh": 7,
    "sog": 3,
    "g": 0,
-   "a": 1,
-   "fouls": 13,
+   "a": 2,
+   "fouls": 19,
    "yc": 0,
    "rc": 0,
    "pk_g": 0,
-   "shot_pct": 50.0,
+   "shot_pct": 42.9,
    "shots_saved": 3,
-   "shots_off_target": 3,
+   "shots_off_target": 4,
    "no": 17,
    "gk_save_pct": null
   },
@@ -1983,9 +2649,9 @@
    "slug": "klein-emma",
    "num": "0",
    "pos": "GK",
-   "gp": 5,
-   "starts": 5,
-   "min": 360,
+   "gp": 7,
+   "starts": 7,
+   "min": 495,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -2011,9 +2677,9 @@
    "slug": "santiago-ciara",
    "num": "15",
    "pos": "FWD",
-   "gp": 13,
+   "gp": 16,
    "starts": 0,
-   "min": 252,
+   "min": 323,
    "sh": 1,
    "sog": 0,
    "g": 0,
@@ -2033,10 +2699,10 @@
    "slug": "leofanti-isabelle",
    "num": "24",
    "pos": "FWD",
-   "gp": 6,
+   "gp": 8,
    "starts": 0,
-   "min": 105,
-   "sh": 2,
+   "min": 148,
+   "sh": 3,
    "sog": 0,
    "g": 0,
    "a": 0,
@@ -2046,7 +2712,7 @@
    "pk_g": 0,
    "shot_pct": 0.0,
    "shots_saved": 0,
-   "shots_off_target": 2,
+   "shots_off_target": 3,
    "no": 20,
    "gk_save_pct": null
   },
@@ -2077,9 +2743,9 @@
    "slug": "muth-alexa",
    "num": "4",
    "pos": "MID",
-   "gp": 1,
+   "gp": 2,
    "starts": 0,
-   "min": 14,
+   "min": 28,
    "sh": 0,
    "sog": 0,
    "g": 0,
@@ -2101,7 +2767,7 @@
   "free_kick": 0,
   "throw_in": 0,
   "run_of_play": 0,
-  "unknown": 20,
+  "unknown": 32,
   "categorized": 2
  }
 }

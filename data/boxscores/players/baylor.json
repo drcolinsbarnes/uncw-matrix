@@ -9,9 +9,9 @@
    "num": "1",
    "pos": "GK",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2625,
+    "gp": 30,
+    "starts": 30,
+    "min": 2715,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -24,10 +24,10 @@
     "shots_saved": null,
     "shots_off_target": null,
     "goalie": {
-     "gp": 22,
+     "gp": 23,
      "ga": 25,
-     "saves": 82,
-     "save_pct": 76.6
+     "saves": 84,
+     "save_pct": 77.1
     }
    },
    "matches": [
@@ -691,6 +691,30 @@
       "ga": 3,
       "saves": 3
      }
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "GK",
+     "num": "1",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0,
+     "goalie": {
+      "min": "90:00",
+      "ga": 0,
+      "saves": 2
+     }
     }
    ]
   },
@@ -700,19 +724,19 @@
    "num": "11",
    "pos": "MID",
    "totals": {
-    "gp": 29,
+    "gp": 30,
     "starts": 8,
-    "min": 1394,
-    "sh": 39,
-    "sog": 11,
-    "g": 3,
+    "min": 1451,
+    "sh": 41,
+    "sog": 13,
+    "g": 4,
     "a": 7,
     "fouls": 15,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 28.2,
-    "shots_saved": 8,
+    "shot_pct": 31.7,
+    "shots_saved": 9,
     "shots_off_target": 28
    },
    "matches": [
@@ -1266,6 +1290,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "11",
+     "min": 57,
+     "sh": 2,
+     "sog": 2,
+     "g": 1,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1275,20 +1318,20 @@
    "num": "20",
    "pos": "DEF",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2535,
-    "sh": 0,
-    "sog": 0,
+    "gp": 30,
+    "starts": 30,
+    "min": 2625,
+    "sh": 1,
+    "sog": 1,
     "g": 0,
     "a": 1,
     "fouls": 6,
     "yc": 3,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": null,
-    "shots_saved": null,
-    "shots_off_target": null
+    "shot_pct": 100.0,
+    "shots_saved": 1,
+    "shots_off_target": 0
    },
    "matches": [
     {
@@ -1841,6 +1884,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "20",
+     "min": 90,
+     "sh": 1,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -1850,13 +1912,13 @@
    "num": "9",
    "pos": "FWD",
    "totals": {
-    "gp": 29,
-    "starts": 25,
-    "min": 1460,
+    "gp": 30,
+    "starts": 26,
+    "min": 1512,
     "sh": 26,
     "sog": 10,
     "g": 4,
-    "a": 4,
+    "a": 5,
     "fouls": 13,
     "yc": 0,
     "rc": 0,
@@ -2416,6 +2478,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "9",
+     "min": 52,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -2425,9 +2506,9 @@
    "num": "8",
    "pos": "MID",
    "totals": {
-    "gp": 27,
+    "gp": 28,
     "starts": 19,
-    "min": 1367,
+    "min": 1405,
     "sh": 7,
     "sog": 5,
     "g": 0,
@@ -2950,6 +3031,25 @@
      "g": 0,
      "a": 0,
      "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "8",
+     "min": 38,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
      "yc": 0,
      "rc": 0,
      "pk_g": 0
@@ -3637,9 +3737,9 @@
    "num": "19",
    "pos": "DEF",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2529,
+    "gp": 30,
+    "starts": 30,
+    "min": 2619,
     "sh": 12,
     "sog": 2,
     "g": 0,
@@ -4203,6 +4303,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "19",
+     "min": 90,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4212,20 +4331,20 @@
    "num": "10",
    "pos": "MID",
    "totals": {
-    "gp": 28,
-    "starts": 21,
-    "min": 1976,
-    "sh": 98,
-    "sog": 35,
-    "g": 12,
-    "a": 7,
+    "gp": 29,
+    "starts": 22,
+    "min": 2066,
+    "sh": 108,
+    "sog": 40,
+    "g": 13,
+    "a": 9,
     "fouls": 32,
     "yc": 9,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 35.7,
-    "shots_saved": 23,
-    "shots_off_target": 63
+    "shot_pct": 37.0,
+    "shots_saved": 27,
+    "shots_off_target": 68
    },
    "matches": [
     {
@@ -4759,6 +4878,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "10",
+     "min": 90,
+     "sh": 10,
+     "sog": 5,
+     "g": 1,
+     "a": 2,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -4949,20 +5087,20 @@
    "num": "14",
    "pos": "FWD",
    "totals": {
-    "gp": 29,
-    "starts": 20,
-    "min": 1831,
-    "sh": 28,
-    "sog": 15,
+    "gp": 30,
+    "starts": 21,
+    "min": 1893,
+    "sh": 31,
+    "sog": 17,
     "g": 5,
     "a": 14,
     "fouls": 24,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 53.6,
-    "shots_saved": 10,
-    "shots_off_target": 13
+    "shot_pct": 54.8,
+    "shots_saved": 12,
+    "shots_off_target": 14
    },
    "matches": [
     {
@@ -5515,6 +5653,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "14",
+     "min": 62,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -5524,13 +5681,13 @@
    "num": "2",
    "pos": "DEF",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2414,
+    "gp": 30,
+    "starts": 30,
+    "min": 2491,
     "sh": 21,
     "sog": 4,
     "g": 1,
-    "a": 7,
+    "a": 8,
     "fouls": 21,
     "yc": 4,
     "rc": 0,
@@ -6090,6 +6247,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "2",
+     "min": 77,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -6099,20 +6275,20 @@
    "num": "5",
    "pos": "FWD",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2048,
-    "sh": 57,
-    "sog": 25,
-    "g": 10,
-    "a": 4,
+    "gp": 30,
+    "starts": 30,
+    "min": 2126,
+    "sh": 60,
+    "sog": 26,
+    "g": 11,
+    "a": 5,
     "fouls": 25,
     "yc": 5,
     "rc": 0,
     "pk_g": 2,
-    "shot_pct": 43.9,
+    "shot_pct": 43.3,
     "shots_saved": 15,
-    "shots_off_target": 32
+    "shots_off_target": 34
    },
    "matches": [
     {
@@ -6665,6 +6841,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "FWD",
+     "num": "5",
+     "min": 78,
+     "sh": 3,
+     "sog": 1,
+     "g": 1,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7040,20 +7235,20 @@
    "num": "6",
    "pos": "MID",
    "totals": {
-    "gp": 19,
-    "starts": 13,
-    "min": 1400,
-    "sh": 26,
-    "sog": 11,
+    "gp": 20,
+    "starts": 14,
+    "min": 1488,
+    "sh": 29,
+    "sog": 13,
     "g": 7,
-    "a": 0,
+    "a": 1,
     "fouls": 13,
     "yc": 2,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 42.3,
-    "shots_saved": 4,
-    "shots_off_target": 15
+    "shot_pct": 44.8,
+    "shots_saved": 6,
+    "shots_off_target": 16
    },
    "matches": [
     {
@@ -7416,6 +7611,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "6",
+     "min": 88,
+     "sh": 3,
+     "sog": 2,
+     "g": 0,
+     "a": 1,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7658,19 +7872,19 @@
    "num": "35",
    "pos": "FWD",
    "totals": {
-    "gp": 15,
+    "gp": 16,
     "starts": 0,
-    "min": 124,
-    "sh": 3,
-    "sog": 0,
+    "min": 136,
+    "sh": 5,
+    "sog": 2,
     "g": 0,
     "a": 0,
     "fouls": 7,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
+    "shot_pct": 40.0,
+    "shots_saved": 2,
     "shots_off_target": 3
    },
    "matches": [
@@ -7958,6 +8172,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "35",
+     "min": 12,
+     "sh": 2,
+     "sog": 2,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -7967,9 +8200,9 @@
    "num": "33",
    "pos": "MID",
    "totals": {
-    "gp": 8,
+    "gp": 9,
     "starts": 0,
-    "min": 179,
+    "min": 181,
     "sh": 0,
     "sog": 0,
     "g": 0,
@@ -8134,6 +8367,25 @@
      "yc": 1,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "MID",
+     "num": "33",
+     "min": 2,
+     "sh": 0,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8143,10 +8395,10 @@
    "num": "3",
    "pos": "DEF",
    "totals": {
-    "gp": 29,
-    "starts": 29,
-    "min": 2601,
-    "sh": 6,
+    "gp": 30,
+    "starts": 30,
+    "min": 2691,
+    "sh": 7,
     "sog": 4,
     "g": 1,
     "a": 1,
@@ -8154,9 +8406,9 @@
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 66.7,
+    "shot_pct": 57.1,
     "shots_saved": 3,
-    "shots_off_target": 2
+    "shots_off_target": 3
    },
    "matches": [
     {
@@ -8709,6 +8961,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "DEF",
+     "num": "3",
+     "min": 90,
+     "sh": 1,
+     "sog": 0,
+     "g": 0,
+     "a": 0,
+     "fouls": 0,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8718,20 +8989,20 @@
    "num": "24",
    "pos": "MID",
    "totals": {
-    "gp": 8,
-    "starts": 1,
-    "min": 190,
-    "sh": 3,
-    "sog": 0,
+    "gp": 9,
+    "starts": 2,
+    "min": 223,
+    "sh": 5,
+    "sog": 1,
     "g": 0,
     "a": 0,
-    "fouls": 0,
+    "fouls": 2,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
-    "shot_pct": 0.0,
-    "shots_saved": 0,
-    "shots_off_target": 3
+    "shot_pct": 20.0,
+    "shots_saved": 1,
+    "shots_off_target": 4
    },
    "matches": [
     {
@@ -8885,6 +9156,25 @@
      "yc": 0,
      "rc": 0,
      "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": true,
+     "pos": "MID",
+     "num": "24",
+     "min": 33,
+     "sh": 2,
+     "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 2,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
     }
    ]
   },
@@ -8894,14 +9184,14 @@
    "num": "15",
    "pos": "FWD",
    "totals": {
-    "gp": 29,
+    "gp": 30,
     "starts": 9,
-    "min": 1235,
+    "min": 1276,
     "sh": 27,
     "sog": 14,
     "g": 8,
     "a": 0,
-    "fouls": 13,
+    "fouls": 14,
     "yc": 0,
     "rc": 0,
     "pk_g": 0,
@@ -9454,6 +9744,25 @@
      "min": 26,
      "sh": 1,
      "sog": 1,
+     "g": 0,
+     "a": 0,
+     "fouls": 1,
+     "yc": 0,
+     "rc": 0,
+     "pk_g": 0
+    },
+    {
+     "date": "2026-11-20",
+     "opponent": "Lamar",
+     "home": true,
+     "result": "W",
+     "score": "3-0",
+     "start": false,
+     "pos": "FWD",
+     "num": "15",
+     "min": 41,
+     "sh": 0,
+     "sog": 0,
      "g": 0,
      "a": 0,
      "fouls": 1,
